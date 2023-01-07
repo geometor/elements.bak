@@ -1,5 +1,5 @@
-GEOMETOR • template
-===================
+GEOMETOR • Euclid
+=================
 
 
 .. include:: README.rst
@@ -29,6 +29,7 @@ contents
    :maxdepth: 1
 
    refs/index.rst
+   pages/index.rst
 
 
 
