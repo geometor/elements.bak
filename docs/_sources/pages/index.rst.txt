@@ -4,5 +4,5 @@ Elements
 .. toctree::
    :glob:
 
-   05.elements/01.book-1/04.propositions/01.proposition-1/*
+   05.elements/*
 
