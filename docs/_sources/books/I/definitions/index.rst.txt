@@ -1,7 +1,0 @@
-definitions
-===========
-
-.. toctree::
-   :glob:
-
-   *
