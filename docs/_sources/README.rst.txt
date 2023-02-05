@@ -1,9 +1,10 @@
 
 
-.. figure:: splash.png    
+.. figure:: _static/splash.jpg
    :width: 600px
    :alt: template
 
-   template
 
 Euclid's Elements
+
+

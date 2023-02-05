@@ -1,0 +1,7 @@
+postulates
+==========
+
+.. toctree::
+   :glob:
+
+   *

@@ -29,7 +29,7 @@ contents
    :maxdepth: 1
 
    refs/index.rst
-   pages/index.rst
+   books/index.rst
 
 
 
