@@ -3,8 +3,8 @@ from ablog.conf import *
 org = 'geometor'
 org_name = 'GEOMETOR'
 
-repo = 'euclid'
-repo_name = 'euclid'
+repo = 'elements'
+repo_name = 'elements'
 
 blog_title = f'{org_name} • {repo_name}'
 project = f'{org_name}<br/>•<br/>{repo_name}'
@@ -23,6 +23,10 @@ html_baseurl = blog_baseurl
 blog_authors = {
     "phi": ("phi ARCHITECT", None),
 }
+
+extensions.append('sphinx_rtd_theme')
+
+html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'logo': 'logo.png',

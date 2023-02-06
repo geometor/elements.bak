@@ -1,4 +1,4 @@
-GEOMETOR • Euclid
+GEOMETOR • elements
 =================
 
 
@@ -28,8 +28,8 @@ contents
 .. toctree::
    :maxdepth: 1
 
+   elements/index.rst
    refs/index.rst
-   books/index.rst
 
 
 

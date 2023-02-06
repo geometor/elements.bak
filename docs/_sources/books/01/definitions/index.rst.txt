@@ -1,9 +1,0 @@
-definitions
-===========
-
-.. index:: defs, lines
-
-.. toctree::
-   :glob:
-
-   *
