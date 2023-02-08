@@ -1,8 +1,8 @@
-Definition I.12
-===============
+Acute Angle
+===========
 
 .. index:: angles
 
-An <term>acute angle</term> is an angle less than a right angle.
+An *acute angle* is an angle less than a right angle.
 
 ===

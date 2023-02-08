@@ -17,6 +17,6 @@ taxonomy:
     - planes
 ---
 
-The <term>extremities of a surface</term> are lines.
+The *extremities of a surface* are lines.
 
 ===

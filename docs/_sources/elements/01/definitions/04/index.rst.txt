@@ -1,8 +1,12 @@
-Definition I.4
-==============
+Straight Line
+=============
 
 .. index:: lines
 
-A <term>straight line</term> is a line which lies evenly with the points on itself.
+.. image:: elem.1.def.4.png
+   :align: right
+   :width: 300px
+
+A *straight line* is a line which lies evenly with the points on itself.
 
 ===

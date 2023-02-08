@@ -1,5 +1,5 @@
-Definition I.23
-===============
+Parallel Straight Lines
+=======================
 
 .. index:: lines
 

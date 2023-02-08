@@ -5,24 +5,32 @@ from m2r import convert
 def under(str, under='='):
     return under * len(str)
 
-root = Path('01/definitions')
+root = Path('01/propositions')
 for f in root.glob('**/*.md'):
     print(f)
     rf = f.parent / 'index.rst'
     md = frontmatter.load(f)
-    print(md['title'])
-    print(under(md['title']))
     with rf.open(mode='w') as newf:
-        newf.write(md['title'])
+        title = md['subtitle'] if md['subtitle'] else md['title']
+        newf.write(title)
         newf.write('\n')
-        newf.write(under(md['title']))
+        newf.write(under(title))
         newf.write('\n')
         newf.write('\n')
         if md['taxonomy']['category']:
-            cats = ','.join(md['taxonomy']['category'])
+            cats = ', '.join(md['taxonomy']['category'])
             newf.write('.. index:: ' + cats)
             newf.write('\n')
             newf.write('\n')
+        for img in f.parent.glob('*.png'):
+            newf.write('.. image:: ' + str(img.name))
+            newf.write('\n')
+            newf.write('   :align: right')
+            newf.write('\n')
+            newf.write('   :width: 300px')
+            newf.write('\n')
+            newf.write('\n')
+
 
         content = md.content.replace('===', '')
         content = convert(content)

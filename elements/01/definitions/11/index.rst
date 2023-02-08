@@ -1,8 +1,12 @@
-Definition I.11
-===============
+Obtuse Angle
+============
 
 .. index:: angles
 
-An <term>obtuse angle</term> is an angle greater than a right angle.
+.. image:: elem.1.def.11.png
+   :align: right
+   :width: 300px
+
+An *obtuse angle* is an angle greater than a right angle.
 
 ===

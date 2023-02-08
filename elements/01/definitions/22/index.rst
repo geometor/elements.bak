@@ -1,5 +1,5 @@
-Definition I.22
-===============
+Quadrilateral Figures
+=====================
 
 .. index:: figures,squares,rhombuses
 

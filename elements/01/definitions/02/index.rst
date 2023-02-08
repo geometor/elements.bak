@@ -1,8 +1,8 @@
-Definition I.2
-==============
+Line
+====
 
 .. index:: lines
 
-A <term>line</term> is breadthless length.
+A *line* is breadthless length.
 
 ===

@@ -19,7 +19,6 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 The whole is greater than the part.

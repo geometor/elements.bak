@@ -1,8 +1,8 @@
-Definition I.1
-==============
+Point
+=====
 
 .. index:: points
 
-A <term>point</term> is that which has no part.
+A *point* is that which has no part.
 
 ===

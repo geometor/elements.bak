@@ -18,6 +18,6 @@ taxonomy:
     - lines
 ---
 
-A <term>plane surface</term> is a surface which lies evenly with the straight lines on itself.
+A *plane surface* is a surface which lies evenly with the straight lines on itself.
 
 ===

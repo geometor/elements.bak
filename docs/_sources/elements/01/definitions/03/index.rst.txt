@@ -1,8 +1,8 @@
-Definition I.3
-==============
+Extremities
+===========
 
 .. index:: lines,points
 
-The <term>extremities of a line</term> are points.
+The *extremities of a line* are points.
 
 ===

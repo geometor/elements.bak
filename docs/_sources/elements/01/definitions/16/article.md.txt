@@ -17,6 +17,6 @@ taxonomy:
     - circles
 ---
 
-And the point is called the <term>centre</term> of the circle.
+And the point is called the *centre* of the circle.
 
 ===

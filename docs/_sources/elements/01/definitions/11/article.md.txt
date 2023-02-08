@@ -17,6 +17,6 @@ taxonomy:
     - angles
 ---
 
-An <term>obtuse angle</term> is an angle greater than a right angle.
+An *obtuse angle* is an angle greater than a right angle.
 
 ===

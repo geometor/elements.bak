@@ -1,5 +1,5 @@
-Definition I.21
-===============
+Right Triangle
+==============
 
 .. index:: figures,triangles
 
