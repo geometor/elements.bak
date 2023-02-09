@@ -1,26 +1,26 @@
+.. _construct equilateral triangle:
+
 Construct an Equilateral Triangle on a Segment
 ==============================================
 
 .. index:: construction, triangles, segments
 
-.. image:: elem.1.prop.1.png
+.. image:: construct-equilateral-triangle.png
    :align: right
    :width: 300px
 
-On a given finite straight line [^I.1:1] to construct an equilateral triangle.
 
+Let **AB** be the given :ref:`segment`.
 
-===
-
-Let **AB** be the given finite straight line.[^I.1:2]
-
-Thus it is required to construct an equilateral triangle on the straight line
+Thus it is required to construct an equilateral triangle on the :ref:`segment` 
 **AB**. 
 
 With centre **A** and distance **AB** let the circle **BCD** be described[^I.1:3];
-[I.post.3] again, with centre **B** and distance **BA** let the circle **ACE** be
+[I.post.3] 
+
+again, with centre **B** and distance **BA** let the circle **ACE** be
 described; [I.post.3] and from the :ref:`point` **C** [^I.1:4], in which the circles cut
-one another, to the points **A**, **B** let the straight lines **CA**, **CB** be joined.
+one another, to the points **A**, **B** let the segments **CA**, **CB** be joined.
 [I.post.1] 
 
 Now, since the point **A** is the centre of the circle **CDB**, 
