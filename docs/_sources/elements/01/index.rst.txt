@@ -1,5 +1,5 @@
-Book I - Fundamentals of Plane Geometry Involving Straight-Lines
-================================================================
+Fundamentals of Plane Geometry
+==============================
 
 Theory of angles, triangles, parallel lines, and parallelograms.
 

@@ -1,8 +1,16 @@
 Acute Angle
 ===========
 
-.. index:: angles
+.. index:: angle
 
-An *acute angle* is an angle less than a right angle.
+.. image:: acute-angle.png
+   :align: right
+   :width: 300px
 
-===
+..
+
+   An *acute angle* is an angle less than a right angle.
+
+   -- Euclid
+
+

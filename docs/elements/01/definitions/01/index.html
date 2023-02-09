@@ -4,7 +4,7 @@
   <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Point &mdash; GEOMETOR&lt;br/&gt;•&lt;br/&gt;elements  documentation</title>
+  <title>point &mdash; GEOMETOR&lt;br/&gt;•&lt;br/&gt;elements  documentation</title>
       <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
       <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
       <link rel="stylesheet" href="../../../../_static/graphviz.css" type="text/css" />
@@ -19,10 +19,11 @@
         <script src="../../../../_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="../../../../_static/doctools.js"></script>
         <script src="../../../../_static/sphinx_highlight.js"></script>
+        <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="../../../../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../../../../genindex/" />
     <link rel="search" title="Search" href="../../../../search/" />
-    <link rel="next" title="Line" href="../02/" />
+    <link rel="next" title="line" href="../02/" />
     <link rel="prev" title="definitions" href="../" />   
 <link
   rel="alternate"
@@ -75,18 +76,14 @@
         </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
               <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../../../">elements</a><ul class="current">
-<li class="toctree-l2 current"><a class="reference internal" href="../../">Book I - Fundamentals of Plane Geometry Involving Straight-Lines</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="../../">Fundamentals of Plane Geometry</a><ul class="current">
 <li class="toctree-l3 current"><a class="reference internal" href="../">definitions</a><ul class="current">
-<li class="toctree-l4 current"><a class="current reference internal" href="#">Point</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../02/">Line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../03/">Extremities</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../04/">Straight Line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../05/">Surface</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../06/">Extremities of a Surface</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../07/">Plane Surface</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../08/">Plane Angle</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../09/">Rectilineal Angle</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../10/">Right (Perpendicular) Angle</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">point</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../02/">line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../04/">segment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../05/">plane</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../08/">angle</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../10/">right angle</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../11/">Obtuse Angle</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../12/">Acute Angle</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../13/">Boundary</a></li>
@@ -127,9 +124,9 @@
   <ul class="wy-breadcrumbs">
       <li><a href="../../../../" class="icon icon-home"></a></li>
           <li class="breadcrumb-item"><a href="../../../">elements</a></li>
-          <li class="breadcrumb-item"><a href="../../">Book I - Fundamentals of Plane Geometry Involving Straight-Lines</a></li>
+          <li class="breadcrumb-item"><a href="../../">Fundamentals of Plane Geometry</a></li>
           <li class="breadcrumb-item"><a href="../">definitions</a></li>
-      <li class="breadcrumb-item active">Point</li>
+      <li class="breadcrumb-item active">point</li>
       <li class="wy-breadcrumbs-aside">
             <a href="../../../../_sources/elements/01/definitions/01/index.rst.txt" rel="nofollow"> View page source</a>
       </li>
@@ -139,9 +136,22 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
               <section id="point">
-<h1>Point<a class="headerlink" href="#point" title="Permalink to this heading"></a></h1>
-<p id="index-0">A <em>point</em> is that which has no part.</p>
-<p>===</p>
+<span id="id1"></span><h1>point<a class="headerlink" href="#point" title="Permalink to this heading"></a></h1>
+<span class="target" id="index-0"></span><blockquote>
+<div><p>A <strong>point</strong> is that which has no part.</p>
+<p class="attribution">—Euclid</p>
+</div></blockquote>
+<p>A point is the fundamental datum, representing a location on a field.</p>
+<p>The location is specified by a collection of values, one value for each
+dimension of the field.</p>
+<p>A plane as a two dimensional field contains points represented by two values.</p>
+<p>These values are described as <span class="math notranslate nohighlight">\((x, y)\)</span> where values for <span class="math notranslate nohighlight">\(x\)</span> and
+<span class="math notranslate nohighlight">\(y\)</span> can be integers, rational, or algebraic.</p>
+<p>Examples of valid points on a plane:</p>
+<div class="math notranslate nohighlight">
+\[\begin{split}(0, 0)\\
+(-3, \frac{8}{13})\\
+(\frac{\sqrt{5}}{2}, 1)\end{split}\]</div>
 </section>
 
 <div class="section">
@@ -152,7 +162,7 @@
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
         <a href="../" class="btn btn-neutral float-left" title="definitions" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-        <a href="../02/" class="btn btn-neutral float-right" title="Line" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="../02/" class="btn btn-neutral float-right" title="line" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>
