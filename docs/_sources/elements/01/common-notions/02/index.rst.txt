@@ -1,5 +1,5 @@
-.. _01.cn.02::
+.. _added equals:
 
-If equals be added to equals, the wholes are equal.
-===================================================
+If equals be added to equals, the wholes are equal
+==================================================
 

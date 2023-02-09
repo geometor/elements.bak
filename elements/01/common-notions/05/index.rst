@@ -1,6 +1,6 @@
-Common Notion I.5
-=================
+.. _whole greater than part:
 
-The whole is greater than the part.
+The whole is greater than the part
+==================================
 
-===
+

@@ -1,4 +1,6 @@
-Obtuse Angle
+.. _obtuse angle:
+
+obtuse angle
 ============
 
 .. index:: angles
@@ -13,4 +15,5 @@ Obtuse Angle
 
   -- Euclid
 
-===
+
+When two lines intersect, if the angles on either side are not equal :ref:`right <right angle>` the larger angle is obtuse. 

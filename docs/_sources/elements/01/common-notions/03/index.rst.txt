@@ -1,6 +1,6 @@
-Common Notion I.3
-=================
+.. _subtracted equals:
 
-If equals be subtracted from equals, the remainders are equal.
+If equals be subtracted from equals, the remainders are equal
+=============================================================
 
-===
+

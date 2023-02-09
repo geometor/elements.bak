@@ -1,9 +1,11 @@
 common notions
 ==============
 
+Common notions, as defined by Euclid, are logical statements that are accepted as true.
+
 .. toctree::
 
-   01/index.rst
+   equals-are-equal/index.rst
    02/index.rst
    03/index.rst
    04/index.rst

@@ -1,6 +1,6 @@
-Common Notion I.4
-=================
+.. _coinciding equals:
 
-Things which coincide with one another are equal to one another.
+Things which coincide with one another are equal to one another
+===============================================================
 
-===
+
