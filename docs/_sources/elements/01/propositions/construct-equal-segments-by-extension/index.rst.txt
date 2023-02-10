@@ -1,3 +1,4 @@
+.. _I.2:
 .. _construct equal segments by extension:
 
 construct equal segments by extension
@@ -22,7 +23,7 @@ Let **A** be the given point, and **BC** the given straight line.
 Thus it is required to place at the point **A** (as an extremity) [1]_ a
 straight line equal to the given straight line **BC**. 
 
-From the point **A** to the point **B** let the straight line **AB** be joined;
+:ref:`Construct a segment <construct a segment>` from the point **A** to the point **B** 
 [I.post.1] and on it let the equilateral triangle **DAB** be constructed. [I.1]
 
 Let the straight lines **AE**, **BF** be produced [2]_ in a straight line
@@ -68,60 +69,62 @@ the given straight line **BC**.
 
 
 
-[references]
-graph BT
+.. .. [references]
+.. graph BT
 
-I_2[ I.2 ]:::prop; 
-click I_2 "/elem.1.2" "Book I Proposition 2";
+.. I_2[ I.2 ]:::prop; 
+.. click I_2 "/elem.1.2" "Book I Proposition 2";
 
-%%%% I_2 dependencies
+.. %%%% I_2 dependencies
 
-I_1[ I.1 ]:::prop; 
-click I_1 "/elem.1.1" "Book I Proposition 1";
+.. I_1[ I.1 ]:::prop; 
+.. click I_1 "/elem.1.1" "Book I Proposition 1";
 
-I_post1( I.post.1 ):::post;
-click I_post1 "/elem.1.post.1" "Book I Postulate 1";
+.. I_post1( I.post.1 ):::post;
+.. click I_post1 "/elem.1.post.1" "Book I Postulate 1";
 
-I_post2( I.post.2 ):::post;
-click I_post2 "/elem.1.post.2" "Book I Postulate 2";
+.. I_post2( I.post.2 ):::post;
+.. click I_post2 "/elem.1.post.2" "Book I Postulate 2";
 
-I_post3( I.post.3 ):::post;
-click I_post3 "/elem.1.post.3" "Book I Postulate 3";
+.. I_post3( I.post.3 ):::post;
+.. click I_post3 "/elem.1.post.3" "Book I Postulate 3";
 
-I_def15( I.def.15 ):::def;
-click I_def15 "/elem.1.def.15" "Book I Definition 15";
+.. I_def15( I.def.15 ):::def;
+.. click I_def15 "/elem.1.def.15" "Book I Definition 15";
 
-%%%% I_2 links
+.. %%%% I_2 links
 
-I_2 --> I_1
-I_2 --> I_post1
-I_2 --> I_post2
-I_2 --> I_post3
-I_2 --> I_def15
+.. I_2 --> I_1
+.. I_2 --> I_post1
+.. I_2 --> I_post2
+.. I_2 --> I_post3
+.. I_2 --> I_def15
 
-%%%% I_1 dependencies
+.. %%%% I_1 dependencies
 
-I_post1( I.post.1 ):::post;
-click I_post1 "/elem.1.post.1" "Book I Postulate 1";
+.. I_post1( I.post.1 ):::post;
+.. click I_post1 "/elem.1.post.1" "Book I Postulate 1";
 
-I_post3( I.post.3 ):::post
-click I_post3 "/elem.1.post.3" "Book I Postulate 3";
+.. I_post3( I.post.3 ):::post
+.. click I_post3 "/elem.1.post.3" "Book I Postulate 3";
 
-I_def15( I.def.15 ):::def
-click I_def15 "/elem.1.def.15" "Book I Definition 15";
+.. I_def15( I.def.15 ):::def
+.. click I_def15 "/elem.1.def.15" "Book I Definition 15";
 
-I_cn1( I.c.n.1 ):::cn
-click I_cn1 "/elem.1.c.n.1" "Book I Common Notion 1";
+.. I_cn1( I.c.n.1 ):::cn
+.. click I_cn1 "/elem.1.c.n.1" "Book I Common Notion 1";
 
-%%%% I_1 links
+.. %%%% I_1 links
 
-I_1 --> I_post1
-I_1 --> I_post3
-I_1 --> I_def15
-I_1 --> I_cn1
-[/references]
+.. I_1 --> I_post1
+.. I_1 --> I_post3
+.. I_1 --> I_def15
+.. I_1 --> I_cn1
+.. [/references]
 
-## Footnotes
+Footnotes
+---------
+
 
 .. [1] (as an extremity).  
 

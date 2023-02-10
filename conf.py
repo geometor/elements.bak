@@ -29,10 +29,11 @@ extensions.append('sphinx_rtd_theme')
 html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
-    'logo': 'logo.png',
-    'logo_name': True,
-    'github_user': org,
-    'github_repo': repo,
-    'github_button': True,
+    #  'logo': 'logo.png',
+    #  'logo_name': True,
+    #  'github_user': org,
+    #  'github_repo': repo,
+    #  'github_button': True,
+    'prev_next_buttons_location': 'both',
 }
 

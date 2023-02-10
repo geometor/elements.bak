@@ -51,6 +51,9 @@ given finite straight line **AB**.
 
 - (Being) what it was required to do.
 
+dependencies
+------------
+
 
 [I.def.15]: /elem.1.def.15 "Book I - Definition 15"
 [I.post.1]: /elem.1.post.1 "Book I - Postulate 1"
@@ -85,9 +88,8 @@ given finite straight line **AB**.
 
 .. [/references]
 
-Footnotes
+footnotes
 ---------
-
 
 .. [1] On a given finite straight line
 
