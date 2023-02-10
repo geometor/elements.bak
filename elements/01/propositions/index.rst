@@ -2,16 +2,16 @@ propositions
 ============
 
 .. toctree::
-   :glob:
+   :maxdepth: 1
 
-   01/index.rst
-   02/index.rst
-   03/index.rst
-   04/index.rst
-   05/index.rst
-   06/index.rst
-   07/index.rst
-   08/index.rst
+   construct-equilateral-triangle/index.rst
+   construct-equal-segments-by-extension/index.rst
+   construct-equal-segments-by-section/index.rst
+   triangles-equal-sides-equal-angles/index.rst
+   isosceles-base-angles-are-equal/index.rst
+   equal-triangle-angles-subtend-equal-sides/index.rst
+   triangle-sides-are-related-to-vertexes/index.rst
+   triangles-with-equal-sides-have-equal-angles/index.rst
    09/index.rst
    10/index.rst
    11/index.rst

@@ -3,8 +3,8 @@ postulates
 
 .. toctree::
 
-   01/index.rst
-   02/index.rst
-   03/index.rst
-   04/index.rst
-   05/index.rst
+   construct-a-line/index.rst
+   construct-a-segment/index.rst
+   construct-a-circle/index.rst
+   right-angles-are-equal/index.rst
+   non-parallel-lines/index.rst

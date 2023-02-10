@@ -1,4 +1,4 @@
-Mission
+mission
 =======
 
 .. contents::
