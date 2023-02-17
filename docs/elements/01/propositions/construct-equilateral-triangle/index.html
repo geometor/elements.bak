@@ -19,6 +19,7 @@
         <script src="../../../../_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="../../../../_static/doctools.js"></script>
         <script src="../../../../_static/sphinx_highlight.js"></script>
+        <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="../../../../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../../../../genindex/" />
     <link rel="search" title="Search" href="../../../../search/" />
@@ -171,16 +172,22 @@
 <span id="construct-equilateral-triangle"></span><span id="i-1"></span><h1>construct an equilateral triangle on a segment<a class="headerlink" href="#construct-an-equilateral-triangle-on-a-segment" title="Permalink to this heading"></a></h1>
 <a class="reference internal image-reference" href="../../../../_images/construct-equilateral-triangle.png" id="index-0"><img alt="../../../../_images/construct-equilateral-triangle.png" class="align-right" id="index-0" src="../../../../_images/construct-equilateral-triangle.png" style="width: 300px;" /></a>
 <blockquote>
-<div><p>On a given finite straight line to construct an equilateral triangle <a class="footnote-reference brackets" href="#id6" id="id1">1</a>.</p>
+<div><p>On a given finite straight line to construct an equilateral triangle.</p>
 <p class="attribution">—Euclid</p>
 </div></blockquote>
-<p>Let <strong>AB</strong> be the given <a class="reference internal" href="../../definitions/segment/#segment"><span class="std std-ref">segment</span></a> <a class="footnote-reference brackets" href="#id7" id="id2">2</a>.</p>
-<p>Thus it is required to construct an equilateral triangle on the <a class="reference internal" href="../../definitions/segment/#segment"><span class="std std-ref">segment</span></a>
+<p>From the given points <span class="math notranslate nohighlight">\(A\)</span> and <span class="math notranslate nohighlight">\(B\)</span> construct <a class="reference internal" href="../../definitions/segment/#segment"><span class="std std-ref">segment</span></a> <span class="math notranslate nohighlight">\(\overline{AB}\)</span>.</p>
+<p><strong>PROBLEM:</strong> construct an <span class="xref std std-ref">equilateral triangle</span> on the <a class="reference internal" href="../../definitions/segment/#segment"><span class="std std-ref">segment</span></a>
 <strong>AB</strong>.</p>
-<p><a class="reference internal" href="../../postulates/construct-a-circle/#construct-a-circle"><span class="std std-ref">Construct circle **BCD**</span></a> with centre <strong>A</strong> and radius <strong>AB</strong> <a class="footnote-reference brackets" href="#id8" id="id3">3</a>;</p>
-<p>again, with centre <strong>B</strong> and distance <strong>BA</strong> let the circle <strong>ACE</strong> be
-described; [I.post.3] and from the <a class="reference internal" href="../../definitions/point/#point"><span class="std std-ref">point</span></a> <strong>C</strong> <a class="footnote-reference brackets" href="#id9" id="id4">4</a>, in which the circles cut
-one another, to the points <strong>A</strong>, <strong>B</strong> let the segments <strong>CA</strong>, <strong>CB</strong> be joined.
+<p><a class="reference internal" href="../../postulates/construct-a-circle/#construct-a-circle"><span class="std std-ref">Construct circle</span></a> <span class="math notranslate nohighlight">\((A, B)\)</span> as <span class="math notranslate nohighlight">\(c_1\)</span></p>
+<p><a class="reference internal" href="../../postulates/construct-a-circle/#construct-a-circle"><span class="std std-ref">Construct circle</span></a> <span class="math notranslate nohighlight">\((B, A)\)</span> as <span class="math notranslate nohighlight">\(c_2\)</span></p>
+<div class="admonition-todo admonition" id="id1">
+<p class="admonition-title">Todo</p>
+<p>define intersection point</p>
+</div>
+<p>Identify the two intersection points of the two circles as <strong>C</strong> and <strong>D</strong></p>
+<p>and from the <a class="reference internal" href="../../definitions/point/#point"><span class="std std-ref">point</span></a> <strong>C</strong> <a class="footnote-reference brackets" href="#id6" id="id2">4</a>, in which the circles cut
+one another, to the points <strong>A</strong>, <strong>B</strong></p>
+<p>let the segments <strong>CA</strong>, <strong>CB</strong> be joined.
 [I.post.1]</p>
 <p>Now, since the point <strong>A</strong> is the centre of the circle <strong>CDB</strong>,
 - <strong>AC</strong> is equal to <strong>AB</strong>. [I.def.15]</p>
@@ -194,7 +201,7 @@ one another, to the points <strong>A</strong>, <strong>B</strong> let the segmen
 <li><p>therefore <strong>CA</strong> is also equal to <strong>CB</strong>.</p></li>
 </ul>
 <p>Therefore the three straight lines <strong>CA</strong>, <strong>AB</strong>, <strong>BC</strong> are equal to one
-another. <a class="footnote-reference brackets" href="#id10" id="id5">5</a></p>
+another. <a class="footnote-reference brackets" href="#id7" id="id3">5</a></p>
 <p>Therefore the triangle <strong>ABC</strong> is equilateral; and it has been constructed on the
 given finite straight line <strong>AB</strong>.</p>
 <ul class="simple">
@@ -214,15 +221,7 @@ given finite straight line <strong>AB</strong>.</p>
 <section id="footnotes">
 <h2>footnotes<a class="headerlink" href="#footnotes" title="Permalink to this heading"></a></h2>
 <dl class="footnote brackets">
-<dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
-<dd><p>On a given finite straight line</p>
-<p>The Greek usage differs from ours in that the definite article is employed
-in such a phrase as this where we have the indefinite. &lt;foreign
-lang=”greek”&gt;ἐπὶ τῆς δοθείσης εὐθείας πεπερασμένης&lt;/foreign&gt;, &lt;quote&gt;on
-&lt;em&gt;the&lt;/em&gt; given finite straight line,&lt;/quote&gt; i.e. the finite straight
-line which we choose to take.</p>
-</dd>
-<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dt class="label" id="id4"><span class="brackets">2</span></dt>
 <dd><p>Let <strong>AB</strong> be the given finite straight line.</p>
 <p>To be strictly literal we should have to translate in the reverse order
 &lt;quote&gt;let the given finite straight line be the (straight line)
@@ -233,7 +232,7 @@ given straight line <strong>BC</strong>,&lt;/quote&gt; the awkwardness arising f
 omission of the verb in the second clause. Hence I have, for clearness’
 sake, adopted the other order throughout the book.</p>
 </dd>
-<dt class="label" id="id8"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
+<dt class="label" id="id5"><span class="brackets">3</span></dt>
 <dd><p>let the circle <strong>BCD</strong> be described.</p>
 <p>Two things are here to be quoted,</p>
 <ol class="arabic simple">
@@ -253,7 +252,7 @@ joined,&lt;/quote&gt; &lt;foreign lang=”greek”&gt;ἐπεζεύχθωσαν 
 English, but to translate as I have done in the text.</p></li>
 </ol>
 </dd>
-<dt class="label" id="id9"><span class="brackets"><a class="fn-backref" href="#id4">4</a></span></dt>
+<dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id2">4</a></span></dt>
 <dd><p>from the point <strong>C</strong></p>
 <p>Euclid is careful to adhere to the phraseology of &lt;a
 href=”/elem.1.post.1”&gt;Postulate 1&lt;/a&gt; except that he speaks of
@@ -264,7 +263,7 @@ shortened expression &lt;quote&gt;let the straight line <strong>FC</strong> be j
 (without mention of the points <strong>F</strong>, <strong>C</strong>) until &lt;a href=”/elem.1.5”&gt;I.
 5&lt;/a&gt;.</p>
 </dd>
-<dt class="label" id="id10"><span class="brackets"><a class="fn-backref" href="#id5">5</a></span></dt>
+<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id3">5</a></span></dt>
 <dd><p>each of the straight lines <strong>CA</strong>, <strong>CB</strong>,</p>
 <p>&lt;foreign lang=”greek”&gt;ἑκατέρα τῶν ΓΑ, ΓΒ&lt;/foreign&gt; and &lt;span
 class=”bold”&gt;24. the three straight&lt;/span&gt; lines <strong>CA</strong>, <strong>AB</strong>, <strong>BC</strong>,

@@ -12,27 +12,43 @@ construct an equilateral triangle on a segment
 
 ..
 
-  On a given finite straight line to construct an equilateral triangle [1]_.
+  On a given finite straight line to construct an equilateral triangle.
 
   -- Euclid
 
-Let **AB** be the given :ref:`segment` [2]_. 
+From the given points :math:`A` and :math:`B` construct :ref:`segment`
+:math:`\overline{AB}`.
 
-Thus it is required to construct an equilateral triangle on the :ref:`segment` 
-**AB**. 
+**PROBLEM:** construct an :ref:`equilateral triangle` on the :ref:`segment` 
+:math:`\overline{AB}`. 
 
-:ref:`Construct circle **BCD** <construct a circle>` with centre **A** and radius **AB** [3]_;
+:ref:`Construct circle <construct a circle>` :math:`(A, B)` as :math:`c_1`
 
-again, with centre **B** and distance **BA** let the circle **ACE** be
-described; [I.post.3] and from the :ref:`point` **C** [4]_, in which the circles cut
-one another, to the points **A**, **B** let the segments **CA**, **CB** be joined.
-[I.post.1] 
+:ref:`Construct circle <construct a circle>` :math:`(B, A)` as :math:`c_2`
 
-Now, since the point **A** is the centre of the circle **CDB**, 
-- **AC** is equal to **AB**. [I.def.15]
+.. todo:: define intersection point
 
-Again, since the point **B** is the centre of the circle **CAE**, 
-- **BC** is equal to **BA**. [I.def.15]
+Identify the two intersection points of circles :math:`c_1` and :math:`c_2`
+as points :math:`C` and :math:`D`
+
+From the points :math:`A` and :math:`C` construct :ref:`segment`
+:math:`\overline{AC}`.
+
+From the points :math:`B` and :math:`C` construct :ref:`segment`
+:math:`\overline{BC}`.
+
+
+As the "ref"`circle` is defined, all points on the perimeter are an equal distance from the center.
+
+Now, since the point :math:`A` is the centre of the circle :math:`c_1`
+And point :math:`B` and :math:`C` are on the perimeter of circle :math:`c_1`
+
+- segment :math:`\overline{AC}` is equal to :math:`\overline{AB}`
+
+And, since the point :math:`B` is the centre of the circle :math:`c_2`
+And point :math:`A` and :math:`C` are on the perimeter of circle :math:`c_2`
+
+- segment :math:`\overline{BC}` is equal to :math:`\overline{AB}`
 
 But **CA** was also proved equal to **AB**; therefore each of the straight lines
 **CA**, **CB** is equal to **AB**.
@@ -91,13 +107,13 @@ dependencies
 footnotes
 ---------
 
-.. [1] On a given finite straight line
+.. .. [1] On a given finite straight line
 
-    The Greek usage differs from ours in that the definite article is employed
-    in such a phrase as this where we have the indefinite. <foreign
-    lang="greek">ἐπὶ τῆς δοθείσης εὐθείας πεπερασμένης</foreign>, <quote>on
-    <em>the</em> given finite straight line,</quote> i.e. the finite straight
-    line which we choose to take.
+    .. The Greek usage differs from ours in that the definite article is employed
+    .. in such a phrase as this where we have the indefinite. <foreign
+    .. lang="greek">ἐπὶ τῆς δοθείσης εὐθείας πεπερασμένης</foreign>, <quote>on
+    .. <em>the</em> given finite straight line,</quote> i.e. the finite straight
+    .. line which we choose to take.
 
 .. [2] Let **AB** be the given finite straight line.
 

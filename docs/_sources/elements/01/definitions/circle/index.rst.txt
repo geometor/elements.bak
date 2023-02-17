@@ -26,3 +26,5 @@ circle
   -- Euclid
 
 
+All :ref:`points <point>` on a circle are an equal distance from the center.
+
