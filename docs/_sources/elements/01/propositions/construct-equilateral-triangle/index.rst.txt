@@ -16,10 +16,11 @@ construct an equilateral triangle on a segment
 
   -- Euclid
 
-From the given points :math:`A` and :math:`B` construct :ref:`segment` :math:`\overline{AB}`.
+From the given points :math:`A` and :math:`B` construct :ref:`segment`
+:math:`\overline{AB}`.
 
 **PROBLEM:** construct an :ref:`equilateral triangle` on the :ref:`segment` 
-**AB**. 
+:math:`\overline{AB}`. 
 
 :ref:`Construct circle <construct a circle>` :math:`(A, B)` as :math:`c_1`
 
@@ -27,19 +28,27 @@ From the given points :math:`A` and :math:`B` construct :ref:`segment` :math:`\o
 
 .. todo:: define intersection point
 
-Identify the two intersection points of the two circles as **C** and **D**
+Identify the two intersection points of circles :math:`c_1` and :math:`c_2`
+as points :math:`C` and :math:`D`
 
-and from the :ref:`point` **C** [4]_, in which the circles cut
-one another, to the points **A**, **B** 
+From the points :math:`A` and :math:`C` construct :ref:`segment`
+:math:`\overline{AC}`.
 
-let the segments **CA**, **CB** be joined.
-[I.post.1] 
+From the points :math:`B` and :math:`C` construct :ref:`segment`
+:math:`\overline{BC}`.
 
-Now, since the point **A** is the centre of the circle **CDB**, 
-- **AC** is equal to **AB**. [I.def.15]
 
-Again, since the point **B** is the centre of the circle **CAE**, 
-- **BC** is equal to **BA**. [I.def.15]
+As the "ref"`circle` is defined, all points on the perimeter are an equal distance from the center.
+
+Now, since the point :math:`A` is the centre of the circle :math:`c_1`
+And point :math:`B` and :math:`C` are on the perimeter of circle :math:`c_1`
+
+- segment :math:`\overline{AC}` is equal to :math:`\overline{AB}`
+
+And, since the point :math:`B` is the centre of the circle :math:`c_2`
+And point :math:`A` and :math:`C` are on the perimeter of circle :math:`c_2`
+
+- segment :math:`\overline{BC}` is equal to :math:`\overline{AB}`
 
 But **CA** was also proved equal to **AB**; therefore each of the straight lines
 **CA**, **CB** is equal to **AB**.

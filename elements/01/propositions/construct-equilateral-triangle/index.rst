@@ -38,7 +38,7 @@ From the points :math:`B` and :math:`C` construct :ref:`segment`
 :math:`\overline{BC}`.
 
 
-As the "ref"`circle` is defined, all points on the perimeter are an equal distance from the center.
+As the :ref:`circle` is defined, all points on the perimeter are an equal distance from the center.
 
 Now, since the point :math:`A` is the centre of the circle :math:`c_1`
 And point :math:`B` and :math:`C` are on the perimeter of circle :math:`c_1`
