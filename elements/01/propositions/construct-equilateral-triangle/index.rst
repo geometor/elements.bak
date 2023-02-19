@@ -16,7 +16,7 @@ construct an equilateral triangle on a segment
 
   -- Euclid
 
-From the given points :math:`A` and :math:`B` construct :ref:`segment`
+From the :ref:`given points` :math:`A` and :math:`B` construct :ref:`segment`
 :math:`\overline{AB}`.
 
 **PROBLEM:** construct an :ref:`equilateral triangle` on the :ref:`segment` 
