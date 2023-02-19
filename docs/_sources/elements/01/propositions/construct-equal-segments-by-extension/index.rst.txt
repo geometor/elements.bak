@@ -18,13 +18,29 @@ construct equal segments by extension
   -- Euclid
 
 
-Let **A** be the given point, and **BC** the given straight line.
+From the given points :math:`A` and :math:`B` construct :ref:`segment`
+:math:`\bar{AB}`.
 
-Thus it is required to place at the point **A** (as an extremity) [1]_ a
-straight line equal to the given straight line **BC**. 
+From the given points :math:`C` and :math:`D` construct :ref:`segment`
+:math:`\bar{CD}` shorter than :math:`\bar{AB}`.
 
-:ref:`Construct a segment <construct a segment>` from the point **A** to the point **B** 
-[I.post.1] and on it let the equilateral triangle **DAB** be constructed. [I.1]
+**PROBLEM:** Extend segment :math:`\overline{CD}` to a length equal to :math:`\overline{AB}`
+
+:ref:`construct circle` :math:`(A, B)` as :math:`c_1`
+
+:ref:`construct circle` :math:`(C, D)` as :math:`c_2`
+
+With points :math:`A` and :math:`C` :ref:`Construct segment <construct a segment>` :math:`\overline{AC}`
+
+:ref:`contruct equilateral triangle` on :math:`\overline{AC}`
+
+Identify new point of equaliteral triangle  as :math:`E`
+
+:ref:`construct line` :math:`\overline{EA}`
+
+:ref:`construct line` :math:`\overline{EC}`
+
+Identify new point on :math:`c_1` intersecting with :math:`\overline{EA}`  as :math:`F`
 
 Let the straight lines **AE**, **BF** be produced [2]_ in a straight line
 with **DA**, **DB**; [I.post.2] with centre **B** and distance **BC** let the

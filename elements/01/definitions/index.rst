@@ -4,18 +4,14 @@ definitions
 
 .. toctree::
 
+   plane/index.rst
    point/index.rst
    line/index.rst
    segment/index.rst
-   plane/index.rst
-   plane/index.rst
+   circle/index.rst
    angle/index.rst
-   angle-right/index.rst
-   angle-obtuse/index.rst
-   angle-acute/index.rst
    boundary/index.rst
    figure/index.rst
-   circle/index.rst
    diameter/index.rst
    semicircle/index.rst
    figures-rectilineal/index.rst

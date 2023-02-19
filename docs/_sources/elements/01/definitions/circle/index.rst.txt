@@ -28,3 +28,9 @@ circle
 
 All :ref:`points <point>` on the perimeter of a circle are an equal distance from the center.
 
+.. toctree::
+
+   diameter/index.rst
+   arc/index.rst
+   semicircle/index.rst
+   

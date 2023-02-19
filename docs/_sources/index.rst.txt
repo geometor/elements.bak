@@ -25,10 +25,14 @@ contents
    log </log#https://>
    refs/index.rst
 
+todo
+----
+
+.. todolist::
 
 
 indices
-=======
+-------
 
 * :ref:`genindex`
 * :ref:`modindex`

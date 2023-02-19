@@ -12,4 +12,9 @@ figure
   -- Euclid
 
 
+.. toctree::
+
+   rectilineal/index.rst
+   trilateral/index.rst
+   quadrilateral/index.rst
 

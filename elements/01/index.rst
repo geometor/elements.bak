@@ -1,12 +1,11 @@
 Fundamentals of Plane Geometry
 ==============================
 
-Theory of angles, triangles, parallel lines, and parallelograms.
+defining and constructing the relationships of points, lines, circles
 
 
 
 .. toctree::
-   :maxdepth: 1
 
    definitions/index.rst
    common-notions/index.rst

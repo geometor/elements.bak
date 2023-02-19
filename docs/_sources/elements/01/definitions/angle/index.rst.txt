@@ -18,3 +18,10 @@ angle
   -- Euclid
 
 Angles arise out of the relation of intersecting lines
+
+.. toctree::
+
+   acute/index.rst
+   obtuse/index.rst
+   right/index.rst
+

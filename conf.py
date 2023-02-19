@@ -34,6 +34,7 @@ html_theme_options = {
     #  'github_user': org,
     #  'github_repo': repo,
     #  'github_button': True,
+    'navigation_depth': -1,
     'prev_next_buttons_location': 'both',
 }
 
