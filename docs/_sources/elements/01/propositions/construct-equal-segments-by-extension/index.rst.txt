@@ -17,11 +17,10 @@ construct equal segments by extension
 
   -- Euclid
 
-test :math:`\bar{CA}` :ref:`circle` :math:`\overline{DE}`
-From the given points :math:`A` and :math:`B` construct :ref:`segment`
+From the given points :math:`A` and :math:`B` :ref:`construct segment`
 :math:`\bar{AB}`.
 
-From the given points :math:`C` and :math:`D` construct :ref:`segment`
+From the given points :math:`C` and :math:`D` :ref:`construct segment`
 :math:`\bar{CD}` shorter than :math:`\bar{AB}`.
 
 **PROBLEM:** Extend segment :math:`\bar{CD}` to a length equal to :math:`\bar{AB}`
@@ -30,7 +29,7 @@ From the given points :math:`C` and :math:`D` construct :ref:`segment`
 
 .. :ref:`construct circle` :math:`(C, D)` as :math:`c_2`
 
-With points :math:`A` and :math:`C` :ref:`Construct segment <construct a segment>` :math:`\overline{AC}`
+With points :math:`A` and :math:`C` :ref:`construct segment` :math:`\bar{AC}`
 
 :ref:`contruct equilateral triangle` on :math:`\bar{AC}`
 

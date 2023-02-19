@@ -1,8 +1,8 @@
 .. _I.post.3:
-.. _construct a circle:
+.. _construct circle:
 
-construct a circle
-==================
+construct circle
+================
 
 .. index:: circles
 

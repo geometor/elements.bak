@@ -1,8 +1,8 @@
 .. _I.post.1:
-.. _construct a line:
+.. _construct line:
 
-construct a line
-================
+construct line
+==============
 
 .. index:: line
 
