@@ -1,21 +1,23 @@
----
-title:  Proposition I.10
-subtitle: bisect a segment
-author:
-routes:
-  aliases:
-    - /elem.1.10
-    - /I.10
-taxonomy:
-  tag:
-  category:
-    - construction
-    - midpoint
----
+.. _I.10:
+.. _bisect segment:
 
-To bisect a given finite straight line.
+bisect segment
+==============
 
-===
+.. index:: construction, midpoint
+
+.. image:: elem.1.prop.10.png
+   :align: right
+   :width: 300px
+
+..
+
+  I.10
+
+  To bisect a given finite straight line.
+
+  -- Euclid
+
 
 Let `AB` be the given finite straight line.
 
@@ -42,4 +44,3 @@ Therefore the given finite straight line `AB` has been bisected at `D`.
 [I.1]: /elem.1.3 "Book 1 - Proposition 3"
 [I.4]: /elem.1.4 "Book 1 - Proposition 4"
 [I.9]: /elem.1.9 "Book 1 - Proposition 9"
-

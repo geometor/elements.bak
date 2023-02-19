@@ -12,8 +12,10 @@ The base angles of an isosceles triangle are equal
 
 ..
 
+  I.5
+
   In isosceles triangles the angles at the base are equal to one another, and,
-  if the equal straight [1]_ lines be produced further, the angles under
+  if the equal straight lines be produced further, the angles under
   the base will be equal to one another.
 
   -- Euclid
@@ -26,14 +28,14 @@ straight line with **AB**, **AC**. [I.post.2]
 I say that the angle **ABC** is equal to the angle **ACB**, and the angle
 **CBD** to the angle **BCE**.
 
-Let a point **F** be taken at random on **BD**; [2]_  from **AE** the
+Let a point **F** be taken at random on **BD**; from **AE** the
 greater let **AG** be cut off equal to **AF** the less; [I.3] and let the
 straight lines **FC**, **GB** be joined. [I.post.1]
 
 Then, since **AF** is equal to **AG** and **AB** to **AC**,
 
 - the two sides **FA**, **AC** are equal to the two sides **GA**, **AB**,
-  respectively; [3]_
+  respectively; 
 
 and they contain a common angle, the angle **FAG**.
 
@@ -55,7 +57,7 @@ But **FC** was also proved equal to **GB**; therefore the two sides **BF**,
 **FC** are equal to the two sides **CG**, **GB** respectively; and the angle
 **BFC** is equal to the angle **CGB**,
 
-- while the base **BC** is common to them; [4]_
+- while the base **BC** is common to them; 
 
 therefore the triangle **BFC** is also equal to the triangle **CGB**, and the
 remaining angles will be equal to the remaining angles respectively, namely
@@ -77,15 +79,16 @@ But the angle **FBC** was also proved equal to the angle **GCB**;
 
 Therefore etc.
 
-- Q. E. D. [5]_
+- Q. E. D. 
+
+dependencies
+------------
 
 [I.1]: /elem.1.1 "Book 1 - Proposition 1"
 [I.3]: /elem.1.3 "Book 1 - Proposition 3"
 [I.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
 [I.post.2]: /elem.1.post.2 "Book 1 - Postulate 2"
 
-references
-----------
 
 .. graph BT
 

@@ -16,9 +16,13 @@ triangles with equal sides have equal angles
 
 ..
 
+  I.8
+
   If two triangles have the two sides equal to two sides respectively, and have
   also the base equal to the base, they will also have the angles equal which
   are contained by the equal straight lines. 
+
+  -- Euclid
 
 
 Let **ABC**, **DEF** be two triangles having the two sides **AB**, **AC** equal
@@ -61,9 +65,8 @@ If therefore etc.
 
 - Q. E. D.
 
-references
-----------
-
+dependencies
+------------
 
 [I.7]: /elem.1.7 "Book 1 - Proposition 7"
 

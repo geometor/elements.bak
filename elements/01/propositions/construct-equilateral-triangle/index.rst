@@ -12,6 +12,8 @@ construct an equilateral triangle on a segment
 
 ..
 
+  I.1
+
   On a given finite straight line to construct an equilateral triangle.
 
   -- Euclid

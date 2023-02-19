@@ -12,8 +12,12 @@ when two angles of a triangle are equal, so are the subtended sides
 
 ..
 
+  I.6
+
   If in a triangle two angles be equal to one another, the sides which subtend
   the equal angles will also be equal to one another.
+
+  -- Euclid
 
 
 Let **ABC** be a triangle having the angle **ABC** equal to the angle **ACB**; 

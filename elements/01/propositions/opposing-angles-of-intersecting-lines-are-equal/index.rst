@@ -1,5 +1,8 @@
-the opposing angles of intersecting lines are equal
-===================================================
+.. _I.15:
+.. _opposing angles of intersecting lines are equal:
+
+opposing angles of intersecting lines are equal
+===============================================
 
 .. index:: proof, angles, lines
 
@@ -7,9 +10,14 @@ the opposing angles of intersecting lines are equal
    :align: right
    :width: 300px
 
-If two straight lines cut one another, they make the vertical angles [^I.15:1] equal to one another.
+..
 
-===
+  I.15
+
+  If two straight lines cut one another, they make the vertical angles [1]_ equal to one another.
+
+  -- Euclid
+
 
 For let the straight lines `AB`, `CD` cut one another at the point `E`; 
 
@@ -36,21 +44,24 @@ Therefore etc.
 
 - Q. E. D. 
 
-## Porism
+porism
+------
 
-[From this it is manifest that, if two straight lines cut one another, they will make the angles at the point of section [^I.15:2] equal to four right angles.
+[From this it is manifest that, if two straight lines cut one another, they will make the angles at the point of section [2]_ equal to four right angles.
 
-## References
+references
+----------
 
 [I.13]: /I.13 "Book I - Proposition 13"
 [I.post.4]: /I.post.4 "Book I - Postulate 4"
 [I.cn.1]: /I.cn.1 "Book I - Common Notion 1"
 [I.cn.3]: /I.cn.3 "Book I - Common Notion 3"
 
-## Footnotes
+footnotes
+---------
 
-[^I.15:1]: the vertical angles.
+.. [1] the vertical angles.
     The difference between <em>adjacent</em> angles (<foreign lang="greek">αἱ ἐφεξῆς γωνίαι</foreign>) and <em>vertical</em> angles (<foreign lang="greek">αἱ κατὰ κορυφὴν γωνίαι</foreign>) is thus explained by Proclus (<xref n="Proc. p. 298, 14-24" from="ROOT" to="DITTO">p. 298, 14-24</xref>). The first term describes the angles made by two straight lines when one only is divded by the other, i.e. when one straight line meets another at a point which is not either of its extremities, but is not itself produced beyond the point of meeting. When the first straight line <em>is</em> produced, so that the lines cross at the point, they make two pairs of <em>vertical</em> angles (which are more clearly described as <em>vertically opposite</em> angles), and which are so called because their convergence is from opposite directions to one point (the intersection of the lines) as vertex (<foreign lang="greek">κορυφή</foreign>).
 
-[^I.15:2]: at the point of section,
+.. [2] at the point of section,
     literally <quote>at the section,</quote> <foreign lang="greek">πρὸς τῇ τομῆ</foreign>.

@@ -12,6 +12,8 @@ construct equal segments by extension
 
 ..
 
+  I.2
+
   To place at a given point (as an extremity) a straight line equal to a given
   straight line.
 

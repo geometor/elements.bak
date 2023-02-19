@@ -12,6 +12,8 @@ construct equal segments by section
 
 ..
 
+  I.3
+
   Given two unequal straight lines, to cut off from the greater a straight line
   equal to the less.
 

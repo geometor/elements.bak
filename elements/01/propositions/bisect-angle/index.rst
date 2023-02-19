@@ -1,5 +1,7 @@
-bisect an angle
-===============
+.. _bisect angle:
+
+bisect angle
+============
 
 .. index:: construction, angle, bisect
 
@@ -7,23 +9,28 @@ bisect an angle
    :align: right
    :width: 300px
 
-To bisect a given rectilineal angle.
+..
 
-===
+  I.9
+
+  To bisect a given rectilineal angle.
+
+  -- Euclid
+
 
 Let the angle `BAC` be the given rectilineal angle.
 
 Thus it is required to bisect it.
 
-Let a point `D` be taken at random on `AB`; let `AE` be cut off from `AC` equal to `AD`; [I.3] let `DE` be joined, and on `DE` let the equilateral triangle `DEF` be constructed; let `AF` be joined. 
+Let a point `D` be taken at random on `AB`; let `AE` be cut off from `AC` equal to `AD`; [I.3] let `DE` be joined, and on `DE` let the equilateral triangle `DEF` be constructed; let `AF` be joined.
 
 I say that the angle `BAC` has been bisected by the straight line `AF`.
 
-For, since `AD` is equal to `AE`, and `AF` is common, 
+For, since `AD` is equal to `AE`, and `AF` is common,
 
 - the two sides `DA`, `AF` are equal to the two sides `EA`, `AF` respectively.
 
-And the base `DF` is equal to the base `EF`; 
+And the base `DF` is equal to the base `EF`;
 
 - therefore the angle `DAF` is equal to the angle `EAF`. [I.8]
 
