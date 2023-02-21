@@ -1,21 +1,27 @@
+.. index:: proof, triangles
+
 similar triangles
 =================
 
-.. index:: proof, triangles
+  I.26
 
-.. image:: elem.1.prop.26.b.png
-   :align: right
-   :width: 300px
+  If two triangles have the two angles equal to two angles respectively, and
+  one side equal to one side, namely, either the side adjoining the equal
+  angles, [1]_ or that subtending one of the equal angles, they will also
+  have the remaining sides equal to the remaining sides and the remaining angle
+  to the remaining angle. 
+
+  -- Euclid
 
 .. image:: elem.1.prop.26.png
    :align: right
    :width: 300px
 
-If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, [^I.26:1] or that subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides and the remaining angle to the remaining angle. 
-
-===
-
 Let `ABC`, `DEF` be two triangles having the two angles `ABC`, `BCA` equal to the two angles `DEF`, `EFD` respectively, namely the angle `ABC` to the angle `DEF`, and the angle `BCA` to the angle `EFD`; and let them also have one side equal to one side, first that adjoining the equal angles, namely `BC` to `EF`;
+
+.. image:: elem.1.prop.26.b.png
+   :align: right
+   :width: 300px
 
 I say that they will also have the remaining sides equal to the remaining sides respectively, namely `AB` to `DE` and `AC` to `DF`, and the remaining angle to the remaining angle, namely the angle `BAC` to the angle `EDF`.
 
@@ -27,7 +33,7 @@ Then, since `BG` is equal to `DE`, and `BC` to `EF`, the two sides `GB`, `BC` ar
 
 - therefore the base `GC` is equal to the base `DF`, and the triangle `GBC` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [I.4] therefore the angle `GCB` is equal to the angle `DFE`.
 
-But the angle `DFE` is by hypothesis equal to the angle `BCA`; [^I.26:2]
+But the angle `DFE` is by hypothesis equal to the angle `BCA`; [2]_
 
 - therefore the angle `BCG` is equal to the angle `BCA`, the less to the greater: which is impossible. Therefore `AB` is not unequal to `DE`, and is therefore equal to it.
 
@@ -69,15 +75,24 @@ Therefore etc.
 
 - Q. E. D.
 
-## References
+references
+----------
 
 [I.4]: /elem.1.4 "Book 1 - Proposition 4"
 [I.16]: /elem.1.16 "Book 1 - Proposition 16"
 
-## Footnotes
+footnotes
+---------
 
-[^I.26:1]: the side adjoining the equal angles,
+.. [1] the side adjoining the equal angles,
+
     <foreign lang="greek">πλευρὰν τὴν πρὸς ταῖς ἴσαις γωνίαις</foreign>.
 
-[^I.26:2]: is by hypothesis equal.
-    <foreign lang="greek">ὑπόκειται ἴση</foreign>, according to the elegant Greek idiom. <foreign lang="greek">ὑπόκειμαι</foreign> is used for the passive of <foreign lang="greek">ὑποτίθημι</foreign>, as <foreign lang="greek">κεῖμαι</foreign> is used for the passive of <foreign lang="greek">τίθημι,</foreign> and so with the other compounds. Cf. <foreign lang="greek">προσκεῖσθαι</foreign>, <quote>to be added.</quote>
+.. [2] is by hypothesis equal.
+   
+   <foreign lang="greek">ὑπόκειται ἴση</foreign>, according to the elegant
+   Greek idiom. <foreign lang="greek">ὑπόκειμαι</foreign> is used for the
+   passive of <foreign lang="greek">ὑποτίθημι</foreign>, as <foreign
+   lang="greek">κεῖμαι</foreign> is used for the passive of <foreign
+   lang="greek">τίθημι,</foreign> and so with the other compounds. Cf. <foreign
+   lang="greek">προσκεῖσθαι</foreign>, <quote>to be added.</quote>

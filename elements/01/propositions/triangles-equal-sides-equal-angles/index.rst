@@ -1,16 +1,10 @@
+.. index:: proof, triangles
+
 .. _I.4:
 .. _triangles with equal sides have equal angles:
 
 triangles with equal sides have equal angles
 ============================================
-
-.. index:: proof, triangles
-
-.. image:: elem.1.prop.4.png
-   :align: right
-   :width: 300px
-
-..
 
   I.4
 
@@ -19,10 +13,14 @@ triangles with equal sides have equal angles
   the base equal to the base, the triangle will be equal to the
   triangle, and the remaining angles will be equal to the remaining
   angles respectively, namely those which the equal sides subtend.
-  
+
 
   -- Euclid
 
+
+.. image:: elem.1.prop.4.png
+   :align: right
+   :width: 300px
 
 Let **ABC**, **DEF** be two triangles having the two sides **AB**, **AC** equal
 to the two sides **DE**, **DF** respectively, namely **AB** to **DE** and
@@ -55,7 +53,7 @@ the base **EF**.
 does not coincide with the base **EF**, two straight lines will enclose a
 space: which is impossible.
 
-- Therefore the base **BC** will coincide with **EF**] and will be
+:math:`\therefore` the base **BC** will coincide with **EF**] and will be
   equal to it. [I.c.n.4]
 
 Thus the whole triangle **ABC** will coincide with the whole triangle **DEF**,
@@ -66,28 +64,13 @@ And the remaining angles will also coincide with the remaining angles and will
 be equal to them, the angle **ABC** to the angle **DEF**, and the angle **ACB**
 to the angle **DFE**.
 
-Therefore etc. 
+:math:`\therefore` etc.
 
 - (Being) what it was required to prove.
 
 
-[I.c.n.4]: /elem.1.c.n.4 "Book 1 - Common Notion 4"
-
 dependencies
 ----------
 
-.. graph BT
-
-.. I_4[ I.4 ]:::prop;
-.. click I_4 "/elem.1.4" "Book I Proposition 4";
-
-.. %%%% dependencies
-
-
-.. I_cn4( I.cn.4 ):::cn;
-.. click I_cn4 "/elem.1.c.n.4" "Book I Common Notion 4";
-
-.. %%%% links
-
-.. I_4 --> I_cn4
+[I.c.n.4]: /elem.1.c.n.4 "Book 1 - Common Notion 4"
 

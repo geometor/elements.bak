@@ -1,26 +1,27 @@
+.. index:: construction, lines
+
 .. _I.2:
 .. _construct equal segments by extension:
 
 construct equal segments by extension
 =====================================
 
-.. index:: construction, lines
-
-.. image:: construct-equal-segments-by-extension.png
-   :align: right
-   :width: 300px
-
-..
+  I.2
 
   To place at a given point (as an extremity) a straight line equal to a given
   straight line.
 
   -- Euclid
 
-From the given points :math:`A` and :math:`B` :ref:`construct segment`
+.. image:: construct-equal-segments-by-extension.png
+   :align: right
+   :width: 300px
+
+
+From the given points :math:`A` and :math:`B` :ref:`set segment`
 :math:`\bar{AB}`.
 
-From the given points :math:`C` and :math:`D` :ref:`construct segment`
+From the given points :math:`C` and :math:`D` :ref:`set segment`
 :math:`\bar{CD}` shorter than :math:`\bar{AB}`.
 
 **PROBLEM:** Extend segment :math:`\bar{CD}` to a length equal to :math:`\bar{AB}`
@@ -33,7 +34,7 @@ With points :math:`A` and :math:`C` :ref:`construct segment` :math:`\bar{AC}`
 
 :ref:`contruct equilateral triangle` on :math:`\bar{AC}`
 
-Identify new point of equaliteral triangle  as :math:`E`
+identify new point of equaliteral triangle  as :math:`E`
 
 :ref:`construct line` :math:`\overline{EA}`
 
@@ -54,31 +55,33 @@ distance **DG** let the circle **GKL** be described. [I.post.3]
 
 Then, since the point **B** is the centre of the circle **CGH**, 
 
-- **BC** is equal to **BG**.
+:math:`\therefore` **BC** is equal to **BG**.
 
 Again, since the point **D** is the centre of the circle **GKL**, 
 
-- **DL** is equal to **DG**.
+:math:`\therefore` **DL** is equal to **DG**.
 
 And in these **DA** is equal to **DB**; 
 
-- therefore the remainder **AL** is equal to the remainder **BG**  [3]_.
+:math:`\therefore` the remainder **AL** is equal to the remainder **BG**  [3]_.
   [I.c.n.3]
 
 But **BC** was also proved equal to **BG**; 
 
-- therefore each of the straight lines **AL**, **BC** is equal to **BG**.
+:math:`\therefore` each of the straight lines **AL**, **BC** is equal to **BG**.
 
 And things which are equal to the same thing are also equal to one another;
 [I.c.n.1] 
 
-- therefore **AL** is also equal to **BC**.
+:math:`\therefore` **AL** is also equal to **BC**.
 
-Therefore at the given point **A** the straight line **AL** is placed equal to
+:math:`\therefore` at the given point **A** the straight line **AL** is placed equal to
 the given straight line **BC**.
 
 - (Being) what it was required to do.
 
+dependencies
+------------
 
 [I.def.15]: /elem.1.def.15 "Book I - Definition 15"
 [I.1]: /elem.1.1 "Book I - Proposition 1"
@@ -90,60 +93,8 @@ the given straight line **BC**.
 
 
 
-.. .. [references]
-.. graph BT
 
-.. I_2[ I.2 ]:::prop; 
-.. click I_2 "/elem.1.2" "Book I Proposition 2";
-
-.. %%%% I_2 dependencies
-
-.. I_1[ I.1 ]:::prop; 
-.. click I_1 "/elem.1.1" "Book I Proposition 1";
-
-.. I_post1( I.post.1 ):::post;
-.. click I_post1 "/elem.1.post.1" "Book I Postulate 1";
-
-.. I_post2( I.post.2 ):::post;
-.. click I_post2 "/elem.1.post.2" "Book I Postulate 2";
-
-.. I_post3( I.post.3 ):::post;
-.. click I_post3 "/elem.1.post.3" "Book I Postulate 3";
-
-.. I_def15( I.def.15 ):::def;
-.. click I_def15 "/elem.1.def.15" "Book I Definition 15";
-
-.. %%%% I_2 links
-
-.. I_2 --> I_1
-.. I_2 --> I_post1
-.. I_2 --> I_post2
-.. I_2 --> I_post3
-.. I_2 --> I_def15
-
-.. %%%% I_1 dependencies
-
-.. I_post1( I.post.1 ):::post;
-.. click I_post1 "/elem.1.post.1" "Book I Postulate 1";
-
-.. I_post3( I.post.3 ):::post
-.. click I_post3 "/elem.1.post.3" "Book I Postulate 3";
-
-.. I_def15( I.def.15 ):::def
-.. click I_def15 "/elem.1.def.15" "Book I Definition 15";
-
-.. I_cn1( I.c.n.1 ):::cn
-.. click I_cn1 "/elem.1.c.n.1" "Book I Common Notion 1";
-
-.. %%%% I_1 links
-
-.. I_1 --> I_post1
-.. I_1 --> I_post3
-.. I_1 --> I_def15
-.. I_1 --> I_cn1
-.. [/references]
-
-Footnotes
+footnotes
 ---------
 
 

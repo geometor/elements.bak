@@ -1,20 +1,10 @@
+.. index:: proof, triangles
+
 .. _I.7:
 .. _triangle sides are related to vertexes:
 
 the sides of a triangle are uniquely related to the position of the vertexes
 ============================================================================
-
-.. index:: proof, triangles
-
-.. image:: elem.1.prop.7.png
-   :align: right
-   :width: 300px
-
-.. image:: elem.1.prop.7.b.png
-   :align: right
-   :width: 300px
-
-..
 
   I.7
 
@@ -27,6 +17,10 @@ the sides of a triangle are uniquely related to the position of the vertexes
   -- Euclid
 
 
+.. image:: elem.1.prop.7.png
+   :align: right
+   :width: 300px
+
 For, if possible, given two straight lines **AC**, **CB** constructed on the
 straight line **AB** and meeting at the point **C**, let two other straight
 lines **AD**, **DB** be constructed on the same straight line **AB**, on the
@@ -35,6 +29,10 @@ respectively, namely each to that which has the same extremity with it, so that
 **CA** is equal to **DA** which has the same extremity **A** with it, and
 **CB** to **DB** which has the same extremity **B** with it; and let **CD** be
 joined.
+
+.. image:: elem.1.prop.7.b.png
+   :align: right
+   :width: 300px
 
 Then, since **AC** is equal to **AD**, 
 
@@ -57,7 +55,6 @@ Therefore etc.
 
 references
 ----------
-
 
 [I.5]: /elem.1.5 "Book 1 - Proposition 5"
 

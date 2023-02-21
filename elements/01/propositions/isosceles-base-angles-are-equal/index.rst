@@ -1,16 +1,10 @@
+.. index:: proof, triangles
+
 .. _1.5:
 .. _isosceles base angles are equal:
 
 The base angles of an isosceles triangle are equal
 ==================================================
-
-.. index:: proof, triangles
-
-.. image:: elem.1.prop.5.png
-   :align: right
-   :width: 300px
-
-..
 
   I.5
 
@@ -20,6 +14,10 @@ The base angles of an isosceles triangle are equal
 
   -- Euclid
 
+
+.. image:: elem.1.prop.5.png
+   :align: right
+   :width: 300px
 
 Let **ABC** be an isosceles triangle having the side **AB** equal to the side
 **AC**; and let the straight lines **BD**, **CE** be produced further in a
@@ -39,7 +37,7 @@ Then, since **AF** is equal to **AG** and **AB** to **AC**,
 
 and they contain a common angle, the angle **FAG**.
 
-- Therefore the base **FC** is equal to the base **GB**, and the triangle
+:math:`\therefore` the base **FC** is equal to the base **GB**, and the triangle
   **AFC** is equal to the triangle **AGB**,
 
 and the remaining angles will be equal to the remaining angles respectively,
@@ -53,15 +51,19 @@ And, since the whole **AF** is equal to the whole **AG**,
 - and in these **AB** is equal to **AC**, the remainder **BF** is equal to the
   remainder **CG**.
 
-But **FC** was also proved equal to **GB**; therefore the two sides **BF**,
+But **FC** was also proved equal to **GB**; 
+
+:math:`\therefore` the two sides **BF**,
 **FC** are equal to the two sides **CG**, **GB** respectively; and the angle
 **BFC** is equal to the angle **CGB**,
 
 - while the base **BC** is common to them; 
 
-therefore the triangle **BFC** is also equal to the triangle **CGB**, and the
+:math:`\therefore` the triangle **BFC** is also equal to the triangle **CGB**, and the
 remaining angles will be equal to the remaining angles respectively, namely
-those which the equal sides subtend; - therefore the angle **FBC** is equal to
+those which the equal sides subtend; 
+
+:math:`\therefore` the angle **FBC** is equal to
 the angle **GCB**, and the angle **BCF** to the angle **CBG**.
 
 Accordingly, since the whole angle **ABG** was proved equal to the angle
@@ -77,7 +79,7 @@ But the angle **FBC** was also proved equal to the angle **GCB**;
 
 - and they are under the base.
 
-Therefore etc.
+:math:`\therefore` etc.
 
 - Q. E. D. 
 
@@ -90,102 +92,6 @@ dependencies
 [I.post.2]: /elem.1.post.2 "Book 1 - Postulate 2"
 
 
-.. graph BT
-
-.. I_5[ I.5 ]:::prop;
-.. click I_5 "/elem.1.5" "Book I Proposition 5";
-
-.. %%%% dependencies
-
-.. I_1[ I.1 ]:::prop;
-.. click I_1 "/elem.1.1" "Book I Proposition 1";
-
-.. I_3[ I.3 ]:::prop;
-.. click I_3 "/elem.1.3" "Book I Proposition 3";
-
-.. I_post1( I.post.1 ):::post;
-.. click I_post1 "/elem.1.post.1" "Book I Postulate 1";
-
-.. I_post2( I.post.2 ):::post;
-.. click I_post2 "/elem.1.post.2" "Book I Postulate 2";
-
-
-.. %%%% links
-
-.. I_5 --> I_1
-.. I_5 --> I_3
-.. I_5 --> I_post1
-.. I_5 --> I_post2
-
-
-.. %%%% I_3 dependencies
-
-.. I_2[ I.2 ]:::prop;
-.. click I_2 "/elem.1.2" "Book I Proposition 2";
-
-.. I_post3( I.ax.3 ):::post;
-.. click I_post3 "/elem.1.post.3" "Book I Postulate 3";
-
-.. I_def15( I.def.15 ):::def;
-.. click I_def15 "/elem.1.def.15" "Book I Definition 15";
-
-.. I_cn1( I.cn.1 ):::cn;
-.. click I_cn1 "/elem.1.c.n.1" "Book I Common Notion 1";
-
-.. %%%% I_3 links
-
-.. I_3 --> I_2
-.. I_3 --> I_post3
-.. I_3 --> I_def15
-.. I_3 --> I_cn1
-
-.. %%%% I_2 dependencies
-
-.. I_1[ I.1 ]:::prop;
-.. click I_1 "/elem.1.1" "Book I Proposition 1";
-
-.. I_post1( I.post.1 ):::post;
-.. click I_post1 "/elem.1.post.1" "Book I Postulate 1";
-
-.. I_post2( I.post.2 ):::post;
-.. click I_post2 "/elem.1.post.2" "Book I Postulate 2";
-
-.. I_post3( I.post.3 ):::post;
-.. click I_post3 "/elem.1.post.3" "Book I Postulate 3";
-
-.. I_def15( I.def.15 ):::def;
-.. click I_def15 "/elem.1.def.15" "Book I Definition 15";
-
-.. %%%% I_2 links
-
-.. I_2 --> I_1
-.. I_2 --> I_post1
-.. I_2 --> I_post2
-.. I_2 --> I_post3
-.. I_2 --> I_def15
-
-.. %%%% I_1 dependencies
-
-.. I_post1( I.post.1 ):::post;
-.. click I_post1 "/elem.1.post.1" "Book I Postulate 1";
-
-.. I_post3( I.post.3 ):::post
-.. click I_post3 "/elem.1.post.3" "Book I Postulate 3";
-
-.. I_def15( I.def.15 ):::def
-.. click I_def15 "/elem.1.def.15" "Book I Definition 15";
-
-.. I_cn1( I.c.n.1 ):::cn
-.. click I_cn1 "/elem.1.c.n.1" "Book I Common Notion 1";
-
-.. %%%% I_1 links
-
-.. I_1 --> I_post1
-.. I_1 --> I_post3
-.. I_1 --> I_def15
-.. I_1 --> I_cn1
-
-.. [/references]
 
 footnotes
 ---------

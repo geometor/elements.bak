@@ -20,7 +20,7 @@ propositions
    adjacent-angles-equal-to-two-right-angles-make-a-line/index.rst
    opposing-angles-of-intersecting-lines-are-equal/index.rst
    exterior-angle-of-triangle-is-greater-than-either-the-interior-or-opposite-angles/index.rst
-   17/index.rst
+   sum-of-any-two-angles-of-triangle-is-less-than-two-right-angles/index.rst
    18/index.rst
    19/index.rst
    20/index.rst

@@ -19,6 +19,7 @@
         <script src="../../../../_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="../../../../_static/doctools.js"></script>
         <script src="../../../../_static/sphinx_highlight.js"></script>
+        <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="../../../../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../../../../genindex/" />
     <link rel="search" title="Search" href="../../../../search/" />
@@ -85,28 +86,27 @@
 <li class="toctree-l4"><a class="reference internal" href="../construct-equal-segments-by-extension/">construct equal segments by extension</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../construct-equal-segments-by-section/">construct equal segments by section</a></li>
 <li class="toctree-l4 current"><a class="current reference internal" href="#">triangles with equal sides have equal angles</a><ul>
-<li class="toctree-l5"><a class="reference internal" href="#references">references</a></li>
-<li class="toctree-l5"><a class="reference internal" href="#footnotes">footnotes</a></li>
+<li class="toctree-l5"><a class="reference internal" href="#dependencies">dependencies</a></li>
 </ul>
 </li>
 <li class="toctree-l4"><a class="reference internal" href="../isosceles-base-angles-are-equal/">The base angles of an isosceles triangle are equal</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../equal-triangle-angles-subtend-equal-sides/">when two angles of a triangle are equal, so are the subtended sides</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../triangle-sides-are-related-to-vertexes/">the sides of a triangle are uniquely related to the position of the vertexes</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../09/">bisect an angle</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../10/">bisect a segment</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../11/">construct a perpendicular from a point on a line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../12/">construct a perpendicular from a point not on a line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../13/">the angles created from intersecting lines are equal two right angles (on one side)</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../14/">adjacent angles equal to two right angles make a straight line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../15/">the opposing angles of intersecting lines are equal</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../16/">an exterior angle of a triangle is greater than the either the interior or opposite angles</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../17/">the sum of any two angles of a triangle is less than two right angles</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../18/">the greater side of a triangle subtends the greater angles</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../19/">the great angle of a triangle is subtended by the greater side</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../triangles-with-equal-sides-have-equal-angles/">triangles with equal sides have equal angles</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../bisect-angle/">bisect angle</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../bisect-segment/">bisect segment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../construct-perpendicular-from-point-on-line/">construct perpendicular from point on line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../construct-perpendicular-from-point-not-on-line/">construct perpendicular from point not on line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../angles-from-intersecting-lines-equal-two-right-angles/">angles from intersecting lines equal two right angles (on one side)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../adjacent-angles-equal-to-two-right-angles-make-a-line/">adjacent angles equal to two right angles make a line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../opposing-angles-of-intersecting-lines-are-equal/">opposing angles of intersecting lines are equal</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../sum-of-any-two-angles-of-triangle-is-less-than-two-right-angles/">the sum of any two angles of a triangle is less than two right angles</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../18/">the greater side of a triangle subtends the greater angle</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../19/">the greater angle of a triangle is subtended by the greater side</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../20/">any two sides of a triangle are greater than the remaining side</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../21/">Proposition I.21</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../22/">construct a triangle from three segments</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../23/">construct an angle equal to another on a given segment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../23/">construct a given angle on a given segment</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../24/">similar triangles</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../25/">similar triangles</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../26/">similar triangles</a></li>
@@ -172,20 +172,20 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
               <section id="triangles-with-equal-sides-have-equal-angles">
-<span id="i-4"></span><span id="id1"></span><h1>triangles with equal sides have equal angles<a class="headerlink" href="#triangles-with-equal-sides-have-equal-angles" title="Permalink to this heading"></a></h1>
-<a class="reference internal image-reference" href="../../../../_images/elem.1.prop.4.png" id="index-0"><img alt="../../../../_images/elem.1.prop.4.png" class="align-right" id="index-0" src="../../../../_images/elem.1.prop.4.png" style="width: 300px;" /></a>
+<span id="i-4"></span><span id="index-0"></span><span id="id1"></span><h1>triangles with equal sides have equal angles<a class="headerlink" href="#triangles-with-equal-sides-have-equal-angles" title="Permalink to this heading"></a></h1>
 <blockquote>
-<div><p>If two triangles have the two sides equal to two sides respectively, and have
+<div><p>I.4</p>
+<p>If two triangles have the two sides equal to two sides respectively, and have
 the angles contained by the equal straight lines equal, they will also have
-the base <a class="footnote-reference brackets" href="#id12" id="id2">3</a> equal to the base, the triangle will be equal to the
-triangle, and the remaining angles <a class="footnote-reference brackets" href="#id10" id="id3">1</a> will be equal to the remaining
-angles respectively, <a class="footnote-reference brackets" href="#id11" id="id4">2</a> namely those which the equal sides subtend.
-<a class="footnote-reference brackets" href="#id13" id="id5">4</a></p>
+the base equal to the base, the triangle will be equal to the
+triangle, and the remaining angles will be equal to the remaining
+angles respectively, namely those which the equal sides subtend.</p>
 <p class="attribution">—Euclid</p>
 </div></blockquote>
+<a class="reference internal image-reference" href="../../../../_images/elem.1.prop.4.png"><img alt="../../../../_images/elem.1.prop.4.png" class="align-right" src="../../../../_images/elem.1.prop.4.png" style="width: 300px;" /></a>
 <p>Let <strong>ABC</strong>, <strong>DEF</strong> be two triangles having the two sides <strong>AB</strong>, <strong>AC</strong> equal
 to the two sides <strong>DE</strong>, <strong>DF</strong> respectively, namely <strong>AB</strong> to <strong>DE</strong> and
-<strong>AC</strong> to <strong>DF</strong>, and the angle <strong>BAC</strong> <a class="footnote-reference brackets" href="#id14" id="id6">5</a>  equal to the angle <strong>EDF</strong>.</p>
+<strong>AC</strong> to <strong>DF</strong>, and the angle <strong>BAC</strong> equal to the angle <strong>EDF</strong>.</p>
 <p>I say that the base <strong>BC</strong> is also equal to the base <strong>EF</strong>, the triangle
 <strong>ABC</strong> will be equal to the triangle <strong>DEF</strong>, and the remaining angles will be
 equal to the remaining angles respectively, namely those which the equal sides
@@ -196,7 +196,7 @@ to the angle <strong>DFE</strong>.</p>
 <li><p>and if the point <strong>A</strong> be placed on the point <strong>D</strong> and the straight line
 <strong>AB</strong> on <strong>DE</strong>,</p></li>
 </ul>
-<p>then the point <strong>B</strong> will also coincide <a class="footnote-reference brackets" href="#id15" id="id7">6</a> with <strong>E</strong>, because <strong>AB</strong> is
+<p>then the point <strong>B</strong> will also coincide with <strong>E</strong>, because <strong>AB</strong> is
 equal to <strong>DE</strong>.</p>
 <p>Again, <strong>AB</strong> coinciding with <strong>DE</strong>, the straight line <strong>AC</strong> will also
 coincide with <strong>DF</strong>, because the angle <strong>BAC</strong> is equal to the angle <strong>EDF</strong>;</p>
@@ -209,10 +209,10 @@ the base <strong>EF</strong>.</p>
 <p>[For if, when <strong>B</strong> coincides with <strong>E</strong> and <strong>C</strong> with <strong>F</strong>, the base <strong>BC</strong>
 does not coincide with the base <strong>EF</strong>, two straight lines will enclose a
 space: which is impossible.</p>
-<ul class="simple">
-<li><p>Therefore the base <strong>BC</strong> will coincide with <strong>EF</strong>] <a class="footnote-reference brackets" href="#id16" id="id8">7</a> and will be
-equal to it. [I.c.n.4]</p></li>
-</ul>
+<dl class="simple">
+<dt><span class="math notranslate nohighlight">\(\therefore\)</span> the base <strong>BC</strong> will coincide with <strong>EF</strong>] and will be</dt><dd><p>equal to it. [I.c.n.4]</p>
+</dd>
+</dl>
 <p>Thus the whole triangle <strong>ABC</strong> will coincide with the whole triangle <strong>DEF</strong>,</p>
 <ul class="simple">
 <li><p>and will be equal to it.</p></li>
@@ -220,120 +220,13 @@ equal to it. [I.c.n.4]</p></li>
 <p>And the remaining angles will also coincide with the remaining angles and will
 be equal to them, the angle <strong>ABC</strong> to the angle <strong>DEF</strong>, and the angle <strong>ACB</strong>
 to the angle <strong>DFE</strong>.</p>
-<p>Therefore etc. <a class="footnote-reference brackets" href="#id17" id="id9">8</a></p>
+<p><span class="math notranslate nohighlight">\(\therefore\)</span> etc.</p>
 <ul class="simple">
 <li><p>(Being) what it was required to prove.</p></li>
 </ul>
+<section id="dependencies">
+<h2>dependencies<a class="headerlink" href="#dependencies" title="Permalink to this heading"></a></h2>
 <p>[I.c.n.4]: /elem.1.c.n.4 “Book 1 - Common Notion 4”</p>
-<section id="references">
-<h2>references<a class="headerlink" href="#references" title="Permalink to this heading"></a></h2>
-</section>
-<section id="footnotes">
-<h2>footnotes<a class="headerlink" href="#footnotes" title="Permalink to this heading"></a></h2>
-<dl class="footnote brackets">
-<dt class="label" id="id10"><span class="brackets"><a class="fn-backref" href="#id3">1</a></span></dt>
-<dd><p>enunciation</p>
-<p>It is a fact that Euclid’s enunciations not infrequently leave something to
-be desired in point of clearness and precision. Here he speaks of the
-triangles having &lt;quote&gt;the angle equal to the angle, namely the angle
-contained by the equal straight lines&lt;/quote&gt; (&lt;foreign lang=”greek”&gt;τὴν
-γωνίαν τῇ γωνίᾳ ἴσην ἔχῃ τὴν ὑπὸ τῶν ἴσων εὐθειῶν περιεχομένην&lt;/foreign&gt;),
-only one of the two angles being described in the latter expression (in the
-accusative), and a similar expression in the dative being left to be
-understood of the other angle. It is curious too that, after mentioning two
-&lt;quote&gt;&lt;em&gt;sides&lt;/em&gt;,&lt;/quote&gt; he speaks of the angles contained by the
-equal &lt;quote&gt;&lt;em&gt;straight lines&lt;/em&gt;,&lt;/quote&gt; not
-&lt;quote&gt;&lt;em&gt;sides&lt;/em&gt;.&lt;/quote&gt; It may be that he wished to adhere
-scrupulously, at the outset, to the phraseology of the definitions, where
-the angle is the inclination to one another of two &lt;em&gt;lines&lt;/em&gt; or
-&lt;em&gt;straight lines&lt;/em&gt;. Similarly in the enunciation of [&lt;a
-href=”/elem.1.5”&gt;I. 5&lt;/a&gt;] he speaks of producing the equal &lt;quote&gt;straight
-lines&lt;/quote&gt; as if to keep strictly to the wording of [&lt;a
-href=”/elem.1.post.2”&gt;Postulate 2&lt;/a&gt;.</p>
-</dd>
-<dt class="label" id="id11"><span class="brackets"><a class="fn-backref" href="#id4">2</a></span></dt>
-<dd><p>respectively.</p>
-<p>I agree with Mr H. M. Taylor (&lt;title&gt;Euclid&lt;/title&gt;, p. ix) that it is best
-to abandon the traditional translation of &lt;quote&gt;each to each,&lt;/quote&gt; which
-would naturally seem to imply that all the four magnitudes are equal rather
-than (as the Greek &lt;foreign lang=”greek”&gt;ὲκατέρα ὲκατέρᾳ&lt;/foreign&gt; does)
-that one is equal to one and the other to the other.</p>
-</dd>
-<dt class="label" id="id12"><span class="brackets"><a class="fn-backref" href="#id2">3</a></span></dt>
-<dd><p>the base.</p>
-<p>Here we have the word &lt;em&gt;base&lt;/em&gt; used for the first time in the
-&lt;title&gt;Elements&lt;/title&gt;. Proclus explains it (&lt;xref n=”Proc. p.  236, 12-15”
-from=”ROOT” to=”DITTO”&gt;p. 236, 12-15&lt;/xref&gt;) as meaning (1), when no side of
-a triangle has been mentioned before, the side &lt;quote&gt;which is on a level
-with the sight&lt;/quote&gt; (&lt;foreign lang=”greek”&gt;τὴν πρὸς τῇ ὄψει
-κειμένην&lt;/foreign&gt;), and (2), when two sides have already been mentioned,
-the third side. Proclus thus avoids the mistake made by some modern editors
-who explain the term exclusively with reference to the case where two sides
-have been mentioned before. That this is an error is proved (1) by the
-occurrence of the term in the enunciations of &lt;a href=”/elem.1.37”&gt;I. 37&lt;/a&gt;
-etc. about triangles on the same base and equal bases, (2) by the
-application of the same term to the bases of parallelograms in &lt;a
-href=”/elem.1.35”&gt;I. 35&lt;/a&gt; etc. The truth is that the use of the term must
-have been suggested by the practice of drawing the particular side
-horizontally, as it were, and the rest of the figure above it. The
-&lt;em&gt;base&lt;/em&gt; of a figure was therefore spoken of, primarily, in the same
-sense as the base of anything &lt;pb n=”249”/&gt;else, e.g. of a pedestal or
-column; but when, as in &lt;a href=”/elem.1.5”&gt;I. 5&lt;/a&gt;, two triangles were
-compared occupying other than the normal positions which gave rise to the
-name, and when two sides had been previously mentioned, the base was, as
-Proclus says, necessarily the third side.</p>
-</dd>
-<dt class="label" id="id13"><span class="brackets"><a class="fn-backref" href="#id5">4</a></span></dt>
-<dd><p>subtend.</p>
-<p>&lt;foreign lang=”greek”&gt;ὑποτείνειν ὑπό&lt;/foreign&gt;, &lt;quote&gt;to stretch
-under,&lt;/quote&gt; with accusative.</p>
-</dd>
-<dt class="label" id="id14"><span class="brackets"><a class="fn-backref" href="#id6">5</a></span></dt>
-<dd><p>the angle BAC.</p>
-<p>The full Greek expression would be &lt;foreign lang=”greek”&gt;ἡ ὑπὸ τῶν ΒΑ, ΑΓ
-περιεχομένη γωνία&lt;/foreign&gt;, &lt;quote&gt;the angle contained by the (straight
-lines) <strong>BA</strong>, <strong>AC</strong>.&lt;/quote&gt; But it was a common practice of Greek
-geometers, e.g. of Archimedes and Apollonius (and Euclid too in Books
-X.—XIII.), to use the abbreviation &lt;foreign lang=”greek”&gt;αἱ ΒΑΓ&lt;/foreign&gt;
-for &lt;foreign lang=”greek”&gt;αἱ ΒΑ, ΑΓ&lt;/foreign&gt;, &lt;quote&gt;the (straight lines)
-<strong>BA</strong>, <strong>AC</strong>.&lt;/quote&gt; Thus, on &lt;foreign lang=”greek”&gt;περιεχομένη&lt;/foreign&gt;
-being dropped, the expression would become first &lt;foreign lang=”greek”&gt;ἡ ὑπὸ
-τῶν ΒΑΓ γωνία&lt;/foreign&gt;, then &lt;foreign lang=”greek”&gt;ἡ ὑπὸ ΒΑΓ
-γωνία&lt;/foreign&gt;, and finally &lt;foreign lang=”greek”&gt;ἡ ὑπὸ ΒΑΓ&lt;/foreign&gt;,
-without &lt;foreign lang=”greek”&gt;γωνία&lt;/foreign&gt;, as we regularly find it in
-Euclid.</p>
-</dd>
-<dt class="label" id="id15"><span class="brackets"><a class="fn-backref" href="#id7">6</a></span></dt>
-<dd><p>if the triangle be applied to…coincide.</p>
-<p>The difference between the technical use of the passive &lt;foreign
-lang=”greek”&gt;ἐφαρμόζεσθαι&lt;/foreign&gt; &lt;quote&gt;to be &lt;em&gt;applied&lt;/em&gt;
-(to),&lt;/quote&gt; and of the active &lt;foreign lang=”greek”&gt;ἐφαρμόζειν&lt;/foreign&gt;
-&lt;quote&gt;to &lt;em&gt;coincide&lt;/em&gt; (with)&lt;/quote&gt; has been noticed above (note on
-&lt;title&gt;Common Notion&lt;/title&gt; 4, pp. 224-5).</p>
-</dd>
-<dt class="label" id="id16"><span class="brackets"><a class="fn-backref" href="#id8">7</a></span></dt>
-<dd><p>[For if, when B coincides…36. coincide with EF].</p>
-<p>Heiberg (&lt;title&gt;Paralipomena su Euklid&lt;/title&gt; in &lt;title&gt;Hermes&lt;/title&gt;,
-XXXVIII., 1903, p. 56) has pointed out, as a conclusive reason for regarding
-these words as an early interpolation, that the text of an-Nairīzī
-(&lt;title&gt;Codex Leidensis&lt;/title&gt; 399, 1, ed. Besthorn-Heiberg, p. 55) does
-not give the words in this place but after the conclusion Q.E.D., which
-shows that they constitute a &lt;em&gt;scholium&lt;/em&gt; only. They were doubtless
-added by some commentator who thought it necessary to explain the immediate
-inference that, since <strong>B</strong> coincides with <strong>E</strong> and <strong>C</strong> with <strong>F</strong>, the
-straight line <strong>BC</strong> coincides with the straight line <strong>EF</strong>, an inference
-which really follows from the definition of a straight line and &lt;a
-href=”/elem.1.post.1”&gt;Post. 1&lt;/a&gt;; and no doubt the Postulate that
-&lt;quote&gt;Two straight lines cannot enclose a space&lt;/quote&gt; (afterwards placed
-among the &lt;title&gt;Common Notions&lt;/title&gt;) was interpolated at the same time.</p>
-</dd>
-<dt class="label" id="id17"><span class="brackets"><a class="fn-backref" href="#id9">8</a></span></dt>
-<dd><p>Therefore etc.</p>
-<p>Where (as here) Euclid’s &lt;em&gt;conclusion&lt;/em&gt; merely repeats the enunciation
-word for word, I shall avoid the repetition and write &lt;quote&gt;Therefore
-etc.&lt;/quote&gt; simply.</p>
-</dd>
-</dl>
 </section>
 </section>
 

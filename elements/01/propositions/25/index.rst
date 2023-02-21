@@ -1,21 +1,28 @@
+.. index:: proof, triangles
+
+.. _I.25:
+.. _similar triangles 3:
+
 similar triangles
 =================
 
-.. index:: proof, triangles
+  I.25
 
-.. image:: elem.1.prop.25.b.png
-   :align: right
-   :width: 300px
+  If two triangles have the two sides equal to two sides respectively, but have
+  the base greater than the base, they will also have the one of the angles
+  contained by the equal straight lines greater than the other.
+
+  -- Euclid
 
 .. image:: elem.1.prop.25.png
    :align: right
    :width: 300px
 
-If two triangles have the two sides equal to two sides respectively, but have the base greater than the base, they will also have the one of the angles contained by the equal straight lines greater than the other.
-
-===
-
 Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the two sides `DE`, `DF` respectively, namely `AB` to `DE`, and `AC` to `DF`; and let the base `BC` be greater than the base `EF`;
+
+.. image:: elem.1.prop.25.b.png
+   :align: right
+   :width: 300px
 
 I say that the angle `BAC` is also greater than the angle `EDF`.
 
@@ -37,7 +44,8 @@ Therefore etc.
 
 - Q. E. D.
 
-## References
+references
+----------
 
 [I.4]: /elem.1.4 "Book 1 - Proposition 4"
 [I.24]: /elem.1.24 "Book 1 - Proposition 24"

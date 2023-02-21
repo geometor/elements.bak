@@ -1,15 +1,24 @@
+.. index:: proof, parallels
+
+.. _I.28:
+.. _similar angles from line intersecting parallels:
+
 similar angles from line intersecting parallels
 ===============================================
 
-.. index:: proof, parallels
+  I.28
+  
+  If a straight line falling on two straight lines make the exterior angle
+  equal to the interior and opposite angle on the same side, or the interior
+  angles on the same side equal to two right angles, the straight lines will be
+  parallel to one another. 
+
+  -- Euclid
+
 
 .. image:: elem.1.prop.28.png
    :align: right
    :width: 300px
-
-If a straight line falling on two straight lines make the exterior angle equal to the interior and opposite angle on the same side, or the interior angles on the same side equal to two right angles, the straight lines will be parallel to one another. 
-
-===
 
 For let the straight line `EF` falling on the two straight lines `AB`, `CD` make the exterior angle `EGB` equal to the interior and opposite angle `GHD`, or the interior angles on the same side, namely `BGH`, `GHD`, equal to two right angles;
 
@@ -29,7 +38,8 @@ Therefore etc.
 
 - Q. E. D.
 
-## References
+references
+----------
 
 [I.13]: /elem.1.13 "Book 1 - Proposition 13"
 [I.15]: /elem.1.15 "Book 1 - Proposition 15"

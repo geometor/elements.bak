@@ -19,6 +19,7 @@
         <script src="../../../../_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="../../../../_static/doctools.js"></script>
         <script src="../../../../_static/sphinx_highlight.js"></script>
+        <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="../../../../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../../../../genindex/" />
     <link rel="search" title="Search" href="../../../../search/" />
@@ -91,21 +92,21 @@
 <li class="toctree-l4"><a class="reference internal" href="../isosceles-base-angles-are-equal/">The base angles of an isosceles triangle are equal</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../equal-triangle-angles-subtend-equal-sides/">when two angles of a triangle are equal, so are the subtended sides</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../triangle-sides-are-related-to-vertexes/">the sides of a triangle are uniquely related to the position of the vertexes</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../09/">bisect an angle</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../10/">bisect a segment</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../11/">construct a perpendicular from a point on a line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../12/">construct a perpendicular from a point not on a line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../13/">the angles created from intersecting lines are equal two right angles (on one side)</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../14/">adjacent angles equal to two right angles make a straight line</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../15/">the opposing angles of intersecting lines are equal</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../16/">an exterior angle of a triangle is greater than the either the interior or opposite angles</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../17/">the sum of any two angles of a triangle is less than two right angles</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../18/">the greater side of a triangle subtends the greater angles</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../19/">the great angle of a triangle is subtended by the greater side</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../triangles-with-equal-sides-have-equal-angles/">triangles with equal sides have equal angles</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../bisect-angle/">bisect angle</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../bisect-segment/">bisect segment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../construct-perpendicular-from-point-on-line/">construct perpendicular from point on line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../construct-perpendicular-from-point-not-on-line/">construct perpendicular from point not on line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../angles-from-intersecting-lines-equal-two-right-angles/">angles from intersecting lines equal two right angles (on one side)</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../adjacent-angles-equal-to-two-right-angles-make-a-line/">adjacent angles equal to two right angles make a line</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../opposing-angles-of-intersecting-lines-are-equal/">opposing angles of intersecting lines are equal</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../sum-of-any-two-angles-of-triangle-is-less-than-two-right-angles/">the sum of any two angles of a triangle is less than two right angles</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../18/">the greater side of a triangle subtends the greater angle</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../19/">the greater angle of a triangle is subtended by the greater side</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../20/">any two sides of a triangle are greater than the remaining side</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../21/">Proposition I.21</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../22/">construct a triangle from three segments</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../23/">construct an angle equal to another on a given segment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../23/">construct a given angle on a given segment</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../24/">similar triangles</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../25/">similar triangles</a></li>
 <li class="toctree-l4"><a class="reference internal" href="../26/">similar triangles</a></li>
@@ -171,14 +172,15 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
               <section id="construct-equal-segments-by-section">
-<span id="i-3"></span><span id="id1"></span><h1>construct equal segments by section<a class="headerlink" href="#construct-equal-segments-by-section" title="Permalink to this heading"></a></h1>
-<a class="reference internal image-reference" href="../../../../_images/construct-equal-segments-by-section.png" id="index-0"><img alt="../../../../_images/construct-equal-segments-by-section.png" class="align-right" id="index-0" src="../../../../_images/construct-equal-segments-by-section.png" style="width: 300px;" /></a>
+<span id="i-3"></span><span id="index-0"></span><span id="id1"></span><h1>construct equal segments by section<a class="headerlink" href="#construct-equal-segments-by-section" title="Permalink to this heading"></a></h1>
 <blockquote>
-<div><p>Given two unequal straight lines, to cut off from the greater a straight line
+<div><p>I.3</p>
+<p>Given two unequal straight lines, to cut off from the greater a straight line
 equal to the less.</p>
 <p class="attribution">—Euclid</p>
 </div></blockquote>
-<p>Let <strong>AB</strong>, <strong>C</strong> be the-two given unequal straight lines, and let <strong>AB</strong> be
+<a class="reference internal image-reference" href="../../../../_images/construct-equal-segments-by-section.png"><img alt="../../../../_images/construct-equal-segments-by-section.png" class="align-right" src="../../../../_images/construct-equal-segments-by-section.png" style="width: 300px;" /></a>
+<p>Let <strong>AB</strong>, <strong>C</strong> be the two given unequal straight lines, and let <strong>AB</strong> be
 the greater of them.</p>
 <p>Thus it is required to cut off from <strong>AB</strong> the greater a straight line equal to
 <strong>C</strong> the less.</p>
@@ -186,10 +188,10 @@ the greater of them.</p>
 and with centre <strong>A</strong> and distance <strong>AD</strong> let the circle <strong>DEF</strong> be described.
 [I.post.3]</p>
 <p>Now, since the point <strong>A</strong> is the centre of the circle <strong>DEF</strong>, <strong>AE</strong> is equal
-to <strong>AD</strong>. [I.def.15] But <strong>C</strong> is also equal to <strong>AD</strong>.  - Therefore each of
-the straight lines <strong>AE</strong>, <strong>C</strong> is equal to <strong>AD</strong>; so that <strong>AE</strong> is also
+to <strong>AD</strong>. [I.def.15] But <strong>C</strong> is also equal to <strong>AD</strong>.</p>
+<p><span class="math notranslate nohighlight">\(\therefore\)</span> each of the straight lines <strong>AE</strong>, <strong>C</strong> is equal to <strong>AD</strong>; so that <strong>AE</strong> is also
 equal to <strong>C</strong>. [I.c.n.1]</p>
-<p>Therefore, given the two straight lines <strong>AB</strong>, <strong>C</strong>, from <strong>AB</strong> the greater
+<p><span class="math notranslate nohighlight">\(\therefore\)</span>, given the two straight lines <strong>AB</strong>, <strong>C</strong>, from <strong>AB</strong> the greater
 <strong>AE</strong> has been cut off equal to <strong>C</strong> the less.</p>
 <ul class="simple">
 <li><p>(Being) what it was required to do.</p></li>

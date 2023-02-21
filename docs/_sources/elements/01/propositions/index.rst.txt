@@ -12,15 +12,15 @@ propositions
    equal-triangle-angles-subtend-equal-sides/index.rst
    triangle-sides-are-related-to-vertexes/index.rst
    triangles-with-equal-sides-have-equal-angles/index.rst
-   09/index.rst
-   10/index.rst
-   11/index.rst
-   12/index.rst
-   13/index.rst
-   14/index.rst
-   15/index.rst
-   16/index.rst
-   17/index.rst
+   bisect-angle/index.rst
+   bisect-segment/index.rst
+   construct-perpendicular-from-point-on-line/index.rst
+   construct-perpendicular-from-point-not-on-line/index.rst
+   angles-from-intersecting-lines-equal-two-right-angles/index.rst
+   adjacent-angles-equal-to-two-right-angles-make-a-line/index.rst
+   opposing-angles-of-intersecting-lines-are-equal/index.rst
+   exterior-angle-of-triangle-is-greater-than-either-the-interior-or-opposite-angles/index.rst
+   sum-of-any-two-angles-of-triangle-is-less-than-two-right-angles/index.rst
    18/index.rst
    19/index.rst
    20/index.rst

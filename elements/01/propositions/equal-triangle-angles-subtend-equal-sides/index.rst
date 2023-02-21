@@ -1,16 +1,10 @@
+.. index:: proof, triangles
+
 .. _I.6:
 .. _equal triangle angles of triangle subtend equal sides
 
 when two angles of a triangle are equal, so are the subtended sides
 ===================================================================
-
-.. index:: proof, triangles
-
-.. image:: elem.1.prop.6.png
-   :align: right
-   :width: 300px
-
-..
 
   I.6
 
@@ -19,6 +13,10 @@ when two angles of a triangle are equal, so are the subtended sides
 
   -- Euclid
 
+
+.. image:: elem.1.prop.6.png
+   :align: right
+   :width: 300px
 
 Let **ABC** be a triangle having the angle **ABC** equal to the angle **ACB**; 
 

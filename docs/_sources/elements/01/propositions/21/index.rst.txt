@@ -1,13 +1,26 @@
+.. index:: triangle
+
+.. _!.21:
+
 Proposition I.21
 ================
+
+
+  I.21
+
+  If on one of the sides of a triangle, from its extremities, there be
+  constructed two straight lines meeting within the triangle, [1]_ the
+  straight lines so constructed [2]_ will be less than the remaining two
+  sides of the triangle, but will contain a greater angle.
+
+  -- Euclid
+
+.. todo:: update title
 
 .. image:: elem.1.prop.21.png
    :align: right
    :width: 300px
 
-If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle,[^I.21:1] the straight lines so constructed [^I.21:2] will be less than the remaining two sides of the triangle, but will contain a greater angle.
-
-===
 
 On `BC`, one of the sides of the triangle `ABC`, from its extremities `B`, `C`, let the two straight lines `BD`, `DC` be constructed  meeting within the triangle;
 
@@ -47,15 +60,24 @@ Therefore etc.
 
 - Q. E. D.
 
-## References
+references
+----------
 
 [I.20]: /elem.1.20 "Book 1 - Proposition 20"
 [I.16]: /elem.1.16 "Book 1 - Proposition 16"
 
-## Footnotes
+footnotes
+---------
 
-[^I.21:1]: be constructed...meeting within the triangle.
-  The word <quote>meeting</quote> is not in the Greek, where the words are <foreign lang="greek">ἐντὸς συσταθῶσιν. συνίστασθαι</foreign> is the word used of constructing two straight lines <em>to a point</em> (cf. <a href="/elem.1.7">I. 7</a>) or so as to form a triangle; but it is necessary in English to indicate that they <em>meet</em>.
+.. [1] be constructed...meeting within the triangle.
 
-[^I.21:2]: the straight lines so constructed.
-  Observe the elegant brevity of the Greek <foreign lang="greek">αἱ συσταθεῖσαι</foreign>.
+   The word <quote>meeting</quote> is not in the Greek, where the words are
+   <foreign lang="greek">ἐντὸς συσταθῶσιν. συνίστασθαι</foreign> is the word
+   used of constructing two straight lines <em>to a point</em> (cf. <a
+   href="/elem.1.7">I. 7</a>) or so as to form a triangle; but it is necessary
+   in English to indicate that they <em>meet</em>.
+
+.. [2] the straight lines so constructed.
+   
+   Observe the elegant brevity of the Greek <foreign lang="greek">αἱ συσταθεῖσαι</foreign>.
+
