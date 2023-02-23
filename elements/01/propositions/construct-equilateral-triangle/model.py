@@ -7,6 +7,11 @@ construct an equilateral triangle on a segment
 """
 from geometor import *
 
+FIG_W = 10
+FIG_H = 11
+
+plt.rcParams['figure.figsize'] = [FIG_W, FIG_H]
+
 def construct_equilateral_poles(M, pt_1, pt_2):
     """\
     From two points, return the equistant points on either side
@@ -54,8 +59,22 @@ if __name__ == '__main__':
     # PLOT *********************************
     #  print_log(f'\nPLOT: {NAME}')
 
+
     fig, (ax, ax_btm) = plt.subplots(2, 1, gridspec_kw={'height_ratios': [10, 1]})
+    fig.set_facecolor('#111111')
+    ax.axis(False)
+    #  ax.grid(color='r')
+    #  ax.spines['left'].set_color('k')
+    #  ax.spines['right'].set_color('k')
+    #  ax.spines['top'].set_color('k')
+    #  ax.spines['bottom'].set_color('k')
+    #  ax.tick_params(color='#999999', labelcolor='#999999', grid_color='#999999')
+    ax.set_aspect('equal')
+    ax.invert_yaxis()
+    #  ax.set_xticks([-1, 0, 1], labels=[r'$-1$', '$0$', '$1$'])
+    #  ax.set_xticks([0.5], labels=[r'$\frac{1}{2}$'], minor=True)
     plt.tight_layout()
 
     plot_model(NAME, ax, ax_btm, M)
 
+    plt.show()
