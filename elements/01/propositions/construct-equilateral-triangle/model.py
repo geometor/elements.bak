@@ -49,11 +49,13 @@ if __name__ == '__main__':
     M.labels[C] = 'C'
     M.labels[D] = 'D'
 
-    t1 = M.set_polygon([A, B, C])
-    demonstrate_equilateral(M, t1)
+    t_1 = M.set_polygon([A, B, C])
+    M.labels[t_1] = 't_1'
+    demonstrate_equilateral(M, t_1)
     
-    t2 = M.set_polygon([A, B, D])
-    demonstrate_equilateral(M, t2)
+    t_2 = M.set_polygon([A, B, D])
+    M.labels[t_2] = 't_2'
+    demonstrate_equilateral(M, t_2)
 
     M.summary()
 
