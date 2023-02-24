@@ -22,8 +22,15 @@ def construct_equilateral_poles(M, pt_1, pt_2):
     :returns: list of two pole points
 
     """
-    M.construct_circle(pt_1, pt_2)
-    M.construct_circle(pt_2, pt_1)
+
+    c_1 = M.construct_circle(pt_1, pt_2, classes=['guide'])
+    c_2 = M.construct_circle(pt_2, pt_1, classes=['guide'])
+
+    pts = c_1.intersection(c_2)
+
+    parents = {c_1:'', c_2:''}
+    for pt in pts:
+        M.add_point(pt, parents=parents) 
 
     return M.points()[-2:]
 
@@ -44,18 +51,31 @@ if __name__ == '__main__':
 
     M.set_segment(C, D)
     
-    M.construct_circle(A, B)
-    M.construct_circle(C, D)
+    #  M.construct_circle(A, B)
+    #  M.construct_circle(C, D)
     E, _ = construct_equilateral_poles(M, A, C)
     M.labels[E] = 'E'
 
     M.construct_line(E, A)
+    M.construct_circle(A, B)
+
     F = M.points()[-1]
     M.labels[F] = 'F'
 
     M.construct_circle(E, F)
 
     M.construct_line(E, C)
+    G = M.points()[-1]
+    M.labels[G] = 'G'
+
+    M.construct_circle(C, G)
+    M.construct_line(C, D)
+
+    H = M.points()[-1]
+    M.labels[H] = 'H'
+
+    M.set_segment(C, H)
+
 
     M.summary()
 
