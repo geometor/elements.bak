@@ -41,10 +41,13 @@ if __name__ == '__main__':
 
     M = Model()
     # TODO: add label to Models
-    A = M.set_point(0, 0, classes=['start'])
-    B = M.set_point(1, 0, classes=['start'])
+    A = M.set_point(0, 0, classes=['start'], label='A')
+    B = M.set_point(1, 0, classes=['start'], label='B')
 
     C, D = construct_equilateral_poles(M, A, B)
+
+    M.labels[C] = 'C'
+    M.labels[D] = 'D'
 
     t1 = M.set_polygon([A, B, C])
     demonstrate_equilateral(M, t1)
@@ -52,13 +55,7 @@ if __name__ == '__main__':
     t2 = M.set_polygon([A, B, D])
     demonstrate_equilateral(M, t2)
 
-    print(M)
     M.summary()
-
-
-    # PLOT *********************************
-    #  print_log(f'\nPLOT: {NAME}')
-
 
     fig, (ax, ax_btm) = plt.subplots(2, 1, gridspec_kw={'height_ratios': [10, 1]})
     fig.set_facecolor('#111111')
