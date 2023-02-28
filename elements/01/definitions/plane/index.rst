@@ -1,11 +1,10 @@
+.. index:: plane
+
+
 .. _plane:
 
 plane
 =====
-
-.. index:: plane
-
-..
 
   A **surface** is that which has length and breadth only.
 

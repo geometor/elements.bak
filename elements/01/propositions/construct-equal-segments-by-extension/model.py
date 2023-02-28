@@ -40,7 +40,6 @@ if __name__ == '__main__':
     NAME = 'construct equilateral triangle'
 
     M = Model()
-    # TODO: add label to Models
     A = M.set_point(0, 0, classes=['start'], label='A')
     B = M.set_point(1, 0, classes=['start'], label='B')
 
@@ -51,8 +50,6 @@ if __name__ == '__main__':
 
     M.set_segment(C, D)
     
-    #  M.construct_circle(A, B)
-    #  M.construct_circle(C, D)
     E, _ = construct_equilateral_poles(M, A, C)
     M.labels[E] = 'E'
 
