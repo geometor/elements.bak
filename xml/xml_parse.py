@@ -1,5 +1,6 @@
 import os
 import glob
+import re
 from lxml import etree
 from slugify import slugify
 from rich import print
@@ -23,8 +24,9 @@ def create_files_from_xml(xml_file_path):
 
         # Loop through each div3 element in the section
         for div3 in div2.xpath('div3'):
-            for pb in div3.findall('pb'):
-                div3.remove(pb)
+            for tag in ['pb', 'lb', 'figure']:
+                for el in div3.findall(tag):
+                    div3.remove(el)
 
             div3_id = div3.get('id')
             # Get the subsection number and name
@@ -38,11 +40,6 @@ def create_files_from_xml(xml_file_path):
                 f.write(etree.tostring(div3, encoding='unicode', pretty_print=True))
 
 
-import re
-
-# Sample line from the proof section
-line = "Let <emph>A</emph> and <emph>B</emph> be two given points on a line, and let <emph>C</emph> be a point not on the line."
-
 # Dictionary of keywords for each element type
 element_keywords = {
     "point": ["point", "points", "spot", "spots"],
@@ -53,8 +50,6 @@ element_keywords = {
     "other": []
 }
 
-# Regular expression for matching emph tags
-emph_pattern = re.compile(r'<emph>(.*?)<\/emph>')
 
 # Function to get the element type for an emph tag in a line
 def get_element_type(line, emph):
@@ -78,18 +73,6 @@ def get_element_type(line, emph):
                 closest = element
     return closest
 
-# Find all emph tags in the line
-emphs = emph_pattern.findall(line)
-
-# Determine the element type for each emph tag
-for emph in emphs:
-    element_type = get_element_type(line, emph)
-    # Replace emph tag with new tag based on element type
-    if element_type:
-        new_tag = f"<{element_type}>{emph}</{element_type}>"
-        line = line.replace(f"<emph>{emph}</emph>", new_tag)
-
-print(line)
 
 def parse_xml(xml_string):
     # Parse the xml string into an ElementTree
@@ -121,6 +104,7 @@ def parse_xml(xml_string):
             elements.append(prop)
 
     return elements
+
 
 def read_xml_files(folder='.'):
     # Create a directory for the section
