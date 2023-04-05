@@ -1,6 +1,8 @@
 import os
+import glob
 from lxml import etree
 from slugify import slugify
+from rich import print
 
 def create_files_from_xml(xml_file_path):
     # Parse the XML file
@@ -35,6 +37,59 @@ def create_files_from_xml(xml_file_path):
                 # Write the subsection content to the file
                 f.write(etree.tostring(div3, encoding='unicode', pretty_print=True))
 
+
+import re
+
+# Sample line from the proof section
+line = "Let <emph>A</emph> and <emph>B</emph> be two given points on a line, and let <emph>C</emph> be a point not on the line."
+
+# Dictionary of keywords for each element type
+element_keywords = {
+    "point": ["point", "points", "spot", "spots"],
+    "line": ["line", "lines", "segment", "segments"],
+    "circle": ["circle", "circles", "arc", "arcs"],
+    "triangle": ["triangle", "triangles"],
+    "angle": ["angle", "angles"],
+    "other": []
+}
+
+# Regular expression for matching emph tags
+emph_pattern = re.compile(r'<emph>(.*?)<\/emph>')
+
+# Function to get the element type for an emph tag in a line
+def get_element_type(line, emph):
+    keywords = element_keywords["other"]
+    for element, kw in element_keywords.items():
+        for word in kw:
+            if word in line and word in emph:
+                keywords = kw
+                break
+        if keywords != element_keywords["other"]:
+            break
+    # Find the closest keyword to the emph tag
+    closest = None
+    min_dist = len(line)
+    for keyword in keywords:
+        idx = line.find(keyword)
+        if idx != -1 and idx < emph.find(","):
+            dist = len(emph) - len(keyword) - emph.find(keyword)
+            if dist < min_dist:
+                min_dist = dist
+                closest = element
+    return closest
+
+# Find all emph tags in the line
+emphs = emph_pattern.findall(line)
+
+# Determine the element type for each emph tag
+for emph in emphs:
+    element_type = get_element_type(line, emph)
+    # Replace emph tag with new tag based on element type
+    if element_type:
+        new_tag = f"<{element_type}>{emph}</{element_type}>"
+        line = line.replace(f"<emph>{emph}</emph>", new_tag)
+
+print(line)
 
 def parse_xml(xml_string):
     # Parse the xml string into an ElementTree
@@ -91,6 +146,7 @@ def read_xml_files(folder='.'):
             i += 1
 
 if __name__ == "__main__":
-    #  files = glob.glob(os.path.join(folder, f'*.xml'))
-    create_files_from_xml('euclid-01.xml')
+    files = glob.glob(os.path.join('.', f'*.xml'))
+    for xml_file in files:
+        create_files_from_xml(xml_file)
 
