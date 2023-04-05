@@ -12,22 +12,23 @@ construct an equilateral triangle on a segment
 
   -- Euclid
 
-.. figure:: sequences/summary.png
+construct an equalateral triangle on a segment
 
-   construct an equalateral triangle on a segment
+.. image:: sequences/summary.svg
+
 
 
 | from the :ref:`given points` :math:`A` and :math:`B` 
 | :ref:`set segment` :math:`\bar{AB}`.
 
-.. figure:: sequences/00000-point-start.png
+ point :math:`A`
 
-   :math:`A`
+.. image:: sequences/00000-point-start.svg
 
-.. figure:: sequences/00001-point-start.png
+point :math:`B`
 
-   :math:`B`
-   
+.. image:: sequences/00001-point-start.svg
+
 
 **PROBLEM:** construct an :ref:`equilateral triangle` on the :ref:`segment`
 :math:`\bar{AB}`.
@@ -36,30 +37,30 @@ construct an equilateral triangle on a segment
 
 :ref:`construct circle` :math:`(A, B)` as :math:`c_1`.
 
-.. figure:: sequences/00002-circle.png
+.. image:: sequences/00002-circle.svg
 
 :ref:`construct circle` :math:`(B, A)` as :math:`c_2`.
 
-.. figure:: sequences/00003-circle.png
+.. image:: sequences/00003-circle.svg
 
 .. todo:: define intersection point
 
 identify the two intersection points of circles :math:`c_1` and :math:`c_2`
 as points :math:`C` and :math:`D`
 
-.. figure:: sequences/00004-point.png
+.. image:: sequences/00004-point.svg
 
-.. figure:: sequences/00005-point.png
+.. image:: sequences/00005-point.svg
 
 | from the points :math:`A` and :math:`C` 
 | :ref:`set segment` :math:`\bar{AC}`.
 
-.. figure:: sequences/00006-polygon.png
+.. image:: sequences/00006-polygon.svg
 
 | from the points :math:`B` and :math:`C` 
 | :ref:`set segment` :math:`\bar{BC}`.
 
-.. figure:: sequences/00007-polygon.png
+.. image:: sequences/00007-polygon.svg
 
 As the :ref:`circle` is defined, all points on the perimeter are an equal distance from the center.
 
@@ -93,7 +94,7 @@ segment :math:`\bar{AB}`.
 
 - **PROBLEM SOLVED**
 
-.. figure:: sequences/summary.png
+.. image:: sequences/summary.svg
 
 .. todo:: demonstrate the second triangle
 
