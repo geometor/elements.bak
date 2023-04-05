@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2><text><body><div1 n="11" type="book" org="uniform" sample="complete">
+    <pb n="260" />
+    <head>BOOK XI.</head>
+    <div2 n="Def" type="type" org="uniform" sample="complete">
+     <head>DEFINITIONS.</head>
+     <div3 id="elem.11.def.1" n="1" type="number" org="uniform" sample="complete">
+<head>1</head>
+<p>A <hi rend="bold">solid</hi> is that which has length, breadth, and depth.</p>
+     </div3>
+     <div3 id="elem.11.def.2" n="2" type="number" org="uniform" sample="complete">
+<head>2</head>
+<p>An extremity of a solid is a surface.</p>
+     </div3>
+     <div3 id="elem.11.def.3" n="3" type="number" org="uniform" sample="complete">
+<head>3</head>
+<p>A <hi rend="bold">straight line</hi> is <hi rend="bold">at right angles to a plane,</hi> when it makes right angles with all the straight lines which meet it and are in the plane.</p>
+     </div3>
+     <div3 id="elem.11.def.4" n="4" type="number" org="uniform" sample="complete">
+<head>4</head>
+<p>A <hi rend="bold">plane is at right angles to a plane</hi> when the straight lines drawn, in one of the planes, at right angles to the common section of the planes are at right angles to the remaining plane.</p>
+     </div3>
+     <div3 id="elem.11.def.5" n="5" type="number" org="uniform" sample="complete">
+<head>5</head>
+<p>The <hi rend="bold">inclination of a straight line to a plane</hi> is, assuming a perpendicular drawn from the extremity of the straight line which is elevated above the plane to the plane, and a straight line joined from the point thus arising to the extremity of the straight line which is in the plane, the angle contained by the straight line so drawn and the straight line standing up.</p>
+     </div3>
+     <div3 id="elem.11.def.6" n="6" type="number" org="uniform" sample="complete">
+<head>6</head>
+<p>The <hi rend="bold">inclination of a plane to a plane</hi> is the acute angle contained by the straight lines drawn at right angles to the common section at the same point, one in each of the planes.</p>
+     </div3>
+     <div3 id="elem.11.def.7" n="7" type="number" org="uniform" sample="complete">
+<head>7</head>
+<p>A plane is said to be <hi rend="bold">similarly inclined</hi> to a plane as another is to another when the said angles of the inclinations are equal to one another.</p>
+     </div3>
+     <div3 id="elem.11.def.8" n="8" type="number" org="uniform" sample="complete">
+<head>8</head>
+<p><hi rend="bold">Parallel planes</hi> are those which do not meet.</p>
+     </div3>
+     <pb n="261" />
+     <div3 id="elem.11.def.9" n="9" type="number" org="uniform" sample="complete">
+<head>9</head>
+<p><hi rend="bold">Similar solid figures</hi> are those contained by similar planes equal in multitude.</p>
+     </div3>
+     <div3 id="elem.11.def.10" n="10" type="number" org="uniform" sample="complete">
+<head>10</head>
+<p><hi rend="bold">Equal and similar solid figures</hi> are those contained by similar planes equal in multitude and in magnitude.</p>
+     </div3>
+     <div3 id="elem.11.def.11" n="11" type="number" org="uniform" sample="complete">
+<head>11</head>
+<p>A <hi rend="bold">solid angle</hi> is the inclination constituted by more than two lines which meet one another and are not in the same surface, towards all the lines. </p>
+      <p>Otherwise: A <hi rend="bold">solid angle</hi> is that which is contained by more than two plane angles which are not in the same plane and are constructed to one point.</p>
+     </div3>
+     <div3 id="elem.11.def.12" n="12" type="number" org="uniform" sample="complete">
+<head>12</head>
+<p>A <hi rend="bold">pyramid</hi> is a solid figure, contained by planes, which is constructed from one plane to one point.</p>
+     </div3>
+     <div3 id="elem.11.def.13" n="13" type="number" org="uniform" sample="complete">
+<head>13</head>
+<p>A <hi rend="bold">prism</hi> is a solid figure contained by planes two of which, namely those which are opposite, are equal, similar and parallel, while the rest are parallelograms.</p>
+     </div3>
+     <div3 id="elem.11.def.14" n="14" type="number" org="uniform" sample="complete">
+<head>14</head>
+<p>When, the diameter of a semicircle remaining fixed, the semicircle is carried round and restored again to the same position from which it began to be moved, the figure so comprehended is a <hi rend="bold">sphere.</hi></p>
+     </div3>
+     <div3 id="elem.11.def.15" n="15" type="number" org="uniform" sample="complete">
+<head>15</head>
+<p>The <hi rend="bold">axis of the sphere</hi> is the straight line which remains fixed and about which the semicircle is turned.</p>
+     </div3>
+     <div3 id="elem.11.def.16" n="16" type="number" org="uniform" sample="complete">
+<head>16</head>
+<p>The <hi rend="bold">centre of the sphere</hi> is the same as that of the semicircle.</p>
+     </div3>
+     <div3 id="elem.11.def.17" n="17" type="number" org="uniform" sample="complete">
+<head>17</head>
+<p>A <hi rend="bold">diameter of the sphere</hi> is any straight line drawn through the centre and terminated in both directions by the surface of the sphere.</p>
+     </div3>
+     <div3 id="elem.11.def.18" n="18" type="number" org="uniform" sample="complete">
+<head>18</head>
+<p>When, one side of those about the right angle in a right-angled triangle remaining fixed, the triangle is carried round and restored again to the same position from which it began to be moved, the figure so comprehended is a <hi rend="bold">cone.</hi>
+      </p>
+      <p>And, if the straight line which remains fixed be equal to the remaining side about the right angle which is carried round, the cone will be <hi rend="bold">right-angled</hi>; if less, <hi rend="bold">obtuse-angled</hi>; and if greater, <hi rend="bold">acute-angled.</hi></p>
+     </div3>
+     <div3 id="elem.11.def.19" n="19" type="number" org="uniform" sample="complete">
+<head>19</head>
+<p>The <hi rend="bold">axis of the cone</hi> is the straight line which remains fixed and about which the triangle is turned.</p>
+     </div3>
+     <pb n="262" />
+     <div3 id="elem.11.def.20" n="20" type="number" org="uniform" sample="complete">
+<head>20</head>
+<p>And the <hi rend="bold">base</hi> is the circle described by the straight line which is carried round.</p>
+     </div3>
+     <div3 id="elem.11.def.21" n="21" type="number" org="uniform" sample="complete">
+<head>21</head>
+<p>When, one side of those about the right angle in a rectangular parallelogram remaining fixed, the parallelogram is carried round and restored again to the same position from which it began to be moved, the figure so comprehended is a <hi rend="bold">cylinder.</hi></p>
+     </div3>
+     <div3 id="elem.11.def.22" n="22" type="number" org="uniform" sample="complete">
+<head>22</head>
+<p>The <hi rend="bold">axis of the cylinder</hi> is the straight line which remains fixed and about which the parallelogram is turned.</p>
+     </div3>
+     <div3 id="elem.11.def.23" n="23" type="number" org="uniform" sample="complete">
+<head>23</head>
+<p>And the <hi rend="bold">bases</hi> are the circles described by the two sides opposite to one another which are carried round.</p>
+     </div3>
+     <div3 id="elem.11.def.24" n="24" type="number" org="uniform" sample="complete">
+<head>24</head>
+<p><hi rend="bold">Similar cones and cylinders</hi> are those in which the axes and the diameters of the bases are proportional.</p>
+     </div3>
+     <div3 id="elem.11.def.25" n="25" type="number" org="uniform" sample="complete">
+<head>25</head>
+<p>A <hi rend="bold">cube</hi> is a solid figure contained by six equal squares.</p>
+     </div3>
+     <div3 id="elem.11.def.26" n="26" type="number" org="uniform" sample="complete">
+<head>26</head>
+<p>An <hi rend="bold">octahedron</hi> is a solid figure contained by eight equal and equilateral triangles.</p>
+     </div3>
+     <div3 id="elem.11.def.27" n="27" type="number" org="uniform" sample="complete">
+<head>27</head>
+<p>An <hi rend="bold">icosahedron</hi> is a solid figure contained by twenty equal and equilateral triangles.</p>
+     </div3>
+     <div3 id="elem.11.def.28" n="28" type="number" org="uniform" sample="complete">
+<head>28</head>
+<p>A <hi rend="bold">dodecahedron</hi> is a solid figure contained by twelve equal, equilateral, and equiangular pentagons.</p>
+     </div3>
+    </div2>
+    <pb n="270" />
+    <pb n="271" />
+    <pb n="272" />
+    <div2 n="Prop" type="type" org="uniform" sample="complete">
+     <head>PROPOSITIONS.</head>
+     <div3 id="elem.11.1" n="1" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 1.</head>
+      <p>
+       <hi rend="ital">A part of a straight line cannot be in the plane of reference and a part in a plane more elevated.</hi>
+      </p>
+      <p>For, if possible, let a part <hi rend="ital">AB</hi> of the straight line <hi rend="ital">ABC</hi> be in the plane of reference, and a part <hi rend="ital">BC</hi> in a plane more elevated. </p>
+      <p>There will then be in the plane of reference some straight line continuous with <hi rend="ital">AB</hi> in a straight line. <figure />
+      </p>
+      <p>Let it be <hi rend="ital">BD</hi>; therefore <hi rend="ital">AB</hi> is a common segment of the two straight lines <hi rend="ital">ABC</hi>, <hi rend="ital">ABD</hi>: which is impossible, inasmuch as, if we describe a circle with centre <hi rend="ital">B</hi> and distance <hi rend="ital">AB</hi>, the diameters will cut off unequal circumferences of the circle. </p>
+      <p>Therefore a part of a straight line cannot be in the plane of reference, and a part in a plane more elevated. Q. E. D.
+<note n="1" type="crit" place="unspecified" anchored="yes">1. <lemma from="ROOT" to="DITTO" targOrder="U">the plane of reference,</lemma>
+        <foreign lang="greek">τὸ ὑποκείμενον ἐπίπεδον</foreign>, the plane laid down or assumed.</note>
+       <note n="2" type="crit" place="unspecified" anchored="yes">2. <lemma from="ROOT" to="DITTO" targOrder="U">more elevated,</lemma>
+        <foreign lang="greek">μετεωροτέρῳ</foreign>.</note></p>
+     </div3>
+     <div3 id="elem.11.2" n="2" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 2.</head>
+      <p><hi rend="ital">If two straight lines cut one another</hi>, <hi rend="ital">they are in one plane</hi>, <hi rend="ital">and every triangle is in one plane.</hi>
+      </p>
+      <p>For let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> cut one another at the point <hi rend="ital">E</hi>; I say that <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are in one plane, and every triangle is in one plane. <figure />
+      </p>
+      <p>For let points <hi rend="ital">F</hi>, <hi rend="ital">G</hi> be taken at random on <hi rend="ital">EC</hi>, <hi rend="ital">EB</hi>, let <hi rend="ital">CB</hi>, <hi rend="ital">FG</hi> be joined, and let <hi rend="ital">FH</hi>, <hi rend="ital">GK</hi> be drawn across; I say first that the triangle <hi rend="ital">ECB</hi> is in one plane. </p>
+      <p>For, if part of the triangle <hi rend="ital">ECB</hi>, either <hi rend="ital">FHC</hi> or <hi rend="ital">GBK</hi>, is in the plane of reference, and the rest in another, a part also of one of the straight lines <hi rend="ital">EC</hi>, <hi rend="ital">EB</hi> will be in the plane of reference, and a part in another. </p>
+      <p>But, if the part <hi rend="ital">FCBG</hi> of the triangle <hi rend="ital">ECB</hi> be in the plane of reference, and the rest in another, a part also of both the straight lines <hi rend="ital">EC</hi>, <hi rend="ital">EB</hi> will be in the plane of reference and a part in another: which was proved absurd. [<ref target="elem.11.1" targOrder="U">XI. 1</ref>] <pb n="275" /></p>
+      <p>Therefore the triangle <hi rend="ital">ECB</hi> is in one plane. </p>
+      <p>But, in whatever plane the triangle <hi rend="ital">ECB</hi> is, in that plane also is each of the straight lines <hi rend="ital">EC</hi>, <hi rend="ital">EB</hi>, and, in whatever plane each of the straight lines <hi rend="ital">EC</hi>, <hi rend="ital">EB</hi> is, in that plane are <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> also. [<ref target="elem.11.1" targOrder="U">XI. 1</ref>] </p>
+      <p>Therefore the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are in one plane, and every triangle is in one plane. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.3" n="3" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 3.</head>
+      <p><hi rend="ital">If two planes cut one another</hi>, <hi rend="ital">their common section is a straight line.</hi>
+      </p>
+      <p>For let the two planes <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> cut one another, and let the line <hi rend="ital">DB</hi> be their common section; I say that the line <hi rend="ital">DB</hi> is a straight line. <figure />
+      </p>
+      <p>For, if not, from <hi rend="ital">D</hi> to <hi rend="ital">B</hi> let the straight line <hi rend="ital">DEB</hi> be joined in the plane <hi rend="ital">AB</hi>, and in the plane <hi rend="ital">BC</hi> the straight line <hi rend="ital">DFB</hi>. </p>
+      <p>Then the two straight lines <hi rend="ital">DEB</hi>, <hi rend="ital">DFB</hi> will have the same extremities, and will clearly enclose an area: which is absurd. </p>
+      <p>Therefore <hi rend="ital">DEB</hi>, <hi rend="ital">DFB</hi> are not straight lines. </p>
+      <p>Similarly we can prove that neither will there be any other straight line joined from <hi rend="ital">D</hi> to <hi rend="ital">B</hi> except <hi rend="ital">DB</hi> the common section of the planes <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.4" n="4" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 4.</head>
+      <p><hi rend="ital">If a straight line be set up at right angles to two straight lines which cut one another</hi>, <hi rend="ital">at their common point of section</hi>, <hi rend="ital">it will also be at right angles to the plane through them.</hi>
+       <pb n="278" /></p>
+      <p>For let a straight line <hi rend="ital">EF</hi> be set up at right angles to the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, which cut one another at the point <hi rend="ital">E</hi>, from <hi rend="ital">E</hi>; I say that <hi rend="ital">EF</hi> is also at right angles to the plane through <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. <figure />
+      </p>
+      <p>For let <hi rend="ital">AE</hi>, <hi rend="ital">EB</hi>, <hi rend="ital">CE</hi>, <hi rend="ital">ED</hi> be cut off equal to one another, and let any straight line <hi rend="ital">GEH</hi> be drawn across through <hi rend="ital">E</hi>, at random; let <hi rend="ital">AD</hi>, <hi rend="ital">CB</hi> be joined, and further let <hi rend="ital">FA</hi>, <hi rend="ital">FG</hi>, <hi rend="ital">FD</hi>, <hi rend="ital">FC</hi>, <hi rend="ital">FH</hi>, <hi rend="ital">FB</hi> be joined from the point <hi rend="ital">F</hi> taken at random &lt;on <hi rend="ital">EF</hi>&gt;. </p>
+      <p>Now, since the two straight lines <hi rend="ital">AE</hi>, <hi rend="ital">ED</hi> are equal to the two straight lines <hi rend="ital">CE</hi>, <hi rend="ital">EB</hi>, and contain equal angles, [<ref target="elem.1.15" targOrder="U">I. 15</ref>] therefore the base <hi rend="ital">AD</hi> is equal to the base <hi rend="ital">CB</hi>, and the triangle <hi rend="ital">AED</hi> will be equal to the triangle <hi rend="ital">CEB</hi>; [<ref target="elem.1.4" targOrder="U">I. 4</ref>] so that the angle <hi rend="ital">DAE</hi> is also equal to the angle <hi rend="ital">EBC</hi>. </p>
+      <p>But the angle <hi rend="ital">AEG</hi> is also equal to the angle <hi rend="ital">BEH</hi>; [<ref target="elem.1.15" targOrder="U">I. 15</ref>] therefore <hi rend="ital">AGE</hi>, <hi rend="ital">BEH</hi> are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely that adjacent to the equal angles, that is to say, <hi rend="ital">AE</hi> to <hi rend="ital">EB</hi>; therefore they will also have the remaining sides equal to the remaining sides. [<ref target="elem.1.26" targOrder="U">I. 26</ref>] </p>
+      <p>Therefore <hi rend="ital">GE</hi> is equal to <hi rend="ital">EH</hi>, and <hi rend="ital">AG</hi> to <hi rend="ital">BH</hi>. </p>
+      <p>And, since <hi rend="ital">AE</hi> is equal to <hi rend="ital">EB</hi>, while <hi rend="ital">FE</hi> is common and at right angles, therefore the base <hi rend="ital">FA</hi> is equal to the base <hi rend="ital">FB</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>For the same reason <hi rend="ital">FC</hi> is also equal to <hi rend="ital">FD</hi>. </p>
+      <p>And, since <hi rend="ital">AD</hi> is equal to <hi rend="ital">CB</hi>, and <hi rend="ital">FA</hi> is also equal to <hi rend="ital">FB</hi>, the two sides <hi rend="ital">FA</hi>, <hi rend="ital">AD</hi> are equal to the two sides <hi rend="ital">FB</hi>, <hi rend="ital">BC</hi> respectively; and the base <hi rend="ital">FD</hi> was proved equal to the base <hi rend="ital">FC</hi>; therefore the angle <hi rend="ital">FAD</hi> is also equal to the angle <hi rend="ital">FBC</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] <pb n="279" /></p>
+      <p>And since, again, <hi rend="ital">AG</hi> was proved equal to <hi rend="ital">BH</hi>, and further <hi rend="ital">FA</hi> also equal to <hi rend="ital">FB</hi>, the two sides <hi rend="ital">FA</hi>, <hi rend="ital">AG</hi> are equal to the two sides <hi rend="ital">FB</hi>, <hi rend="ital">BH</hi>. </p>
+      <p>And the angle <hi rend="ital">FAG</hi> was proved equal to the angle <hi rend="ital">FBH</hi>; therefore the base <hi rend="ital">FG</hi> is equal to the base <hi rend="ital">FH</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>Now since, again, <hi rend="ital">GE</hi> was proved equal to <hi rend="ital">EH</hi>, and <hi rend="ital">EF</hi> is common, the two sides <hi rend="ital">GE</hi>, <hi rend="ital">EF</hi> are equal to the two sides <hi rend="ital">HE</hi>, <hi rend="ital">EF</hi>; and the base <hi rend="ital">FG</hi> is equal to the base <hi rend="ital">FH</hi>; therefore the angle <hi rend="ital">GEF</hi> is equal to the angle <hi rend="ital">HEF</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] </p>
+      <p>Therefore each of the angles <hi rend="ital">GEF</hi>, <hi rend="ital">HEF</hi> is right. </p>
+      <p>Therefore <hi rend="ital">FE</hi> is at right angles to <hi rend="ital">GH</hi> drawn at random through <hi rend="ital">E</hi>. </p>
+      <p>Similarly we can prove that <hi rend="ital">FE</hi> will also make right angles with all the straight lines which meet it and are in the plane of reference. </p>
+      <p>But a straight line is at right angles to a plane when it makes right angles with all the straight lines which meet it and are in that same plane; [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] therefore <hi rend="ital">FE</hi> is at right angles to the plane of reference. </p>
+      <p>But the plane of reference is the plane through the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Therefore <hi rend="ital">FE</hi> is at right angles to the plane through <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.5" n="5" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 5.</head>
+      <p><hi rend="ital">If a straight line be set up at right angles to three straight lines which meet one another</hi>, <hi rend="ital">at their common point of section</hi>, <hi rend="ital">the three straight lines are in one plane.</hi>
+      </p>
+      <p>For let a straight line <hi rend="ital">AB</hi> be set up at right angles to the three straight lines <hi rend="ital">BC</hi>, <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi>, at their point of meeting at <hi rend="ital">B</hi>; I say that <hi rend="ital">BC</hi>, <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi> are in one plane. <figure />
+      </p>
+      <p>For suppose they are not, but, if possible, let <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi> be in the plane of reference and <hi rend="ital">BC</hi> in one more elevated; let the plane through <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> be produced; it will thus make, as common section in the plane of reference, a straight line. [<ref target="elem.11.3" targOrder="U">XI. 3</ref>] </p>
+      <p>Let it make <hi rend="ital">BF</hi>. </p>
+      <p>Therefore the three straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">BF</hi> are in one plane, namely that drawn through <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. </p>
+      <p>Now, since <hi rend="ital">AB</hi> is at right angles to each of the straight lines <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi>, therefore <hi rend="ital">AB</hi> is also at right angles to the plane through <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi>. [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] <pb n="282" /></p>
+      <p>But the plane through <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi> is the plane of reference; therefore <hi rend="ital">AB</hi> is at right angles to the plane of reference. </p>
+      <p>Thus <hi rend="ital">AB</hi> will also make right angles with all the straight lines which meet it and are in the plane of reference. [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] </p>
+      <p>But <hi rend="ital">BF</hi> which is in the plane of reference meets it; therefore the angle <hi rend="ital">ABF</hi> is right. </p>
+      <p>But, by hypothesis, the angle <hi rend="ital">ABC</hi> is also right; therefore the angle <hi rend="ital">ABF</hi> is equal to the angle <hi rend="ital">ABC</hi>. </p>
+      <p>And they are in one plane: which is impossible. </p>
+      <p>Therefore the straight line <hi rend="ital">BC</hi> is not in a more elevated plane; therefore the three straight lines <hi rend="ital">BC</hi>, <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi> are in one plane. </p>
+      <p>Therefore, if a straight line be set up at right angles to three straight lines, at their point of meeting, the three straight lines are in one plane. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.6" n="6" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 6.</head>
+      <p><hi rend="ital">If two straight lines be at right angles to the same plane</hi>, <hi rend="ital">the straight lines will be parallel.</hi>
+      </p>
+      <p>For let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be at right angles to the plane of reference; I say that <hi rend="ital">AB</hi> is parallel to <hi rend="ital">CD</hi>. <figure />
+      </p>
+      <p>For let them meet the plane of reference at the points <hi rend="ital">B</hi>, <hi rend="ital">D</hi>, let the straight line <hi rend="ital">BD</hi> be joined, let <hi rend="ital">DE</hi> be drawn, in the plane of reference, at right angles to <hi rend="ital">BD</hi>, let <hi rend="ital">DE</hi> be made equal to <hi rend="ital">AB</hi>, and let <hi rend="ital">BE</hi>, <hi rend="ital">AE</hi>, <hi rend="ital">AD</hi> be joined. </p>
+      <p>Now, since <hi rend="ital">AB</hi> is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference. [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] </p>
+      <p>But each of the straight lines <hi rend="ital">BD</hi>, <hi rend="ital">BE</hi> is in the plane of reference and meets <hi rend="ital">AB</hi>; therefore each of the angles <hi rend="ital">ABD</hi>, <hi rend="ital">ABE</hi> is right. </p>
+      <p>For the same reason each of the angles <hi rend="ital">CDB</hi>, <hi rend="ital">CDE</hi> is also right. </p>
+      <p>And, since <hi rend="ital">AB</hi> is equal to <hi rend="ital">DE</hi>, and <hi rend="ital">BD</hi> is common, the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BD</hi> are equal to the two sides <hi rend="ital">ED</hi>, <hi rend="ital">DB</hi>; and they include right angles; therefore the base <hi rend="ital">AD</hi> is equal to the base <hi rend="ital">BE</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>And, since <hi rend="ital">AB</hi> is equal to <hi rend="ital">DE</hi>, while <hi rend="ital">AD</hi> is also equal to <hi rend="ital">BE</hi>, the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BE</hi> are equal to the two sides <hi rend="ital">ED</hi>, <hi rend="ital">DA</hi>; and <hi rend="ital">AE</hi> is their common base; therefore the angle <hi rend="ital">ABE</hi> is equal to the angle <hi rend="ital">EDA</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] <pb n="284" /></p>
+      <p>But the angle <hi rend="ital">ABE</hi> is right; therefore the angle <hi rend="ital">EDA</hi> is also right; therefore <hi rend="ital">ED</hi> is at right angles to <hi rend="ital">DA</hi>. </p>
+      <p>But it is also at right angles to each of the straight lines <hi rend="ital">BD</hi>, <hi rend="ital">DC</hi>; therefore <hi rend="ital">ED</hi> is set up at right angles to the three straight lines <hi rend="ital">BD</hi>, <hi rend="ital">DA</hi>, <hi rend="ital">DC</hi> at their point of meeting; therefore the three straight lines <hi rend="ital">BD</hi>, <hi rend="ital">DA</hi>, <hi rend="ital">DC</hi> are in one plane. [<ref target="elem.11.5" targOrder="U">XI. 5</ref>] </p>
+      <p>But, in whatever plane <hi rend="ital">DB</hi>, <hi rend="ital">DA</hi> are, in that plane is <hi rend="ital">AB</hi> also, for every triangle is in one plane; [<ref target="elem.11.2" targOrder="U">XI. 2</ref>] therefore the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BD</hi>, <hi rend="ital">DC</hi> are in one plane. </p>
+      <p>And each of the angles <hi rend="ital">ABD</hi>, <hi rend="ital">BDC</hi> is right; therefore <hi rend="ital">AB</hi> is parallel to <hi rend="ital">CD</hi>. [<ref target="elem.1.28" targOrder="U">I. 28</ref>] </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.7" n="7" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 7.</head>
+      <p><hi rend="ital">If two straight lines be parallel and points be taken at random on each of them</hi>, <hi rend="ital">the straight line joining the points is in the same plane with the parallel straight lines.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be two parallel straight lines, and let points <hi rend="ital">E</hi>, <hi rend="ital">F</hi> be taken at random on them respectively; I say that the straight line joining the points <hi rend="ital">E</hi>, <hi rend="ital">F</hi> is in the same plane with the parallel straight lines. <figure />
+      </p>
+      <p>For suppose it is not, but, if possible, let it be in a more elevated plane as <hi rend="ital">EGF</hi>, and let a plane be drawn through <hi rend="ital">EGF</hi>; it will then make, as section in the plane of reference, a straight line. [<ref target="elem.11.3" targOrder="U">XI. 3</ref>] <pb n="286" /></p>
+      <p>Let it make it, as <hi rend="ital">EF</hi>; therefore the two straight lines <hi rend="ital">EGF</hi>, <hi rend="ital">EF</hi> will enclose an area: which is impossible. </p>
+      <p>Therefore the straight line joined from <hi rend="ital">E</hi> to <hi rend="ital">F</hi> is not in a plane more elevated; therefore the straight line joined from <hi rend="ital">E</hi> to <hi rend="ital">F</hi> is in the plane through the parallel straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.8" n="8" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 8.</head>
+      <p><hi rend="ital">If two straight lines be parallel</hi>, <hi rend="ital">and one of them be at right angles to any plane</hi>, <hi rend="ital">the remaining one will also be at right angles to the same plane.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be two parallel straight lines, and let one of them, <hi rend="ital">AB</hi>, be at right angles to the plane of reference; I say that the remaining one, <hi rend="ital">CD</hi>, will also be at right angles to the same plane. <figure />
+      </p>
+      <p>For let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> meet the plane of reference at the points <hi rend="ital">B</hi>, <hi rend="ital">D</hi>, and let <hi rend="ital">BD</hi> be joined; therefore <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">BD</hi> are in one plane. [<ref target="elem.11.7" targOrder="U">XI. 7</ref>] </p>
+      <p>Let <hi rend="ital">DE</hi> be drawn, in the plane of reference, at right angles to <hi rend="ital">BD</hi>, let <hi rend="ital">DE</hi> be made equal to <hi rend="ital">AB</hi>, and let <hi rend="ital">BE</hi>, <hi rend="ital">AE</hi>, <hi rend="ital">AD</hi> be joined. </p>
+      <p>Now, since <hi rend="ital">AB</hi> is at right angles to the plane of reference, therefore <hi rend="ital">AB</hi> is also at right angles to all the straight lines which meet it and are in the plane of reference; [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] therefore each of the angles <hi rend="ital">ABD</hi>, <hi rend="ital">ABE</hi> is right. </p>
+      <p>And, since the straight line <hi rend="ital">BD</hi> has fallen on the parallels <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, <pb n="288" />therefore the angles <hi rend="ital">ABD</hi>, <hi rend="ital">CDB</hi> are equal to two right angles. [<ref target="elem.1.29" targOrder="U">I. 29</ref>] </p>
+      <p>But the angle <hi rend="ital">ABD</hi> is right; therefore the angle <hi rend="ital">CDB</hi> is also right; therefore <hi rend="ital">CD</hi> is at right angles to <hi rend="ital">BD</hi>. </p>
+      <p>And, since <hi rend="ital">AB</hi> is equal to <hi rend="ital">DE</hi>, and <hi rend="ital">BD</hi> is common, the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BD</hi> are equal to the two sides <hi rend="ital">ED</hi>, <hi rend="ital">DB</hi>; and the angle <hi rend="ital">ABD</hi> is equal to the angle <hi rend="ital">EDB</hi>, for each is right; therefore the base <hi rend="ital">AD</hi> is equal to the base <hi rend="ital">BE</hi>. </p>
+      <p>And, since <hi rend="ital">AB</hi> is equal to <hi rend="ital">DE</hi>, and <hi rend="ital">BE</hi> to <hi rend="ital">AD</hi>, the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BE</hi> are equal to the two sides <hi rend="ital">ED</hi>, <hi rend="ital">DA</hi> respectively, and <hi rend="ital">AE</hi> is their common base; therefore the angle <hi rend="ital">ABE</hi> is equal to the angle <hi rend="ital">EDA</hi>. </p>
+      <p>But the angle <hi rend="ital">ABE</hi> is right; therefore the angle <hi rend="ital">EDA</hi> is also right; therefore <hi rend="ital">ED</hi> is at right angles to <hi rend="ital">AD</hi>. </p>
+      <p>But it is also at right angles to <hi rend="ital">DB</hi>; therefore <hi rend="ital">ED</hi> is also at right angles to the plane through <hi rend="ital">BD</hi>, <hi rend="ital">DA</hi>. [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] </p>
+      <p>Therefore <hi rend="ital">ED</hi> will also make right angles with all the straight lines which meet it and are in the plane through <hi rend="ital">BD</hi>, <hi rend="ital">DA</hi>. </p>
+      <p>But <hi rend="ital">DC</hi> is in the plane through <hi rend="ital">BD</hi>, <hi rend="ital">DA</hi>, inasmuch as <hi rend="ital">AB</hi>, <hi rend="ital">BD</hi> are in the plane through <hi rend="ital">BD</hi>, <hi rend="ital">DA</hi>, [<ref target="elem.11.2" targOrder="U">XI. 2</ref>] and <hi rend="ital">DC</hi> is also in the plane in which <hi rend="ital">AB</hi>, <hi rend="ital">BD</hi> are. </p>
+      <p>Therefore <hi rend="ital">ED</hi> is at right angles to <hi rend="ital">DC</hi>, so that <hi rend="ital">CD</hi> is also at right angles to <hi rend="ital">DE</hi>. </p>
+      <p>But <hi rend="ital">CD</hi> is also at right angles to <hi rend="ital">BD</hi>. </p>
+      <p>Therefore <hi rend="ital">CD</hi> is set up at right angles to the two straight lines <hi rend="ital">DE</hi>, <hi rend="ital">DB</hi> which cut one another, from the point of section at <hi rend="ital">D</hi>; <pb n="289" />so that <hi rend="ital">CD</hi> is also at right angles to the plane through <hi rend="ital">DE</hi>, <hi rend="ital">DB</hi>. [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] </p>
+      <p>But the plane through <hi rend="ital">DE</hi>, <hi rend="ital">DB</hi> is the plane of reference; therefore <hi rend="ital">CD</hi> is at right angles to the plane of reference. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.9" n="9" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 9.</head>
+      <p>
+       <hi rend="ital">Straight lines which are parallel to the same straight line and are not in the same plane with it are also parallel to one another.</hi>
+      </p>
+      <p>For let each of the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be parallel to <hi rend="ital">EF</hi>, not being in the same plane with it; I say that <hi rend="ital">AB</hi> is parallel to <hi rend="ital">CD</hi>. <figure />
+      </p>
+      <p>For let a point <hi rend="ital">G</hi> be taken at random on <hi rend="ital">EF</hi>, and from it let there be drawn <hi rend="ital">GH</hi>, in the plane through <hi rend="ital">EF</hi>, <hi rend="ital">AB</hi>, at right angles to <hi rend="ital">EF</hi>, and <hi rend="ital">GK</hi> in the plane through <hi rend="ital">FE</hi>, <hi rend="ital">CD</hi> again at right angles to <hi rend="ital">EF</hi>. </p>
+      <p>Now, since <hi rend="ital">EF</hi> is at right angles to each of the straight lines <hi rend="ital">GH</hi>, <hi rend="ital">GK</hi>, therefore <hi rend="ital">EF</hi> is also at right angles to the plane through <hi rend="ital">GH</hi>, <hi rend="ital">GK</hi>. [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] </p>
+      <p>And <hi rend="ital">EF</hi> is parallel to <hi rend="ital">AB</hi>; therefore <hi rend="ital">AB</hi> is also at right angles to the plane through <hi rend="ital">HG</hi>, <hi rend="ital">GK</hi>. [<ref target="elem.11.8" targOrder="U">XI. 8</ref>] </p>
+      <p>For the same reason <hi rend="ital">CD</hi> is also at right angles to the plane through <hi rend="ital">HG</hi>, <hi rend="ital">GK</hi>; therefore each of the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> is at right angles to the plane through <hi rend="ital">HG</hi>, <hi rend="ital">GK</hi>. </p>
+      <p>But if two straight lines be at right angles to the same plane, the straight lines are parallel; [<ref target="elem.11.6" targOrder="U">XI. 6</ref>] therefore <hi rend="ital">AB</hi> is parallel to <hi rend="ital">CD</hi>.</p>
+     </div3>
+     <pb n="291" />
+     <div3 id="elem.11.10" n="10" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 10.</head>
+      <p><hi rend="ital">If two straight lines meeting one another be parallel to two straight lines meeting one another not in the same plane</hi>, <hi rend="ital">they will contain equal angles.</hi>
+      </p>
+      <p>For let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> meeting one another be parallel to the two straight lines <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi> meeting one another, not in the same plane; I say that the angle <hi rend="ital">ABC</hi> is equal to the angle <hi rend="ital">DEF</hi>. <figure />
+      </p>
+      <p>For let <hi rend="ital">BA</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">ED</hi>, <hi rend="ital">EF</hi> be cut off equal to one another, and let <hi rend="ital">AD</hi>, <hi rend="ital">CF</hi>, <hi rend="ital">BE</hi>, <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi> be joined. </p>
+      <p>Now, since <hi rend="ital">BA</hi> is equal and parallel to <hi rend="ital">ED</hi>, therefore <hi rend="ital">AD</hi> is also equal and parallel to <hi rend="ital">BE</hi>. [<ref target="elem.1.33" targOrder="U">I. 33</ref>] </p>
+      <p>For the same reason <hi rend="ital">CF</hi> is also equal and parallel to <hi rend="ital">BE</hi>. </p>
+      <p>Therefore each of the straight lines <hi rend="ital">AD</hi>, <hi rend="ital">CF</hi> is equal and parallel to <hi rend="ital">BE</hi>. </p>
+      <p>But straight lines which are parallel to the same straight line and are not in the same plane with it are parallel to one another; [<ref target="elem.11.9" targOrder="U">XI. 9</ref>] therefore <hi rend="ital">AD</hi> is parallel and equal to <hi rend="ital">CF</hi>. </p>
+      <p>And <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi> join them; therefore <hi rend="ital">AC</hi> is also equal and parallel to <hi rend="ital">DF</hi>. [<ref target="elem.1.33" targOrder="U">I. 33</ref>] </p>
+      <p>Now, since the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are equal to the two sides <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, and the base <hi rend="ital">AC</hi> is equal to the base <hi rend="ital">DF</hi>, therefore the angle <hi rend="ital">ABC</hi> is equal to the angle <hi rend="ital">DEF</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] </p>
+      <p>Therefore etc.<pb n="292" /></p>
+     </div3>
+     <div3 id="elem.11.11" n="11" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 11.</head>
+      <p>
+       <hi rend="ital">From a given elevated point to draw a straight line perpendicular to a given plane.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi> be the given elevated point, and the plane of reference the given plane; thus it is required to draw from the point <hi rend="ital">A</hi> a straight line perpendicular to the plane of reference. </p>
+      <p>Let any straight line <hi rend="ital">BC</hi> be drawn, at random, in the plane of reference, and let <hi rend="ital">AD</hi> be drawn from the point <hi rend="ital">A</hi> perpendicular to <hi rend="ital">BC</hi>. [<ref target="elem.1.12" targOrder="U">I. 12</ref>] <figure />
+      </p>
+      <p>If then <hi rend="ital">AD</hi> is also perpendicular to the plane of reference, that which was enjoined will have been done. </p>
+      <p>But, if not, let <hi rend="ital">DE</hi> be drawn from the point <hi rend="ital">D</hi> at right angles to <hi rend="ital">BC</hi> and in the plane of reference, [<ref target="elem.1.11" targOrder="U">I. 11</ref>] let <hi rend="ital">AF</hi> be drawn from <hi rend="ital">A</hi> perpendicular to <hi rend="ital">DE</hi>, [<ref target="elem.1.12" targOrder="U">I. 12</ref>] and let <hi rend="ital">GH</hi> be drawn through the point <hi rend="ital">F</hi> parallel to <hi rend="ital">BC</hi>. [<ref target="elem.1.31" targOrder="U">I. 31</ref>] </p>
+      <p>Now, since <hi rend="ital">BC</hi> is at right angles to each of the straight lines <hi rend="ital">DA</hi>, <hi rend="ital">DE</hi>, therefore <hi rend="ital">BC</hi> is also at right angles to the plane through <hi rend="ital">ED</hi>, <hi rend="ital">DA</hi>. [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] </p>
+      <p>And <hi rend="ital">GH</hi> is parallel to it; but, if two straight lines be parallel, and one of them be at right angles to any plane, the remaining one will also be at right angles to the same plane; [<ref target="elem.11.8" targOrder="U">XI. 8</ref>] therefore <hi rend="ital">GH</hi> is also at right angles to the plane through <hi rend="ital">ED</hi>, <hi rend="ital">DA</hi>. <pb n="293" /></p>
+      <p>Therefore <hi rend="ital">GH</hi> is also at right angles to all the straight lines which meet it and are in the plane through <hi rend="ital">ED</hi>, <hi rend="ital">DA</hi>. [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] </p>
+      <p>But <hi rend="ital">AF</hi> meets it and is in the plane through <hi rend="ital">ED</hi>, <hi rend="ital">DA</hi>; therefore <hi rend="ital">GH</hi> is at right angles to <hi rend="ital">FA</hi>, so that <hi rend="ital">FA</hi> is also at right angles to <hi rend="ital">GH</hi>. </p>
+      <p>But <hi rend="ital">AF</hi> is also at right angles to <hi rend="ital">DE</hi>; therefore <hi rend="ital">AF</hi> is at right angles to each of the straight lines <hi rend="ital">GH</hi>, <hi rend="ital">DE</hi>. </p>
+      <p>But, if a straight line be set up at right angles to two straight lines which cut one another, at the point of section, it will also be at right angles to the plane through them; [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] therefore <hi rend="ital">FA</hi> is at right angles to the plane through <hi rend="ital">ED</hi>, <hi rend="ital">GH</hi>. </p>
+      <p>But the plane through <hi rend="ital">ED</hi>, <hi rend="ital">GH</hi> is the plane of reference; therefore <hi rend="ital">AF</hi> is at right angles to the plane of reference. </p>
+      <p>Therefore from the given elevated point <hi rend="ital">A</hi> the straight line <hi rend="ital">AF</hi> has been drawn perpendicular to the plane of reference. Q. E. F.</p>
+     </div3>
+     <div3 id="elem.11.12" n="12" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 12.</head>
+      <p>
+       <hi rend="ital">To set up a straight line at right angles to a given plane from a given point in it.</hi>
+      </p>
+      <p>Let the plane of reference be the given plane, and <hi rend="ital">A</hi> the point in it; thus it is required to set up from the point <hi rend="ital">A</hi> a straight line at right angles to the plane of reference. <figure />
+      </p>
+      <p>Let any elevated point <hi rend="ital">B</hi> be conceived, from <hi rend="ital">B</hi> let <hi rend="ital">BC</hi> be drawn perpendicular to the plane of reference, [<ref target="elem.11.11" targOrder="U">XI. 11</ref>] and through the point <hi rend="ital">A</hi> let <hi rend="ital">AD</hi> be drawn parallel to <hi rend="ital">BC</hi>. [<ref target="elem.1.31" targOrder="U">I. 31</ref>] </p>
+      <p>Then, since <hi rend="ital">AD</hi>, <hi rend="ital">CB</hi> are two parallel straight lines, while one of them, <hi rend="ital">BC</hi>, is at right angles to the plane of reference, therefore the remaining one, <hi rend="ital">AD</hi>, is also at right angles to the plane of reference. [<ref target="elem.11.8" targOrder="U">XI. 8</ref>] </p>
+      <p>Therefore <hi rend="ital">AD</hi> has been set up at right angles to the given plane from the point <hi rend="ital">A</hi> in it.</p>
+     </div3>
+     <pb n="295" />
+     <div3 id="elem.11.13" n="13" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 13.</head>
+      <p>
+       <hi rend="ital">From the same point two straight lines cannot be set up at right angles to the same plane on the same side.</hi>
+      </p>
+      <p>For, if possible, from the same point <hi rend="ital">A</hi> let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">AC</hi> be set up at right angles to the plane of reference and on the same side, and let a plane be drawn through <hi rend="ital">BA</hi>, <hi rend="ital">AC</hi>; it will then make, as section through <hi rend="ital">A</hi> in the plane of reference, a straight line. [<ref target="elem.11.3" targOrder="U">XI. 3</ref>] <figure />
+      </p>
+      <p>Let it make <hi rend="ital">DAE</hi>; therefore the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">AC</hi>, <hi rend="ital">DAE</hi> are in one plane. </p>
+      <p>And, since <hi rend="ital">CA</hi> is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference. [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] </p>
+      <p>But <hi rend="ital">DAE</hi> meets it and is in the plane of reference; therefore the angle <hi rend="ital">CAE</hi> is right. </p>
+      <p>For the same reason the angle <hi rend="ital">BAE</hi> is also right; therefore the angle <hi rend="ital">CAE</hi> is equal to the angle <hi rend="ital">BAE</hi>. </p>
+      <p>And they are in one plane: which is impossible. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <pb n="296" />
+     <div3 id="elem.11.14" n="14" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 14.</head>
+      <p>
+       <hi rend="ital">Planes to which the same straight line is at right angles will be parallel.</hi>
+      </p>
+      <p>For let any straight line <hi rend="ital">AB</hi> be at right angles to each of the planes <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi>; I say that the planes are parallel. <figure />
+      </p>
+      <p>For, if not, they will meet when produced. </p>
+      <p>Let them meet; they will then make, as common section, a straight line. [<ref target="elem.11.3" targOrder="U">XI. 3</ref>] </p>
+      <p>Let them make <hi rend="ital">GH</hi>; let a point <hi rend="ital">K</hi> be taken at random on <hi rend="ital">GH</hi>, and let <hi rend="ital">AK</hi>, <hi rend="ital">BK</hi> be joined. </p>
+      <p>Now, since <hi rend="ital">AB</hi> is at right angles to the plane <hi rend="ital">EF</hi>, therefore <hi rend="ital">AB</hi> is also at right angles to <hi rend="ital">BK</hi> which is a straight line in the plane <hi rend="ital">EF</hi> produced; [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] therefore the angle <hi rend="ital">ABK</hi> is right. </p>
+      <p>For the same reason the angle <hi rend="ital">BAK</hi> is also right. </p>
+      <p>Thus, in the triangle <hi rend="ital">ABK</hi>, the two angles <hi rend="ital">ABK</hi>, <hi rend="ital">BAK</hi> are equal to two right angles: which is impossible. [<ref target="elem.1.17" targOrder="U">I. 17</ref>] </p>
+      <p>Therefore the planes <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi> will not meet when produced; therefore the planes <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi> are parallel. [<ref target="elem.11.def.8" targOrder="U">XI. Def. 8</ref>] </p>
+      <p>Therefore planes to which the same straight line is at right angles are parallel. Q. E. D.</p>
+     </div3>
+     <pb n="297" />
+     <div3 id="elem.11.15" n="15" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 15.</head>
+      <p><hi rend="ital">If two straight lines meeting one another be parallel to two straight lines meeting one another</hi>, <hi rend="ital">not being in the same plane</hi>, <hi rend="ital">the planes through them are parallel.</hi>
+      </p>
+      <p>For let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> meeting one another be parallel to the two straight lines <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi> meeting one another, not being in the same plane; I say that the planes produced through <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> and <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi> will not meet one another. <figure />
+      </p>
+      <p>For let <hi rend="ital">BG</hi> be drawn from the point <hi rend="ital">B</hi> perpendicular to the plane through <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi> [<ref target="elem.11.11" targOrder="U">XI. 11</ref>], and let it meet the plane at the point <hi rend="ital">G</hi>; through <hi rend="ital">G</hi> let <hi rend="ital">GH</hi> be drawn parallel to <hi rend="ital">ED</hi>, and <hi rend="ital">GK</hi> parallel to <hi rend="ital">EF</hi>. [<ref target="elem.1.31" targOrder="U">I. 31</ref>] </p>
+      <p>Now, since <hi rend="ital">BG</hi> is at right angles to the plane through <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, therefore it will also make right angles with all the straight lines which meet it and are in the plane through <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>. [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] </p>
+      <p>But each of the straight lines <hi rend="ital">GH</hi>, <hi rend="ital">GK</hi> meets it and is in the plane through <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>; therefore each of the angles <hi rend="ital">BGH</hi>, <hi rend="ital">BGK</hi> is right. </p>
+      <p>And, since <hi rend="ital">BA</hi> is parallel to <hi rend="ital">GH</hi>, [<ref target="elem.11.9" targOrder="U">XI. 9</ref>] therefore the angles <hi rend="ital">GBA</hi>, <hi rend="ital">BGH</hi> are equal to two right angles. [<ref target="elem.1.29" targOrder="U">I. 29</ref>] </p>
+      <p>But the angle <hi rend="ital">BGH</hi> is right; therefore the angle <hi rend="ital">GBA</hi> is also right; therefore <hi rend="ital">GB</hi> is at right angles to <hi rend="ital">BA</hi>. </p>
+      <p>For the same reason <hi rend="ital">GB</hi> is also at right angles to <hi rend="ital">BC</hi>. </p>
+      <p>Since then the straight line <hi rend="ital">GB</hi> is set up at right angles to the two straight lines <hi rend="ital">BA</hi>, <hi rend="ital">BC</hi> which cut one another, therefore <hi rend="ital">GB</hi> is also at right angles to the plane through <hi rend="ital">BA</hi>, <hi rend="ital">BC</hi>. [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] <pb n="298" /></p>
+      <p>But planes to which the same straight line is at right angles are parallel; [<ref target="elem.11.14" targOrder="U">XI. 14</ref>] therefore the plane through <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is parallel to the plane through <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>. </p>
+      <p>Therefore, if two straight lines meeting one another be parallel to two straight lines meeting one another, not in the same plane, the planes through them are parallel. Q. E. D.</p>
+     </div3>
+     <pb n="300" />
+     <div3 id="elem.11.16" n="16" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 16.</head>
+      <p><hi rend="ital">If two parallel planes be cut by any plane</hi>, <hi rend="ital">their common sections are parallel.</hi>
+      </p>
+      <p>For let the two parallel planes <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be cut by the plane <hi rend="ital">EFGH</hi>, and let <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi> be their common sections; I say that <hi rend="ital">EF</hi> is parallel to <hi rend="ital">GH</hi>. <figure />
+      </p>
+      <p>For, if not, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi> will, when produced, meet either in the direction of <hi rend="ital">F</hi>, <hi rend="ital">H</hi> or of <hi rend="ital">E</hi>, <hi rend="ital">G</hi>. </p>
+      <p>Let them be produced, as in the direction of <hi rend="ital">F</hi>, <hi rend="ital">H</hi>, and let them, first, meet at <hi rend="ital">K</hi>. </p>
+      <p>Now, since <hi rend="ital">EFK</hi> is in the plane <hi rend="ital">AB</hi>, therefore all the points on <hi rend="ital">EFK</hi> are also in the plane <hi rend="ital">AB</hi>. [<ref target="elem.11.1" targOrder="U">XI. 1</ref>] </p>
+      <p>But <hi rend="ital">K</hi> is one of the points on the straight line <hi rend="ital">EFK</hi>; therefore <hi rend="ital">K</hi> is in the plane <hi rend="ital">AB</hi>. </p>
+      <p>For the same reason <hi rend="ital">K</hi> is also in the plane <hi rend="ital">CD</hi>; therefore the planes <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> will meet when produced. </p>
+      <p>But they do not meet, because they are, by hypothesis, parallel; therefore the straight lines <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi> will not meet when produced in the direction of <hi rend="ital">F</hi>, <hi rend="ital">H</hi>. </p>
+      <p>Similarly we can prove that neither will the straight lines <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi> meet when produced in the direction of <hi rend="ital">E</hi>, <hi rend="ital">G</hi>. </p>
+      <p>But straight lines which do not meet in either direction are parallel. [<ref target="elem.1.def.23" targOrder="U">I. Def. 23</ref>] </p>
+      <p>Therefore <hi rend="ital">EF</hi> is parallel to <hi rend="ital">GH</hi>. </p>
+      <p>Therefore etc. Q. E. D.<pb n="301" /></p>
+     </div3>
+     <div3 id="elem.11.17" n="17" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 17.</head>
+      <p><hi rend="ital">If two straight lines be cut by parallel planes</hi>, <hi rend="ital">they will be cut in the same ratios.</hi>
+      </p>
+      <p>For let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be cut by the parallel planes <hi rend="ital">GH</hi>, <hi rend="ital">KL</hi>, <hi rend="ital">MN</hi> at the points <hi rend="ital">A</hi>, <hi rend="ital">E</hi>, <hi rend="ital">B</hi> and <hi rend="ital">C</hi>, <hi rend="ital">F</hi>, <hi rend="ital">D</hi>; I say that, as the straight line <hi rend="ital">AE</hi> is to <hi rend="ital">EB</hi>, so is <hi rend="ital">CF</hi> to <hi rend="ital">FD</hi>. <figure />
+      </p>
+      <p>For let <hi rend="ital">AC</hi>, <hi rend="ital">BD</hi>, <hi rend="ital">AD</hi> be joined, let <hi rend="ital">AD</hi> meet the plane <hi rend="ital">KL</hi> at the point <hi rend="ital">O</hi>, and let <hi rend="ital">EO</hi>, <hi rend="ital">OF</hi> be joined. <pb n="302" /></p>
+      <p>Now, since the two parallel planes <hi rend="ital">KL</hi>, <hi rend="ital">MN</hi> are cut by the plane <hi rend="ital">EBDO</hi>, their common sections <hi rend="ital">EO</hi>, <hi rend="ital">BD</hi> are parallel. [<ref target="elem.11.16" targOrder="U">XI. 16</ref>] </p>
+      <p>For the same reason, since the two parallel planes <hi rend="ital">GH</hi>, <hi rend="ital">KL</hi> are cut by the plane <hi rend="ital">AOFC</hi>, their common sections <hi rend="ital">AC</hi>, <hi rend="ital">OF</hi> are parallel. [<hi rend="ital">id</hi>.] </p>
+      <p>And, since the straight line <hi rend="ital">EO</hi> has been drawn parallel to <hi rend="ital">BD</hi>, one of the sides of the triangle <hi rend="ital">ABD</hi>, therefore, proportionally, as <hi rend="ital">AE</hi> is to <hi rend="ital">EB</hi>, so is <hi rend="ital">AO</hi> to <hi rend="ital">OD</hi>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] </p>
+      <p>Again, since the straight line <hi rend="ital">OF</hi> has been drawn parallel to <hi rend="ital">AC</hi>, one of the sides of the triangle <hi rend="ital">ADC</hi>, proportionally, as <hi rend="ital">AO</hi> is to <hi rend="ital">OD</hi>, so is <hi rend="ital">CF</hi> to <hi rend="ital">FD</hi>. [<hi rend="ital">id</hi>.] </p>
+      <p>But it was also proved that, as <hi rend="ital">AO</hi> is to <hi rend="ital">OD</hi>, so is <hi rend="ital">AE</hi> to <hi rend="ital">EB</hi>; therefore also, as <hi rend="ital">AE</hi> is to <hi rend="ital">EB</hi>, so is <hi rend="ital">CF</hi> to <hi rend="ital">FD</hi>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.18" n="18" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 18.</head>
+      <p><hi rend="ital">If a straight line be at right angles to any plane</hi>, <hi rend="ital">all the planes through it will also be at right angles to the same plane.</hi>
+      </p>
+      <p>For let any straight line <hi rend="ital">AB</hi> be at right angles to the plane of reference; I say that all the planes through <hi rend="ital">AB</hi> are also at right angles to the plane of reference. <figure />
+      </p>
+      <p>For let the plane <hi rend="ital">DE</hi> be drawn through <hi rend="ital">AB</hi>, let <hi rend="ital">CE</hi> be the common section of the plane <hi rend="ital">DE</hi> and the plane of reference, let a point <hi rend="ital">F</hi> be taken at random on <hi rend="ital">CE</hi>, and from <hi rend="ital">F</hi> let <hi rend="ital">FG</hi> be drawn in the plane <hi rend="ital">DE</hi> at right angles to <hi rend="ital">CE</hi>. [<ref target="elem.1.11" targOrder="U">I. 11</ref>] </p>
+      <p>Now, since <hi rend="ital">AB</hi> is at right angles to the plane of reference, <pb n="303" /><hi rend="ital">AB</hi> is also at right angles to all the straight lines which meet it and are in the plane of reference; [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] so that it is also at right angles to <hi rend="ital">CE</hi>; therefore the angle <hi rend="ital">ABF</hi> is right. </p>
+      <p>But the angle <hi rend="ital">GFB</hi> is also right; therefore <hi rend="ital">AB</hi> is parallel to <hi rend="ital">FG</hi>. [<ref target="elem.1.28" targOrder="U">I. 28</ref>] </p>
+      <p>But <hi rend="ital">AB</hi> is at right angles to the plane of reference; therefore <hi rend="ital">FG</hi> is also at right angles to the plane of reference. [<ref target="elem.11.8" targOrder="U">XI. 8</ref>] </p>
+      <p>Now a plane is at right angles to a plane, when the straight lines drawn, in one of the planes, at right angles to the common section of the planes are at right angles to the remaining plane. [<ref target="elem.11.def.4" targOrder="U">XI. Def. 4</ref>] </p>
+      <p>And <hi rend="ital">FG</hi>, drawn in one of the planes <hi rend="ital">DE</hi> at right angles to <hi rend="ital">CE</hi>, the common section of the planes, was proved to be at right angles to the plane of reference; therefore the plane <hi rend="ital">DE</hi> is at right angles to the plane of reference. </p>
+      <p>Similarly also it can be proved that all the planes through <hi rend="ital">AB</hi> are at right angles to the plane of reference. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.19" n="19" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 19.</head>
+      <p><hi rend="ital">If two planes which cut one another be at right angles to any plane</hi>, <hi rend="ital">their common section will also be at right angles to the same plane.</hi>
+      </p>
+      <p>For let the two planes <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> be at right angles to the plane of reference, and let <hi rend="ital">BD</hi> be their common section; I say that <hi rend="ital">BD</hi> is at right angles to the plane of reference. </p>
+      <p>For suppose it is not, and from the point <hi rend="ital">D</hi> let <hi rend="ital">DE</hi> be drawn in the plane <hi rend="ital">AB</hi> at right angles to the straight line <hi rend="ital">AD</hi>, and <hi rend="ital">DF</hi> in the plane <hi rend="ital">BC</hi> at right angles to <hi rend="ital">CD</hi>. <figure />
+      </p>
+      <p>Now, since the plane <hi rend="ital">AB</hi> is at right angles to the plane of reference, and <hi rend="ital">DE</hi> has been drawn in the plane <hi rend="ital">AB</hi> at right angles to <hi rend="ital">AD</hi>, their common section, therefore <hi rend="ital">DE</hi> is at right angles to the plane of reference. [<ref target="elem.11.def.4" targOrder="U">XI. Def. 4</ref>] <pb n="305" /></p>
+      <p>Similarly we can prove that <hi rend="ital">DF</hi> is also at right angles to the plane of reference. </p>
+      <p>Therefore from the same point <hi rend="ital">D</hi> two straight lines have been set up at right angles to the plane of reference on the same side: which is impossible. [<ref target="elem.11.13" targOrder="U">XI. 13</ref>] </p>
+      <p>Therefore no straight line except the common section <hi rend="ital">DB</hi> of the planes <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> can be set up from the point <hi rend="ital">D</hi> at right angles to the plane of reference. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.20" n="20" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 20.</head>
+      <p><hi rend="ital">If a solid angle be contained by three plane angles</hi>, <hi rend="ital">any two</hi>, <hi rend="ital">taken together in any manner</hi>, <hi rend="ital">are greater than the remaining one.</hi>
+      </p>
+      <p>For let the solid angle at <hi rend="ital">A</hi> be contained by the three plane angles <hi rend="ital">BAC</hi>, <hi rend="ital">CAD</hi>, <hi rend="ital">DAB</hi>; I say that any two of the angles <hi rend="ital">BAC</hi>, <hi rend="ital">CAD</hi>, <hi rend="ital">DAB</hi>, taken together in any manner, are greater than the remaining one. <figure />
+      </p>
+      <p>If now the angles <hi rend="ital">BAC</hi>, <hi rend="ital">CAD</hi>, <hi rend="ital">DAB</hi> are equal to one another, it is manifest that any two are greater than the remaining one. </p>
+      <p>But, if not, let <hi rend="ital">BAC</hi> be greater, and on the straight line <hi rend="ital">AB</hi>, and at the point <hi rend="ital">A</hi> on it, let the <pb n="308" />angle <hi rend="ital">BAE</hi> be constructed, in the plane through <hi rend="ital">BA</hi>, <hi rend="ital">AC</hi>, equal to the angle <hi rend="ital">DAB</hi>; let <hi rend="ital">AE</hi> be made equal to <hi rend="ital">AD</hi>, and let <hi rend="ital">BEC</hi>, drawn across through the point <hi rend="ital">E</hi>, cut the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">AC</hi> at the points <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; let <hi rend="ital">DB</hi>, <hi rend="ital">DC</hi> be joined. </p>
+      <p>Now, since <hi rend="ital">DA</hi> is equal to <hi rend="ital">AE</hi>, and <hi rend="ital">AB</hi> is common, two sides are equal to two sides; and the angle <hi rend="ital">DAB</hi> is equal to the angle <hi rend="ital">BAE</hi>; therefore the base <hi rend="ital">DB</hi> is equal to the base <hi rend="ital">BE</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>And, since the two sides <hi rend="ital">BD</hi>, <hi rend="ital">DC</hi> are greater than <hi rend="ital">BC</hi>, [<ref target="elem.1.20" targOrder="U">I. 20</ref>] and of these <hi rend="ital">DB</hi> was proved equal to <hi rend="ital">BE</hi>, therefore the remainder <hi rend="ital">DC</hi> is greater than the remainder <hi rend="ital">EC</hi>. </p>
+      <p>Now, since <hi rend="ital">DA</hi> is equal to <hi rend="ital">AE</hi>, and <hi rend="ital">AC</hi> is common, and the base <hi rend="ital">DC</hi> is greater than the base <hi rend="ital">EC</hi>, therefore the angle <hi rend="ital">DAC</hi> is greater than the angle <hi rend="ital">EAC</hi>. [<ref target="elem.1.25" targOrder="U">I. 25</ref>] </p>
+      <p>But the angle <hi rend="ital">DAB</hi> was also proved equal to the angle <hi rend="ital">BAE</hi>; therefore the angles <hi rend="ital">DAB</hi>, <hi rend="ital">DAC</hi> are greater than the angle <hi rend="ital">BAC</hi>. </p>
+      <p>Similarly we can prove that the remaining angles also, taken together two and two, are greater than the remaining one. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.21" n="21" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 21.</head>
+      <p>
+       <hi rend="ital">Any solid angle is contained by plane angles less than four right angles.</hi>
+      </p>
+      <p>Let the angle at <hi rend="ital">A</hi> be a solid angle contained by the plane angles <hi rend="ital">BAC</hi>, <hi rend="ital">CAD</hi>, <hi rend="ital">DAB</hi>; I say that the angles <hi rend="ital">BAC</hi>, <hi rend="ital">CAD</hi>, <hi rend="ital">DAB</hi> are less than four right angles. </p>
+      <p>For let points <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi> be taken at random on the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">AC</hi>, <hi rend="ital">AD</hi> respectively, and let <hi rend="ital">BC</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">DB</hi> be joined. <figure />
+      </p>
+      <p>Now, since the solid angle at <hi rend="ital">B</hi> is contained by the three plane angles <hi rend="ital">CBA</hi>, <hi rend="ital">ABD</hi>, <hi rend="ital">CBD</hi>, any two are greater than the remaining one; [<ref target="elem.11.20" targOrder="U">XI. 20</ref>] therefore the angles <hi rend="ital">CBA</hi>, <hi rend="ital">ABD</hi> are greater than the angle <hi rend="ital">CBD</hi>. </p>
+      <p>For the same reason the angles <hi rend="ital">BCA</hi>, <hi rend="ital">ACD</hi> are also greater than the angle <hi rend="ital">BCD</hi>, and the angles <hi rend="ital">CDA</hi>, <hi rend="ital">ADB</hi> are greater than the angle <hi rend="ital">CDB</hi>; therefore the six angles <hi rend="ital">CBA</hi>, <hi rend="ital">ABD</hi>, <hi rend="ital">BCA</hi>, <hi rend="ital">ACD</hi>, <hi rend="ital">CDA</hi>, <hi rend="ital">ADB</hi> are greater than the three angles <hi rend="ital">CBD</hi>, <hi rend="ital">BCD</hi>, <hi rend="ital">CDB</hi>. </p>
+      <p>But the three angles <hi rend="ital">CBD</hi>, <hi rend="ital">BDC</hi>, <hi rend="ital">BCD</hi> are equal to two right angles; [<ref target="elem.1.32" targOrder="U">I. 32</ref>] therefore the six angles <hi rend="ital">CBA</hi>, <hi rend="ital">ABD</hi>, <hi rend="ital">BCA</hi>, <hi rend="ital">ACD</hi>, <hi rend="ital">CDA</hi>, <hi rend="ital">ADB</hi> are greater than two right angles. <pb n="310" /></p>
+      <p>And, since the three angles of each of the triangles <hi rend="ital">ABC</hi>, <hi rend="ital">ACD</hi>, <hi rend="ital">ADB</hi> are equal to two right angles, therefore the nine angles of the three triangles, the angles <hi rend="ital">CBA</hi>, <hi rend="ital">ACB</hi>, <hi rend="ital">BAC</hi>, <hi rend="ital">ACD</hi>, <hi rend="ital">CDA</hi>, <hi rend="ital">CAD</hi>, <hi rend="ital">ADB</hi>, <hi rend="ital">DBA</hi>, <hi rend="ital">BAD</hi> are equal to six right angles; and of them the six angles <hi rend="ital">ABC</hi>, <hi rend="ital">BCA</hi>, <hi rend="ital">ACD</hi>, <hi rend="ital">CDA</hi>, <hi rend="ital">ADB</hi>, <hi rend="ital">DBA</hi> are greater than two right angles; therefore the remaining three angles <hi rend="ital">BAC</hi>, <hi rend="ital">CAD</hi>, <hi rend="ital">DAB</hi> containing the solid angle are less than four right angles. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.22" n="22" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 22.</head>
+      <p><hi rend="ital">If there be three plane angles of which two</hi>, <hi rend="ital">taken together in any manner</hi>, <hi rend="ital">are greater than the remaining one</hi>, <hi rend="ital">and they are contained by equal straight lines</hi>, <hi rend="ital">it is possible to construct a triangle out of the straight lines joining the extremities of the equal straight lines.</hi>
+      </p>
+      <p>Let there be three plane angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi>, of <pb n="313" />which two, taken together in any manner, are greater than the remaining one, namely <hi rend="center">the angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi> greater than the angle <hi rend="ital">GHK</hi>, the angles <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi> greater than the angle <hi rend="ital">ABC</hi>,</hi> and, further, the angles <hi rend="ital">GHK</hi>, <hi rend="ital">ABC</hi> greater than the angle <hi rend="ital">DEF</hi>; let the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi>, <hi rend="ital">HK</hi> be equal, and let <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi> be joined; I say that it is possible to construct a triangle out of straight lines equal to <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi>, that is, that any two of the straight lines <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi> are greater than the remaining one. <figure />
+      </p>
+      <p>Now, if the angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi> are equal to one another, it is manifest that, <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi> being equal also, it is possible to construct a triangle out of straight lines equal to <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi>. </p>
+      <p>But, if not, let them be unequal, and on the straight line <hi rend="ital">HK</hi>, and at the point <hi rend="ital">H</hi> on it, let the angle <hi rend="ital">KHL</hi> be constructed equal to the angle <hi rend="ital">ABC</hi>; let <hi rend="ital">HL</hi> be made equal to one of the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi>, <hi rend="ital">HK</hi>, and let <hi rend="ital">KL</hi>, <hi rend="ital">GL</hi> be joined. <figure />
+      </p>
+      <p>Now, since the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are equal to the two sides <hi rend="ital">KH</hi>, <hi rend="ital">HL</hi>, and the angle at <hi rend="ital">B</hi> is equal to the angle <hi rend="ital">KHL</hi>, therefore the base <hi rend="ital">AC</hi> is equal to the base <hi rend="ital">KL</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>And, since the angles <hi rend="ital">ABC</hi>, <hi rend="ital">GHK</hi> are greater than the angle <hi rend="ital">DEF</hi>, <pb n="314" />while the angle <hi rend="ital">ABC</hi> is equal to the angle <hi rend="ital">KHL</hi>, therefore the angle <hi rend="ital">GHL</hi> is greater than the angle <hi rend="ital">DEF</hi>. </p>
+      <p>And, since the two sides <hi rend="ital">GH</hi>, <hi rend="ital">HL</hi> are equal to the two sides <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, and the angle <hi rend="ital">GHL</hi> is greater than the angle <hi rend="ital">DEF</hi>, therefore the base <hi rend="ital">GL</hi> is greater than the base <hi rend="ital">DF</hi>. [<ref target="elem.1.24" targOrder="U">I. 24</ref>] </p>
+      <p>But <hi rend="ital">GK</hi>, <hi rend="ital">KL</hi> are greater than <hi rend="ital">GL</hi>. </p>
+      <p>Therefore <hi rend="ital">GK</hi>, <hi rend="ital">KL</hi> are much greater than <hi rend="ital">DF</hi>. </p>
+      <p>But <hi rend="ital">KL</hi> is equal to <hi rend="ital">AC</hi>; therefore <hi rend="ital">AC</hi>, <hi rend="ital">GK</hi> are greater than the remaining straight line <hi rend="ital">DF</hi>. </p>
+      <p>Similarly we can prove that <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi> are greater than <hi rend="ital">GK</hi>, and further <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi> are greater than <hi rend="ital">AC</hi>. </p>
+      <p>Therefore it is possible to construct a triangle out of straight lines equal to <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi>. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.23" n="23" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 23.</head>
+      <p><hi rend="ital">To construct a solid angle out of three plane angles two of which</hi>, <hi rend="ital">taken together in any manner</hi>, <hi rend="ital">are greater than the remaining one: thus the three angles must be less than four right angles.</hi>
+       <pb n="315" /></p>
+      <p>Let the angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi> be the three given plane angles, and let two of these, taken together in any manner, be greater than the remaining one, while, further, the three are less than four right angles; thus it is required to construct a solid angle out of angles equal to the angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi>. <figure />
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi>, <hi rend="ital">HK</hi> be cut off equal to one another, and let <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi> be joined; it is therefore possible to construct a triangle out of straight lines equal to <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">GK</hi>. [<ref target="elem.11.22" targOrder="U">XI. 22</ref>] <figure />
+      </p>
+      <p>Let <hi rend="ital">LMN</hi> be so constructed that <hi rend="ital">AC</hi> is equal to <hi rend="ital">LM</hi>, <hi rend="ital">DF</hi> to <hi rend="ital">MN</hi>, and further <hi rend="ital">GK</hi> to <hi rend="ital">NL</hi>, let the circle <hi rend="ital">LMN</hi> be described about the triangle <hi rend="ital">LMN</hi>, let its centre be taken, and let it be <hi rend="ital">O</hi>; let <hi rend="ital">LO</hi>, <hi rend="ital">MO</hi>, <hi rend="ital">NO</hi> be joined; I say that <hi rend="ital">AB</hi> is greater than <hi rend="ital">LO</hi>. </p>
+      <p>For, if not, <hi rend="ital">AB</hi> is either equal to <hi rend="ital">LO</hi>, or less. </p>
+      <p>First, let it be equal. </p>
+      <p>Then, since <hi rend="ital">AB</hi> is equal to <hi rend="ital">LO</hi>, while <hi rend="ital">AB</hi> is equal to <hi rend="ital">BC</hi>, and <hi rend="ital">OL</hi> to <hi rend="ital">OM</hi>, the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are equal to the two sides <hi rend="ital">LO</hi>, <hi rend="ital">OM</hi> respectively; and, by hypothesis, the base <hi rend="ital">AC</hi> is equal to the base <hi rend="ital">LM</hi>; therefore the angle <hi rend="ital">ABC</hi> is equal to the angle <hi rend="ital">LOM</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] </p>
+      <p>For the same reason the angle <hi rend="ital">DEF</hi> is also equal to the angle <hi rend="ital">MON</hi>, and further the angle <hi rend="ital">GHK</hi> to the angle <hi rend="ital">NOL</hi>; <pb n="316" />therefore the three angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi> are equal to the three angles <hi rend="ital">LOM</hi>, <hi rend="ital">MON</hi>, <hi rend="ital">NOL</hi>. </p>
+      <p>But the three angles <hi rend="ital">LOM</hi>, <hi rend="ital">MON</hi>, <hi rend="ital">NOL</hi> are equal to four right angles; therefore the angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi> are equal to four right angles. </p>
+      <p>But they are also, by hypothesis, less than four right angles: which is absurd. </p>
+      <p>Therefore <hi rend="ital">AB</hi> is not equal to <hi rend="ital">LO</hi>. </p>
+      <p>I say next that neither is <hi rend="ital">AB</hi> less than <hi rend="ital">LO</hi>. </p>
+      <p>For, if possible, let it be so, and let <hi rend="ital">OP</hi> be made equal to <hi rend="ital">AB</hi>, and <hi rend="ital">OQ</hi> equal to <hi rend="ital">BC</hi>, and let <hi rend="ital">PQ</hi> be joined. </p>
+      <p>Then, since <hi rend="ital">AB</hi> is equal to <hi rend="ital">BC</hi>, <hi rend="ital">OP</hi> is also equal to <hi rend="ital">OQ</hi>, so that the remainder <hi rend="ital">LP</hi> is equal to <hi rend="ital">QM</hi>. </p>
+      <p>Therefore <hi rend="ital">LM</hi> is parallel to <hi rend="ital">PQ</hi>, [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] and <hi rend="ital">LMO</hi> is equiangular with <hi rend="ital">PQO</hi>; [<ref target="elem.1.29" targOrder="U">I. 29</ref>] therefore, as <hi rend="ital">OL</hi> is to <hi rend="ital">LM</hi>, so is <hi rend="ital">OP</hi> to <hi rend="ital">PQ</hi>; [<ref target="elem.6.4" targOrder="U">VI. 4</ref>] and alternately, as <hi rend="ital">LO</hi> is to <hi rend="ital">OP</hi>, so is <hi rend="ital">LM</hi> to <hi rend="ital">PQ</hi>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>But <hi rend="ital">LO</hi> is greater than <hi rend="ital">OP</hi>; therefore <hi rend="ital">LM</hi> is also greater than <hi rend="ital">PQ</hi>. </p>
+      <p>But <hi rend="ital">LM</hi> was made equal to <hi rend="ital">AC</hi>; therefore <hi rend="ital">AC</hi> is also greater than <hi rend="ital">PQ</hi>. </p>
+      <p>Since, then, the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are equal to the two sides <hi rend="ital">PO</hi>, <hi rend="ital">OQ</hi>, and the base <hi rend="ital">AC</hi> is greater than the base <hi rend="ital">PQ</hi>, therefore the angle <hi rend="ital">ABC</hi> is greater than the angle <hi rend="ital">POQ</hi>. [<ref target="elem.1.25" targOrder="U">I. 25</ref>] </p>
+      <p>Similarly we can prove that the angle <hi rend="ital">DEF</hi> is also greater than the angle <hi rend="ital">MON</hi>, and the angle <hi rend="ital">GHK</hi> greater than the angle <hi rend="ital">NOL</hi>. </p>
+      <p>Therefore the three angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi> are greater than the three angles <hi rend="ital">LOM</hi>, <hi rend="ital">MON</hi>, <hi rend="ital">NOL</hi>. </p>
+      <p>But, by hypothesis, the angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi> are less than four right angles; therefore the angles <hi rend="ital">LOM</hi>, <hi rend="ital">MON</hi>, <hi rend="ital">NOL</hi> are much less than four right angles. <pb n="317" /></p>
+      <p>But they are also equal to four right angles: which is absurd. </p>
+      <p>Therefore <hi rend="ital">AB</hi> is not less than <hi rend="ital">LO</hi>. </p>
+      <p>And it was proved that neither is it equal; therefore <hi rend="ital">AB</hi> is greater than <hi rend="ital">LO</hi>. </p>
+      <p>Let then <hi rend="ital">OR</hi> be set up from the point <hi rend="ital">O</hi> at right angles to the plane of the circle <hi rend="ital">LMN</hi>, [<ref target="elem.11.12" targOrder="U">XI. 12</ref>] and let the square on <hi rend="ital">OR</hi> be equal to that area by which the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">LO</hi>; [Lemma] let <hi rend="ital">RL</hi>, <hi rend="ital">RM</hi>, <hi rend="ital">RN</hi> be joined. </p>
+      <p>Then, since <hi rend="ital">RO</hi> is at right angles to the plane of the circle <hi rend="ital">LMN</hi>, therefore <hi rend="ital">RO</hi> is also at right angles to each of the straight lines <hi rend="ital">LO</hi>, <hi rend="ital">MO</hi>, <hi rend="ital">NO</hi>. </p>
+      <p>And, since <hi rend="ital">LO</hi> is equal to <hi rend="ital">OM</hi>, while <hi rend="ital">OR</hi> is common and at right angles, therefore the base <hi rend="ital">RL</hi> is equal to the base <hi rend="ital">RM</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>For the same reason <hi rend="ital">RN</hi> is also equal to each of the straight lines <hi rend="ital">RL</hi>, <hi rend="ital">RM</hi>; therefore the three straight lines <hi rend="ital">RL</hi>, <hi rend="ital">RM</hi>, <hi rend="ital">RN</hi> are equal to one another. </p>
+      <p>Next, since by hypothesis the square on <hi rend="ital">OR</hi> is equal to that area by which the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">LO</hi>, therefore the square on <hi rend="ital">AB</hi> is equal to the squares on <hi rend="ital">LO</hi>, <hi rend="ital">OR</hi>. </p>
+      <p>But the square on <hi rend="ital">LR</hi> is equal to the squares on <hi rend="ital">LO</hi>, <hi rend="ital">OR</hi>, for the angle <hi rend="ital">LOR</hi> is right; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] therefore the square on <hi rend="ital">AB</hi> is equal to the square on <hi rend="ital">RL</hi>; therefore <hi rend="ital">AB</hi> is equal to <hi rend="ital">RL</hi>. </p>
+      <p>But each of the straight lines <hi rend="ital">BC</hi>, <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi>, <hi rend="ital">HK</hi> is equal to <hi rend="ital">AB</hi>, while each of the straight lines <hi rend="ital">RM</hi>, <hi rend="ital">RN</hi> is equal to <hi rend="ital">RL</hi>; therefore each of the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi>, <hi rend="ital">HK</hi> is equal to each of the straight lines <hi rend="ital">RL</hi>, <hi rend="ital">RM</hi>, <hi rend="ital">RN</hi>. <pb n="318" /></p>
+      <p>And, since the two sides <hi rend="ital">LR</hi>, <hi rend="ital">RM</hi> are equal to the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, and the base <hi rend="ital">LM</hi> is by hypothesis equal to the base <hi rend="ital">AC</hi>, therefore the angle <hi rend="ital">LRM</hi> is equal to the angle <hi rend="ital">ABC</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] </p>
+      <p>For the same reason the angle <hi rend="ital">MRN</hi> is also equal to the angle <hi rend="ital">DEF</hi>, and the angle <hi rend="ital">LRN</hi> to the angle <hi rend="ital">GHK</hi>. </p>
+      <p>Therefore, out of the three plane angles <hi rend="ital">LRM</hi>, <hi rend="ital">MRN</hi>, <hi rend="ital">LRN</hi>, which are equal to the three given angles <hi rend="ital">ABC</hi>, <hi rend="ital">DEF</hi>, <hi rend="ital">GHK</hi>, the solid angle at <hi rend="ital">R</hi> has been constructed, which is contained by the angles <hi rend="ital">LRM</hi>, <hi rend="ital">MRN</hi>, <hi rend="ital">LRN</hi>. Q. E. F.  </p>
+      <div4 id="elem.11.23.l.1" type="lemma" org="uniform" sample="complete">
+       <head>LEMMA.</head>
+       <p>But how it is possible to take the square on <hi rend="ital">OR</hi> equal to that area by which the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">LO</hi>, we can show as follows. <figure />
+       </p>
+       <p>Let the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">LO</hi> be set out, and let <hi rend="ital">AB</hi> be the greater; let the semicircle <hi rend="ital">ABC</hi> be described on <hi rend="ital">AB</hi>, and into the semicircle <hi rend="ital">ABC</hi> let <hi rend="ital">AC</hi> be fitted equal to the straight line <hi rend="ital">LO</hi>, not being greater than the diameter <hi rend="ital">AB</hi>; [<ref target="elem.4.1" targOrder="U">IV. 1</ref>] let <hi rend="ital">CB</hi> be joined </p>
+       <p>Since then the angle <hi rend="ital">ACB</hi> is an angle in the semicircle <hi rend="ital">ACB</hi>, therefore the angle <hi rend="ital">ACB</hi> is right. [<ref target="elem.3.31" targOrder="U">III. 31</ref>] </p>
+       <p>Therefore the square on <hi rend="ital">AB</hi> is equal to the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>. [<ref target="elem.1.47" targOrder="U">I. 47</ref>] </p>
+       <p>Hence the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">AC</hi> by the square on <hi rend="ital">CB</hi>. </p>
+       <p>But <hi rend="ital">AC</hi> is equal to <hi rend="ital">LO</hi>. </p>
+       <p>Therefore the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">LO</hi> by the square on <hi rend="ital">CB</hi>. </p>
+       <p>If then we cut off <hi rend="ital">OR</hi> equal to <hi rend="ital">BC</hi>, the square on <hi rend="ital">AB</hi> will be greater than the square on <hi rend="ital">LO</hi> by the square on <hi rend="ital">OR</hi>. Q. E. F.</p>
+      </div4>
+     </div3>
+     <div3 id="elem.11.24" n="24" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 24.</head>
+      <p><hi rend="ital">If a solid be contained by parallel planes</hi>, <hi rend="ital">the opposite planes in it are equal and parallelogrammic.</hi>
+      </p>
+      <p>For let the solid <hi rend="ital">CDHG</hi> be contained by the parallel planes <hi rend="ital">AC</hi>, <hi rend="ital">GF</hi>, <hi rend="ital">AH</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">BF</hi>, <hi rend="ital">AE</hi>; I say that the opposite planes in it are equal and parallelogrammic. <figure />
+      </p>
+      <p>For, since the two parallel planes <hi rend="ital">BG</hi>, <hi rend="ital">CE</hi> are cut by the plane <hi rend="ital">AC</hi>, their common sections are parallel. [<ref target="elem.11.16" targOrder="U">XI. 16</ref>] <pb n="324" /></p>
+      <p>Therefore <hi rend="ital">AB</hi> is parallel to <hi rend="ital">DC</hi>. </p>
+      <p>Again, since the two parallel planes <hi rend="ital">BF</hi>, <hi rend="ital">AE</hi> are cut by the plane <hi rend="ital">AC</hi>, their common sections are parallel. [<ref target="elem.11.16" targOrder="U">XI. 16</ref>] </p>
+      <p>Therefore <hi rend="ital">BC</hi> is parallel to <hi rend="ital">AD</hi>. </p>
+      <p>But <hi rend="ital">AB</hi> was also proved parallel to <hi rend="ital">DC</hi>; therefore <hi rend="ital">AC</hi> is a parallelogram. </p>
+      <p>Similarly we can prove that each of the planes <hi rend="ital">DF</hi>, <hi rend="ital">FG</hi>, <hi rend="ital">GB</hi>, <hi rend="ital">BF</hi>, <hi rend="ital">AE</hi> is a parallelogram. </p>
+      <p>Let <hi rend="ital">AH</hi>, <hi rend="ital">DF</hi> be joined. </p>
+      <p>Then, since <hi rend="ital">AB</hi> is parallel to <hi rend="ital">DC</hi>, and <hi rend="ital">BH</hi> to <hi rend="ital">CF</hi>, the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BH</hi> which meet one another are parallel to the two straight lines <hi rend="ital">DC</hi>, <hi rend="ital">CF</hi> which meet one another, not in the same plane; therefore they will contain equal angles; [<ref target="elem.11.10" targOrder="U">XI. 10</ref>] therefore the angle <hi rend="ital">ABH</hi> is equal to the angle <hi rend="ital">DCF</hi>. </p>
+      <p>And, since the two sides <hi rend="ital">AB</hi>, <hi rend="ital">BH</hi> are equal to the two sides <hi rend="ital">DC</hi>, <hi rend="ital">CF</hi>, [<ref target="elem.1.34" targOrder="U">I. 34</ref>] and the angle <hi rend="ital">ABH</hi> is equal to the angle <hi rend="ital">DCF</hi>, therefore the base <hi rend="ital">AH</hi> is equal to the base <hi rend="ital">DF</hi>, and the triangle <hi rend="ital">ABH</hi> is equal to the triangle <hi rend="ital">DCF</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>And the parallelogram <hi rend="ital">BG</hi> is double of the triangle <hi rend="ital">ABH</hi>, and the parallelogram <hi rend="ital">CE</hi> double of the triangle <hi rend="ital">DCF</hi>; [<ref target="elem.1.34" targOrder="U">I. 34</ref>] therefore the parallelogram <hi rend="ital">BG</hi> is equal to the parallelogram <hi rend="ital">CE</hi>. </p>
+      <p>Similarly we can prove that <hi rend="ital">AC</hi> is also equal to <hi rend="ital">GF</hi>, and <hi rend="ital">AE</hi> to <hi rend="ital">BF</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <pb n="325" />
+     <div3 id="elem.11.25" n="25" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 25.</head>
+      <p><hi rend="ital">If a parallelepipedal solid be cut by a plane which is parallel to the opposite planes</hi>, <hi rend="ital">then</hi>, <hi rend="ital">as the base is to the base</hi>, <hi rend="ital">so will the solid be to the solid.</hi>
+      </p>
+      <p>For let the parallelepipedal solid <hi rend="ital">ABCD</hi> be cut by the plane <hi rend="ital">FG</hi> which is parallel to the opposite planes <hi rend="ital">RA</hi>, <hi rend="ital">DH</hi>; I say that, as the base <hi rend="ital">AEFV</hi> is to the base <hi rend="ital">EHCF</hi>, so is the solid <hi rend="ital">ABFU</hi> to the solid <hi rend="ital">EGCD</hi>. <figure />
+      </p>
+      <p>For let <hi rend="ital">AH</hi> be produced in each direction, let any number of straight lines whatever, <hi rend="ital">AK</hi>, <hi rend="ital">KL</hi>, be made equal to <hi rend="ital">AE</hi>, and any number whatever, <hi rend="ital">HM</hi>, <hi rend="ital">MN</hi>, equal to <hi rend="ital">EH</hi>; and let the parallelograms <hi rend="ital">LP</hi>, <hi rend="ital">KV</hi>, <hi rend="ital">HW</hi>, <hi rend="ital">MS</hi> and the solids <hi rend="ital">LQ</hi>, <hi rend="ital">KR</hi>, <hi rend="ital">DM</hi>, <hi rend="ital">MT</hi> be completed. </p>
+      <p>Then, since the straight lines <hi rend="ital">LK</hi>, <hi rend="ital">KA</hi>, <hi rend="ital">AE</hi> are equal to one another, the parallelograms <hi rend="ital">LP</hi>, <hi rend="ital">KV</hi>, <hi rend="ital">AF</hi> are also equal to one another, <hi rend="ital">KO</hi>, <hi rend="ital">KB</hi>, <hi rend="ital">AG</hi> are equal to one another, and further <hi rend="ital">LX</hi>, <hi rend="ital">KQ</hi>, <hi rend="ital">AR</hi> are equal to one another, for they are opposite. [<ref target="elem.11.24" targOrder="U">XI. 24</ref>] </p>
+      <p>For the same reason the parallelograms <hi rend="ital">EC</hi>, <hi rend="ital">HW</hi>, <hi rend="ital">MS</hi> are also equal to one another, <hi rend="ital">HG</hi>, <hi rend="ital">HI</hi>, <hi rend="ital">IN</hi> are equal to one another, and further <hi rend="ital">DH</hi>, <hi rend="ital">MY</hi>, <hi rend="ital">NT</hi> are equal to one another. </p>
+      <p>Therefore in the solids <hi rend="ital">LQ</hi>, <hi rend="ital">KR</hi>, <hi rend="ital">AU</hi> three planes are equal to three planes. <pb n="326" /></p>
+      <p>But the three planes are equal to the three opposite; therefore the three solids <hi rend="ital">LQ</hi>, <hi rend="ital">KR</hi>, <hi rend="ital">AU</hi> are equal to one another. </p>
+      <p>For the same reason the three solids <hi rend="ital">ED</hi>, <hi rend="ital">DM</hi>, <hi rend="ital">MT</hi> are also equal to one another. </p>
+      <p>Therefore, whatever multiple the base <hi rend="ital">LF</hi> is of the base <hi rend="ital">AF</hi>, the same multiple also is the solid <hi rend="ital">LU</hi> of the solid <hi rend="ital">AU</hi>. </p>
+      <p>For the same reason, whatever multiple the base <hi rend="ital">NF</hi> is of the base <hi rend="ital">FH</hi>, the same multiple also is the solid <hi rend="ital">NU</hi> of the solid <hi rend="ital">HU</hi>. </p>
+      <p>And, if the base <hi rend="ital">LF</hi> is equal to the base <hi rend="ital">NF</hi>, the solid <hi rend="ital">LU</hi> is also equal to the solid <hi rend="ital">NU</hi>; if the base <hi rend="ital">LF</hi> exceeds the base <hi rend="ital">NF</hi>, the solid <hi rend="ital">LU</hi> also exceeds the solid <hi rend="ital">NU</hi>; and, if one falls short, the other falls short. </p>
+      <p>Therefore, there being four magnitudes, the two bases <hi rend="ital">AF</hi>, <hi rend="ital">FH</hi>, and the two solids <hi rend="ital">AU</hi>, <hi rend="ital">UH</hi>, equimultiples have been taken of the base <hi rend="ital">AF</hi> and the solid <hi rend="ital">AU</hi>, namely the base <hi rend="ital">LF</hi> and the solid <hi rend="ital">LU</hi>, and equimultiples of the base <hi rend="ital">HF</hi> and the solid <hi rend="ital">HU</hi>, namely the base <hi rend="ital">NF</hi> and the solid <hi rend="ital">NU</hi>, and it has been proved that, if the base <hi rend="ital">LF</hi> exceeds the base <hi rend="ital">FN</hi>, the solid <hi rend="ital">LU</hi> also exceeds the solid <hi rend="ital">NU</hi>, if the bases are equal, the solids are equal, and if the base falls short, the solid falls short. </p>
+      <p>Therefore, as the base <hi rend="ital">AF</hi> is to the base <hi rend="ital">FH</hi>, so is the solid <hi rend="ital">AU</hi> to the solid <hi rend="ital">UH</hi>. [<ref target="elem.5.def.5" targOrder="U">V. Def. 5</ref>] Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.26" n="26" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 26.</head>
+      <p><hi rend="ital">On a given straight line, and at a given point on it</hi>, <hi rend="ital">to construct a solid angle equal to a given solid angle.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi> be the given straight line, <hi rend="ital">A</hi> the given point on it, and the angle at <hi rend="ital">D</hi>, contained by the angles <hi rend="ital">EDC</hi>, <hi rend="ital">EDF</hi>, <hi rend="ital">FDC</hi>, the given solid angle; thus it is required to construct on the straight line <hi rend="ital">AB</hi>, and at the point <hi rend="ital">A</hi> on it, a solid angle equal to the solid angle at <hi rend="ital">D</hi>. <figure />
+      </p>
+      <p>For let a point <hi rend="ital">F</hi> be taken at random on <hi rend="ital">DF</hi>, let <hi rend="ital">FG</hi> be drawn from <hi rend="ital">F</hi> perpendicular to the plane through <hi rend="ital">ED</hi>, <hi rend="ital">DC</hi>, and let it meet the plane at <hi rend="ital">G</hi>, [<ref target="elem.11.11" targOrder="U">XI. 11</ref>] let <hi rend="ital">DG</hi> be joined, let there be constructed on the straight line <hi rend="ital">AB</hi> and at the point <hi rend="ital">A</hi> on it the angle <hi rend="ital">BAL</hi> equal to the angle <hi rend="ital">EDC</hi>, and the angle <hi rend="ital">BAK</hi> equal to the angle <hi rend="ital">EDG</hi>, [<ref target="elem.1.23" targOrder="U">I. 23</ref>] let <hi rend="ital">AK</hi> be made equal to <hi rend="ital">DG</hi>, <pb n="328" />let <hi rend="ital">KH</hi> be set up from the point <hi rend="ital">K</hi> at right angles to the plane through <hi rend="ital">BA</hi>, <hi rend="ital">AL</hi>, [<ref target="elem.11.12" targOrder="U">XI. 12</ref>] let <hi rend="ital">KH</hi> be made equal to <hi rend="ital">GF</hi>, and let <hi rend="ital">HA</hi> be joined; I say that the solid angle at <hi rend="ital">A</hi>, contained by the angles <hi rend="ital">BAL</hi>, <hi rend="ital">BAH</hi>, <hi rend="ital">HAL</hi> is equal to the solid angle at <hi rend="ital">D</hi> contained by the angles <hi rend="ital">EDC</hi>, <hi rend="ital">EDF</hi>, <hi rend="ital">FDC</hi>. </p>
+      <p>For let <hi rend="ital">AB</hi>, <hi rend="ital">DE</hi> be cut off equal to one another, and let <hi rend="ital">HB</hi>, <hi rend="ital">KB</hi>, <hi rend="ital">FE</hi>, <hi rend="ital">GE</hi> be joined. </p>
+      <p>Then, since <hi rend="ital">FG</hi> is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference; [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] therefore each of the angles <hi rend="ital">FGD</hi>, <hi rend="ital">FGE</hi> is right. </p>
+      <p>For the same reason each of the angles <hi rend="ital">HKA</hi>, <hi rend="ital">HKB</hi> is also right. </p>
+      <p>And, since the two sides <hi rend="ital">KA</hi>, <hi rend="ital">AB</hi> are equal to the two sides <hi rend="ital">GD</hi>, <hi rend="ital">DE</hi> respectively, and they contain equal angles, therefore the base <hi rend="ital">KB</hi> is equal to the base <hi rend="ital">GE</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>But <hi rend="ital">KH</hi> is also equal to <hi rend="ital">GF</hi>, and they contain right angles; therefore <hi rend="ital">HB</hi> is also equal to <hi rend="ital">FE</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>Again, since the two sides <hi rend="ital">AK</hi>, <hi rend="ital">KH</hi> are equal to the two sides <hi rend="ital">DG</hi>, <hi rend="ital">GF</hi>, and they contain right angles, therefore the base <hi rend="ital">AH</hi> is equal to the base <hi rend="ital">FD</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>But <hi rend="ital">AB</hi> is also equal to <hi rend="ital">DE</hi>; therefore the two sides <hi rend="ital">HA</hi>, <hi rend="ital">AB</hi> are equal to the two sides <hi rend="ital">DF</hi>, <hi rend="ital">DE</hi>. </p>
+      <p>And the base <hi rend="ital">HB</hi> is equal to the base <hi rend="ital">FE</hi>; therefore the angle <hi rend="ital">BAH</hi> is equal to the angle <hi rend="ital">EDF</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] </p>
+      <p>For the same reason the angle <hi rend="ital">HAL</hi> is also equal to the angle <hi rend="ital">FDC</hi>. </p>
+      <p>And the angle <hi rend="ital">BAL</hi> is also equal to the angle <hi rend="ital">EDC</hi>. <pb n="329" /></p>
+      <p>Therefore on the straight line <hi rend="ital">AB</hi>, and at the point <hi rend="ital">A</hi> on it, a solid angle has been constructed equal to the given solid angle at <hi rend="ital">D</hi>. Q. E. F.</p>
+     </div3>
+     <div3 id="elem.11.27" n="27" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 27.</head>
+      <p>
+       <hi rend="ital">On a given straight line to describe a parallelepipedal solid similar and similarly situated to a given parallelepipedal solid.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi> be the given straight line and <hi rend="ital">CD</hi> the given parallelepipedal solid; thus it is required to describe on the given straight line <hi rend="ital">AB</hi> a parallelepipedal solid similar and similarly situated to the given parallelepipedal solid <hi rend="ital">CD</hi>. <figure />
+      </p>
+      <p>For on the straight line <hi rend="ital">AB</hi> and at the point <hi rend="ital">A</hi> on it let the solid angle, contained by the angles <hi rend="ital">BAH</hi>, <hi rend="ital">HAK</hi>, <hi rend="ital">KAB</hi>, be constructed equal to the solid angle at <hi rend="ital">C</hi>, so that the angle <hi rend="ital">BAH</hi> is equal to the angle <hi rend="ital">ECF</hi>, the angle <hi rend="ital">BAK</hi> equal to the angle <hi rend="ital">ECG</hi>, and the angle <hi rend="ital">KAH</hi> to the angle <hi rend="ital">GCF</hi>; and let it be contrived that, as <hi rend="ital">EC</hi> is to <hi rend="ital">CG</hi>, so is <hi rend="ital">BA</hi> to <hi rend="ital">AK</hi>, and, as <hi rend="ital">GC</hi> is to <hi rend="ital">CF</hi>, so is <hi rend="ital">KA</hi> to <hi rend="ital">AH</hi>. [<ref target="elem.6.12" targOrder="U">VI. 12</ref>] </p>
+      <p>Therefore also, <foreign lang="la">ex aequali</foreign>, as <hi rend="ital">EC</hi> is to <hi rend="ital">CF</hi>, so is <hi rend="ital">BA</hi> to <hi rend="ital">AH</hi>. [<ref target="elem.5.22" targOrder="U">V. 22</ref>] </p>
+      <p>Let the parallelogram <hi rend="ital">HB</hi> and the solid <hi rend="ital">AL</hi> be completed. </p>
+      <p>Now since, as <hi rend="ital">EC</hi> is to <hi rend="ital">CG</hi>, so is <hi rend="ital">BA</hi> to <hi rend="ital">AK</hi>, and the sides about the equal angles <hi rend="ital">ECG</hi>, <hi rend="ital">BAK</hi> are thus proportional, <pb n="330" />therefore the parallelogram <hi rend="ital">GE</hi> is similar to the parallelogram <hi rend="ital">KB</hi>. </p>
+      <p>For the same reason the parallelogram <hi rend="ital">KH</hi> is also similar to the parallelogram <hi rend="ital">GF</hi>, and further <hi rend="ital">FE</hi> to <hi rend="ital">HB</hi>; therefore three parallelograms of the solid <hi rend="ital">CD</hi> are similar to three parallelograms of the solid <hi rend="ital">AL</hi>. </p>
+      <p>But the former three are both equal and similar to the three opposite parallelograms, and the latter three are both equal and similar to the three opposite parallelograms; therefore the whole solid <hi rend="ital">CD</hi> is similar to the whole solid <hi rend="ital">AL</hi>. [<ref target="elem.11.def.9" targOrder="U">XI. Def. 9</ref>] </p>
+      <p>Therefore on the given straight line <hi rend="ital">AB</hi> there has been described <hi rend="ital">AL</hi> similar and similarly situated to the given parallelepipedal solid <hi rend="ital">CD</hi>. Q. E. F.</p>
+     </div3>
+     <div3 id="elem.11.28" n="28" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 28.</head>
+      <p><hi rend="ital">If a parallelepipedal solid be cut by a plane through the diagonals of the opposite planes</hi>, <hi rend="ital">the solid will be bisected by the plane.</hi>
+      </p>
+      <p>For let the parallelepipedal solid <hi rend="ital">AB</hi> be cut by the plane <hi rend="ital">CDEF</hi> through the diagonals <hi rend="ital">CF</hi>, <hi rend="ital">DE</hi> of opposite planes; I say that the solid <hi rend="ital">AB</hi> will be bisected by the plane <hi rend="ital">CDEF</hi>. <figure />
+      </p>
+      <p>For, since the triangle <hi rend="ital">CGF</hi> is equal to the triangle <hi rend="ital">CFB</hi>, [<ref target="elem.1.34" targOrder="U">I. 34</ref>] and <hi rend="ital">ADE</hi> to <hi rend="ital">DEH</hi>, while the parallelogram <hi rend="ital">CA</hi> is also equal to the parallelogram <hi rend="ital">EB</hi>, for they are opposite, and <hi rend="ital">GE</hi> to <hi rend="ital">CH</hi>, therefore the prism contained by the two triangles <hi rend="ital">CGF</hi>, <hi rend="ital">ADE</hi> and the three parallelograms <hi rend="ital">GE</hi>, <hi rend="ital">AC</hi>, <hi rend="ital">CE</hi> is also equal to the prism contained by the two triangles <hi rend="ital">CFB</hi>, <hi rend="ital">DEH</hi> and the three parallelograms <hi rend="ital">CH</hi>, <hi rend="ital">BE</hi>, <hi rend="ital">CE</hi>; <pb n="331" />for they are contained by planes equal both in multitude and in magnitude. [<ref target="elem.11.def.10" targOrder="U">XI. Def. 10</ref>] </p>
+      <p>Hence the whole solid <hi rend="ital">AB</hi> is bisected by the plane <hi rend="ital">CDEF</hi>. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.29" n="29" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 29.</head>
+      <p><hi rend="ital">Parallelepipedal solids which are on the same base and of the same height</hi>, <hi rend="ital">and in which the extremities of the sides which stand up are on the same straight lines</hi>, <hi rend="ital">are equal to one another.</hi>
+      </p>
+      <p>Let <hi rend="ital">CM</hi>, <hi rend="ital">CN</hi> be parallelepipedal solids on the same base <hi rend="ital">AB</hi> and of the same height, and let the extremities of their sides which stand up, namely <hi rend="ital">AG</hi>, <hi rend="ital">AF</hi>, <hi rend="ital">LM</hi>, <hi rend="ital">LN</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">CE</hi>, <hi rend="ital">BH</hi>, <hi rend="ital">BK</hi>, be on the same straight lines <hi rend="ital">FN</hi>, <hi rend="ital">DK</hi>; I say that the solid <hi rend="ital">CM</hi> is equal to the solid <hi rend="ital">CN</hi>. <figure />
+      </p>
+      <p>For, since each of the figures <hi rend="ital">CH</hi>, <hi rend="ital">CK</hi> is a parallelogram, <hi rend="ital">CB</hi> is equal to each of the straight lines <hi rend="ital">DH</hi>, <hi rend="ital">EK</hi>, [<ref target="elem.1.34" targOrder="U">I. 34</ref>] hence <hi rend="ital">DH</hi> is also equal to <hi rend="ital">EK</hi>. </p>
+      <p>Let <hi rend="ital">EH</hi> be subtracted from each; therefore the remainder <hi rend="ital">DE</hi> is equal to the remainder <hi rend="ital">HK</hi>. </p>
+      <p>Hence the triangle <hi rend="ital">DCE</hi> is also equal to the triangle <hi rend="ital">HBK</hi>, [<ref target="elem.1.8 elem.1.4" targOrder="U">I. 8, 4</ref>] and the parallelogram <hi rend="ital">DG</hi> to the parallelogram <hi rend="ital">HN</hi>. [<ref target="elem.1.36" targOrder="U">I. 36</ref>] <pb n="334" /></p>
+      <p>For the same reason the triangle <hi rend="ital">AFG</hi> is also equal to the triangle <hi rend="ital">MLN</hi>. </p>
+      <p>But the parallelogram <hi rend="ital">CF</hi> is equal to the parallelogram <hi rend="ital">BM</hi>, and <hi rend="ital">CG</hi> to <hi rend="ital">BN</hi>, for they are opposite; therefore the prism contained by the two triangles <hi rend="ital">AFG</hi>, <hi rend="ital">DCE</hi> and the three parallelograms <hi rend="ital">AD</hi>, <hi rend="ital">DG</hi>, <hi rend="ital">CG</hi> is equal to the prism contained by the two triangles <hi rend="ital">MLN</hi>, <hi rend="ital">HBK</hi> and the three parallelograms <hi rend="ital">BM</hi>, <hi rend="ital">HN</hi>, <hi rend="ital">BN</hi>. </p>
+      <p>Let there be added to each the solid of which the parallelogram <hi rend="ital">AB</hi> is the base and <hi rend="ital">GEHM</hi> its opposite; therefore the whole parallelepipedal solid <hi rend="ital">CM</hi> is equal to the whole parallelepipedal solid <hi rend="ital">CN</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.30" n="30" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 30.</head>
+      <p><hi rend="ital">Parallelepipedal solids which are on the same base and of the same height</hi>, <hi rend="ital">and in which the extremities of the sides which stand up are not on the same straight lines</hi>, <hi rend="ital">are equal to one another.</hi>
+       <pb n="335" /></p>
+      <p>Let <hi rend="ital">CM</hi>, <hi rend="ital">CN</hi> be parallelepipedal solids on the same base <hi rend="ital">AB</hi> and of the same height, and let the extremities of their sides which stand up, namely <hi rend="ital">AF</hi>, <hi rend="ital">AG</hi>, <hi rend="ital">LM</hi>, <hi rend="ital">LN</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">CE</hi>, <hi rend="ital">BH</hi>, <hi rend="ital">BK</hi>, not be on the same straight lines; I say that the solid <hi rend="ital">CM</hi> is equal to the solid <hi rend="ital">CN</hi>. <figure />
+      </p>
+      <p>For let <hi rend="ital">NK</hi>, <hi rend="ital">DH</hi> be produced and meet one another at <hi rend="ital">R</hi>, and further let <hi rend="ital">FM</hi>, <hi rend="ital">GE</hi> be produced to <hi rend="ital">P</hi>, <hi rend="ital">Q</hi>; let <hi rend="ital">AO</hi>, <hi rend="ital">LP</hi>, <hi rend="ital">CQ</hi>, <hi rend="ital">BR</hi> be joined. </p>
+      <p>Then the solid <hi rend="ital">CM</hi>, of which the parallelogram <hi rend="ital">ACBL</hi> is the base, and <hi rend="ital">FDHM</hi> its opposite, is equal to the solid <hi rend="ital">CP</hi>, of which the parallelogram <hi rend="ital">ACBL</hi> is the base, and <hi rend="ital">OQRP</hi> its opposite; for they are on the same base <hi rend="ital">ACBL</hi> and of the same height, and the extremities of their sides which stand up, namely <hi rend="ital">AF</hi>, <hi rend="ital">AO</hi>, <hi rend="ital">LM</hi>, <hi rend="ital">LP</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">CQ</hi>, <hi rend="ital">BH</hi>, <hi rend="ital">BR</hi>, are on the same straight lines <hi rend="ital">FP</hi>, <hi rend="ital">DR</hi>. [<ref target="elem.11.29" targOrder="U">XI. 29</ref>] </p>
+      <p>But the solid <hi rend="ital">CP</hi>, of which the parallelogram <hi rend="ital">ACBL</hi> is the base, and <hi rend="ital">OQRP</hi> its opposite, is equal to the solid <hi rend="ital">CN</hi>, of which the parallelogram <hi rend="ital">ACBL</hi> is the base and <hi rend="ital">GEKN</hi> its opposite; for they are again on the same base <hi rend="ital">ACBL</hi> and of the same height, and the extremities of their sides which stand up, namely <hi rend="ital">AG</hi>, <hi rend="ital">AO</hi>, <hi rend="ital">CE</hi>, <hi rend="ital">CQ</hi>, <hi rend="ital">LN</hi>, <hi rend="ital">LP</hi>, <hi rend="ital">BK</hi>, <hi rend="ital">BR</hi>, are on the same straight lines <hi rend="ital">GQ</hi>, <hi rend="ital">NR</hi>. </p>
+      <p>Hence the solid <hi rend="ital">CM</hi> is also equal to the solid <hi rend="ital">CN</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.31" n="31" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 31.</head>
+      <p>
+       <hi rend="ital">Parallelepipedal solids which are on equal bases and of the same height are equal to one another.</hi>
+      </p>
+      <p>Let the parallelepipedal solids <hi rend="ital">AE</hi>, <hi rend="ital">CF</hi>, of the same height, be on equal bases <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>I say that the solid <hi rend="ital">AE</hi> is equal to the solid <hi rend="ital">CF</hi>. <figure />
+      </p>
+      <p>First, let the sides which stand up, <hi rend="ital">HK</hi>, <hi rend="ital">BE</hi>, <hi rend="ital">AG</hi>, <hi rend="ital">LM</hi>, <hi rend="ital">PQ</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">CO</hi>, <hi rend="ital">RS</hi>, be at right angles to the bases <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>; let the straight line <hi rend="ital">RT</hi> be produced in a straight line with <hi rend="ital">CR</hi>; on the straight line <hi rend="ital">RT</hi>, and at the point <hi rend="ital">R</hi> on it, let the angle <hi rend="ital">TRU</hi> be constructed equal to the angle <hi rend="ital">ALB</hi>, [<ref target="elem.1.23" targOrder="U">I. 23</ref>] let <hi rend="ital">RT</hi> be made equal to <hi rend="ital">AL</hi>, and <hi rend="ital">RU</hi> equal to <hi rend="ital">LB</hi>, and let the base <hi rend="ital">RW</hi> and the solid <hi rend="ital">XU</hi> be completed. </p>
+      <p>Now, since the two sides <hi rend="ital">TR</hi>, <hi rend="ital">RU</hi> are equal to the two sides <hi rend="ital">AL</hi>, <hi rend="ital">LB</hi>, and they contain equal angles, therefore the parallelogram <hi rend="ital">RW</hi> is equal and similar to the parallelogram <hi rend="ital">HL</hi>. </p>
+      <p>Since again <hi rend="ital">AL</hi> is equal to <hi rend="ital">RT</hi>, and <hi rend="ital">LM</hi> to <hi rend="ital">RS</hi>, and they contain right angles, <pb n="338" />therefore the parallelogram <hi rend="ital">RX</hi> is equal and similar to the parallelogram <hi rend="ital">AM</hi>. </p>
+      <p>For the same reason <hi rend="ital">LE</hi> is also equal and similar to <hi rend="ital">SU</hi>; therefore three parallelograms of the solid <hi rend="ital">AE</hi> are equal and similar to three parallelograms of the solid <hi rend="ital">XU</hi>. </p>
+      <p>But the former three are equal and similar to the three opposite, and the latter three to the three opposite; [<ref target="elem.11.24" targOrder="U">XI. 24</ref>] therefore the whole parallelepipedal solid <hi rend="ital">AE</hi> is equal to the whole parallelepipedal solid <hi rend="ital">XU</hi>. [<ref target="elem.11.def.10" targOrder="U">XI. Def. 10</ref>] </p>
+      <p>Let <hi rend="ital">DR</hi>, <hi rend="ital">WU</hi> be drawn through and meet one another at <hi rend="ital">Y</hi>, let <hi rend="ital">aTb</hi> be drawn through <hi rend="ital">T</hi> parallel to <hi rend="ital">DY</hi>, let <hi rend="ital">PD</hi> be produced to <hi rend="ital">a</hi>, and let the solids <hi rend="ital">YX</hi>, <hi rend="ital">RI</hi> be completed. </p>
+      <p>Then the solid <hi rend="ital">XY</hi>, of which the parallelogram <hi rend="ital">RX</hi> is the base and <hi rend="ital">Yc</hi> its opposite, is equal to the solid <hi rend="ital">XU</hi> of which the parallelogram <hi rend="ital">RX</hi> is the base and <hi rend="ital">UV</hi> its opposite, for they are on the same base <hi rend="ital">RX</hi> and of the same height, and the extremities of their sides which stand up, namely <hi rend="ital">RY</hi>, <hi rend="ital">RU</hi>, <hi rend="ital">Tb</hi>, <hi rend="ital">TW</hi>, <hi rend="ital">Se</hi>, <hi rend="ital">Sd</hi>, <hi rend="ital">Xc</hi>, <hi rend="ital">XV</hi>, are on the same straight lines <hi rend="ital">YW</hi>, <hi rend="ital">eV</hi>. [<ref target="elem.11.29" targOrder="U">XI. 29</ref>] </p>
+      <p>But the solid <hi rend="ital">XU</hi> is equal to <hi rend="ital">AE</hi>: therefore the solid <hi rend="ital">XY</hi> is also equal to the solid <hi rend="ital">AE</hi>. </p>
+      <p>And, since the parallelogram <hi rend="ital">RUWT</hi> is equal to the parallelogram <hi rend="ital">YT</hi> for they are on the same base <hi rend="ital">RT</hi> and in the same parallels <hi rend="ital">RT</hi>, <hi rend="ital">YW</hi>, [<ref target="elem.1.35" targOrder="U">I. 35</ref>] while <hi rend="ital">RUWT</hi> is equal to <hi rend="ital">CD</hi>, since it is also equal to <hi rend="ital">AB</hi>, therefore the parallelogram <hi rend="ital">YT</hi> is also equal to <hi rend="ital">CD</hi>. </p>
+      <p>But <hi rend="ital">DT</hi> is another parallelogram; therefore, as the base <hi rend="ital">CD</hi> is to <hi rend="ital">DT</hi>, so is <hi rend="ital">YT</hi> to <hi rend="ital">DT</hi>. [<ref target="elem.5.7" targOrder="U">V. 7</ref>] </p>
+      <p>And, since the parallelepipedal solid <hi rend="ital">CI</hi> has been cut by the plane <hi rend="ital">RF</hi> which is parallel to opposite planes, as the base <hi rend="ital">CD</hi> is to the base <hi rend="ital">DT</hi>, so is the solid <hi rend="ital">CF</hi> to the solid <hi rend="ital">RI</hi>. [<ref target="elem.11.25" targOrder="U">XI. 25</ref>] <pb n="339" /></p>
+      <p>For the same reason, since the parallelepipedal solid <hi rend="ital">YI</hi> has been cut by the plane <hi rend="ital">RX</hi> which is parallel to opposite planes, as the base <hi rend="ital">YT</hi> is to the base <hi rend="ital">TD</hi>, so is the solid <hi rend="ital">YX</hi> to the solid <hi rend="ital">RI</hi>. [<ref target="elem.11.25" targOrder="U">XI. 25</ref>] </p>
+      <p>But, as the base <hi rend="ital">CD</hi> is to <hi rend="ital">DT</hi>, so is <hi rend="ital">YT</hi> to <hi rend="ital">DT</hi>; therefore also, as the solid <hi rend="ital">CF</hi> is to the solid <hi rend="ital">RI</hi>, so is the solid <hi rend="ital">YX</hi> to <hi rend="ital">RI</hi>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore each of the solids <hi rend="ital">CF</hi>, <hi rend="ital">YX</hi> has to <hi rend="ital">RI</hi> the same ratio; therefore the solid <hi rend="ital">CF</hi> is equal to the solid <hi rend="ital">YX</hi>. [<ref target="elem.5.9" targOrder="U">V. 9</ref>] </p>
+      <p>But <hi rend="ital">YX</hi> was proved equal to <hi rend="ital">AE</hi>; therefore <hi rend="ital">AE</hi> is also equal to <hi rend="ital">CF</hi>. </p>
+      <p>Next, let the sides standing up, <hi rend="ital">AG</hi>, <hi rend="ital">HK</hi>, <hi rend="ital">BE</hi>, <hi rend="ital">LM</hi>, <hi rend="ital">CN</hi>, <hi rend="ital">PQ</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">RS</hi>, not be at right angles to the bases <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>; I say again that the solid <hi rend="ital">AE</hi> is equal to the solid <hi rend="ital">CF</hi>. <figure />
+      </p>
+      <p>For from the points <hi rend="ital">K</hi>, <hi rend="ital">E</hi>, <hi rend="ital">G</hi>, <hi rend="ital">M</hi>, <hi rend="ital">Q</hi>, <hi rend="ital">F</hi>, <hi rend="ital">N</hi>, <hi rend="ital">S</hi> let <hi rend="ital">KO</hi>, <hi rend="ital">ET</hi>, <hi rend="ital">GU</hi>, <hi rend="ital">MV</hi>, <hi rend="ital">QW</hi>, <hi rend="ital">FX</hi>, <hi rend="ital">NY</hi>, <hi rend="ital">SI</hi> be drawn perpendicular to the plane of reference, and let them meet the plane at the points <hi rend="ital">O</hi>, <hi rend="ital">T</hi>, <hi rend="ital">U</hi>, <hi rend="ital">V</hi>, <hi rend="ital">W</hi>, <hi rend="ital">X</hi>, <hi rend="ital">Y</hi>, <hi rend="ital">I</hi>, and let <hi rend="ital">OT</hi>, <hi rend="ital">OU</hi>, <hi rend="ital">UV</hi>, <hi rend="ital">TV</hi>, <hi rend="ital">WX</hi>, <hi rend="ital">WY</hi>, <hi rend="ital">YI</hi>, <hi rend="ital">IX</hi> be joined. </p>
+      <p>Then the solid <hi rend="ital">KV</hi> is equal to the solid <hi rend="ital">QI</hi>, for they are on the equal bases <hi rend="ital">KM</hi>, <hi rend="ital">QS</hi> and of the same height, and their sides which stand up are at right angles to their bases. [First part of this Prop.] </p>
+      <p>But the solid <hi rend="ital">KV</hi> is equal to the solid <hi rend="ital">AE</hi>, and <hi rend="ital">QI</hi> to <hi rend="ital">CF</hi>; for they are on the same base and of the same height, while the extremities of their sides which stand up are not on the same straight lines. [<ref target="elem.11.30" targOrder="U">XI. 30</ref>] <pb n="340" /></p>
+      <p>Therefore the solid <hi rend="ital">AE</hi> is also equal to the solid <hi rend="ital">CF</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.32" n="32" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 32.</head>
+      <p>
+       <hi rend="ital">Parallelepipedal solids which are of the same height are to one another as their bases.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be parallelepipedal solids of the same height; I say that the parallelepipedal solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are to one another as their bases, that is, that, as the base <hi rend="ital">AE</hi> is to the base <hi rend="ital">CF</hi>, so is the solid <hi rend="ital">AB</hi> to the solid <hi rend="ital">CD</hi>. <figure />
+      </p>
+      <p>For let <hi rend="ital">FH</hi> equal to <hi rend="ital">AE</hi> be applied to <hi rend="ital">FG</hi>, [<ref target="elem.1.45" targOrder="U">I. 45</ref>] and on <hi rend="ital">FH</hi> as base, and with the same height as that of <hi rend="ital">CD</hi>, let the parallelepipedal solid <hi rend="ital">GK</hi> be completed. </p>
+      <p>Then the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">GK</hi>; for they are on equal bases <hi rend="ital">AE</hi>, <hi rend="ital">FH</hi> and of the same height. [<ref target="elem.11.31" targOrder="U">XI. 31</ref>] </p>
+      <p>And, since the parallelepipedal solid <hi rend="ital">CK</hi> is cut by the plane <hi rend="ital">DG</hi> which is parallel to opposite planes, therefore, as the base <hi rend="ital">CF</hi> is to the base <hi rend="ital">FH</hi>, so is the solid <hi rend="ital">CD</hi> to the solid <hi rend="ital">DH</hi>. [<ref target="elem.11.25" targOrder="U">XI. 25</ref>] </p>
+      <p>But the base <hi rend="ital">FH</hi> is equal to the base <hi rend="ital">AE</hi>, and the solid <hi rend="ital">GK</hi> to the solid <hi rend="ital">AB</hi>; therefore also, as the base <hi rend="ital">AE</hi> is to the base <hi rend="ital">CF</hi>, so is the solid <hi rend="ital">AB</hi> to the solid <hi rend="ital">CD</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.33" n="33" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 33.</head>
+      <p>
+       <hi rend="ital">Similar parallelepipedal solids are to one another in the triplicate ratio of their corresponding sides.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be similar parallelepipedal solids, and let <hi rend="ital">AE</hi> be the side corresponding to <hi rend="ital">CF</hi>; I say that the solid <hi rend="ital">AB</hi> has to the solid <hi rend="ital">CD</hi> the ratio triplicate of that which <hi rend="ital">AE</hi> has to <hi rend="ital">CF</hi>. <figure />
+      </p>
+      <p>For let <hi rend="ital">EK</hi>, <hi rend="ital">EL</hi>, <hi rend="ital">EM</hi> be produced in a straight line with <hi rend="ital">AE</hi>, <hi rend="ital">GE</hi>, <hi rend="ital">HE</hi>, let <hi rend="ital">EK</hi> be made equal to <hi rend="ital">CF</hi>, <hi rend="ital">EL</hi> equal to <hi rend="ital">FN</hi>, and further <hi rend="ital">EM</hi> equal to <hi rend="ital">FR</hi>, and let the parallelogram <hi rend="ital">KL</hi> and the solid <hi rend="ital">KP</hi> be completed. </p>
+      <p>Now, since the two sides <hi rend="ital">KE</hi>, <hi rend="ital">EL</hi> are equal to the two sides <hi rend="ital">CF</hi>, <hi rend="ital">FN</hi>, while the angle <hi rend="ital">KEL</hi> is also equal to the angle <hi rend="ital">CFN</hi>, inasmuch as the angle <hi rend="ital">AEG</hi> is also equal to the angle <hi rend="ital">CFN</hi> because of the similarity of the solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, <pb n="343" />therefore the parallelogram <hi rend="ital">KL</hi> is equal &lt;and similar&gt; to the parallelogram <hi rend="ital">CN</hi>. </p>
+      <p>For the same reason the parallelogram <hi rend="ital">KM</hi> is also equal and similar to <hi rend="ital">CR</hi>, and further <hi rend="ital">EP</hi> to <hi rend="ital">DF</hi>; therefore three parallelograms of the solid <hi rend="ital">KP</hi> are equal and similar to three parallelograms of the solid <hi rend="ital">CD</hi>. </p>
+      <p>But the former three parallelograms are equal and similar to their opposites, and the latter three to their opposites; [<ref target="elem.11.24" targOrder="U">XI. 24</ref>] therefore the whole solid <hi rend="ital">KP</hi> is equal and similar to the whole solid <hi rend="ital">CD</hi>. [<ref target="elem.11.def.10" targOrder="U">XI. Def. 10</ref>] </p>
+      <p>Let the parallelogram <hi rend="ital">GK</hi> be completed, and on the parallelograms <hi rend="ital">GK</hi>, <hi rend="ital">KL</hi> as bases, and with the same height as that of <hi rend="ital">AB</hi>, let the solids <hi rend="ital">EO</hi>, <hi rend="ital">LQ</hi> be completed. </p>
+      <p>Then since; owing to the similarity of the solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, as <hi rend="ital">AE</hi> is to <hi rend="ital">CF</hi>, so is <hi rend="ital">EG</hi> to <hi rend="ital">FN</hi>, and <hi rend="ital">EH</hi> to <hi rend="ital">FR</hi>, while <hi rend="ital">CF</hi> is equal to <hi rend="ital">EK</hi>, <hi rend="ital">FN</hi> to <hi rend="ital">EL</hi>, and <hi rend="ital">FR</hi> to <hi rend="ital">EM</hi>, therefore, as <hi rend="ital">AE</hi> is to <hi rend="ital">EK</hi>, so is <hi rend="ital">GE</hi> to <hi rend="ital">EL</hi>, and <hi rend="ital">HE</hi> to <hi rend="ital">EM</hi>. </p>
+      <p>But, as <hi rend="ital">AE</hi> is to <hi rend="ital">EK</hi>, so is <hi rend="ital">AG</hi> to the parallelogram <hi rend="ital">GK</hi>, as <hi rend="ital">GE</hi> is to <hi rend="ital">EL</hi>, so is <hi rend="ital">GK</hi> to <hi rend="ital">KL</hi>, and, as <hi rend="ital">HE</hi> is to <hi rend="ital">EM</hi>, so is <hi rend="ital">QE</hi> to <hi rend="ital">KM</hi>; [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] therefore also, as the parallelogram <hi rend="ital">AG</hi> is to <hi rend="ital">GK</hi>, so is <hi rend="ital">GK</hi> to <hi rend="ital">KL</hi>, and <hi rend="ital">QE</hi> to <hi rend="ital">KM</hi>. </p>
+      <p>But, as <hi rend="ital">AG</hi> is to <hi rend="ital">GK</hi>, so is the solid <hi rend="ital">AB</hi> to the solid <hi rend="ital">EO</hi>, as <hi rend="ital">GK</hi> is to <hi rend="ital">KL</hi>, so is the solid <hi rend="ital">OE</hi> to the solid <hi rend="ital">QL</hi>, and, as <hi rend="ital">QE</hi> is to <hi rend="ital">KM</hi>, so is the solid <hi rend="ital">QL</hi> to the solid <hi rend="ital">KP</hi>; [<ref target="elem.11.32" targOrder="U">XI. 32</ref>] therefore also, as the solid <hi rend="ital">AB</hi> is to <hi rend="ital">EO</hi>, so is <hi rend="ital">EO</hi> to <hi rend="ital">QL</hi>, and <hi rend="ital">QL</hi> to <hi rend="ital">KP</hi>. </p>
+      <p>But, if four magnitudes be continuously proportional, the first has to the fourth the ratio triplicate of that which it has to the second; [<ref target="elem.5.def.10" targOrder="U">V. Def. 10</ref>] therefore the solid <hi rend="ital">AB</hi> has to <hi rend="ital">KP</hi> the ratio triplicate of that which <hi rend="ital">AB</hi> has to <hi rend="ital">EO</hi>. </p>
+      <p>But, as <hi rend="ital">AB</hi> is to <hi rend="ital">EO</hi>, so is the parallelogram <hi rend="ital">AG</hi> to <hi rend="ital">GK</hi>, and the straight line <hi rend="ital">AE</hi> to <hi rend="ital">EK</hi> [<ref target="elem.6.1" targOrder="U">VI. 1</ref>]; <pb n="344" />hence the solid <hi rend="ital">AB</hi> has also to <hi rend="ital">KP</hi> the ratio triplicate of that which <hi rend="ital">AE</hi> has to <hi rend="ital">EK</hi>. </p>
+      <p>But the solid <hi rend="ital">KP</hi> is equal to the solid <hi rend="ital">CD</hi>, and the straight line <hi rend="ital">EK</hi> to <hi rend="ital">CF</hi>; therefore the solid <hi rend="ital">AB</hi> has also to the solid <hi rend="ital">CD</hi> the ratio triplicate of that which the corresponding side of it, <hi rend="ital">AE</hi>, has to the corresponding side <hi rend="ital">CF</hi>. </p>
+      <p>Therefore etc. Q. E. D. </p>
+      <div4 id="elem.11.33.p.1" type="porism" org="uniform" sample="complete">
+       <head>PORISM.</head>
+       <p>From this it is manifest that, if four straight lines be &lt;continuously&gt; proportional, as the first is to the fourth, so will a parallelepipedal solid on the first be to the similar and similarly described parallelepipedal solid on the second, inasmuch as the first has to the fourth the ratio triplicate of that which it has to the second.</p>
+      </div4>
+     </div3>
+     <div3 id="elem.11.34" n="34" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 34.</head>
+      <p>
+       <hi rend="ital">In equal parallelepipedal solids the bases are reciprocally proportional to the heights; and those parallelepipedal solids in which the bases are reciprocally proportional to the heights are equal.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be equal parallelepipedal solids; I say that in the parallelepipedal solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> the bases are reciprocally proportional to the heights, that is, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is the height of the solid <hi rend="ital">CD</hi> to the height of the solid <hi rend="ital">AB</hi>. </p>
+      <p>First, let the sides which stand up, namely <hi rend="ital">AG</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">LB</hi>, <hi rend="ital">HK</hi>, <hi rend="ital">CM</hi>, <hi rend="ital">NO</hi>, <hi rend="ital">PD</hi>, <hi rend="ital">QR</hi>, be at right angles to their bases; I say that, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is <hi rend="ital">CM</hi> to <hi rend="ital">AG</hi>. </p>
+      <p>If now the base <hi rend="ital">EH</hi> is equal to the base <hi rend="ital">NQ</hi>, while the solid <hi rend="ital">AB</hi> is also equal to the solid <hi rend="ital">CD</hi>, <hi rend="ital">CM</hi> will also be equal to <hi rend="ital">AG</hi>. <pb n="346" /></p>
+      <p>For parallelepipedal solids of the same height are to one another as the bases; [<ref target="elem.11.32" targOrder="U">XI. 32</ref>] and, as the base <hi rend="ital">EH</hi> is to <hi rend="ital">NQ</hi>, so will <hi rend="ital">CM</hi> be to <hi rend="ital">AG</hi>, and it is manifest that in the parallelepipedal solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> the bases are reciprocally proportional to the heights. </p>
+      <p>Next, let the base <hi rend="ital">EH</hi> not be equal to the base <hi rend="ital">NQ</hi>, but let <hi rend="ital">EH</hi> be greater. <figure />
+      </p>
+      <p>Now the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">CD</hi>; therefore <hi rend="ital">CM</hi> is also greater than <hi rend="ital">AG</hi>. </p>
+      <p>Let then <hi rend="ital">CT</hi> be made equal to <hi rend="ital">AG</hi>, and let the parallelepipedal solid <hi rend="ital">VC</hi> be completed on <hi rend="ital">NQ</hi> as base and with <hi rend="ital">CT</hi> as height. </p>
+      <p>Now, since the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">CD</hi>, and <hi rend="ital">CV</hi> is outside them, while equals have to the same the same ratio, [<ref target="elem.5.7" targOrder="U">V. 7</ref>] therefore, as the solid <hi rend="ital">AB</hi> is to the solid <hi rend="ital">CV</hi>, so is the solid <hi rend="ital">CD</hi> to the solid <hi rend="ital">CV</hi>. </p>
+      <p>But, as the solid <hi rend="ital">AB</hi> is to the solid <hi rend="ital">CV</hi>, so is the base <hi rend="ital">EH</hi> to the base <hi rend="ital">NQ</hi>, for the solids <hi rend="ital">AB</hi>, <hi rend="ital">CV</hi> are of equal height; [<ref target="elem.11.32" targOrder="U">XI. 32</ref>] and, as the solid <hi rend="ital">CD</hi> is to the solid <hi rend="ital">CV</hi>, so is the base <hi rend="ital">MQ</hi> to the base <hi rend="ital">TQ</hi> [<ref target="elem.11.25" targOrder="U">XI. 25</ref>] and <hi rend="ital">CM</hi> to <hi rend="ital">CT</hi> [<ref target="elem.6.1" targOrder="U">VI. 1</ref>]; therefore also, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is <hi rend="ital">MC</hi> to <hi rend="ital">CT</hi>. </p>
+      <p>But <hi rend="ital">CT</hi> is equal to <hi rend="ital">AG</hi>; therefore also, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is <hi rend="ital">MC</hi> to <hi rend="ital">AG</hi>. <pb n="347" /></p>
+      <p>Therefore in the parallelepipedal solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> the bases are reciprocally proportional to the heights. </p>
+      <p>Again, in the parallelepipedal solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> let the bases be reciprocally proportional to the heights, that is, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so let the height of the solid <hi rend="ital">CD</hi> be to the height of the solid <hi rend="ital">AB</hi>; I say that the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">CD</hi>. </p>
+      <p>Let the sides which stand up be again at right angles to the bases. </p>
+      <p>Now, if the base <hi rend="ital">EH</hi> is equal to the base <hi rend="ital">NQ</hi>, and, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is the height of the solid <hi rend="ital">CD</hi> to the height of the solid <hi rend="ital">AB</hi>, therefore the height of the solid <hi rend="ital">CD</hi> is also equal to the height of the solid <hi rend="ital">AB</hi>. </p>
+      <p>But parallelepipedal solids on equal bases and of the same height are equal to one another; [<ref target="elem.11.31" targOrder="U">XI. 31</ref>] therefore the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">CD</hi>. </p>
+      <p>Next, let the base <hi rend="ital">EH</hi> not be equal to the base <hi rend="ital">NQ</hi>, but let <hi rend="ital">EH</hi> be greater; therefore the height of the solid <hi rend="ital">CD</hi> is also greater than the height of the solid <hi rend="ital">AB</hi>, that is, <hi rend="ital">CM</hi> is greater than <hi rend="ital">AG</hi>. </p>
+      <p>Let <hi rend="ital">CT</hi> be again made equal to <hi rend="ital">AG</hi>, and let the solid <hi rend="ital">CV</hi> be similarly completed. </p>
+      <p>Since, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is <hi rend="ital">MC</hi> to <hi rend="ital">AG</hi>, while <hi rend="ital">AG</hi> is equal to <hi rend="ital">CT</hi>, therefore, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is <hi rend="ital">CM</hi> to <hi rend="ital">CT</hi>. </p>
+      <p>But, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is the solid <hi rend="ital">AB</hi> to the solid <hi rend="ital">CV</hi>, for the solids <hi rend="ital">AB</hi>, <hi rend="ital">CV</hi> are of equal height; [<ref target="elem.11.32" targOrder="U">XI. 32</ref>] and, as <hi rend="ital">CM</hi> is to <hi rend="ital">CT</hi>, so is the base <hi rend="ital">MQ</hi> to the base <hi rend="ital">QT</hi> [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] and the solid <hi rend="ital">CD</hi> to the solid <hi rend="ital">CV</hi>. [<ref target="elem.11.25" targOrder="U">XI. 25</ref>] </p>
+      <p>Therefore also, as the solid <hi rend="ital">AB</hi> is to the solid <hi rend="ital">CV</hi>, so is the solid <hi rend="ital">CD</hi> to the solid <hi rend="ital">CV</hi>; therefore each of the solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> has to <hi rend="ital">CV</hi> the same ratio. <pb n="348" /></p>
+      <p>Therefore the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">CD</hi>. [<ref target="elem.5.9" targOrder="U">V. 9</ref>] </p>
+      <p>Now let the sides which stand up, <hi rend="ital">FE</hi>, <hi rend="ital">BL</hi>, <hi rend="ital">GA</hi>, <hi rend="ital">HK</hi>, <hi rend="ital">ON</hi>, <hi rend="ital">DP</hi>, <hi rend="ital">MC</hi>, <hi rend="ital">RQ</hi>, not be at right angles to their bases; let perpendiculars be drawn from the points <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">B</hi>, <hi rend="ital">K</hi>, <hi rend="ital">O</hi>, <hi rend="ital">M</hi>, <hi rend="ital">D</hi>, <hi rend="ital">R</hi> to the planes through <hi rend="ital">EH</hi>, <hi rend="ital">NQ</hi>, and let them meet the planes at <hi rend="ital">S</hi>, <hi rend="ital">T</hi>, <hi rend="ital">U</hi>, <hi rend="ital">V</hi>, <hi rend="ital">W</hi>, <hi rend="ital">X</hi>, <hi rend="ital">Y</hi>, <hi rend="ital">a</hi>, and let the solids <hi rend="ital">FV</hi>, <hi rend="ital">Oa</hi> be completed; I say that, in this case too, if the solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are equal, the bases are reciprocally proportional to the heights, that is, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is the height of the solid <hi rend="ital">CD</hi> to the height of the solid <hi rend="ital">AB</hi>. <figure />
+      </p>
+      <p>Since the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">CD</hi>, while <hi rend="ital">AB</hi> is equal to <hi rend="ital">BT</hi>, for they are on the same base <hi rend="ital">FK</hi> and of the same height; [<ref target="elem.11.29 elem.11.30" targOrder="U">XI. 29, 30</ref>] and the solid <hi rend="ital">CD</hi> is equal to <hi rend="ital">DX</hi>, for they are again on the same base <hi rend="ital">RO</hi> and of the same height; [<hi rend="ital">id.</hi>] therefore the solid <hi rend="ital">BT</hi> is also equal to the solid <hi rend="ital">DX</hi>. </p>
+      <p>Therefore, as the base <hi rend="ital">FK</hi> is to the base <hi rend="ital">OR</hi>, so is the height of the solid <hi rend="ital">DX</hi> to the height of the solid <hi rend="ital">BT</hi>. [Part 1.] </p>
+      <p>But the base <hi rend="ital">FK</hi> is equal to the base <hi rend="ital">EH</hi>, and the base <hi rend="ital">OR</hi> to the base <hi rend="ital">NQ</hi>; therefore, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is the height of the solid <hi rend="ital">DX</hi> to the height of the solid <hi rend="ital">BT</hi>. <pb n="349" /></p>
+      <p>But the solids <hi rend="ital">DX</hi>, <hi rend="ital">BT</hi> and the solids <hi rend="ital">DC</hi>, <hi rend="ital">BA</hi> have the same heights respectively; therefore, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is the height of the solid <hi rend="ital">DC</hi> to the height of the solid <hi rend="ital">AB</hi>. </p>
+      <p>Therefore in the parallelepipedal solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> the bases are reciprocally proportional to the heights. </p>
+      <p>Again, in the parallelepipedal solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> let the bases be reciprocally proportional to the heights, that is, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so let the height of the solid <hi rend="ital">CD</hi> be to the height of the solid <hi rend="ital">AB</hi>; I say that the solid <hi rend="ital">AB</hi> is equal to the solid <hi rend="ital">CD</hi>. </p>
+      <p>For, with the same construction, since, as the base <hi rend="ital">EH</hi> is to the base <hi rend="ital">NQ</hi>, so is the height of the solid <hi rend="ital">CD</hi> to the height of the solid <hi rend="ital">AB</hi>, while the base <hi rend="ital">EH</hi> is equal to the base <hi rend="ital">FK</hi>, and <hi rend="ital">NQ</hi> to <hi rend="ital">OR</hi>, therefore, as the base <hi rend="ital">FK</hi> is to the base <hi rend="ital">OR</hi>, so is the height of the solid <hi rend="ital">CD</hi> to the height of the solid <hi rend="ital">AB</hi>. </p>
+      <p>But the solids <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> and <hi rend="ital">BT</hi>, <hi rend="ital">DX</hi> have the same heights respectively; therefore, as the base <hi rend="ital">FK</hi> is to the base <hi rend="ital">OR</hi>, so is the height of the solid <hi rend="ital">DX</hi> to the height of the solid <hi rend="ital">BT</hi>. </p>
+      <p>Therefore in the parallelepipedal solids <hi rend="ital">BT</hi>, <hi rend="ital">DX</hi> the bases are reciprocally proportional to the heights; therefore the solid <hi rend="ital">BT</hi> is equal to the solid <hi rend="ital">DX</hi>. [Part 1.] </p>
+      <p>But <hi rend="ital">BT</hi> is equal to <hi rend="ital">BA</hi>, for they are on the same base <hi rend="ital">FK</hi> and of the same height; [<ref target="elem.11.29 elem.11.30" targOrder="U">XI. 29, 30</ref>] and the solid <hi rend="ital">DX</hi> is equal to the solid <hi rend="ital">DC</hi>. [<hi rend="ital">id.</hi>] </p>
+      <p>Therefore the solid <hi rend="ital">AB</hi> is also equal to the solid <hi rend="ital">CD</hi>. Q. E. D.</p>
+     </div3>
+     <pb n="352" />
+     <div3 id="elem.11.35" n="35" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 35.</head>
+      <p><hi rend="ital">If there be two equal plane angles</hi>, <hi rend="ital">and on their vertices there be set up elevated straight lines containing equal angles with the original straight lines respectively</hi>, <hi rend="ital">if on the elevated straight lines points be taken at random and perpendiculars be drawn from them to the planes in which the original angles are</hi>, <hi rend="ital">and if from the points so arising in the planes straight lines be joined to the vertices of the original angles</hi>, <hi rend="ital">they will contain</hi>, <hi rend="ital">with the elevated straight lines</hi>, <hi rend="ital">equal angles</hi>. </p>
+      <p>Let the angles <hi rend="ital">BAC</hi>, <hi rend="ital">EDF</hi> be two equal rectilineal angles, and from the points <hi rend="ital">A</hi>, <hi rend="ital">D</hi> let the elevated straight lines <hi rend="ital">AG</hi>, <hi rend="ital">DM</hi> be set up containing, with the original straight lines, equal angles respectively, namely, the angle <hi rend="ital">MDE</hi> to the angle <hi rend="ital">GAB</hi> and the angle <hi rend="ital">MDF</hi> to the angle <hi rend="ital">GAC</hi>, let points <hi rend="ital">G</hi>, <hi rend="ital">M</hi> be taken at random on <hi rend="ital">AG</hi>, <hi rend="ital">DM</hi>, let <hi rend="ital">GL</hi>, <hi rend="ital">MN</hi> be drawn from the points <hi rend="ital">G</hi>, <hi rend="ital">M</hi> perpendicular to the planes through <hi rend="ital">BA</hi>, <hi rend="ital">AC</hi> and <hi rend="ital">ED</hi>, <hi rend="ital">DF</hi>, and let them meet the planes at <hi rend="ital">L</hi>, <hi rend="ital">N</hi>, and let <hi rend="ital">LA</hi>, <hi rend="ital">ND</hi> be joined; I say that the angle <hi rend="ital">GAL</hi> is equal to the angle <hi rend="ital">MDN</hi>. <figure />
+      </p>
+      <p>Let <hi rend="ital">AH</hi> be made equal to <hi rend="ital">DM</hi>, and let <hi rend="ital">HK</hi> be drawn through the point <hi rend="ital">H</hi> parallel to <hi rend="ital">GL</hi>. </p>
+      <p>But <hi rend="ital">GL</hi> is perpendicular to the plane through <hi rend="ital">BA</hi>, <hi rend="ital">AC</hi>; therefore <hi rend="ital">HK</hi> is also perpendicular to the plane through. <hi rend="ital">BA</hi>, <hi rend="ital">AC</hi>. [<ref target="elem.11.8" targOrder="U">XI. 8</ref>] </p>
+      <p>From the points <hi rend="ital">K</hi>, <hi rend="ital">N</hi> let <hi rend="ital">KC</hi>, <hi rend="ital">NF</hi>, <hi rend="ital">KB</hi>, <hi rend="ital">NE</hi> be drawn perpendicular to the straight lines <hi rend="ital">AC</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">AB</hi>, <hi rend="ital">DE</hi>, and let <hi rend="ital">HC</hi>, <hi rend="ital">CB</hi>, <hi rend="ital">MF</hi>, <hi rend="ital">FE</hi> be joined. <pb n="353" /></p>
+      <p>Since the square on <hi rend="ital">HA</hi> is equal to the squares on <hi rend="ital">HK</hi>, <hi rend="ital">KA</hi>, and the squares on <hi rend="ital">KC</hi>, <hi rend="ital">CA</hi> are equal to the square on <hi rend="ital">KA</hi>, [<ref target="elem.1.47" targOrder="U">I. 47</ref>] therefore the square on <hi rend="ital">HA</hi> is also equal to the squares on <hi rend="ital">HK</hi>, <hi rend="ital">KC</hi>, <hi rend="ital">CA</hi>. </p>
+      <p>But the square on <hi rend="ital">HC</hi> is equal to the squares on <hi rend="ital">HK</hi>, <hi rend="ital">KC</hi>; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] therefore the square on <hi rend="ital">HA</hi> is equal to the squares on <hi rend="ital">HC</hi>, <hi rend="ital">CA</hi>. </p>
+      <p>Therefore the angle <hi rend="ital">HCA</hi> is right. [<ref target="elem.1.48" targOrder="U">I. 48</ref>] </p>
+      <p>For the same reason the angle <hi rend="ital">DFM</hi> is also right. </p>
+      <p>Therefore the angle <hi rend="ital">ACH</hi> is equal to the angle <hi rend="ital">DFM</hi>. </p>
+      <p>But the angle <hi rend="ital">HAC</hi> is also equal to the angle <hi rend="ital">MDF</hi>. </p>
+      <p>Therefore <hi rend="ital">MDF</hi>, <hi rend="ital">HAC</hi> are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that subtending one of the equal angles, that is, <hi rend="ital">HA</hi> equal to <hi rend="ital">MD</hi>; therefore they will also have the remaining sides equal to the remaining sides respectively. [<ref target="elem.1.26" targOrder="U">I. 26</ref>] </p>
+      <p>Therefore <hi rend="ital">AC</hi> is equal to <hi rend="ital">DF</hi>. </p>
+      <p>Similarly we can prove that <hi rend="ital">AB</hi> is also equal to <hi rend="ital">DE</hi>. </p>
+      <p>Since then <hi rend="ital">AC</hi> is equal to <hi rend="ital">DF</hi>, and <hi rend="ital">AB</hi> to <hi rend="ital">DE</hi>, the two sides <hi rend="ital">CA</hi>, <hi rend="ital">AB</hi> are equal to the two sides <hi rend="ital">FD</hi>, <hi rend="ital">DE</hi>. </p>
+      <p>But the angle <hi rend="ital">CAB</hi> is also equal to the angle <hi rend="ital">FDE</hi>; therefore the base <hi rend="ital">BC</hi> is equal to the base <hi rend="ital">EF</hi>, the triangle to the triangle, and the remaining angles to the remaining angles; [<ref target="elem.1.4" targOrder="U">I. 4</ref>] therefore the angle <hi rend="ital">ACB</hi> is equal to the angle <hi rend="ital">DFE</hi>. </p>
+      <p>But the right angle <hi rend="ital">ACK</hi> is also equal to the right angle <hi rend="ital">DFN</hi>; therefore the remaining angle <hi rend="ital">BCK</hi> is also equal to the remaining angle <hi rend="ital">EFN</hi>. </p>
+      <p>For the same reason the angle <hi rend="ital">CBK</hi> is also equal to the angle <hi rend="ital">FEN</hi>. <pb n="354" /></p>
+      <p>Therefore <hi rend="ital">BCK</hi>, <hi rend="ital">EFN</hi> are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that adjacent to the equal angles, that is, <hi rend="ital">BC</hi> equal to <hi rend="ital">EF</hi>; therefore they will also have the remaining sides equal to the remaining sides. [<ref target="elem.1.26" targOrder="U">I. 26</ref>] </p>
+      <p>Therefore <hi rend="ital">CK</hi> is equal to <hi rend="ital">FN</hi>. </p>
+      <p>But <hi rend="ital">AC</hi> is also equal to <hi rend="ital">DF</hi>; therefore the two sides <hi rend="ital">AC</hi>, <hi rend="ital">CK</hi> are equal to the two sides <hi rend="ital">DF</hi>, <hi rend="ital">FN</hi>; and they contain right angles. </p>
+      <p>Therefore the base <hi rend="ital">AK</hi> is equal to the base <hi rend="ital">DN</hi>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>And, since <hi rend="ital">AH</hi> is equal to <hi rend="ital">DM</hi>, the square on <hi rend="ital">AH</hi> is also equal to the square on <hi rend="ital">DM</hi>. </p>
+      <p>But the squares on <hi rend="ital">AK</hi>, <hi rend="ital">KH</hi> are equal to the square on <hi rend="ital">AH</hi>, for the angle <hi rend="ital">AKH</hi> is right; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] and the squares on <hi rend="ital">DN</hi>, <hi rend="ital">NM</hi> are equal to the square on <hi rend="ital">DM</hi>, for the angle <hi rend="ital">DNM</hi> is right; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] therefore the squares on <hi rend="ital">AK</hi>, <hi rend="ital">KH</hi> are equal to the squares on <hi rend="ital">DN</hi>, <hi rend="ital">NM</hi>; and of these the square on <hi rend="ital">AK</hi> is equal to the square on <hi rend="ital">DN</hi>; therefore the remaining square on <hi rend="ital">KH</hi> is equal to the square on <hi rend="ital">NM</hi>; therefore <hi rend="ital">HK</hi> is equal to <hi rend="ital">MN</hi>. </p>
+      <p>And, since the two sides <hi rend="ital">HA</hi>, <hi rend="ital">AK</hi> are equal to the two sides <hi rend="ital">MD</hi>, <hi rend="ital">DN</hi> respectively, and the base <hi rend="ital">HK</hi> was proved equal to the base <hi rend="ital">MN</hi>, therefore the angle <hi rend="ital">HAK</hi> is equal to the angle <hi rend="ital">MDN</hi>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] </p>
+      <p>Therefore etc. </p>
+      <div4 id="elem.11.35.p.1" type="porism" org="uniform" sample="complete">
+       <head>PORISM.</head>
+       <p>From this it is manifest that, if there be two equal plane angles, and if there be set up on them elevated straight lines which are equal and contain equal angles with the original straight lines respectively, the perpendiculars drawn from their extremities to the planes in which are the original angles are equal to one another. Q. E. D.</p>
+      </div4>
+      <pb n="355" />
+     </div3>
+     <div3 id="elem.11.36" n="36" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 36.</head>
+      <p><hi rend="ital">If three straight lines be proportional</hi>, <hi rend="ital">the parallelepipedal solid formed out of the three is equal to the parallelepipedal solid on the mean which is equilateral</hi>, <hi rend="ital">but equiangular with the aforesaid solid.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be three straight lines in proportion, so that, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">B</hi> to <hi rend="ital">C</hi>; I say that the solid formed out of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> is equal to the solid on <hi rend="ital">B</hi> which is equilateral, but equiangular with the aforesaid solid. </p>
+      <p>Let there be set out the solid angle at <hi rend="ital">E</hi> contained by the angles <hi rend="ital">DEG</hi>, <hi rend="ital">GEF</hi>, <hi rend="ital">FED</hi>, <pb n="357" />let each of the straight lines <hi rend="ital">DE</hi>, <hi rend="ital">GE</hi>, <hi rend="ital">EF</hi> be made equal to <hi rend="ital">B</hi>, and let the parallelepipedal solid <hi rend="ital">EK</hi> be completed, let <hi rend="ital">LM</hi> be made equal to <hi rend="ital">A</hi>, and on the straight line <hi rend="ital">LM</hi>, and at the point <hi rend="ital">L</hi> on it, let there be constructed a solid angle equal to the solid angle at <hi rend="ital">E</hi>, namely that contained by <hi rend="ital">NLO</hi>, <hi rend="ital">OLM</hi>, <hi rend="ital">MLN</hi>; let <hi rend="ital">LO</hi> be made equal to <hi rend="ital">B</hi>, and <hi rend="ital">LN</hi> equal to <hi rend="ital">C</hi>. <figure />
+      </p>
+      <p>Now, since, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">B</hi> to <hi rend="ital">C</hi>, while <hi rend="ital">A</hi> is equal to <hi rend="ital">LM</hi>, <hi rend="ital">B</hi> to each of the straight lines <hi rend="ital">LO</hi>, <hi rend="ital">ED</hi>, and <hi rend="ital">C</hi> to <hi rend="ital">LN</hi>, therefore, as <hi rend="ital">LM</hi> is to <hi rend="ital">EF</hi>, so is <hi rend="ital">DE</hi> to <hi rend="ital">LN</hi>. </p>
+      <p>Thus the sides about the equal angles <hi rend="ital">NLM</hi>, <hi rend="ital">DEF</hi> are reciprocally proportional; therefore the parallelogram <hi rend="ital">MN</hi> is equal to the parallelogram <hi rend="ital">DF</hi>. [<ref target="elem.6.14" targOrder="U">VI. 14</ref>] </p>
+      <p>And, since the angles <hi rend="ital">DEF</hi>, <hi rend="ital">NLM</hi> are two plane rectilineal angles, and on them the elevated straight lines <hi rend="ital">LO</hi>, <hi rend="ital">EG</hi> are set up which are equal to one another and contain equal angles with the original straight lines respectively, therefore the perpendiculars drawn from the points <hi rend="ital">G</hi>, <hi rend="ital">O</hi> to the planes through <hi rend="ital">NL</hi>, <hi rend="ital">LM</hi> and <hi rend="ital">DE</hi>, <hi rend="ital">EF</hi> are equal to one another; [<ref target="elem.11.35" targOrder="U">XI. 35</ref>, Por.] hence the solids <hi rend="ital">LH</hi>, <hi rend="ital">EK</hi> are of the same height. </p>
+      <p>But parallelepipedal solids on equal bases and of the same height are equal to one another; [<ref target="elem.11.31" targOrder="U">XI. 31</ref>] therefore the solid <hi rend="ital">HL</hi> is equal to the solid <hi rend="ital">EK</hi>. </p>
+      <p>And <hi rend="ital">LH</hi> is the solid formed out of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, and <hi rend="ital">EK</hi> the solid on <hi rend="ital">B</hi>; <pb n="358" />therefore the parallelepipedal solid formed out of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> is equal to the solid on <hi rend="ital">B</hi> which is equilateral, but equiangular with the aforesaid solid. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.37" n="37" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 37.</head>
+      <p><hi rend="ital">If four straight lines be proportional</hi>, <hi rend="ital">the parallelepipedal solids on them which are similar and similarly described will also be proportional; and</hi>, <hi rend="ital">if the parallelepipedal solids on them which are similar and similarly described be proportional</hi>, <hi rend="ital">the straight lines will themselves also be proportional.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi> be four straight lines in proportion, so that, as <hi rend="ital">AB</hi> is to <hi rend="ital">CD</hi>, so is <hi rend="ital">EF</hi> to <hi rend="ital">GH</hi>; and let there be described on <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">GH</hi> the similar and similarly situated parallelepipedal solids <hi rend="ital">KA</hi>, <hi rend="ital">LC</hi>, <hi rend="ital">ME</hi>, <hi rend="ital">NG</hi>; I say that, as <hi rend="ital">KA</hi> is to <hi rend="ital">LC</hi>, so is <hi rend="ital">ME</hi> to <hi rend="ital">NG</hi>. <figure />
+      </p>
+      <p>For, since the parallelepipedal solid <hi rend="ital">KA</hi> is similar to <hi rend="ital">LC</hi>, therefore <hi rend="ital">KA</hi> has to <hi rend="ital">LC</hi> the ratio triplicate of that which <hi rend="ital">AB</hi> has to <hi rend="ital">CD</hi>. [<ref target="elem.11.33" targOrder="U">XI. 33</ref>] <pb n="359" /></p>
+      <p>For the same reason <hi rend="ital">ME</hi> also has to <hi rend="ital">NG</hi> the ratio triplicate of that which <hi rend="ital">EF</hi> has to <hi rend="ital">GH</hi>. [<hi rend="ital">id</hi>.] </p>
+      <p>And, as <hi rend="ital">AB</hi> is to <hi rend="ital">CD</hi>, so is <hi rend="ital">EF</hi> to <hi rend="ital">GH</hi>. </p>
+      <p>Therefore also, as <hi rend="ital">AK</hi> is to <hi rend="ital">LC</hi>, so is <hi rend="ital">ME</hi> to <hi rend="ital">NG</hi>. </p>
+      <p>Next, as the solid <hi rend="ital">AK</hi> is to the solid <hi rend="ital">LC</hi>, so let the solid <hi rend="ital">ME</hi> be to the solid <hi rend="ital">NG</hi>; I say that, as the straight line <hi rend="ital">AB</hi> is to <hi rend="ital">CD</hi>, so is <hi rend="ital">EF</hi> to <hi rend="ital">GH</hi>. </p>
+      <p>For since, again, <hi rend="ital">KA</hi> has to <hi rend="ital">LC</hi> the ratio triplicate of that which <hi rend="ital">AB</hi> has to <hi rend="ital">CD</hi>, [<ref target="elem.11.33" targOrder="U">XI. 33</ref>] and <hi rend="ital">ME</hi> also has to <hi rend="ital">NG</hi> the ratio triplicate of that which <hi rend="ital">EF</hi> has to <hi rend="ital">GH</hi>, [<hi rend="ital">id</hi>.] and, as <hi rend="ital">KA</hi> is to <hi rend="ital">LC</hi>, so is <hi rend="ital">ME</hi> to <hi rend="ital">NG</hi>, therefore also, as <hi rend="ital">AB</hi> is to <hi rend="ital">CD</hi>, so is <hi rend="ital">EF</hi> to <hi rend="ital">GH</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.38" n="38" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 38.</head>
+      <p><hi rend="ital">If the sides of the opposite planes of a cube be bisected</hi>, <hi rend="ital">and planes be carried through the points of section</hi>, <hi rend="ital">the common section of the planes and the diameter of the cube bisect one another.</hi>
+      </p>
+      <p>For let the sides of the opposite planes <hi rend="ital">CF</hi>, <hi rend="ital">AH</hi> of the cube <hi rend="ital">AF</hi> be bisected at the points <hi rend="ital">K</hi>, <hi rend="ital">L</hi>, <hi rend="ital">M</hi>, <hi rend="ital">N</hi>, <hi rend="ital">O</hi>, <hi rend="ital">Q</hi>, <hi rend="ital">P</hi>, <hi rend="ital">R</hi>, <pb n="361" />and through the points of section let the planes <hi rend="ital">KN</hi>, <hi rend="ital">OR</hi> be carried; let <hi rend="ital">US</hi> be the common section of the planes, and <hi rend="ital">DG</hi> the diameter of the cube <hi rend="ital">AF</hi>. </p>
+      <p>I say that <hi rend="ital">UT</hi> is equal to <hi rend="ital">TS</hi>, and <hi rend="ital">DT</hi> to <hi rend="ital">TG</hi>. </p>
+      <p>For let <hi rend="ital">DU</hi>, <hi rend="ital">UE</hi>, <hi rend="ital">BS</hi>, <hi rend="ital">SG</hi> be joined. </p>
+      <p>Then, since <hi rend="ital">DO</hi> is parallel to <hi rend="ital">PE</hi>, the alternate angles <hi rend="ital">DOU</hi>, <hi rend="ital">UPE</hi> are equal to one another. [<ref target="elem.1.29" targOrder="U">I. 29</ref>] </p>
+      <p>And, since <hi rend="ital">DO</hi> is equal to <hi rend="ital">PE</hi>, and <hi rend="ital">OU</hi> to <hi rend="ital">UP</hi>, and they contain equal angles, therefore the base <hi rend="ital">DU</hi> is equal to the base <hi rend="ital">UE</hi>, the triangle <hi rend="ital">DOU</hi> is equal to the triangle <hi rend="ital">PUE</hi>, and the remaining angles are equal to the remaining angles; [<ref target="elem.1.4" targOrder="U">I. 4</ref>] therefore the angle <hi rend="ital">OUD</hi> is equal to the angle <hi rend="ital">PUE</hi>. <figure />
+      </p>
+      <p>For this reason <hi rend="ital">DUE</hi> is a straight line. [<ref target="elem.1.14" targOrder="U">I. 14</ref>] </p>
+      <p>For the same reason, <hi rend="ital">BSG</hi> is also a straight line, and <hi rend="ital">BS</hi> is equal to <hi rend="ital">SG</hi>. </p>
+      <p>Now, since <hi rend="ital">CA</hi> is equal and parallel to <hi rend="ital">DB</hi>, while <hi rend="ital">CA</hi> is also equal and parallel to <hi rend="ital">EG</hi>, therefore <hi rend="ital">DB</hi> is also equal and parallel to <hi rend="ital">EG</hi>. [<ref target="elem.11.9" targOrder="U">XI. 9</ref>] <pb n="362" /></p>
+      <p>And the straight lines <hi rend="ital">DE</hi>, <hi rend="ital">BG</hi> join their extremities; therefore <hi rend="ital">DE</hi> is parallel to <hi rend="ital">BG</hi>. [<ref target="elem.1.33" targOrder="U">I. 33</ref>] </p>
+      <p>Therefore the angle <hi rend="ital">EDT</hi> is equal to the angle <hi rend="ital">BGT</hi>, for they are alternate; [<ref target="elem.1.29" targOrder="U">I. 29</ref>] and the angle <hi rend="ital">DTU</hi> is equal to the angle <hi rend="ital">GTS</hi>. [<ref target="elem.1.15" targOrder="U">I. 15</ref>] </p>
+      <p>Therefore <hi rend="ital">DTU</hi>, <hi rend="ital">GTS</hi> are two triangles which have two angles equal to two angles, and one side equal to one side, namely that subtending one of the equal angles, that is, <hi rend="ital">DU</hi> equal to <hi rend="ital">GS</hi>, for they are the halves of <hi rend="ital">DE</hi>, <hi rend="ital">BG</hi>; therefore they will also have the remaining sides equal to the remaining sides. [<ref target="elem.1.26" targOrder="U">I. 26</ref>] </p>
+      <p>Therefore <hi rend="ital">DT</hi> is equal to <hi rend="ital">TG</hi>, and <hi rend="ital">UT</hi> to <hi rend="ital">TS</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     <div3 id="elem.11.39" n="39" type="number" org="uniform" sample="complete">
+      <head>PROPOSITION 39.</head>
+      <p><hi rend="ital">If there be two prisms of equal height</hi>, <hi rend="ital">and one have a parallelogram as base and the other a triangle</hi>, <hi rend="ital">and if the parallelogram be double of the triangle</hi>, <hi rend="ital">the prisms will be equal.</hi>
+      </p>
+      <p>Let <hi rend="ital">ABCDEF</hi>, <hi rend="ital">GHKLMN</hi> be two prisms of equal height, let one have the parallelogram <hi rend="ital">AF</hi> as base, and the other the triangle <hi rend="ital">GHK</hi>, and let the parallelogram <hi rend="ital">AF</hi> be double of the triangle <hi rend="ital">GHK</hi>; I say that the prism <hi rend="ital">ABCDEF</hi> is equal to the prism <hi rend="ital">GHKLMN</hi>. <figure />
+      </p>
+      <p>For let the solids <hi rend="ital">AO</hi>, <hi rend="ital">GP</hi> be completed. </p>
+      <p>Since the parallelogram <hi rend="ital">AF</hi> is double of the triangle <hi rend="ital">GHK</hi>, while the parallelogram <hi rend="ital">HK</hi> is also double of the triangle <hi rend="ital">GHK</hi>, [<ref target="elem.1.34" targOrder="U">I. 34</ref>] therefore the parallelogram <hi rend="ital">AF</hi> is equal to the parallelogram <hi rend="ital">HK</hi>. </p>
+      <p>But parallelepipedal solids which are on equal bases and of the same height are equal to one another; [<ref target="elem.11.31" targOrder="U">XI. 31</ref>] therefore the solid <hi rend="ital">AO</hi> is equal to the solid <hi rend="ital">GP</hi>. </p>
+      <p>And the prism <hi rend="ital">ABCDEF</hi> is half of the solid <hi rend="ital">AO</hi>, and the prism <hi rend="ital">GHKLMN</hi> is half of the solid <hi rend="ital">GP</hi>; [<ref target="elem.11.28" targOrder="U">XI. 28</ref>] therefore the prism <hi rend="ital">ABCDEF</hi> is equal to the prism <hi rend="ital">GHKLMN</hi>. </p>
+      <p>Therefore etc. Q. E. D.<pb n="364" /></p>
+     </div3>
+    </div2>
+   </div1></body></text></TEI.2>
