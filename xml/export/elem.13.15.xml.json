@@ -1,0 +1,87 @@
+{
+    "id": "elem.13.15",
+    "n": 15,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "Let the diameter  of the given sphere be set out, and let it be cut at  so that  is double of ; let the semicircle  be described on , let  be drawn from  at right angles to , and let  be joined; let the square  having its side equal to  be set out, from , , ,  let , , ,  be drawn at right angles to the plane of the square , from , , ,  let , , ,  respectively be cut off equal to one of the straight lines , , , , and let , , ,  be joined; therefore the cube  has been constructed which is contained by six equal squares.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "It is then required to comprehend it in the given sphere, and to prove that the square on the diameter of the sphere is triple of the square on the side of the cube.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let ,  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then, since the angle  is right, because  is also at right angles to the plane  and of course to the straight line  also, [elem.11.def.3] therefore the semicircle described on  will also pass through the point .",
+            "refs": [
+                "elem.11.def.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  is at right angles to each of the straight lines , ,  is also at right angles to the plane ; hence also, if we join ,  will be at right angles to ;  will also pass through .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly it will also pass through the remaining angular points of the cube.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "If then,  remaining fixed, the semicircle be carried round and restored to the same position from which it began to be moved, the cube will be comprehended in a sphere.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that it is also comprehended in the given sphere.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is equal to , and the angle at  is right, therefore the square on  is double of the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to ; therefore the square on  is double of the square on ; hence the squares on , , that is the square on  [elem.1.47], is triple of the square on .",
+            "refs": [
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is triple of , while, as  is to , so is the square on  to the square on , therefore the square on  is triple of the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  was also proved triple of the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  was made equal to ; therefore  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is the diameter of the given sphere; therefore  is also equal to the diameter of the given sphere.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the cube has been comprehended in the given sphere; and it has been demonstrated at the same time that the square on the diameter of the sphere is triple of the square on the side of the cube. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

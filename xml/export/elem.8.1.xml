@@ -1,0 +1,15 @@
+<div3 id="elem.8.1" n="1" type="proposition">
+      <head>PROPOSITION 1.</head>
+      <p>
+       <hi rend="ital">If there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, the numbers are the least of those which have the same ratio with them.</hi>
+      </p>
+      <p>Let there be as many numbers as we please, <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi>, in continued proportion, and let the extremes of them <hi rend="ital">A</hi>, <hi rend="ital">D</hi> be prime to one another; I say that <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are the least of those which have the same ratio with them. </p>
+      <p>For, if not, let <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">H</hi> be less than <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi>, and in the same ratio with them. </p>
+      <p>Now, since <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are in the same ratio with <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">H</hi>, and the multitude of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi> is equal to the multitude of the numbers <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">H</hi>, therefore, <hi rend="ital">ex aequali</hi>, <hi rend="center">as <hi rend="ital">A</hi> is to <hi rend="ital">D</hi>, so is <hi rend="ital">E</hi> to <hi rend="ital">H</hi>. [<ref target="elem.7.14" targOrder="U">VII. 14</ref>]</hi>
+      </p>
+      <p>But <hi rend="ital">A</hi>, <hi rend="ital">D</hi> are prime, primes are also least, [<ref target="elem.7.21" targOrder="U">VII. 21</ref>] and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. [<ref target="elem.7.20" targOrder="U">VII. 20</ref>] </p>
+      <p>Therefore <hi rend="ital">A</hi> measures <hi rend="ital">E</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">H</hi> which are less than <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are not in the same ratio with them. </p>
+      <p>Therefore <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are the least of those which have the same ratio with them. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,17 @@
+<div3 id="elem.8.6" n="6" type="proposition">
+      <head>PROPOSITION 6.</head>
+      <p>
+       <hi rend="ital">If there be as many numbers as we please in continued proportion, and the first do not measure the second, neither will any other measure any other.</hi>
+      </p>
+      <p>Let there be as many numbers as we please, <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi>, <hi rend="ital">E</hi>, in continued proportion, and let <hi rend="ital">A</hi> not measure <hi rend="ital">B</hi>; I say that neither will any other measure any other. </p>
+      <p>Now it is manifest that <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi>, <hi rend="ital">E</hi> do not measure one another in order; for <hi rend="ital">A</hi> does not even measure <hi rend="ital">B</hi>. </p>
+      <p>I say, then, that neither will any other measure any other. </p>
+      <p>For, if possible, let <hi rend="ital">A</hi> measure <hi rend="ital">C</hi>. </p>
+      <p>And, however many <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are, let as many numbers <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">H</hi>, the least of those which have the same ratio with <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, be taken. [<ref target="elem.7.33" targOrder="U">VII. 33</ref>] </p>
+      <p>Now, since <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">H</hi> are in the same ratio with <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, and the multitude of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> is equal to the multitude of the numbers <hi rend="ital">F</hi>, <hi rend="ital">G</hi>, <hi rend="ital">H</hi>, therefore, <foreign lang="la">ex aequali</foreign>, as <hi rend="ital">A</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">F</hi> to <hi rend="ital">H</hi>. [<ref target="elem.7.14" targOrder="U">VII. 14</ref>] </p>
+      <p>And since, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">F</hi> to <hi rend="ital">G</hi>, while <hi rend="ital">A</hi> does not measure <hi rend="ital">B</hi>, therefore neither does <hi rend="ital">F</hi> measure <hi rend="ital">G</hi>; [<ref target="elem.7.def.20" targOrder="U">VII. Def. 20</ref>] therefore <hi rend="ital">F</hi> is not an unit, for the unit measures any number. </p>
+      <p>Now <hi rend="ital">F</hi>, <hi rend="ital">H</hi> are prime to one another. [<ref target="elem.8.3" targOrder="U">VIII. 3</ref>] </p>
+      <p>And, as <hi rend="ital">F</hi> is to <hi rend="ital">H</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">C</hi>; therefore neither does <hi rend="ital">A</hi> measure <hi rend="ital">C</hi>. </p>
+      <p>Similarly we can prove that neither will any other measure any other. Q. E. D.</p>
+     </div3>
+     

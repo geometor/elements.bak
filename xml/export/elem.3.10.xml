@@ -1,0 +1,19 @@
+<div3 id="elem.3.10" n="10" type="proposition">
+      <head>PROPOSITION 10.</head>
+      <p><emph>A circle does not cut a circle at more points than two</emph>. </p>
+      <p>For, if possible, let the circle <emph>ABC</emph> cut the circle <emph>DEF</emph> at more points than two, namely <emph>B</emph>, <emph>C</emph>, <emph>F</emph>, <emph>H</emph>; </p>
+      <p>let <emph>BH</emph>, <emph>BG</emph> be joined and bisected at the points <emph>K</emph>, <emph>L</emph>, and from <emph>K</emph>, <emph>L</emph> let <emph>KC</emph>, <emph>LM</emph> be drawn at right angles to <emph>BH</emph>, <emph>BG</emph> and carried through to the points <emph>A</emph>, <emph>E</emph>. </p>
+      <p>Then, since in the circle <emph>ABC</emph> a straight line <emph>AC</emph> cuts a straight line <emph>BH</emph> into two equal parts and at right angles, <hi rend="center">the centre of the circle <emph>ABC</emph> is on <emph>AC</emph>. [<ref target="elem.3.1.p.1" targOrder="U">III. 1, Por.</ref>]</hi>
+      </p>
+      <p>Again, since in the same circle <emph>ABC</emph> a straight line <emph>NO</emph> cuts a straight line <emph>BG</emph> into two equal parts and at right angles, <hi rend="center">the centre of the circle <emph>ABC</emph> is on <emph>NO</emph>.</hi>
+      </p>
+      <p>But it was also proved to be on <emph>AC</emph>, and the straight lines <emph>AC</emph>, <emph>NO</emph> meet at no point except at <emph>P</emph>; <hi rend="center">therefore the point <emph>P</emph> is the centre of the circle <emph>ABC</emph>.</hi>
+      </p>
+      <p>Similarly we can prove that <emph>P</emph> is also the centre of the circle <emph>DEF</emph>; <hi rend="center">therefore the two circles <emph>ABC</emph>, <emph>DEF</emph> which cut one another have the same centre <emph>P</emph>: which is impossible. [<ref target="elem.3.5" targOrder="U">III. 5</ref>]</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.
+<note n="1" type="crit" place="unspecified" anchored="yes">
+        <p>The word circle (<foreign lang="greek">κύκλος</foreign>) is here employed in the unusual sense of the <emph>circumference</emph> (<foreign lang="greek">περιφέρεια</foreign>) of a circle. Cf. note on <ref target="elem.1.def.15" targOrder="U">I. Def. 15</ref>.</p>
+       </note></p>
+     </div3>
+     

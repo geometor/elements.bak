@@ -1,0 +1,24 @@
+<div3 id="elem.3.36" n="36" type="proposition">
+      <head>PROPOSITION 36.</head>
+      <p><emph>If a point be taken outside a circle and from it there fall on the circle two straight lines</emph>, <emph>and if one of them cut the circle and the other touch it</emph>, <emph>the rectangle contained by the whole of the straight line which cuts the circle and the straight </emph>. </p>
+      <p>For let a point <emph>D</emph> be taken outside the circle <emph>ABC</emph>, and from <emph>D</emph> let the two straight lines <emph>DCA</emph>, <emph>DB</emph> fall on the circle <emph>ABC</emph>; let <emph>DCA</emph> cut the circle <emph>ABC</emph> and let <emph>BD</emph> touch it; I say that the rectangle contained by <emph>AD</emph>, <emph>DC</emph> is equal to the square on <emph>DB</emph>. </p>
+      <p>Then <emph>DCA</emph> is either through the centre or not through the centre. </p>
+      <p>First let it be through the centre, and let <emph>F</emph> be the centre of the circle <emph>ABC</emph>; let <emph>FB</emph> be joined; <hi rend="center">therefore the angle <emph>FBD</emph> is right. [<ref target="elem.3.18" targOrder="U">III. 18</ref>]</hi>
+      </p>
+      <p>And, since <emph>AC</emph> has been bisected at <emph>F</emph>, and <emph>CD</emph> is added to it, the rectangle <emph>AD</emph>, <emph>DC</emph> together with the square on <emph>FC</emph> is equal to the square on <emph>FD</emph>. [<ref target="elem.2.6" targOrder="U">II. 6</ref>] </p>
+      <p>But <emph>FC</emph> is equal to <emph>FB</emph>; therefore the rectangle <emph>AD</emph>, <emph>DC</emph> together with the square on <emph>FB</emph> is equal to the square on <emph>FD</emph>. </p>
+      <p>And the squares on <emph>FB</emph>, <emph>BD</emph> are equal to the square on <emph>FD</emph>; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] therefore the rectangle <emph>AD</emph>, <emph>DC</emph> together with the square on <emph>FB</emph> is equal to the squares on <emph>FB</emph>, <emph>BD</emph>. </p>
+      <p>Let the square on <emph>FB</emph> be subtracted from each; therefore the rectangle <emph>AD</emph>, <emph>DC</emph> which remains is equal to the square on the tangent <emph>DB</emph>. </p>
+      <p>Again, let <emph>DCA</emph> not be through the centre of the circle <emph>ABC</emph>; let the centre <emph>E</emph> be taken, and from <emph>E</emph> let <emph>EF</emph> be drawn perpendicular to <emph>AC</emph>; let <emph>EB</emph>, <emph>EC</emph>, <emph>ED</emph> be joined. </p>
+      <p>Then the angle <emph>EBD</emph> is right. [<ref target="elem.3.18" targOrder="U">III. 18</ref>] </p>
+      <p>And, since a straight line <emph>EF</emph> through the centre cuts a straight line <emph>AC</emph> not through the centre at right angles, <hi rend="center">it also bisects it; [<ref target="elem.3.3" targOrder="U">III. 3</ref>] therefore <emph>AF</emph> is equal to <emph>FC</emph>.</hi>
+       </p>
+      <p>Now, since the straight line <emph>AC</emph> has been bisected at the point <emph>F</emph>, and <emph>CD</emph> is added to it, the rectangle contained by <emph>AD</emph>, <emph>DC</emph> together with the square on <emph>FC</emph> is equal to the square on <emph>FD</emph>. [<ref target="elem.2.6" targOrder="U">II. 6</ref>] </p>
+      <p>Let the square on <emph>FE</emph> be added to each; therefore the rectangle <emph>AD</emph>, <emph>DC</emph> together with the squares on <emph>CF</emph>, <emph>FE</emph> is equal to the squares on <emph>FD</emph>, <emph>FE</emph>. </p>
+      <p>But the square on <emph>EC</emph> is equal to the squares on <emph>CF</emph>, <emph>FE</emph>, for the angle <emph>EFC</emph> is right; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] and the square on <emph>ED</emph> is equal to the squares on <emph>DF</emph>, <emph>FE</emph>; therefore the rectangle <emph>AD</emph>, <emph>DC</emph> together with the square on <emph>EC</emph> is equal to the square on <emph>ED</emph>. </p>
+      <p>And <emph>EC</emph> is equal to <emph>EB</emph>; therefore the rectangle <emph>AD</emph>, <emph>DC</emph> together with the square on <emph>EB</emph> is equal to the square on <emph>ED</emph>. </p>
+      <p>But the squares on <emph>EB</emph>, <emph>BD</emph> are equal to the square on <emph>ED</emph>, for the angle <emph>EBD</emph> is right; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] therefore the rectangle <emph>AD</emph>, <emph>DC</emph> together with the square on <emph>EB</emph> is equal to the squares on <emph>EB</emph>, <emph>BD</emph>. </p>
+      <p>Let the square on <emph>EB</emph> be subtracted from each; therefore the rectangle <emph>AD</emph>, <emph>DC</emph> which remains is equal to the square on <emph>DB</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,70 @@
+{
+    "id": "elem.7.21",
+    "n": 21,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be numbers prime to one another; I say that ,  are the least of those which have the same ratio with them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if not, there will be some numbers less than ,  which are in the same ratio with , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let them be , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since, then, the least numbers of those which have the same ratio measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent, [elem.7.20] therefore  measures  the same number of times that  measures .",
+            "refs": [
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, as many times as  measures , so many units let there be in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  also measures  according to the units in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  measures  according to the units in , therefore  also measures  according to the units in . [elem.7.16]",
+            "refs": [
+                "elem.7.16"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  also measures  according to the units in . [elem.7.16]",
+            "refs": [
+                "elem.7.16"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  measures ,  which are prime to one another: which is impossible. [elem.7.def.12]",
+            "refs": [
+                "elem.7.def.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore there will be no numbers less than ,  which are in the same ratio with , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are the least of those which have the same ratio with them. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

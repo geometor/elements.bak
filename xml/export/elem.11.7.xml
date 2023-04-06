@@ -1,0 +1,11 @@
+<div3 id="elem.11.7" n="7" type="proposition">
+      <head>PROPOSITION 7.</head>
+      <p><hi rend="ital">If two straight lines be parallel and points be taken at random on each of them</hi>, <hi rend="ital">the straight line joining the points is in the same plane with the parallel straight lines.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be two parallel straight lines, and let points <hi rend="ital">E</hi>, <hi rend="ital">F</hi> be taken at random on them respectively; I say that the straight line joining the points <hi rend="ital">E</hi>, <hi rend="ital">F</hi> is in the same plane with the parallel straight lines. </p>
+      <p>For suppose it is not, but, if possible, let it be in a more elevated plane as <hi rend="ital">EGF</hi>, and let a plane be drawn through <hi rend="ital">EGF</hi>; it will then make, as section in the plane of reference, a straight line. [<ref target="elem.11.3" targOrder="U">XI. 3</ref>] </p>
+      <p>Let it make it, as <hi rend="ital">EF</hi>; therefore the two straight lines <hi rend="ital">EGF</hi>, <hi rend="ital">EF</hi> will enclose an area: which is impossible. </p>
+      <p>Therefore the straight line joined from <hi rend="ital">E</hi> to <hi rend="ital">F</hi> is not in a plane more elevated; therefore the straight line joined from <hi rend="ital">E</hi> to <hi rend="ital">F</hi> is in the plane through the parallel straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

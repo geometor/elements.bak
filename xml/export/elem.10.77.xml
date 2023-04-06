@@ -1,0 +1,10 @@
+<div3 id="elem.10.77" n="77" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 77</head>
+      <p><hi rend="ital">If from a straight line there be subtracted a straight line which is incommensurable in square with the whole, and which with the whole makes the sum of the squares on them medial, but twice the rectangle contained by them rational, the remainder is irrational: and let it be called</hi>
+       <hi rend="bold">that which produces with a rational area a medial whole</hi>. </p>
+      <p>For from the straight line <hi rend="ital">AB</hi> let there be subtracted the straight line <hi rend="ital">BC</hi> which is incommensurable in square with <hi rend="ital">AB</hi> and fulfils the given conditions; [<ref target="elem.10.34" targOrder="U">X. 34</ref>] I say that the remainder <hi rend="ital">AC</hi> is the irrational straight line aforesaid. </p>
+      <p>For, since the sum of the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is medial, while twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is rational, therefore the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are incommensurable with twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>; therefore the remainder also, the square on <hi rend="ital">AC</hi>, is incommensurable with twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. [<ref target="elem.2.7 elem.10.16" targOrder="U">II. 7</ref>, X. 16] </p>
+      <p>And twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is rational; therefore the square on <hi rend="ital">AC</hi> is irrational; therefore <hi rend="ital">AC</hi> is irrational. </p>
+      <p>And let it be called <hi rend="bold">that which produces with a rational area a medial whole</hi>. Q. E. D.</p>
+     </div3>
+     

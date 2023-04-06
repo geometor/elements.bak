@@ -1,0 +1,251 @@
+{
+    "id": "elem.12.17",
+    "n": 17,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "Let two spheres be conceived about the same centre ; thus it is required to inscribe in the greater sphere a polyhedral solid which does not touch the lesser sphere at its surface.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the spheres be cut by any plane through the centre; then the sections will be circles, inasmuch as the sphere was produced by the diameter remaining fixed and the semicircle being carried round it; [elem.11.def.14] hence, in whatever position we conceive the semicircle to be, the plane carried through it will produce a circle on the circumference of the sphere.",
+            "refs": [
+                "elem.11.def.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And it is manifest that this circle is the greatest possible,",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let then  be the circle in the greater sphere, and  the circle in the lesser sphere; let two diameters in them, , , be drawn at right angles to one another; then, given the two circles ,  about the same centre, let there be inscribed in the greater circle  an equilateral polygon with an even number of sides which does not touch the lesser circle , let , , \n        be its sides in the quadrant . let  be joined and carried through to , let  be set up from the point  at right angles to the plane of the circle , and let it meet the surface of the sphere at , and through  and each of the straight lines ,  let planes be carried; they will then make greatest circles on the surface of the sphere, for the reason stated.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let them make such, and in them let ,  be the semicircles on , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is at right angles to the plane of the circle , therefore all the planes through  are also at right angles to the plane of the circle ; [elem.11.18] hence the semicircles ,  are also at right angles to the plane of the circle .",
+            "refs": [
+                "elem.11.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the semicircles , ,  are equal, for they are on the equal diameters , , therefore the quadrants , ,  are also equal to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore there are as many straight lines in the quadrants ,  equal to the straight lines , , ,  as there are sides of the polygon in the quadrant .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let them be inscribed, and let them be , , ,  and , , , , let , ,  be joined, ,  let perpendiculars be drawn to the plane of the circle ; [elem.11.11] these will fall on , , the common sections of the planes, inasmuch as the planes of ,  are also at right angles to the plane of the circle . [cf. elem.11.def.4]",
+            "refs": [
+                "elem.11.11",
+                "elem.11.def.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let them so fall, and let them be , , and let  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now since, in the equal semicircles , , equal straight lines ,  have been cut off, and the perpendiculars ,  have been drawn, therefore  is equal to , and  to . [elem.3.27, elem.1.26]",
+            "refs": [
+                "elem.3.27",
+                "elem.1.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the whole  is also equal to the whole ; therefore the remainder  is also equal to the remainder ; therefore, as  is to , so is  to ; therefore  is parallel to . [elem.6.2]",
+            "refs": [
+                "elem.6.2"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since each of the straight lines ,  is at right angles to the plane of the circle , therefore  is parallel to . [elem.11.6]",
+            "refs": [
+                "elem.11.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it was also proved equal to it; therefore ,  are also equal and parallel. [elem.1.33]",
+            "refs": [
+                "elem.1.33"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is parallel to , while  is parallel to , therefore  is also parallel to . [elem.11.9]",
+            "refs": [
+                "elem.11.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And ,  join their extremities; therefore the quadrilateral  is in one plane, inasmuch as, if two straight lines be parallel, and points be taken at random on each of them, the straight line joining the points is in the same plane with the parallels. [elem.11.7]",
+            "refs": [
+                "elem.11.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason each of the quadrilaterals ,  is also in one plane.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the triangle  is also in one plane. [elem.11.2]",
+            "refs": [
+                "elem.11.2"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "If then we conceive straight lines joined from the points , , , , ,  to , there will be constructed a certain polyhedral solid figure between the circumferences , , consisting of pyramids of which the quadrilaterals , ,  and the triangle  are the bases and the point  the vertex.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, if we make the same construction in the case of each of the sides , ,  as in the case of , and further in the case of the remaining three quadrants, there will be constructed a certain polyhedral figure inscribed in the sphere and contained by pyramids, of which the said quadrilaterals and the triangle , and the others corresponding to them, are the bases and the point  the vertex.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that the said polyhedron will not touch the lesser sphere at the surface on which the circle  is.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be drawn from the point  perpendicular to the plane of the quadrilateral , and let it meet the plane at the point ; [elem.11.11] let ,  be joined.",
+            "refs": [
+                "elem.11.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Then, since  is at right angles to the plane of the quadrilateral , therefore it is also at right angles to all the straight lines which meet it and are in the plane of the quadrilateral. [elem.11.def.3]",
+            "refs": [
+                "elem.11.def.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is at right angles to each of the straight lines , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is equal to , the square on  is also equal to the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And the squares on ,  are equal to the square on , for the angle at  is right; [elem.1.47] and the squares on ,  are equal to the square on . [.]",
+            "refs": [
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the squares on ,  are equal to the squares on , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the square on  be subtracted from each; therefore the remainder, the square on , is equal to the remainder, the square on ; therefore  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that the straight lines joined from  to ,  are equal to each of the straight lines , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the circle described with centre  and distance one of the straight lines ,  will pass through ,  also, and  will be a quadrilateral in a circle.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is greater than , while  is equal to , therefore  is greater than .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to each of the straight lines , ; therefore each of the straight lines ,  is greater than .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is a quadrilateral in a circle, and , ,  are equal, and  less, and  is the radius of the circle, therefore the square on  is greater than double of the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be drawn from  perpendicular to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then, since  is less than double of , and, as  is to , so is the rectangle ,  to the rectangle , , if a square be described upon  and the parallelogram on  be completed, then the rectangle ,  is also less than double of the rectangle , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, if  be joined, the rectangle ,  is equal to the square on , and the rectangle ,  equal to the square on ; [elem.3.31, elem.6.8 elem.6.8.p.1] therefore the square on  is less than double of the square on .",
+            "refs": [
+                "elem.3.31",
+                "elem.6.8 elem.6.8.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is greater than double of the square on ; therefore the square on  is greater than the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is equal to , the square on  is equal to the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And the squares on ,  are equal to the square on , and the squares on ,  equal to the square on ; [elem.1.47] therefore the squares on ,  are equal to the squares on , ,  is greater than the square on ; therefore the remainder, the square on , is less than the square on .",
+            "refs": [
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is greater than ; therefore  is much greater than .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is the perpendicular on one base of the polyhedron, and  on the surface of the lesser sphere; hence the polyhedron will not touch the lesser sphere on its surface.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, given two spheres about the same centre, a polyhedral solid has been inscribed in the greater sphere which does not touch the lesser sphere at its surface. Q. E. F.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

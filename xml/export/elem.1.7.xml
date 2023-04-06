@@ -1,0 +1,41 @@
+<div3 id="elem.1.7" n="7" type="proposition">
+      <head>Proposition 7.</head>
+      <div4 type="Enunc">
+       <p>Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in </p>
+      </div4>
+      <div4 type="Proof">
+       <p>For, if possible, given two straight lines <emph>AC</emph>, <emph>CB</emph> constructed on the straight line <emph>AB</emph> and meeting at the point <emph>C</emph>, let two other straight lines <emph>AD</emph>, <emph>DB</emph> be constructed on the same straight line <emph>AB</emph>, on the same side of it, meeting in another point <emph>D</emph> and equal to the former two respectively, namely each to that which has the same extremity with it, so that <emph>CA</emph> is <emph>DA</emph> which has the same extremity <emph>A</emph> with it, and <emph>CB</emph> to <emph>DB</emph> which has the same extremity <emph>B</emph> with it; and let <emph>CD</emph> be joined.</p>
+       <p>Then, since <emph>AC</emph> is equal to <emph>AD</emph>, <hi rend="center">the angle <emph>ACD</emph> is also equal to the angle <emph>ADC</emph>; [<ref target="elem.1.5" targOrder="U">I. 5</ref>] <emph>ADC</emph> is greater than the angle <emph>DCB</emph>;</hi> therefore the angle <emph>CDB</emph> is much greater than the angle <emph>DCB</emph>.</p>
+       <p>Again, since <emph>CB</emph> is equal to <emph>DB</emph>, <hi rend="center">the angle <emph>CDB</emph> is also equal to the angle <emph>DCB</emph>.</hi>
+        <hi rend="center">which is impossible.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="1-6" type="crit" place="unspecified" anchored="yes">
+       <p>In an English translation of the enunciation of this proposition it is absolutely necessary, in order to make it intelligible, to insert some words which are not in the Greek. The reason is partly that the Greek enunciation is itself very elliptical, and partly that some words used in it conveyed more meaning than the corresponding words in English do. Particularly is this the case with <foreign lang="greek">οὐ συσταθήσονται ἐπί</foreign> <quote>there shall not be constructed upon,</quote>
+ since <foreign lang="greek">συνίστασθαι</foreign> is the regular word for constructing a <emph>triangle</emph> in particular. Thus a Greek would easily understahd <foreign lang="greek">συσταθήσονται ἐπί</foreign> as meaning the construction of two lines <emph>forming a triangle on</emph> a given straight line as base; whereas to <quote>construct two straight lines on a straight line</quote>
+ is not in English sufficiently definite unless we explain that they are drawn from the <emph>ends</emph> of the straight line to <emph>meet</emph> at a point. I have had the less hesitation in putting in the words <quote>from its extremities</quote>
+ because they are actually used by Euclid in the somewhat similar enunciation of <ref target="elem.1.21" targOrder="U">I. 21</ref>.</p>
+       <p>How impossible a literal translation into English is, if it is to convey the meaning of the enunciation intelligibly, will be clear from the following attempt to render literally: <quote>On the same straight line there shall not be constructed two other straight lines equal, each to each, to the same two straight lines, (terminating) at different points on the same side, having the same extremities as the original straight lines</quote>
+ (<foreign lang="greek">ἐπὶ τῆς αὐτῆς εὐθείας δύο ταῖς αὐταῖς εὐθείαις ἄλλαι δύο εὐθεῖαι ἴσαι ἑκατὲρα ἑκατέρα οὐ συσταθήσονται πρὸς ἄλλῳ καἰ ἄλλῳ σημείῳ ἐπἰ τὰ αὐτὰ μέρη τὰ αὐτὰ πέρατα ἔχουσαι ταῖς ἐξ ἀρχῆς εὐθείαις</foreign>).</p>
+       <p>The reason why Euclid allowed himself to use, in this enunciation, language apparently so obscure is no doubt that the phraseology was traditional and therefore, vague as it was, had a conventional meaning which the contemporary geometer well understood. This is proved, I think, by the occurrence in Aristotle (<xref n="Aristot. Meteo. 376a.2" from="ROOT" to="DITTO" targOrder="U"><title>Meteorologica</title> III. 5, 376 a 2 sqq.</xref>) of the very same, evidently technical, expressions. Aristotle is there alluding to the theorem given by Eutocius from Apollonius' <title>Plane Loci</title> to the effect that, if <emph>H</emph>, <emph>K</emph> be two fixed points and <emph>M</emph> such a variable point that the ratio of <emph>MH</emph> to <emph>MK</emph> is a given ratio (not one of equality), the locus of <emph>M</emph> is a circle. (For an account of this theorem see note on <ref target="elem.6.3" targOrder="U">VI. 3</ref> below.) Now Aristotle says <quote>The lines drawn up from <emph>H</emph>, <emph>K</emph> in this ratio cannot be constructed to two different points of the semicircle <emph>A</emph></quote>
+ (<foreign lang="greek">αἰ οὖν ἀπὸ τῶν ΗΚ ἀναγόμεναι γραμμαὶ ἐν τούτῳ τῷ λόγῳ οὐ συσταθήσουται τοῦ ἐφ̓ ᾦ Α ἡμικυκλίου πρὸς ἄλλο καὶ ἄλλο σημεῖον</foreign>).</p>
+       <p>If a paraphrase is allowed instead of a translation adhering as closely as possible to the original, Simson's is the best that could be found, since the fact that the straight lines form <emph>triangles</emph> on the same base is really conveyed in the Greek. Simson's enunciation is, <title>Upon the same base</title>, <emph>and on the same side of it</emph>, <emph>there cannot be two triangles that have their sides which are terminated in one extremity of the base equal to one another</emph>, <emph>and likewise those which are terminated at the other extremity</emph>. Th. Taylor (the translator of Proclus) attacks Simson's alteration as <quote>indiscreet</quote>
+ and as detracting from the beauty and accuracy of Euclid's enunciation which are enlarged upon by Proclus in his commentary. Yet, when Taylor says <quote>Whatever difficulty learners may find in conceiving this proposition abstractedly is easily removed by its exposition in the figure,</quote>
+ he really gives his case away. The fact is that Taylor, always enthusiastic over his author, was nettled by Simson's slighting remarks on Proclus' comments on the proposition. Simson had said, with reference to Proclus' explanation of the bearing of the second part of <ref target="elem.1.5" targOrder="U">I. 5</ref> on <ref target="elem.1.7" targOrder="U">I. 7</ref>, that it was not <quote>worth while </quote>
+ to which Taylor retorts <quote>But Mr Simson was no philosopher; and therefore the greatest part of these Commentaries must be considered by him as trifles, from the want of a philosophic genius to comprehend their meaning, and a taste superior to that of a <emph>mere mathematician</emph>, to discover their beauty and elegance.</quote>
+</p>
+      </note>
+      <note n="20" type="crit" place="unspecified" anchored="yes">
+       <p>It would be natural to insert here the step <quote>but the angle <emph>ACD</emph> is greater than the angle <emph>BCD</emph>. [<ref target="elem.1.c.n.5" targOrder="U">C.N. 5</ref>].</quote>
+</p>
+      </note>
+      <note n="21" type="crit" place="unspecified" anchored="yes">
+       <p>much greater, literally <quote>greater by much</quote>
+ (<foreign lang="greek">πολλῷ μεἰζων</foreign>). Simson and those who follow him translate: <quote><emph>much more then</emph> is the angle <emph>BDC greater</emph> than the angle <emph>BCD</emph>,</quote>
+ but the Greek for this would have to be <foreign lang="greek">πολλῷ</foreign> (or <foreign lang="greek">πολὺ[ρπαρ  ] μᾶλλόν ἐστι...μείζων. πολλῷ μᾶλλον</foreign>, however, though used by Apollonius, is not, apparently, found in Euclid or Archimedes.</p>
+      </note>
+     </div3>
+     

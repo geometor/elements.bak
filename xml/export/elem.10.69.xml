@@ -1,0 +1,10 @@
+<div3 id="elem.10.69" n="69" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 69.</head>
+      <p><hi rend="ital">A straight line commensurable with the side of a rational plus a medial area is itself also the side of a rational plus a medial area</hi>. </p>
+      <p>Let <hi rend="ital">AB</hi> be the side of a rational plus a medial area, and let <hi rend="ital">CD</hi> be commensurable with <hi rend="ital">AB</hi>; it is to be proved that <hi rend="ital">CD</hi> is also the side of a rational plus a medial area. </p>
+      <p>Let <hi rend="ital">AB</hi> be divided into its straight lines at <hi rend="ital">E</hi>; therefore <hi rend="ital">AE</hi>, <hi rend="ital">EB</hi> are straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational. [<ref target="elem.10.40" targOrder="U">X. 40</ref>] </p>
+      <p>Let the same construction be made as before. </p>
+      <p>We can then prove similarly that <hi rend="ital">CF</hi>, <hi rend="ital">FD</hi> are incommensurable in square, and the sum of the squares on <hi rend="ital">AE</hi>, <hi rend="ital">EB</hi> is commensurable with the sum of the squares on <hi rend="ital">CF</hi>, <hi rend="ital">FD</hi>, and the rectangle <hi rend="ital">AE</hi>, <hi rend="ital">EB</hi> with the rectangle <hi rend="ital">CF</hi>, <hi rend="ital">FD</hi>; so that the sum of the squares on <hi rend="ital">CF</hi>, <hi rend="ital">FD</hi> is also medial, and the rectangle <hi rend="ital">CF</hi>, <hi rend="ital">FD</hi> rational. </p>
+      <p>Therefore <hi rend="ital">CD</hi> is the side of a rational plus a medial area. Q. E. D.</p>
+     </div3>
+     

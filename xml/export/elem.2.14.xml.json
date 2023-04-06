@@ -1,0 +1,148 @@
+{
+    "id": "elem.2.14",
+    "n": 14,
+    "type": "proposition",
+    "enunciation": "`To construct a square equal to a given rectilineal figure`.",
+    "proof": [
+        {
+            "text": "Let `A` be the given rectilineal figure; thus it is required to construct a square equal to the rectilineal figure `A`.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "A"
+            ]
+        },
+        {
+            "text": "For let there be constructed the rectangular parallelogram `BD` equal to the rectilineal figure `A`. [elem.1.45]",
+            "refs": [
+                "elem.1.45"
+            ],
+            "emphs": [
+                "BD",
+                "A"
+            ]
+        },
+        {
+            "text": "Then, if `BE` is equal to `ED`, that which was enjoined will have been done; for a square `BD` has been constructed equal to the rectilineal figure `A`.",
+            "refs": [],
+            "emphs": [
+                "BE",
+                "ED",
+                "BD",
+                "A"
+            ]
+        },
+        {
+            "text": "But, if not, one of the straight lines `BE`, `ED` is greater.",
+            "refs": [],
+            "emphs": [
+                "BE",
+                "ED"
+            ]
+        },
+        {
+            "text": "Let `BE` be greater, and let it be produced to `F`; let `EF` be made equal to `ED`, and let `BF` be bisected at `G`.",
+            "refs": [],
+            "emphs": [
+                "BE",
+                "F",
+                "EF",
+                "ED",
+                "BF",
+                "G"
+            ]
+        },
+        {
+            "text": "With centre `G` and distance one of the straight lines `GB`, `GF` let the semicircle `BHF` be described; let `DE` be produced `H`, and let `GH` be joined.",
+            "refs": [],
+            "emphs": [
+                "G",
+                "GB",
+                "GF",
+                "BHF",
+                "DE",
+                "H",
+                "GH"
+            ]
+        },
+        {
+            "text": "Then, since the straight line `BF` has been cut into equal segments at `G`, and into unequal segments at `E`,",
+            "refs": [],
+            "emphs": [
+                "BF",
+                "G",
+                "E"
+            ]
+        },
+        {
+            "text": "But `GF` is equal to `GH`; therefore the rectangle `BE`, `EF` together with the square on `GE` is equal to the square on `GH`.",
+            "refs": [],
+            "emphs": [
+                "GF",
+                "GH",
+                "BE",
+                "EF",
+                "GE",
+                "GH"
+            ]
+        },
+        {
+            "text": "But the squares on `HE`, `EG` are equal to the square on `GH`; [elem.1.47] `BE`, `EF` together with the square on `GE` is equal to the squares on `HE`, `EG`.",
+            "refs": [
+                "elem.1.47"
+            ],
+            "emphs": [
+                "HE",
+                "EG",
+                "GH",
+                "BE",
+                "EF",
+                "GE",
+                "HE",
+                "EG"
+            ]
+        },
+        {
+            "text": "Let the square on `GE` be subtracted from each;",
+            "refs": [],
+            "emphs": [
+                "GE"
+            ]
+        },
+        {
+            "text": "But the rectangle `BE`, `EF` is `BD`, for `EF` is equal to `ED`;",
+            "refs": [],
+            "emphs": [
+                "BE",
+                "EF",
+                "BD",
+                "EF",
+                "ED"
+            ]
+        },
+        {
+            "text": "And `BD` is equal to the rectilineal figure `A`.",
+            "refs": [],
+            "emphs": [
+                "BD",
+                "A"
+            ]
+        },
+        {
+            "text": "Therefore the rectilineal figure `A` is also equal to the square `EH`.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "EH"
+            ]
+        },
+        {
+            "text": "Therefore a square, namely that which can be described on `EH`, has been constructed equal to the given rectilineal figure `A`. Q. E. F.",
+            "refs": [],
+            "emphs": [
+                "EH",
+                "A"
+            ]
+        }
+    ]
+}

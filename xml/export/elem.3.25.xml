@@ -1,0 +1,24 @@
+<div3 id="elem.3.25" n="25" type="proposition">
+      <head>PROPOSITION 25.</head>
+      <p><emph>Given a segment of a circle</emph>, <emph>to describe the complete circle of which it is a segment</emph>. </p>
+      <p>Let <emph>ABC</emph> be the given segment of a circle; thus it is required to describe the complete circle belonging to the segment <emph>ABC</emph>, that is, of which it is a segment. </p>
+      <p>For let <emph>AC</emph> be bisected at <emph>D</emph>, let <emph>DB</emph> be drawn from the point <emph>D</emph> at right angles to <emph>AC</emph>, and let <emph>AB</emph>. be joined; <hi rend="center">the angle <emph>ABD</emph> is then greater than, equal to, or less than the angle <emph>BAD</emph>.</hi>
+      </p>
+      <p>First let it be greater; and on the straight line <emph>BA</emph>, and at the point <emph>A</emph> on it, let the angle <emph>BAE</emph> be constructed equal to the angle <emph>ABD</emph>; let <emph>DB</emph> be drawn through to <emph>E</emph>, and let <emph>EC</emph> be joined. </p>
+      <p>Then, since the angle <emph>ABE</emph> is equal to the angle <emph>BAE</emph>, <hi rend="center">the straight line <emph>EB</emph> is also equal to <emph>EA</emph>. [<ref target="elem.1.6" targOrder="U">I. 6</ref>]</hi>
+      </p>
+      <p>And, since <emph>AD</emph> is equal to <emph>DC</emph>, and <emph>DE</emph> is common, <hi rend="center">the two sides <emph>AD</emph>, <emph>DE</emph> are equal to the two sides <emph>CD</emph>, <emph>DE</emph> respectively;</hi> and the angle <emph>ADE</emph> is equal to the angle <emph>CDE</emph>, for each is right; <hi rend="center">therefore the base <emph>AE</emph> is equal to the base <emph>CE</emph>.</hi>
+      </p>
+      <p>But <emph>AE</emph> was proved equal to <emph>BE</emph>; <hi rend="center">therefore <emph>BE</emph> is also equal to <emph>CE</emph>;</hi> therefore the three straight lines <emph>AE</emph>, <emph>EB</emph>, <emph>EC</emph> are equal to one another. </p>
+      <p>Therefore the circle drawn with centre <emph>E</emph> and distance one of the straight lines <emph>AE</emph>, <emph>EB</emph>, <emph>EC</emph> will also pass through the remaining points and will have been completed. [<ref target="elem.3.9" targOrder="U">III. 9</ref>] </p>
+      <p>Therefore, given a segment of a circle, the complete circle has been described. </p>
+      <p>And it is manifest that the segment <emph>ABC</emph> is less than a semicircle, because the centre <emph>E</emph> happens to be outside it. </p>
+      <p>Similarly, even if the angle <emph>ABD</emph> be equal to the angle <emph>BAD</emph>, <emph>AD</emph> being equal to each of the two <emph>BD</emph>, <emph>DC</emph>, <hi rend="center">the three straight lines <emph>DA</emph>, <emph>DB</emph>, <emph>DC</emph> will be equal to one another, <emph>D</emph> will be the centre of the completed circle, and <emph>ABC</emph> will clearly be a semicircle.</hi>
+       </p>
+      <p>But, if the angle <emph>ABD</emph> be less than the angle <emph>BAD</emph>, and if we construct, on the straight line <emph>BA</emph> and at the point <emph>A</emph> on it, an angle equal to the angle <emph>ABD</emph>, the centre will fall on <emph>DB</emph> within the segment <emph>ABC</emph>, and the segment <emph>ABC</emph> will clearly be greater than a semicircle. </p>
+      <p>Therefore, given a segment of a circle, the complete circle has been described. Q. E. F.
+<note n="1" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">to describe the complete circle</hi>, <foreign lang="greek">προσαναγράψαι τὸν κύκλον</foreign>, literally “to describe the circle <emph>on to it</emph>.’</p>
+       </note></p>
+     </div3>
+     

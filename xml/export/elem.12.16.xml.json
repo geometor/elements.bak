@@ -1,0 +1,45 @@
+{
+    "id": "elem.12.16",
+    "n": 16,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "Let ,  be the two given circles about the same centre ; thus it is required to inscribe in the greater circle  an equilateral polygon with an even number of sides which does not touch the circle .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the straight line  be drawn through the centre , and from the point  let  be drawn at right angles to the straight line  and carried through to ; therefore  touches the circle . [elem.3.16.p.1]",
+            "refs": [
+                "elem.3.16.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Then, bisecting the circumference , bisecting the half of it, and doing this continually, we shall leave a circumference less than . [elem.10.1]",
+            "refs": [
+                "elem.10.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let such be left, and let it be ; from  let  be drawn perpendicular to  and carried through to , and let ,  be joined; therefore  is equal to . [elem.3.3, elem.1.4]",
+            "refs": [
+                "elem.3.3",
+                "elem.1.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is parallel to , and  touches the circle , therefore  does not touch the circle ; therefore ,  are far from touching the circle .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "If then we fit into the circle  straight lines equal to the straight line  and placed continuously, there will be inscribed in the circle  an equilateral polygon with an even number of sides which does not touch the lesser circle . Q. E. F.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

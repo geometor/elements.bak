@@ -1,0 +1,38 @@
+<div3 id="elem.10.44" n="44" type="propositions i&#x2014;47">
+      <head>PROPOSITION 44.</head>
+      <p><hi rend="ital">A second bimedial straight line is divided at one point only</hi>. </p>
+      <p>Let <hi rend="ital">AB</hi> be a second bimedial straight line divided at <hi rend="ital">C</hi>, so that <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are medial straight lines commensurable in square only and containing a medial rectangle; [<ref target="elem.10.38" targOrder="U">X. 38</ref>
+] it is then manifest that <hi rend="ital">C</hi> is not at the point of bisection, because the segments are not commensurable in length. </p>
+      <p>I say that <hi rend="ital">AB</hi> is not so divided at another point. </p>
+      <p>For, if possible, let it be divided at <hi rend="ital">D</hi> also, so that <hi rend="ital">AC</hi> is not the same with <hi rend="ital">DB</hi>, but <hi rend="ital">AC</hi> is supposed greater; it is then clear that the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> are also, as we proved above [Lemma], less than the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>; and suppose that <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> are medial straight lines commensurable in square only and containing a medial rectangle. </p>
+      <p>Now let a rational straight line <hi rend="ital">EF</hi> be set out, let there be applied to <hi rend="ital">EF</hi> the rectangular parallelogram <hi rend="ital">EK</hi> equal to the square on <hi rend="ital">AB</hi>, and let <hi rend="ital">EG</hi> equal to the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> be subtracted; therefore the remainder <hi rend="ital">HK</hi> is equal to twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>. [<ref target="elem.2.4" targOrder="U">II. 4</ref>
+] </p>
+      <p>Again, let there be subtracted <hi rend="ital">EL</hi>, equal to the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>, which were proved less than the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> [<ref target="elem.10.41.l.1" targOrder="U">Lemma</ref>
+]; <hi rend="ital">MK</hi> is also equal to twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>. </p>
+      <p>Now, since the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are medial, therefore <hi rend="ital">EG</hi> is medial. </p>
+      <p>And it is applied to the rational straight line <hi rend="ital">EF</hi>; therefore <hi rend="ital">EH</hi> is rational and incommensurable in length with <hi rend="ital">EF</hi>. [<ref target="elem.10.22" targOrder="U">X. 22</ref>
+] </p>
+      <p>For the same reason <hi rend="ital">HN</hi> is also rational and incommensurable in length with <hi rend="ital">EF</hi>. </p>
+      <p>And, since <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are medial straight lines commensurable in square only, therefore <hi rend="ital">AC</hi> is incommensurable in length with <hi rend="ital">CB</hi>. </p>
+      <p>But, as <hi rend="ital">AC</hi> is to <hi rend="ital">CB</hi>, so is the square on <hi rend="ital">AC</hi> to the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>; therefore the square on <hi rend="ital">AC</hi> is incommensurable with the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>. [<ref target="elem.10.11" targOrder="U">X. 11</ref>
+] </p>
+      <p>But the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are commensurable with the square on <hi rend="ital">AC</hi>; for <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are commensurable in square. [<ref target="elem.10.15" targOrder="U">x. 15</ref>
+] </p>
+      <p>And twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> is commensurable with the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>. [<ref target="elem.10.6" targOrder="U">X. 6</ref>
+] </p>
+      <p>Therefore the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are also incommensurable with twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>. [<ref target="elem.10.13" targOrder="U">X. 13</ref>
+] </p>
+      <p>But <hi rend="ital">EG</hi> is equal to the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, and <hi rend="ital">HK</hi> is equal to twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>; therefore <hi rend="ital">EG</hi> is incommensurable with <hi rend="ital">HK</hi>, so that <hi rend="ital">EH</hi> is also incommensurable in length with <hi rend="ital">HN</hi>. [<ref target="elem.6.1" targOrder="U">VI. 1</ref>
+, <ref target="elem.10.11" targOrder="U">X. 11</ref>
+] </p>
+      <p>And they are rational; therefore <hi rend="ital">EH</hi>, <hi rend="ital">HN</hi> are rational straight lines commensurable in square only. </p>
+      <p>But, if two rational straight lines commensurable in square only be added together, the whole is the irrational which is called binomial. [<ref target="elem.10.36" targOrder="U">X. 36</ref>
+] </p>
+      <p>Therefore <hi rend="ital">EN</hi> is a binomial straight line divided at <hi rend="ital">H</hi>. </p>
+      <p>In the same way <hi rend="ital">EM</hi>, <hi rend="ital">MN</hi> will also be proved to be rational straight lines commensurable in square only; and <hi rend="ital">EN</hi> will be a binomial straight line divided at different points, <hi rend="ital">H</hi> and <hi rend="ital">M</hi>. </p>
+      <p>And <hi rend="ital">EH</hi> is not the same with <hi rend="ital">MN</hi>. </p>
+      <p>For the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are greater than the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>. </p>
+      <p>But the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> are greater than twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>; therefore also the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, that is, <hi rend="ital">EG</hi>, are much greater than twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>, that is, <hi rend="ital">MK</hi>, so that <hi rend="ital">EH</hi> is also greater than <hi rend="ital">MN</hi>. </p>
+      <p>Therefore <hi rend="ital">EH</hi> is not the same with <hi rend="ital">MN</hi>. Q. E. D.</p>
+     </div3>
+     

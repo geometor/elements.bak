@@ -1,0 +1,20 @@
+<div3 id="elem.1.6" n="6" type="proposition">
+      <head>Proposition 6.</head>
+      <div4 type="Enunc">
+       <p>If in a triangle two angles be equal to one another, the sides which subtend the equal angles will also be equal to one another.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph> be a triangle having the angle <emph>ABC</emph> equal to the angle <emph>ACB</emph>;</p>
+       <p>I say that the side <emph>AB</emph> is also equal to the side <emph>AC</emph>.</p>
+       <p>For, if <emph>AB</emph> is unequal to <emph>AC</emph>, one of them is greater.</p>
+       <p>Let <emph>AB</emph> be greater; and from <emph>AB</emph> the greater let <emph>DB</emph> be cut off equal to <emph>AC</emph> the less;</p>
+       <p>let <emph>DC</emph> be joined. </p>
+       <p>Then, since <emph>DB</emph> is equal to <emph>AC</emph>, and <emph>BC</emph> is common, <hi rend="center">the two sides <emph>DB</emph>, <emph>BC</emph> are equal to the two sides <emph>AC</emph>, <emph>CB</emph> respectively;</hi>
+        <emph>DBC</emph> is equal to the angle <emph>ACB</emph>; <hi rend="center">therefore the base <emph>DC</emph> is equal to the base <emph>AB</emph>, and the triangle <emph>DBC</emph> will be equal to the triangle <emph>ACB</emph>, the less to the greater: which is absurd. Therefore <emph>AB</emph> is not unequal to <emph>AC</emph>; it is therefore equal to it.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+     </div3>
+     

@@ -1,0 +1,13 @@
+<div3 id="elem.8.16" n="16" type="proposition">
+      <head>PROPOSITION 16.</head>
+      <p>
+       <hi rend="ital">If a square number do not measure a square number, neither will the side measure the side; and, if the side do not measure the side, neither will the square measure the square.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi> be square numbers, and let <hi rend="ital">C</hi>, <hi rend="ital">D</hi> be their sides; and let <hi rend="ital">A</hi> not measure <hi rend="ital">B</hi>; I say that neither does <hi rend="ital">C</hi> measure <hi rend="ital">D</hi>. </p>
+      <p>For, if <hi rend="ital">C</hi> measures <hi rend="ital">D</hi>, <hi rend="ital">A</hi> will also measure <hi rend="ital">B</hi>. [<ref target="elem.8.14" targOrder="U">VIII. 14</ref>] </p>
+      <p>But <hi rend="ital">A</hi> does not measure <hi rend="ital">B</hi>; therefore neither will <hi rend="ital">C</hi> measure <hi rend="ital">D</hi>. </p>
+      <p>Again, let <hi rend="ital">C</hi> not measure <hi rend="ital">D</hi>; I say that neither will <hi rend="ital">A</hi> measure <hi rend="ital">B</hi>. </p>
+      <p>For, if <hi rend="ital">A</hi> measures <hi rend="ital">B</hi>, <hi rend="ital">C</hi> will also measure <hi rend="ital">D</hi>. [<ref target="elem.8.14" targOrder="U">VIII. 14</ref>] </p>
+      <p>But <hi rend="ital">C</hi> does not measure <hi rend="ital">D</hi>; therefore neither will <hi rend="ital">A</hi> measure <hi rend="ital">B</hi>. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,20 @@
+<div3 id="elem.6.16" n="16" type="proposition">
+      <head>PROPOSITION 16.</head>
+      <p><emph>If four straight lines be proportional</emph>, <emph>the rectangle contained by the extremes is equal to the rectangle contained by the means; and</emph>, <emph>if the rectangle contained by the extremes be equal to the rectangle contained by the means</emph>, <emph>the four straight lines will be proportional</emph>. </p>
+      <p>Let the four straight lines <emph>AB</emph>, <emph>CD</emph>, <emph>E</emph>, <emph>F</emph> be proportional, so that, as <emph>AB</emph> is to <emph>CD</emph>, so is <emph>E</emph> to <emph>F</emph>; I say that the rectangle contained by <emph>AB</emph>, <emph>F</emph> is equal to the rectangle contained by <emph>CD</emph>, <emph>E</emph>. </p>
+      <p>Let <emph>AG</emph>, <emph>CH</emph> be drawn from the points <emph>A</emph>, <emph>C</emph> at right angles to the straight lines <emph>AB</emph>, <emph>CD</emph>, and let <emph>AG</emph> be made equal to <emph>F</emph>, and <emph>CH</emph> equal to <emph>E</emph>. </p>
+      <p>Let the parallelograms <emph>BG</emph>, <emph>DH</emph> be completed. </p>
+      <p>Then since, as <emph>AB</emph> is to <emph>CD</emph>, so is <emph>E</emph> to <emph>F</emph>, while <emph>E</emph> is equal to <emph>CH</emph>, and <emph>F</emph> to <emph>AG</emph>, therefore, as <emph>AB</emph> is to <emph>CD</emph>, so is <emph>CH</emph> to <emph>AG</emph>. </p>
+      <p>Therefore in the parallelograms <emph>BG</emph>, <emph>DH</emph> the sides about the equal angles are reciprocally proportional. </p>
+      <p>But those equiangular parallelograms in which the sides about the equal angles are reciprocally proportional are equal; [<ref target="elem.6.14" targOrder="U">VI. 14</ref>] therefore the parallelogram <emph>BG</emph> is equal to the parallelogram <emph>DH</emph>. </p>
+      <p>And <emph>BG</emph> is the rectangle <emph>AB</emph>, <emph>F</emph>, for <emph>AG</emph> is equal to <emph>F</emph>; and <emph>DH</emph> is the rectangle <emph>CD</emph>, <emph>E</emph>, for <emph>E</emph> is equal to <emph>CH</emph>; therefore the rectangle contained by <emph>AB</emph>, <emph>F</emph> is equal to the rectangle contained by <emph>CD</emph>, <emph>E</emph>. </p>
+      <p>Next, let the rectangle contained by <emph>AB</emph>, <emph>F</emph> be equal to the rectangle contained by <emph>CD</emph>, <emph>E</emph>; I say that the four straight lines will be proportional, so that, as <emph>AB</emph> is to <emph>CD</emph>, so is <emph>E</emph> to <emph>F</emph>. </p>
+      <p>For, with the same construction, since the rectangle <emph>AB</emph>, <emph>F</emph> is equal to the rectangle <emph>CD</emph>, <emph>E</emph>, and the rectangle <emph>AB</emph>, <emph>F</emph> is <emph>BG</emph>, for <emph>AG</emph> is equal to <emph>F</emph>, and the rectangle <emph>CD</emph>, <emph>E</emph> is <emph>DH</emph>, for <emph>CH</emph> is equal to <emph>E</emph>, <hi rend="center">therefore <emph>BG</emph> is equal to <emph>DH</emph>.</hi>
+      </p>
+      <p>And they are equiangular </p>
+      <p>But in equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional. [<ref target="elem.6.14" targOrder="U">VI. 14</ref>] </p>
+      <p>Therefore, as <emph>AB</emph> is to <emph>CD</emph>, so is <emph>CH</emph> to <emph>AG</emph>. </p>
+      <p>But <emph>CH</emph> is equal to <emph>E</emph>, and <emph>AG</emph> to <emph>F</emph>; therefore, as <emph>AB</emph> is to <emph>CD</emph>, so is <emph>E</emph> to <emph>F</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

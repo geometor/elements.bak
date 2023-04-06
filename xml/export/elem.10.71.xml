@@ -1,0 +1,45 @@
+<div3 id="elem.10.71" n="71" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 71.</head>
+      <p><hi rend="ital">If a rational and a medial area be added together, four irrational straight lines arise, namely a binomial or a first bimedial or a major or a side of a rational plus a medial area</hi>. </p>
+      <p>Let. <hi rend="ital">AB</hi> be rational, and <hi rend="ital">CD</hi> medial; I say that the <quote>side</quote>
+ of the area <hi rend="ital">AD</hi> is a binomial or a first bimedial or a major or a side of a rational plus a medial area. </p>
+      <p>For <hi rend="ital">AB</hi> is either greater or less than <hi rend="ital">CD</hi>. </p>
+      <p>First, let it be greater; let a rational straight line <hi rend="ital">EF</hi> be set out, let there be applied to <hi rend="ital">EF</hi> the rectangle <hi rend="ital">EG</hi> equal to <hi rend="ital">AB</hi>, producing <hi rend="ital">EH</hi> as breadth, and let <hi rend="ital">HI</hi>, equal to <hi rend="ital">DC</hi>, be applied to <hi rend="ital">EF</hi>, producing <hi rend="ital">HK</hi> as breadth. </p>
+      <p>Then, since <hi rend="ital">AB</hi> is rational and is equal to <hi rend="ital">EG</hi>, therefore <hi rend="ital">EG</hi> is also rational. </p>
+      <p>And it has been applied to <hi rend="ital">EF</hi>, producing <hi rend="ital">EH</hi> as breadth; therefore <hi rend="ital">EH</hi> is rational and commensurable in length with <hi rend="ital">EF</hi>. [<ref target="elem.10.20" targOrder="U">X. 20</ref>] </p>
+      <p>Again, since <hi rend="ital">CD</hi> is medial and is equal to <hi rend="ital">HI</hi>, therefore <hi rend="ital">HI</hi> is also medial. </p>
+      <p>And it is applied to the rational straight line <hi rend="ital">EF</hi>, producing <hi rend="ital">HK</hi> as breadth; therefore <hi rend="ital">HK</hi> is rational and incommensurable in length with <hi rend="ital">EF</hi> [<ref target="elem.10.22" targOrder="U">X. 22</ref>] </p>
+      <p>And, since <hi rend="ital">CD</hi> is medial, while <hi rend="ital">AB</hi> is rational, therefore <hi rend="ital">AB</hi> is incommensurable with <hi rend="ital">CD</hi>, so that <hi rend="ital">EG</hi> is also incommensurable with <hi rend="ital">HI</hi>. </p>
+      <p>But, as <hi rend="ital">EG</hi> is to <hi rend="ital">HI</hi>, so is <hi rend="ital">EH</hi> to <hi rend="ital">HK</hi>; [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] therefore <hi rend="ital">EH</hi> is also incommensurable in length with <hi rend="ital">HK</hi>. [<ref target="elem.10.11" targOrder="U">X. 11</ref>] </p>
+      <p>And both are rational; therefore <hi rend="ital">EH</hi>, <hi rend="ital">HK</hi> are rational straight lines commensurable in square only; therefore <hi rend="ital">EK</hi> is a binomial straight line, divided at <hi rend="ital">H</hi>. [<ref target="elem.10.36" targOrder="U">X. 36</ref>] </p>
+      <p>And, since <hi rend="ital">AB</hi> is greater than <hi rend="ital">CD</hi>, while <hi rend="ital">AB</hi> is equal to <hi rend="ital">EG</hi> and <hi rend="ital">CD</hi> to <hi rend="ital">HI</hi>, therefore <hi rend="ital">EG</hi> is also greater than <hi rend="ital">HI</hi>; therefore <hi rend="ital">EH</hi> is also greater than <hi rend="ital">HK</hi>. </p>
+      <p>The square, then, on <hi rend="ital">EH</hi> is greater than the square on <hi rend="ital">HK</hi> either by the square on a straight line commensurable in length with <hi rend="ital">EH</hi> or by the square on a straight line incommensurable with it. </p>
+      <p>First, let the square on it be greater by the square on a straight line commensurable with itself. </p>
+      <p>Now the greater straight line <hi rend="ital">HE</hi> is commensurable in length with the rational straight line <hi rend="ital">EF</hi> set out; therefore <hi rend="ital">EK</hi> is a first binomial. [<ref target="elem.10.def.2.1" targOrder="U">X. Deff. II. 1</ref>] </p>
+      <p>But <hi rend="ital">EF</hi> is rational; and, if an area be contained by a rational straight line and the first binomial, the side of the square equal to the area is binomial. [<ref target="elem.10.54" targOrder="U">X. 54</ref>] </p>
+      <p>Therefore the <quote>side</quote>
+ of <hi rend="ital">EI</hi> is binomial; so that the <quote>side</quote>
+ of <hi rend="ital">AD</hi> is also binomial. </p>
+      <p>Next, let the square on <hi rend="ital">EH</hi> be greater than the square on <hi rend="ital">HK</hi> by the square on a straight line incommensurable with <hi rend="ital">EH</hi>. </p>
+      <p>Now the greater straight line <hi rend="ital">EH</hi> is commensurable in length with the rational straight line <hi rend="ital">EF</hi> set out; therefore <hi rend="ital">EK</hi> is a fourth binomial. [<ref target="elem.10.def.2.4" targOrder="U">X. Deff. II. 4</ref>] </p>
+      <p>But <hi rend="ital">EF</hi> is rational; and, if an area be contained by a rational straight line and the fourth binomial, the <quote>side</quote>
+ of the area is the irrational straight line called major. [<ref target="elem.10.57" targOrder="U">X. 57</ref>] </p>
+      <p>Therefore the <quote>side</quote>
+ of the area <hi rend="ital">EI</hi> is major; so that the <quote>side</quote>
+ of the area <hi rend="ital">AD</hi> is also major. </p>
+      <p>Next, let <hi rend="ital">AB</hi> be less than <hi rend="ital">CD</hi>; therefore <hi rend="ital">EG</hi> is also less than <hi rend="ital">HI</hi>, so that <hi rend="ital">EH</hi> is also less than <hi rend="ital">HK</hi>. </p>
+      <p>Now the square on <hi rend="ital">HK</hi> is greater than the square on <hi rend="ital">EH</hi> either by the square on a straight line commensurable with <hi rend="ital">HK</hi> or by the square on a straight line incommensurable with it. </p>
+      <p>First, let the square on it be greater by the square on a straight line commensurable in length with itself. </p>
+      <p>Now the lesser straight line <hi rend="ital">EH</hi> is commensurable in length with the rational straight line <hi rend="ital">EF</hi> set out; therefore <hi rend="ital">EK</hi> is a second binomial. [<ref target="elem.10.def.2.2" targOrder="U">X. Deff. II. 2</ref>] </p>
+      <p>But <hi rend="ital">EF</hi> is rational, and, if an area be contained by a rational straight line and the second binomial, the side of the square equal to it is a first bimedial; [<ref target="elem.10.55" targOrder="U">X. 55</ref>] therefore the <quote>side</quote>
+ of the area <hi rend="ital">EI</hi> is a first bimedial, so that the <quote>side</quote>
+ of <hi rend="ital">AD</hi> is also a first bimedial. </p>
+      <p>Next, let the square on <hi rend="ital">HK</hi> be greater than the square on <hi rend="ital">HE</hi> by the square on a straight line incommensurable with <hi rend="ital">HK</hi>. </p>
+      <p>Now the lesser straight line <hi rend="ital">EH</hi> is commensurable with the rational straight line <hi rend="ital">EF</hi> set out; therefore <hi rend="ital">EK</hi> is a fifth binomial. [<ref target="elem.10.def.2.5" targOrder="U">X. Deff. II. 5</ref>] </p>
+      <p>But <hi rend="ital">EF</hi> is rational; and, if an area be contained by a rational straight line and the fifth binomial, the side of the square equal to the area is a side of a rational plus a medial area. [<ref target="elem.10.58" targOrder="U">X. 58</ref>] </p>
+      <p>Therefore the <quote>side</quote>
+ of the area <hi rend="ital">EI</hi> is a side of a rational plus a medial area, so that the <quote>side</quote>
+ of the area <hi rend="ital">AD</hi> is also a side of a rational plus a medial area. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,88 @@
+{
+    "id": "elem.9.8",
+    "n": 8,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let there be as many numbers as we please, , , , , , , beginning from an unit and in continued proportion; I say that , the third from the unit, is square, as are also all those which leave out one; , the fourth, is cube, as are also all those which leave out two; and , the seventh, is at once cube and square, as are also all those which leave out five.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, as the unit is to , so is  to , therefore the unit measures the number  the same number of times that  measures . [elem.7.def.20]",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the unit measures the number  according to the units in it; therefore  also measures  according to the units in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  by multiplying itself has made ; therefore  is square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since , ,  are in continued proportion, and  is square, therefore  is also square. [elem.8.22]",
+            "refs": [
+                "elem.8.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  is also square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that all those which leave out one are square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that , the fourth from the unit, is cube, as are also all those which leave out two.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, as the unit is to , so is  to , therefore the unit measures the number  the same number of times that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the unit measures the number  according to the units in ; therefore  also measures  according to the units in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  by multiplying itself has made , and by multiplying  has made , therefore  is cube.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since , , ,  are in continued proportion, and  is cube, therefore  is also cube. [elem.8.23]",
+            "refs": [
+                "elem.8.23"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it was also proved square; therefore the seventh from the unit is both cube and square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that all the numbers which leave out five are also both cube and square. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

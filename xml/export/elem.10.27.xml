@@ -1,0 +1,17 @@
+<div3 id="elem.10.27" n="27" type="propositions i&#x2014;47">
+      <head>PROPOSITION 27.</head>
+      <p><hi rend="ital">To find medial straight lines commensurable in square only which contain a rational rectangle</hi>. </p>
+      <p>Let two rational straight lines <hi rend="ital">A</hi>, <hi rend="ital">B</hi> commensurable in square only be set out; let <hi rend="ital">C</hi> be taken a mean proportional between <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, [<ref target="elem.6.13" targOrder="U">VI. 13</ref>] and let it be contrived that, <hi rend="center">as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>. [<ref target="elem.6.12" targOrder="U">VI. 12</ref>]</hi>
+      </p>
+      <p>Then, since <hi rend="ital">A</hi>, <hi rend="ital">B</hi> are rational and commensurable in square only, the rectangle <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, that is, the square on <hi rend="ital">C</hi> [<ref target="elem.6.17" targOrder="U">VI.17</ref>], is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+      <p>Therefore <hi rend="ital">C</hi> is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+      <p>And since, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>, and <hi rend="ital">A</hi>, <hi rend="ital">B</hi> are commensurable in square only, therefore <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are also commensurable in square only. [<ref target="elem.10.11" targOrder="U">X. 11</ref>] </p>
+      <p>And <hi rend="ital">C</hi> is medial; therefore <hi rend="ital">D</hi> is also medial. [<ref target="elem.10.23" targOrder="U">X. 23</ref>, addition] </p>
+      <p>Therefore <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are medial and commensurable in square only. </p>
+      <p>I say that they also contain a rational rectangle. </p>
+      <p>For since, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>, therefore, alternately, as <hi rend="ital">A</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">B</hi> to <hi rend="ital">D</hi>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>But, as <hi rend="ital">A</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">B</hi>; therefore also, as <hi rend="ital">C</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">B</hi> to <hi rend="ital">D</hi>; therefore the rectangle <hi rend="ital">C</hi>, <hi rend="ital">D</hi> is equal to the square on <hi rend="ital">B</hi>. </p>
+      <p>But the square on <hi rend="ital">B</hi> is rational; therefore the rectangle <hi rend="ital">C</hi>, <hi rend="ital">D</hi> is also rational. </p>
+      <p>Therefore medial straight lines commensurable in square only have been found which contain a rational rectangle. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,123 @@
+{
+    "id": "elem.10.53",
+    "n": 53,
+    "type": "propositions 48\u201484",
+    "proof": [
+        {
+            "text": "Let two numbers ,  be set out such that  has not to either of them the ratio which a square number has to a square number; and let there also be another number  which is not square and which has not to either of the numbers ,  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let any rational straight line  be set out, and let it be contrived that, as  is to , so is the square on  to the square on ; [elem.10.6.p.1] therefore the square on  is commensurable with the square on . [elem.10.6]",
+            "refs": [
+                "elem.10.6.p.1",
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is rational; therefore  is also rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  has not to  the ratio which a square number has to a square number,  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, let it be contrived that, as  is to , so is the square on  to the square on . [elem.10.6.p.1]",
+            "refs": [
+                "elem.10.6.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the square on  is commensurable with the square on . [elem.10.6]",
+            "refs": [
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the square on  is rational; therefore  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  has not to  the ratio which a square number has to a square number, neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are rational straight lines commensurable in square only; therefore  is binomial. [elem.10.36]",
+            "refs": [
+                "elem.10.36"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "It is next to be proved that it is also a sixth binomial straight line.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, as  is to , so is the square on  to the square on , and also, as  is to , so is the square on  to the square on , therefore, , as  is to , so is the square on  to the square on . [elem.5.22]",
+            "refs": [
+                "elem.5.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  has not to  the ratio which a square number has to a square number; therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it was also proved incommensurable with ; therefore each of the straight lines ,  is incommensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since, as  is to , so is the square on  to the square on , therefore the square on  is greater than the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let then the squares on ,  be equal to the square on ; , as  is to , so is the square on  to the square on . [elem.5.19.p.1]",
+            "refs": [
+                "elem.5.19.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  has not to  the ratio which a square number has to a square number; so that neither has the square on  to the square on  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is incommensurable in length with ; [elem.10.9] therefore the square on  is greater than the square on  by the square on a straight line incommensurable with .",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And ,  are rational straight lines commensurable in square only, and neither of them is commensurable in length with the rational straight line  set out.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is a sixth binomial straight line. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

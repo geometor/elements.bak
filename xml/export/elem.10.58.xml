@@ -1,0 +1,23 @@
+<div3 id="elem.10.58" n="58" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 58.</head>
+      <p>
+       <hi rend="ital">If an area be contained by a rational straight line and the fifth binomial, the <quote>side</quote>
+ of the area is the irrational straight line called the side of a rational plus a medial area.</hi>
+      </p>
+      <p>For let the area <hi rend="ital">AC</hi> be contained by the rational straight line <hi rend="ital">AB</hi> and the fifth binomial <hi rend="ital">AD</hi> divided into its terms at <hi rend="ital">E</hi>, so that <hi rend="ital">AE</hi> is the greater term; I say that the <quote>side</quote>
+ of the area <hi rend="ital">AC</hi> is the irrational straight line called the side of a rational plus a medial area. </p>
+      <p>For let the same construction be made as before shown; it is then manifest that <hi rend="ital">MO</hi> is the <quote>side</quote>
+ of the area <hi rend="ital">AC.</hi>
+       </p>
+      <p>It is then to be proved that <hi rend="ital">MO</hi> is the side of a rational plus a medial area. </p>
+      <p>For, since <hi rend="ital">AG</hi> is incommensurable with <hi rend="ital">GE</hi>, [<ref target="elem.10.18" targOrder="U">X. 18</ref>] therefore <hi rend="ital">AH</hi> is also commensurable with <hi rend="ital">HE</hi>, [<ref target="elem.6.1" targOrder="U">VI. 1</ref>, <ref target="elem.10.11" targOrder="U">X. 11</ref>] that is, the square on <hi rend="ital">MN</hi> with the square on <hi rend="ital">NO</hi>; therefore <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> are incommensurable in square. </p>
+      <p>And, since <hi rend="ital">AD</hi> is a fifth binomial straight line, and <hi rend="ital">ED</hi> the lesser segment, therefore <hi rend="ital">ED</hi> is commensurable in length with <hi rend="ital">AB</hi>. [<ref target="elem.10.def.2.5" targOrder="U">X. Deff. II. 5</ref>] </p>
+      <p>But <hi rend="ital">AE</hi> is incommensurable with <hi rend="ital">ED</hi>; therefore <hi rend="ital">AB</hi> is also incommensurable in length with <hi rend="ital">AE.</hi> [<ref target="elem.10.13" targOrder="U">X. 13</ref>] </p>
+      <p>Therefore <hi rend="ital">AK</hi>, that is, the sum of the squares on <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>, is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+      <p>And, since <hi rend="ital">DE</hi> is commensurable in length with <hi rend="ital">AB</hi>, that is, with <hi rend="ital">EK</hi>, while <hi rend="ital">DE</hi> is commensurable with <hi rend="ital">EF</hi>, therefore <hi rend="ital">EF</hi> is also commensurable with <hi rend="ital">EK.</hi> [<ref target="elem.10.12" targOrder="U">X. 12</ref>] </p>
+      <p>And <hi rend="ital">EK</hi> is rational; therefore <hi rend="ital">EL</hi>, that is, <hi rend="ital">MR</hi>, that is, the rectangle <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>, is also rational. [<ref target="elem.10.19" targOrder="U">X. 19</ref>] </p>
+      <p>Therefore <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> are straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational. </p>
+      <p>Therefore <hi rend="ital">MO</hi> is the side of a rational plus a medial area [<ref target="elem.10.40" targOrder="U">X. 40</ref>] and is the <quote>side</quote>
+ of the area <hi rend="ital">AC.</hi> Q. E. D.</p>
+     </div3>
+     

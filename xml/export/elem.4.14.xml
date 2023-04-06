@@ -1,0 +1,14 @@
+<div3 id="elem.4.14" n="14" type="proposition">
+      <head>PROPOSITION 14.</head>
+      <p><emph>About a given pentagon</emph>, <emph>which is equilateral and equiangular</emph>, <emph>to circumscribe a circle</emph>. </p>
+      <p>Let <emph>ABCDE</emph> be the given pentagon, which is equilateral and equiangular; thus it is required to circumscribe a circle about the pentagon <emph>ABCDE</emph>. </p>
+      <p>Let the angles <emph>BCD</emph>, <emph>CDE</emph> be bisected by the straight lines <emph>CF</emph>, <emph>DF</emph> respectively, and from the point <emph>F</emph>, at which the straight lines meet, let the straight lines <emph>FB</emph>, <emph>FA</emph>, <emph>FE</emph> be joined to the points <emph>B</emph>, <emph>A</emph>, <emph>E</emph>. </p>
+      <p>Then in manner similar to the preceding it can be proved that the angles <emph>CBA</emph>, <emph>BAE</emph>, <emph>AED</emph> have also been bisected by the straight lines <emph>FB</emph>, <emph>FA</emph>, <emph>FE</emph> respectively. </p>
+      <p>Now, since the angle <emph>BCD</emph> is equal to the angle <emph>CDE</emph>, and the angle <emph>FCD</emph> is half of the angle <emph>BCD</emph>, and the angle <emph>CDF</emph> half of the angle <emph>CDE</emph>, therefore the angle <emph>FCD</emph> is also equal to the angle <emph>CDF</emph>, <hi rend="center">so that the side <emph>FC</emph> is also equal to the side <emph>FD</emph>. [<ref target="elem.1.6" targOrder="U">I. 6</ref>]</hi>
+      </p>
+      <p>Similarly it can be proved that each of the straight lines <emph>FB</emph>, <emph>FA</emph>, <emph>FE</emph> is also equal to each of the straight lines <emph>FC</emph>, <emph>FD</emph>; therefore the five straight lines <emph>FA</emph>, <emph>FB</emph>, <emph>FC</emph>, <emph>FD</emph>, <emph>FE</emph> are equal to one another. </p>
+      <p>Therefore the circle described with centre <emph>F</emph> and distance one of the straight lines <emph>FA</emph>, <emph>FB</emph>, <emph>FC</emph>, <emph>FD</emph>, <emph>FE</emph> will pass also through the remaining points, and will have been circumscribed. </p>
+      <p>Let it be circumscribed, and let it be <emph>ABCDE</emph>. </p>
+      <p>Therefore about the given pentagon, which is equilateral and equiangular, a circle has been circumscribed. Q. E. F.</p>
+     </div3>
+     

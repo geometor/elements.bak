@@ -1,0 +1,73 @@
+{
+    "id": "elem.1.17",
+    "n": 17,
+    "type": "proposition",
+    "enunciation": "In any triangle two angles taken together in any manner are less than two right angles.",
+    "proof": [
+        {
+            "text": "Let `ABC` be a triangle; I say that two angles of the triangle `ABC` taken together in any manner are less than two right angles.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "For let `BC` be produced to `D`. [elem.1.post.2]",
+            "refs": [
+                "elem.1.post.2"
+            ],
+            "emphs": [
+                "BC",
+                "D"
+            ]
+        },
+        {
+            "text": "Then, since the angle `ACD` is an exterior angle of the triangle `ABC`,",
+            "refs": [],
+            "emphs": [
+                "ACD",
+                "ABC"
+            ]
+        },
+        {
+            "text": "it is greater than the interior and opposite angle `ABC`. [elem.1.16]  therefore the angles `ACD`, `ACB` are greater than the angles `ABC`, `BCA`. `ACD`, `ACB` are equal to two right angles. [elem.1.13]",
+            "refs": [
+                "elem.1.16",
+                "elem.1.13"
+            ],
+            "emphs": [
+                "ABC",
+                "ACD",
+                "ACB",
+                "ABC",
+                "BCA",
+                "ACD",
+                "ACB"
+            ]
+        },
+        {
+            "text": "Therefore the angles `ABC`, `BCA` are less than two right angles.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "BCA"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that the angles `BAC`, `ACB` are also less than two right angles, and so are the angles `CAB`, `ABC` as well.",
+            "refs": [],
+            "emphs": [
+                "BAC",
+                "ACB",
+                "CAB",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

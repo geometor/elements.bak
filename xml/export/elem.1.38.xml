@@ -1,0 +1,21 @@
+<div3 id="elem.1.38" n="38" type="proposition">
+      <head>Proposition 38.</head>
+      <div4 type="Enunc">
+       <p>Triangles which are on equal bases and in the same parallels are equal to one another.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph>, <emph>DEF</emph> be triangles on equal bases <emph>BC</emph>, <emph>EF</emph> and in the same parallels <emph>BF</emph>, <emph>AD</emph>; I say that the triangle <emph>ABC</emph> is equal to the triangle <emph>DEF</emph>. </p>
+       <p>For let <emph>AD</emph> be produced in both directions to <emph>G</emph>, <emph>H</emph>; through <emph>B</emph> let <emph>BG</emph> be drawn parallel to <emph>CA</emph>, [<ref target="elem.1.31" targOrder="U">I. 31</ref>] and through <emph>F</emph> let <emph>FH</emph> be drawn parallel to <emph>DE</emph>.</p>
+       <p>Then each of the figures <emph>GBCA</emph>, <emph>DEFH</emph> is a parallelogram; and <emph>GBCA</emph> is equal to <emph>DEFH</emph>; </p>
+       <p>for they are on equal bases <emph>BC</emph>, <emph>EF</emph> and in the same parallels <emph>BF</emph>, <emph>GH</emph>. [<ref target="elem.1.36" targOrder="U">I. 36</ref>]</p>
+       <p>Moreover the triangle <emph>ABC</emph> is half of the parallelogram <emph>GBCA</emph>; for the diameter <emph>AB</emph> bisects it. [<ref target="elem.1.34" targOrder="U">I. 34</ref>]</p>
+       <p>And the triangle <emph>FED</emph> is half of the parallelogram <emph>DEFH</emph>; for the diameter <emph>DF</emph> bisects it. [<ref target="elem.1.34" targOrder="U">I. 34</ref>]</p>
+       <p>[But the halves of equal things are equal to one another.]</p>
+       <p>Therefore the triangle <emph>ABC</emph> is equal to the triangle <emph>DEF</emph>.</p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+     </div3>
+     

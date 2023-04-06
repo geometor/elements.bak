@@ -1,0 +1,15 @@
+<div3 id="elem.8.15" n="15" type="proposition">
+      <head>PROPOSITION 15.</head>
+      <p>
+       <hi rend="ital">If a cube number measure a cube number, the side will also measure the side; and, if the side measure the side, the cube will also measure the cube.</hi>
+      </p>
+      <p>For let the cube number <hi rend="ital">A</hi> measure the cube <hi rend="ital">B</hi>, and let <hi rend="ital">C</hi> be the side of <hi rend="ital">A</hi> and <hi rend="ital">D</hi> of <hi rend="ital">B</hi>; I say that <hi rend="ital">C</hi> measures <hi rend="ital">D</hi>. </p>
+      <p>For let <hi rend="ital">C</hi> by multiplying itself make <hi rend="ital">E</hi>, and let <hi rend="ital">D</hi> by multiplying itself make <hi rend="ital">G</hi>; further, let <hi rend="ital">C</hi> by multiplying <hi rend="ital">D</hi> make <hi rend="ital">F</hi>, and let <hi rend="ital">C</hi>, <hi rend="ital">D</hi> by multiplying <hi rend="ital">F</hi> make <hi rend="ital">H</hi>, <hi rend="ital">K</hi> respectively. </p>
+      <p>Now it is manifest that <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> and <hi rend="ital">A</hi>, <hi rend="ital">H</hi>, <hi rend="ital">K</hi>, <hi rend="ital">B</hi> are continuously proportional in the ratio of <hi rend="ital">C</hi> to <hi rend="ital">D</hi>. [<ref target="elem.8.11 elem.8.12" targOrder="U">VIII. 11, 12</ref>] </p>
+      <p>And, since <hi rend="ital">A</hi>, <hi rend="ital">H</hi>, <hi rend="ital">K</hi>, <hi rend="ital">B</hi> are continuously proportional, and <hi rend="ital">A</hi> measures <hi rend="ital">B</hi>, therefore it also measures <hi rend="ital">H</hi>. [<ref target="elem.8.7" targOrder="U">VIII. 7</ref>] </p>
+      <p>And, as <hi rend="ital">A</hi> is to <hi rend="ital">H</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>; therefore <hi rend="ital">C</hi> also measures <hi rend="ital">D</hi>. [<ref target="elem.7.def.20" targOrder="U">VII. Def. 20</ref>] </p>
+      <p>Next, let <hi rend="ital">C</hi> measure <hi rend="ital">D</hi>; I say that <hi rend="ital">A</hi> will also measure <hi rend="ital">B</hi>. </p>
+      <p>For, with the same construction, we can prove in a similar manner that <hi rend="ital">A</hi>, <hi rend="ital">H</hi>, <hi rend="ital">K</hi>, <hi rend="ital">B</hi> are continuously proportional in the ratio of <hi rend="ital">C</hi> to <hi rend="ital">D</hi>. </p>
+      <p>And, since <hi rend="ital">C</hi> measures <hi rend="ital">D</hi>, and, as <hi rend="ital">C</hi> is to <hi rend="ital">D</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">H</hi>, therefore <hi rend="ital">A</hi> also measures <hi rend="ital">H</hi>, [<ref target="elem.7.def.20" targOrder="U">VII. Def. 20</ref>] so that <hi rend="ital">A</hi> measures <hi rend="ital">B</hi> also. Q. E. D.</p>
+     </div3>
+     

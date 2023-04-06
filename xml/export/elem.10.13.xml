@@ -1,0 +1,21 @@
+<div3 id="elem.10.13" n="13" type="propositions i&#x2014;47">
+      <head>PROPOSITION 13.</head>
+      <p><hi rend="ital">If two magnitudes be commensurable, and the one of them be incommensurable with any magnitude, the remaining one will also be incommensurable with the same</hi>. </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi> be two commensurable magnitudes, and let one of them, <hi rend="ital">A</hi>, be incommensurable with any other magnitude <hi rend="ital">C</hi>; I say that the remaining one, <hi rend="ital">B</hi>, will also be incommensurable with <hi rend="ital">C</hi>. </p>
+      <p>For, if <hi rend="ital">B</hi> is commensurable with <hi rend="ital">C</hi>, while <hi rend="ital">A</hi> is also commensurable with <hi rend="ital">B</hi>, <hi rend="ital">A</hi> is also commensurable with <hi rend="ital">C</hi>. [<ref target="elem.10.12" targOrder="U">X. 12</ref>] </p>
+      <p>But it is also incommensurable with it: which is impossible. </p>
+      <p>Therefore <hi rend="ital">B</hi> is not commensurable with <hi rend="ital">C</hi>; therefore it is incommensurable with it. </p>
+      <p>Therefore etc.</p>
+      <div4 id="elem.10.13.l.1" type="lemma">
+       <head>LEMMA.</head>
+       <p><hi rend="ital">Given two unequal straight lines, to find by what square the square on the greater is greater than the square on the less</hi>. </p>
+       <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">C</hi> be the given two unequal straight lines, and let <hi rend="ital">AB</hi> be the greater of them; thus it is required to find by what square the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">C</hi>. </p>
+       <p>Let the semicircle <hi rend="ital">ADB</hi> be described on <hi rend="ital">AB</hi>, and let <hi rend="ital">AD</hi> be fitted into it equal to <hi rend="ital">C</hi>; [<ref target="elem.4.1" targOrder="U">IV. 1</ref>] let <hi rend="ital">DB</hi> be joined. </p>
+       <p>It is then manifest that the angle <hi rend="ital">ADB</hi> is right, [<ref target="elem.3.31" targOrder="U">III. 31</ref>] and that the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">AD</hi>, that is, <hi rend="ital">C</hi>, by the square on <hi rend="ital">DB</hi>. [<ref target="elem.1.47" targOrder="U">I. 47</ref>] </p>
+       <p>Similarly also, if two straight lines be given, the straight line the square on which is equal to the sum of the squares on them is found in this manner. </p>
+       <p>Let <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> be the given two straight lines, and let it be required to find the straight line the square on which is equal to the sum of the squares on them. </p>
+       <p>Let them be placed so as to contain a right angle, that formed by <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>; and let <hi rend="ital">AB</hi> be joined. </p>
+       <p>It is again manifest that the straight line the square on which is equal to the sum of the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> is <hi rend="ital">AB</hi>. [<ref target="elem.1.47" targOrder="U">I. 47</ref>] Q. E. D.</p>
+      </div4>
+     </div3>
+     

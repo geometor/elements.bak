@@ -1,0 +1,27 @@
+<div3 id="elem.1.39" n="39" type="proposition">
+      <head>Proposition 39.</head>
+      <div4 type="Enunc">
+       <p>Equal triangles which are on the same base and on the same side are also in the same parallels.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph>, <emph>DBC</emph> be equal triangles which are on the same base <emph>BC</emph> and on the same side of it; </p>
+       <p>And [For] let <emph>AD</emph> be joined; I say that <emph>AD</emph> is parallel to <emph>BC</emph>.</p>
+       <p>For, if not, let <emph>AE</emph> be drawn through the point <emph>A</emph> parallel to the straight line <emph>BC</emph>, [<ref target="elem.1.31" targOrder="U">I. 31</ref>] and let <emph>EC</emph> be joined. </p>
+       <p>Therefore the triangle <emph>ABC</emph> is equal to the triangle <emph>EBC</emph>; for it is on the same base <emph>BC</emph> with it and in the same <ref target="elem.1.37" targOrder="U">I. 37</ref>]</p>
+       <p>But <emph>ABC</emph> is equal to <emph>DBC</emph>; <hi rend="center">therefore <emph>DBC</emph> is also equal to <emph>EBC</emph>, [<ref target="elem.1.c.n.1" targOrder="U">C.N. 1</ref>] the greater to the less: which is impossible.</hi></p>
+       <p>Therefore <emph>AE</emph> is not parallel to <emph>BC</emph>. </p>
+       <p>Similarly we can prove that neither is any other straight line except <emph>AD</emph>; <hi rend="center">therefore <emph>AD</emph> is parallel to <emph>BC</emph>.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="5" type="crit" place="unspecified" anchored="yes">
+       <p>[<hi rend="bold">I say that they are also in the same parallels.</hi>] Heiberg has proved (<title>Hermes</title>, XXXVIII., 1903, p. 50) from a recently discovered papyrus-fragment (<title>Fayūm towns and their papyri</title>, p. 96, No. IX.) that these words are an interpolation by some one who did not observe that the words <quote>And let <emph>AD</emph> be joined</quote>
+ are part of the <emph>setting-out</emph> (<foreign lang="greek">ἔκθεσις</foreign>), but took them as belonging to the <emph>construction</emph> (<foreign lang="greek">κατασκευή</foreign>) and consequently thought that a <foreign lang="greek">διορισμός</foreign> or <quote>definition</quote>
+ (of the thing to be proved) should precede. The interpolator then altered <quote>And</quote>
+ into <quote>For</quote>
+ in the next sentence.</p>
+      </note>
+     </div3>
+     

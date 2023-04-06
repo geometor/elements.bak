@@ -1,0 +1,14 @@
+<div3 id="elem.3.19" n="19" type="proposition">
+      <head>PROPOSITION 19.</head>
+      <p><emph>If a straight line touch a circle</emph>, <emph>and from the point of contact a straight line be drawn at right angles to the tangent</emph>, <emph>the centre of the circle will be on the straight line so drawn</emph>. </p>
+      <p>For let a straight line <emph>DE</emph> touch the circle <emph>ABC</emph> at the point <emph>C</emph>, and from <emph>C</emph> let <emph>CA</emph> be drawn at right angles to <emph>DE</emph>; I say that the centre of the circle is on <emph>AC</emph>. </p>
+      <p>For suppose it is not, but, if <emph>F</emph> be the centre, and let <emph>CF</emph> be joined. </p>
+      <p>Since a straight line <emph>DE</emph> touches the circle <emph>ABC</emph>, and <emph>FC</emph> has been joined from the centre to the point of contact, <hi rend="center"><emph>FC</emph> is perpendicular to <emph>DE</emph>; [<ref target="elem.3.18" targOrder="U">III. 18</ref>] therefore the angle <emph>FCE</emph> is right.</hi>
+      </p>
+      <p>But the angle <emph>ACE</emph> is also right; <hi rend="center">therefore the angle <emph>FCE</emph> is equal to the angle <emph>ACE</emph>, the less to the greater: which is impossible.</hi>
+      </p>
+      <p>Therefore <emph>F</emph> is not the centre of the circle <emph>ABC</emph>. </p>
+      <p>Similarly we can prove that neither is any other point except a point on <emph>AC</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

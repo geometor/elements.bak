@@ -1,0 +1,102 @@
+{
+    "id": "elem.10.16",
+    "n": 16,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let the two incommensurable magnitudes ,  be added together; I say that the whole  is also incommensurable with each of the magnitudes , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if ,  are not incommensurable, some magnitude will measure them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let it measure them, if possible, and let it be .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  measures , , therefore it will also measure the remainder .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it measures  also; therefore  measures , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no magnitude will measure , ; therefore ,  are incommensurable. [elem.10.def.1]",
+            "refs": [
+                "elem.10.def.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that ,  are also incommensurable.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is incommensurable with each of the magnitudes , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  be incommensurable with one of the magnitudes , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let it be incommensurable with ; I say that ,  are also incommensurable.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if they are commensurable, some magnitude will measure them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let it measure them, and let it be .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  measures , . therefore it will also measure the whole .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it measures  also; therefore  measures , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no magnitude will measure , ; therefore ,  are incommensurable. [elem.10.def.1]",
+            "refs": [
+                "elem.10.def.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

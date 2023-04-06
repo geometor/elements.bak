@@ -1,0 +1,72 @@
+{
+    "id": "elem.10.29",
+    "n": 29,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let there be set out any rational straight line , and two square numbers ,  such that their difference  is not square; [elem.10.28.l.1] let there be described on  the semicircle ,",
+            "refs": [
+                "elem.10.28.l.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since, as the square on  is to the square on , so is  to , therefore the square on  has to the square on  the ratio which the number  has to the number ; therefore the square on  is commensurable with the square on . [elem.10.6]",
+            "refs": [
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is rational; [elem.10.def.4] therefore the square on  is also rational; [] therefore  is also rational.",
+            "refs": [
+                "elem.10.def.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  has not to  the ratio which a square number has to a square number, neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are rational straight lines commensurable in square only.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And since, as  is to , so is the square on  to the square on , therefore, , as  is to , so is the square on  to the square on . [elem.5.19.p.1, elem.3.31, elem.1.47]",
+            "refs": [
+                "elem.5.19.p.1",
+                "elem.3.31",
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  has to  the ratio which a square number has to a square number: therefore also the square on  has to the square on  the ratio which a square number has to a square number; therefore  is commensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the square on  is equal to the squares on , ; therefore the square on  is greater than the square on  by the square on  commensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore there have been found two rational straight lines ,  commensurable in square only and such that the square on the greater  is greater than the square on the less  by the square on  commensurable in length with .",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

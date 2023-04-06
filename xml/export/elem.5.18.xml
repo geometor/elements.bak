@@ -1,0 +1,23 @@
+<div3 id="elem.5.18" n="18" type="proposition">
+      <head>PROPOSITION 18.</head>
+      <p><emph>If magnitudes be proportional</emph>
+       <foreign lang="la">separando</foreign>, <emph>they will also be proportional</emph>
+       <foreign lang="la">componendo</foreign>. </p>
+      <p>Let <emph>AE</emph>, <emph>EB</emph>, <emph>CF</emph>, <emph>FD</emph> be magnitudes proportional <foreign lang="la">separando</foreign>, so that, as <emph>AE</emph> is to <emph>EB</emph>, so is <emph>CF</emph> to <emph>FD</emph>; <foreign lang="la">componendo</foreign>, that is, as <emph>AB</emph> is to <emph>BE</emph>, so is <emph>CD</emph> to <emph>FD</emph>. </p>
+      <p>For, if <emph>CD</emph> be not to <emph>DF</emph> as <emph>AB</emph> to <emph>BE</emph>, then, as <emph>AB</emph> is to <emph>BE</emph>, so will <emph>CD</emph> be either to some magnitude less than <emph>DF</emph> or to a greater. </p>
+      <p>First, let it be in that ratio to a less magnitude <emph>DG</emph>. </p>
+      <p>Then, since, as <emph>AB</emph> is to <emph>BE</emph>, so is <emph>CD</emph> to <emph>DG</emph>, they are magnitudes proportional <foreign lang="la">componendo</foreign>; <hi rend="center">so that they will also be proportional <foreign lang="la">separando</foreign>. [<ref target="elem.5.17" targOrder="U">V. 17</ref>]</hi>
+      </p>
+      <p>Therefore, as <emph>AE</emph> is to <emph>EB</emph>, so is <emph>CG</emph> to <emph>GD</emph>. </p>
+      <p>But also, by hypothesis, <hi rend="center">as <emph>AE</emph> is to <emph>EB</emph>, so is <emph>CF</emph> to <emph>FD</emph>.</hi>
+      </p>
+      <p>Therefore also, as <emph>CG</emph> is to <emph>GD</emph>, so is <emph>CF</emph> to <emph>FD</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>But the first <emph>CG</emph> is greater than the third <emph>CF</emph>; <hi rend="center">therefore the second <emph>GD</emph> is also greater than the fourth <emph>FD</emph>. [<ref target="elem.5.14" targOrder="U">V. 14</ref>]</hi>
+      </p>
+      <p>But it is also less: which is impossible. </p>
+      <p>Therefore, as <emph>AB</emph> is to <emph>BE</emph>, so is not <emph>CD</emph> to a less magnitude than <emph>FD</emph>. </p>
+      <p>Similarly we can prove that neither is it in that ratio to a greater; <hi rend="center">it is therefore in that ratio to <emph>FD</emph> itself.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

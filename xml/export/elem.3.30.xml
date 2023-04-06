@@ -1,0 +1,12 @@
+<div3 id="elem.3.30" n="30" type="proposition">
+      <head>PROPOSITION 30.</head>
+      <p><emph>To bisect a given circumference</emph>. </p>
+      <p>Let <emph>ADB</emph> be the given circumference; thus it is required to bisect the circumference <emph>ADB</emph>. </p>
+      <p>Let <emph>AB</emph> be joined and bisected at <emph>C</emph>; from the point <emph>C</emph> let <emph>CD</emph> be drawn at right angles to the straight line <emph>AB</emph>, <emph>AD</emph>, <emph>DB</emph> be joined. </p>
+      <p>Then, since <emph>AC</emph> is equal to <emph>CB</emph>, and <emph>CD</emph> is common, <hi rend="center">the two sides <emph>AC</emph>, <emph>CD</emph> are equal to the two sides <emph>BC</emph>, <emph>CD</emph>;</hi> and the angle <emph>ACD</emph> is equal to the angle <emph>BCD</emph>, for each is right; <hi rend="center">therefore the base <emph>AD</emph> is equal to the base <emph>DB</emph>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>]</hi>
+      </p>
+      <p>But equal straight lines cut off equal circumferences, the greater equal to the greater, and the less to the less; [<ref target="elem.3.28" targOrder="U">III. 28</ref>] <hi rend="center">and each of the circumferences <emph>AD</emph>, <emph>DB</emph> is less than a semicircle; therefore the circumference <emph>AD</emph> is equal to the circumference <emph>DB</emph>.</hi>
+      </p>
+      <p>Therefore the given circumference has been bisected at the point <emph>D</emph>. Q. E. F.</p>
+     </div3>
+     

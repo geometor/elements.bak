@@ -1,0 +1,32 @@
+{
+    "id": "elem.10.107",
+    "n": 107,
+    "type": "propositions 85\u2014115",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let  be a straight line which produces with a medial area a medial whole, and let  be commensurable with ; I say that  is also a straight line which produces with a medial area a medial whole.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  be the annex to , and let the same construction be made; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and further the sum of the squares on them incommensurable with the rectangle contained by them. [elem.10.78]",
+            "refs": [
+                "elem.10.78"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, as was proved, ,  are commensurable with , , the sum of the squares on ,  with the sum of the squares on , , and the rectangle ,  with the rectangle , ; therefore ,  are also straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and further the sum of the squares on them incommensurable with the rectangle contained by them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is a straight line which produces with a medial area a medial whole. [elem.10.78]",
+            "refs": [
+                "elem.10.78"
+            ],
+            "emphs": []
+        }
+    ]
+}

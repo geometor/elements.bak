@@ -1,0 +1,14 @@
+<div3 id="elem.11.29" n="29" type="proposition">
+      <head>PROPOSITION 29.</head>
+      <p><hi rend="ital">Parallelepipedal solids which are on the same base and of the same height</hi>, <hi rend="ital">and in which the extremities of the sides which stand up are on the same straight lines</hi>, <hi rend="ital">are equal to one another.</hi>
+      </p>
+      <p>Let <hi rend="ital">CM</hi>, <hi rend="ital">CN</hi> be parallelepipedal solids on the same base <hi rend="ital">AB</hi> and of the same height, and let the extremities of their sides which stand up, namely <hi rend="ital">AG</hi>, <hi rend="ital">AF</hi>, <hi rend="ital">LM</hi>, <hi rend="ital">LN</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">CE</hi>, <hi rend="ital">BH</hi>, <hi rend="ital">BK</hi>, be on the same straight lines <hi rend="ital">FN</hi>, <hi rend="ital">DK</hi>; I say that the solid <hi rend="ital">CM</hi> is equal to the solid <hi rend="ital">CN</hi>. </p>
+      <p>For, since each of the figures <hi rend="ital">CH</hi>, <hi rend="ital">CK</hi> is a parallelogram, <hi rend="ital">CB</hi> is equal to each of the straight lines <hi rend="ital">DH</hi>, <hi rend="ital">EK</hi>, [<ref target="elem.1.34" targOrder="U">I. 34</ref>] hence <hi rend="ital">DH</hi> is also equal to <hi rend="ital">EK</hi>. </p>
+      <p>Let <hi rend="ital">EH</hi> be subtracted from each; therefore the remainder <hi rend="ital">DE</hi> is equal to the remainder <hi rend="ital">HK</hi>. </p>
+      <p>Hence the triangle <hi rend="ital">DCE</hi> is also equal to the triangle <hi rend="ital">HBK</hi>, [<ref target="elem.1.8 elem.1.4" targOrder="U">I. 8, 4</ref>] and the parallelogram <hi rend="ital">DG</hi> to the parallelogram <hi rend="ital">HN</hi>. [<ref target="elem.1.36" targOrder="U">I. 36</ref>] </p>
+      <p>For the same reason the triangle <hi rend="ital">AFG</hi> is also equal to the triangle <hi rend="ital">MLN</hi>. </p>
+      <p>But the parallelogram <hi rend="ital">CF</hi> is equal to the parallelogram <hi rend="ital">BM</hi>, and <hi rend="ital">CG</hi> to <hi rend="ital">BN</hi>, for they are opposite; therefore the prism contained by the two triangles <hi rend="ital">AFG</hi>, <hi rend="ital">DCE</hi> and the three parallelograms <hi rend="ital">AD</hi>, <hi rend="ital">DG</hi>, <hi rend="ital">CG</hi> is equal to the prism contained by the two triangles <hi rend="ital">MLN</hi>, <hi rend="ital">HBK</hi> and the three parallelograms <hi rend="ital">BM</hi>, <hi rend="ital">HN</hi>, <hi rend="ital">BN</hi>. </p>
+      <p>Let there be added to each the solid of which the parallelogram <hi rend="ital">AB</hi> is the base and <hi rend="ital">GEHM</hi> its opposite; therefore the whole parallelepipedal solid <hi rend="ital">CM</hi> is equal to the whole parallelepipedal solid <hi rend="ital">CN</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,15 @@
+<div3 id="elem.10.65" n="65" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 65.</head>
+      <p><hi rend="ital">The square on the side of the sum of two medial areas applied to a rational straight line produces as breadth the sixth binomial</hi>. </p>
+      <p>Let <hi rend="ital">AB</hi> be the side of the sum of two medial areas, divided at <hi rend="ital">C</hi>, let <hi rend="ital">DE</hi> be a rational straight line, and let there be applied to <hi rend="ital">DE</hi> the parallelogram <hi rend="ital">DF</hi> equal to the square on <hi rend="ital">AB</hi>, producing <hi rend="ital">DG</hi> as its breadth; <hi rend="ital">DG</hi> is a sixth binomial straight line. </p>
+      <p>For let the same construction be made as before. </p>
+      <p>Then, since <hi rend="ital">AB</hi> is the side of the sum of two medial areas, divided at <hi rend="ital">C</hi>, therefore <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and moreover the sum of the squares on them incommensurable with the rectangle contained by them, [<ref target="elem.10.41" targOrder="U">X. 41</ref>] <hi rend="ital">DL</hi>, <hi rend="ital">MF</hi> is medial. </p>
+      <p>And they are applied to the rational straight line <hi rend="ital">DE</hi>; therefore each of the straight lines <hi rend="ital">DM</hi>, <hi rend="ital">MG</hi> is rational and incommensurable in length with <hi rend="ital">DE</hi>. [<ref target="elem.10.22" targOrder="U">X. 22</ref>] </p>
+      <p>And, since the sum of the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> is incommensurable with twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, therefore <hi rend="ital">DL</hi> is incommensurable with <hi rend="ital">MF</hi>. </p>
+      <p>Therefore <hi rend="ital">DM</hi> is also incommensurable with <hi rend="ital">MG</hi>; [<ref target="elem.6.1" targOrder="U">VI. 1</ref>, <ref target="elem.10.11" targOrder="U">X. 11</ref>] therefore <hi rend="ital">DM</hi>, <hi rend="ital">MG</hi> are rational straight lines commensurable in square only; therefore <hi rend="ital">DG</hi> is binomial. [<ref target="elem.10.36" targOrder="U">X. 36</ref>] </p>
+      <p>I say next that it is also a sixth binomial straight line. </p>
+      <p>Similarly again we can prove that the rectangle <hi rend="ital">DK</hi>, <hi rend="ital">KM</hi> is equal to the square on <hi rend="ital">MN</hi>, and that <hi rend="ital">DK</hi> is incommensurable in length with <hi rend="ital">KM</hi>; and, for the same reason, the square on <hi rend="ital">DM</hi> is greater than the square on <hi rend="ital">MG</hi> by the square on a straight line incommensurable in length with <hi rend="ital">DM</hi>. </p>
+      <p>And neither of the straight lines <hi rend="ital">DM</hi>, <hi rend="ital">MG</hi> is commensurable in length with the rational straight line <hi rend="ital">DE</hi> set out. </p>
+      <p>Therefore <hi rend="ital">DG</hi> is a sixth binomial straight line. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,70 @@
+{
+    "id": "elem.1.9",
+    "n": 9,
+    "type": "proposition",
+    "enunciation": "To bisect a given rectilineal angle.",
+    "proof": [
+        {
+            "text": "Let the angle `BAC` be the given rectilineal angle.",
+            "refs": [],
+            "emphs": [
+                "BAC"
+            ]
+        },
+        {
+            "text": "Thus it is required to bisect it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let a point `D` be taken at random on `AB`; let `AE` be cut off from `AC` equal to `AD`; [elem.1.3] let `DE` be joined, and on `DE` let the equilateral triangle `DEF` be constructed; let `AF` be joined.",
+            "refs": [
+                "elem.1.3"
+            ],
+            "emphs": [
+                "D",
+                "AB",
+                "AE",
+                "AC",
+                "AD",
+                "DE",
+                "DE",
+                "DEF",
+                "AF"
+            ]
+        },
+        {
+            "text": "I say that the angle `BAC` has been bisected by the straight line `AF`.",
+            "refs": [],
+            "emphs": [
+                "BAC",
+                "AF"
+            ]
+        },
+        {
+            "text": "For, since `AD` is equal to `AE`, and `AF` is common,",
+            "refs": [],
+            "emphs": [
+                "AD",
+                "AE",
+                "AF"
+            ]
+        },
+        {
+            "text": "And the base `DF` is equal to the base `EF`;",
+            "refs": [],
+            "emphs": [
+                "DF",
+                "EF"
+            ]
+        },
+        {
+            "text": "Therefore the given rectilineal angle `BAC` has been bisected by the straight line `AF`.",
+            "refs": [],
+            "emphs": [
+                "BAC",
+                "AF"
+            ]
+        }
+    ]
+}

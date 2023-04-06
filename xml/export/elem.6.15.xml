@@ -1,0 +1,18 @@
+<div3 id="elem.6.15" n="15" type="proposition">
+      <head>PROPOSITION 15.</head>
+      <p><emph>In equal triangles which have one angle equal to one angle the sides about the equal angles are reciprocally proportional; and those triangles which have one angle equal to one angle</emph>, <emph>and in which the sides about the equal angles are reciprocally proportional</emph>, <emph>are equal</emph>. </p>
+      <p>Let <emph>ABC</emph>, <emph>ADE</emph> be equal triangles having one angle equal to one angle, namely the angle <emph>BAC</emph> to the angle <emph>DAE</emph>; I say that in the triangles <emph>ABC</emph>, <emph>ADE</emph> the sides about the equal angles are reciprocally proportional, that is to say, that, <hi rend="center">as <emph>CA</emph> is to <emph>AD</emph>, so is <emph>EA</emph> to <emph>AB</emph>.</hi>
+       </p>
+      <p>For let them be placed so that <emph>CA</emph> is in a straight line with <emph>AD</emph>; therefore <emph>EA</emph> is also in a straight line with <emph>AB</emph>. [<ref target="elem.1.14" targOrder="U">I. 14</ref>] </p>
+      <p>Let <emph>BD</emph> be joined. </p>
+      <p>Since then the triangle <emph>ABC</emph> is equal to the triangle <emph>ADE</emph>, and <emph>BAD</emph> is another area, therefore, as the triangle <emph>CAB</emph> is to the triangle <emph>BAD</emph>, so is the triangle <emph>EAD</emph> to the triangle <emph>BAD</emph>. [<ref target="elem.5.7" targOrder="U">V. 7</ref>] </p>
+      <p>But, as <emph>CAB</emph> is to <emph>BAD</emph>, so is <emph>CA</emph> to <emph>AD</emph>, [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] and, as <emph>EAD</emph> is to <emph>BAD</emph>, so is <emph>EA</emph> to <emph>AB</emph>. [<emph>id</emph>.] </p>
+      <p>Therefore also, as <emph>CA</emph> is to <emph>AD</emph>, so is <emph>EA</emph> to <emph>AB</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore in the triangles <emph>ABC</emph>, <emph>ADE</emph> the sides about the equal angles are reciprocally proportional. </p>
+      <p>Next, let the sides of the triangles <emph>ABC</emph>, <emph>ADE</emph> be reciprocally proportional, that is to say, let <emph>EA</emph> be to <emph>AB</emph> as <emph>CA</emph> to <emph>AD</emph>; I say that the triangle <emph>ABC</emph> is equal to the triangle <emph>ADE</emph>. </p>
+      <p>For, if <emph>BD</emph> be again joined, since, as <emph>CA</emph> is to <emph>AD</emph>, so is <emph>EA</emph> to <emph>AB</emph>, while, as <emph>CA</emph> is to <emph>AD</emph>, so is the triangle <emph>ABC</emph> to the triangle <emph>BAD</emph>, and, as <emph>EA</emph> is to <emph>AB</emph>, so is the triangle <emph>EAD</emph> to the triangle <emph>BAD</emph>, [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] therefore, as the triangle <emph>ABC</emph> is to the triangle <emph>BAD</emph>, so is the triangle <emph>EAD</emph> to the triangle <emph>BAD</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore each of the triangles <emph>ABC</emph>, <emph>EAD</emph> has the same ratio to <emph>BAD</emph>. </p>
+      <p>Therefore the triangle <emph>ABC</emph> is equal to the triangle <emph>EAD</emph>. [<ref target="elem.5.9" targOrder="U">V. 9</ref>] </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

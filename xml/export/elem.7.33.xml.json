@@ -1,0 +1,126 @@
+{
+    "id": "elem.7.33",
+    "n": 33,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let , ,  be the given numbers, as many as we please; thus it is required to find the least of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": ", ,  are either prime to one another or not.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, if , ,  are prime to one elem.7.21]",
+            "refs": [
+                "elem.7.21"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, if not, let  the greatest common measure of , ,  be taken, [elem.7.3]  measures the numbers , , \n       , ,  respectively.",
+            "refs": [
+                "elem.7.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the numbers , ,  measure the numbers , ,  respectively according to the units in . [elem.7.16]",
+            "refs": [
+                "elem.7.16"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore , ,  measure , ,  the same number of , ,  are in the same ratio with , , . [elem.7.def.20]",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say next that they are the least that are in that ratio.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if , ,  are not the least of those which have the same ratio with , , , , ,  which are in the same ratio with , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let them be , , ; therefore  measures  the same number of times that the numbers ,  measure the numbers ,  respectively.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, as many times as  measures , so many units let there be in ; therefore the numbers ,  also measure the numbers ,  respectively according to the units in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  measures  according to the units in ,  also measures  according to the units in . [elem.7.16]",
+            "refs": [
+                "elem.7.16"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  also measures the numbers ,  according to the units in the numbers ,  respectively;",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  measures , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]",
+            "refs": [
+                "elem.7.def.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason also  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the product of ,  is equal to the product of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.7.19]",
+            "refs": [
+                "elem.7.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is greater than ; therefore  is also greater than .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it measures , , :  is the greatest common measure of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore there cannot be any numbers less than , ,  which are in the same ratio with , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore , ,  are the least of those which have the , , . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

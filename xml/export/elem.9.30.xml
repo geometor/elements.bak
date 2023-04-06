@@ -1,0 +1,16 @@
+<div3 id="elem.9.30" n="30" type="proposition">
+      <head>PROPOSITION 30.</head>
+      <p>
+       <hi rend="ital">If an odd number measure an even number, it will also measure the half of it.</hi>
+      </p>
+      <p>For let the odd number <hi rend="ital">A</hi> measure the even number <hi rend="ital">B</hi>; I say that it will also measure the half of it. </p>
+      <p>For, since <hi rend="ital">A</hi> measures <hi rend="ital">B</hi>, let it measure it according to <hi rend="ital">C</hi>; I say that <hi rend="ital">C</hi> is not odd. </p>
+      <p>For, if possible, let it be so. </p>
+      <p>Then, since <hi rend="ital">A</hi> measures <hi rend="ital">B</hi> according to <hi rend="ital">C</hi>, therefore <hi rend="ital">A</hi> by multiplying <hi rend="ital">C</hi> has made <hi rend="ital">B</hi>. </p>
+      <p>Therefore <hi rend="ital">B</hi> is made up of odd numbers the multitude of which is odd. </p>
+      <p>Therefore <hi rend="ital">B</hi> is odd: [<ref target="elem.9.23" targOrder="U">IX. 23</ref>] which is absurd, for by hypothesis it is even. </p>
+      <p>Therefore <hi rend="ital">C</hi> is not odd; therefore <hi rend="ital">C</hi> is even. </p>
+      <p>Thus <hi rend="ital">A</hi> measures <hi rend="ital">B</hi> an even number of times. </p>
+      <p>For this reason then it also measures the half of it. Q. E. D.</p>
+     </div3>
+     

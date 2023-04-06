@@ -1,0 +1,18 @@
+<div3 id="elem.1.28" n="28" type="proposition">
+      <head>Proposition 28.</head>
+      <div4 type="Enunc">
+       <p>If a straight line falling on two straight lines make the exterior angle equal to the interior and opposite angle on the same side, or the interior angles on the same side equal to two right angles, the straight lines will be parallel to one another. </p>
+      </div4>
+      <div4 type="Proof">
+       <p>For let the straight line <emph>EF</emph> falling on the two straight lines <emph>AB</emph>, <emph>CD</emph> make the exterior angle <emph>EGB</emph> equal to the interior and opposite angle <emph>GHD</emph>, or the interior angles on the same side, namely <emph>BGH</emph>, <emph>GHD</emph>, equal to two right angles;</p>
+       <p>I say that <emph>AB</emph> is parallel to <emph>CD</emph>.</p>
+       <p>For, since the angle <emph>EGB</emph> is equal to the angle <emph>GHD</emph>, while the angle <emph>EGB</emph> is equal to the angle <emph>AGH</emph>, [<ref target="elem.1.15" targOrder="U">I. 15</ref>] <emph>AGH</emph> is also equal to the angle <emph>GHD</emph>; and they are alternate; <hi rend="center">therefore <emph>AB</emph> is parallel to <emph>CD</emph>. [<ref target="elem.1.27" targOrder="U">I. 27</ref>]</hi></p>
+       <p>Again, since the angles <emph>BGH</emph>, <emph>GHD</emph> are equal to two right angles, and the angles <emph>AGH</emph>, <emph>BGH</emph> are also equal to two right angles, [<ref target="elem.1.13" targOrder="U">I. 13</ref>] the angles <emph>AGH</emph>, <emph>BGH</emph> are equal to the angles <emph>BGH</emph>, <emph>GHD</emph>.</p>
+       <p>Let the angle <emph>BGH</emph> be subtracted from each; therefore the remaining angle <emph>AGH</emph> is equal to the remaining angle <emph>GHD</emph>; and they are alternate; <hi rend="center">therefore <emph>AB</emph> is parallel to <emph>CD</emph>. [<ref target="elem.1.27" targOrder="U">I. 27</ref>]</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+     </div3>
+     

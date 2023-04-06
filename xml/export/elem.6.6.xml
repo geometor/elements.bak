@@ -1,0 +1,18 @@
+<div3 id="elem.6.6" n="6" type="proposition">
+      <head>PROPOSITION 6.</head>
+      <p><emph>If two triangles have one angle equal to one angle and the sides about the equal angles proportional</emph>, <emph>the triangles will be equiangular and will have those angles equal which the corresponding sides subtend</emph>. </p>
+      <p>Let <emph>ABC</emph>, <emph>DEF</emph> be two triangles having one angle <emph>BAC</emph> equal to one angle <emph>EDF</emph> and the sides about the equal angles proportional, so that, <hi rend="center">as <emph>BA</emph> is to <emph>AC</emph>, so is <emph>ED</emph> to <emph>DF</emph>;</hi> I say that the triangle <emph>ABC</emph> is equiangular with the triangle <emph>DEF</emph>, and will have the angle <emph>ABC</emph> equal to the angle <emph>DEF</emph>, and the angle <emph>ACB</emph> to the angle <emph>DFE</emph>. </p>
+      <p>For on the straight line <emph>DF</emph>, and at the points <emph>D</emph>, <emph>F</emph> on it, let there be constructed the angle <emph>FDG</emph> equal to either of the angles <emph>BAC</emph>, <emph>EDF</emph>, and the angle <emph>DFG</emph> equal to the angle <emph>ACB</emph>; [<ref target="elem.1.23" targOrder="U">I. 23</ref>] <hi rend="center">therefore the remaining angle at <emph>B</emph> is equal to the remaining angle at <emph>G</emph>. [<ref target="elem.1.32" targOrder="U">I. 32</ref>]</hi>
+       </p>
+      <p>Therefore the triangle <emph>ABC</emph> is equiangular with the triangle <emph>DGF</emph>. </p>
+      <p>Therefore, proportionally, as <emph>BA</emph> is to <emph>AC</emph>, so is <emph>GD</emph> to <emph>DF</emph>. [<ref target="elem.6.4" targOrder="U">VI. 4</ref>] </p>
+      <p>But, by hypothesis, as <emph>BA</emph> is to <emph>AC</emph>, so also is <emph>ED</emph> to <emph>DF</emph>; therefore also, as <emph>ED</emph> is to <emph>DF</emph>, so is <emph>GD</emph> to <emph>DF</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore <emph>ED</emph> is equal to <emph>DG</emph>; [<ref target="elem.5.9" targOrder="U">V. 9</ref>] and <emph>DF</emph> is common; <hi rend="center">therefore the two sides <emph>ED</emph>, <emph>DF</emph> are equal to the two sides <emph>GD</emph>, <emph>DF</emph>; and the angle <emph>EDF</emph> is equal to the angle <emph>GDF</emph>; therefore the base <emph>EF</emph> is equal to the base <emph>GF</emph>, and the triangle <emph>DEF</emph> is equal to the triangle <emph>DGF</emph>,</hi> and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>Therefore the angle <emph>DFG</emph> is equal to the angle <emph>DFE</emph>, <hi rend="center">and the angle <emph>DGF</emph> to the angle <emph>DEF</emph>.</hi>
+      </p>
+      <p>But the angle <emph>DFG</emph> is equal to the angle <emph>ACB</emph>; therefore the angle <emph>ACB</emph> is also equal to the angle <emph>DFE</emph>. </p>
+      <p>And, by hypothesis, the angle <emph>BAC</emph> is also equal to the angle <emph>EDF</emph>; therefore the remaining angle at <emph>B</emph> is also equal to the remaining angle at <emph>E</emph>; [<ref target="elem.1.32" targOrder="U">I. 32</ref>] <hi rend="center">therefore the triangle <emph>ABC</emph> is equiangular with the triangle <emph>DEF</emph>.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

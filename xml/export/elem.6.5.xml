@@ -1,0 +1,24 @@
+<div3 id="elem.6.5" n="5" type="proposition">
+      <head>PROPOSITION 5.</head>
+      <p><emph>If two triangles have their sides proportional</emph>, <emph>the triangles will be equiangular and will have those angles equal which the corresponding sides subtend</emph>. </p>
+      <p>Let <emph>ABC</emph>, <emph>DEF</emph> be two triangles having their sides proportional, so that, <hi rend="center">as <emph>AB</emph> is to <emph>BC</emph>, so is <emph>DE</emph> to <emph>EF</emph>, as <emph>BC</emph> is to <emph>CA</emph>, so is <emph>EF</emph> to <emph>FD</emph>,</hi> and further, as <emph>BA</emph> is to <emph>AC</emph>, so is <emph>ED</emph> to <emph>DF</emph>; I say that the triangle <emph>ABC</emph> is equiangular with the triangle <emph>DEF</emph>, and they will have those angles equal which the corresponding sides subtend, namely the angle <emph>ABC</emph> to the angle <emph>DEF</emph>, the angle <emph>BCA</emph> to the angle <emph>EFD</emph>, and further the angle <emph>BAC</emph> to the angle <emph>EDF</emph>. </p>
+      <p>For on the straight line <emph>EF</emph>, and at the points <emph>E</emph>, <emph>F</emph> on it, let there be constructed the angle <emph>FEG</emph> equal to the angle <emph>ABC</emph>, and the angle <emph>EFG</emph> equal to the angle <emph>ACB</emph>; [<ref target="elem.1.23" targOrder="U">I. 23</ref>] <hi rend="center">therefore the remaining angle at <emph>A</emph> is equal to the remaining angle at <emph>G</emph>. [<ref target="elem.1.32" targOrder="U">I. 32</ref>]</hi>
+      </p>
+      <p>Therefore the triangle <emph>ABC</emph> is equiangular with the triangle <emph>GEF</emph>. </p>
+      <p>Therefore in the triangles <emph>ABC</emph>, <emph>GEF</emph> the sides about the equal angles are proportional, and those are corresponding sides which subtend the equal angles; [<ref target="elem.6.4" targOrder="U">VI. 4</ref>] <hi rend="center">therefore, as <emph>AB</emph> is to <emph>BC</emph>, so is <emph>GE</emph> to <emph>EF</emph>.</hi>
+      </p>
+      <p>But, as <emph>AB</emph> is to <emph>BC</emph>, so by hypothesis is <emph>DE</emph> to <emph>EF</emph>; <hi rend="center">therefore, as <emph>DE</emph> is to <emph>EF</emph>, so is <emph>GE</emph> to <emph>EF</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>]</hi>
+      </p>
+      <p>Therefore each of the straight lines <emph>DE</emph>, <emph>GE</emph> has the same ratio to <emph>EF</emph>; <hi rend="center">therefore <emph>DE</emph> is equal to <emph>GE</emph>. [<ref target="elem.5.9" targOrder="U">V. 9</ref>]</hi>
+      </p>
+      <p>For the same reason <hi rend="center"><emph>DF</emph> is also equal to <emph>GF</emph>.</hi>
+      </p>
+      <p>Since then <emph>DE</emph> is equal to <emph>EG</emph>, and <emph>EF</emph> is common, <hi rend="center">the two sides <emph>DE</emph>, <emph>EF</emph> are equal to the two sides <emph>GE</emph>, <emph>EF</emph>; and the base <emph>DF</emph> is equal to the base <emph>FG</emph>;</hi> therefore the angle <emph>DEF</emph> is equal to the angle <emph>GEF</emph>, [<ref target="elem.1.8" targOrder="U">I. 8</ref>] and the triangle <emph>DEF</emph> is equal to the triangle <emph>GEF</emph>, and the remaining angles are equal to the remaining angles, namely those which the equal sides subtend. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>Therefore the angle <emph>DFE</emph> is also equal to the angle <emph>GFE</emph>, <hi rend="center">and the angle <emph>EDF</emph> to the angle <emph>EGF</emph>.</hi>
+      </p>
+      <p>And, since the angle <emph>FED</emph> is equal to the angle <emph>GEF</emph>, while the angle <emph>GEF</emph> is equal to the angle <emph>ABC</emph>, therefore the angle <emph>ABC</emph> is also equal to the angle <emph>DEF</emph>. </p>
+      <p>For the same reason <hi rend="center">the angle <emph>ACB</emph> is also equal to the angle <emph>DFE</emph>,</hi> and further, the angle at <emph>A</emph> to the angle at <emph>D</emph>; <hi rend="center">therefore the triangle <emph>ABC</emph> is equiangular with the triangle <emph>DEF</emph>.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

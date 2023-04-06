@@ -1,0 +1,47 @@
+{
+    "id": "elem.10.30",
+    "n": 30,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let there be set out a rational straight line , and two square numbers ,  such that their sum  is not square; [elem.10.28.l.2]  the semicircle , let it be contrived that, as  is to , so is the square on  to the square on , [elem.10.6.p.1] and let  be joined.",
+            "refs": [
+                "elem.10.28.l.2",
+                "elem.10.6.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Then, in a similar manner to the preceding, we can prove that ,  are rational straight lines commensurable in square only.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And since, as  is to , so is the square on  to the square on , therefore, , as  is to , so is the square on  to the square on . [elem.5.19.p.1, elem.3.31, elem.1.47]",
+            "refs": [
+                "elem.5.19.p.1",
+                "elem.3.31",
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  has not to  the ratio which a square number has to a square number;  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the square on  is greater than the square on  by the square on  incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are rational straight lines commensurable in square only, and the square on  is greater than the square on  by the square on  incommensurable in length with . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

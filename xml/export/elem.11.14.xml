@@ -1,0 +1,16 @@
+<div3 id="elem.11.14" n="14" type="proposition">
+      <head>PROPOSITION 14.</head>
+      <p>
+       <hi rend="ital">Planes to which the same straight line is at right angles will be parallel.</hi>
+      </p>
+      <p>For let any straight line <hi rend="ital">AB</hi> be at right angles to each of the planes <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi>; I say that the planes are parallel. </p>
+      <p>For, if not, they will meet when produced. </p>
+      <p>Let them meet; they will then make, as common section, a straight line. [<ref target="elem.11.3" targOrder="U">XI. 3</ref>] </p>
+      <p>Let them make <hi rend="ital">GH</hi>; let a point <hi rend="ital">K</hi> be taken at random on <hi rend="ital">GH</hi>, and let <hi rend="ital">AK</hi>, <hi rend="ital">BK</hi> be joined. </p>
+      <p>Now, since <hi rend="ital">AB</hi> is at right angles to the plane <hi rend="ital">EF</hi>, therefore <hi rend="ital">AB</hi> is also at right angles to <hi rend="ital">BK</hi> which is a straight line in the plane <hi rend="ital">EF</hi> produced; [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] therefore the angle <hi rend="ital">ABK</hi> is right. </p>
+      <p>For the same reason the angle <hi rend="ital">BAK</hi> is also right. </p>
+      <p>Thus, in the triangle <hi rend="ital">ABK</hi>, the two angles <hi rend="ital">ABK</hi>, <hi rend="ital">BAK</hi> are equal to two right angles: which is impossible. [<ref target="elem.1.17" targOrder="U">I. 17</ref>] </p>
+      <p>Therefore the planes <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi> will not meet when produced; therefore the planes <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi> are parallel. [<ref target="elem.11.def.8" targOrder="U">XI. Def. 8</ref>] </p>
+      <p>Therefore planes to which the same straight line is at right angles are parallel. Q. E. D.</p>
+     </div3>
+     

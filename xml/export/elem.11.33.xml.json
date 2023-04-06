@@ -1,0 +1,83 @@
+{
+    "id": "elem.11.33",
+    "n": 33,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be similar parallelepipedal solids, and let  be the side corresponding to ; I say that the solid  has to the solid  the ratio triplicate of that which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let , ,  be produced in a straight line with , , , let  be made equal to ,  equal to , and further  equal to , and let the parallelogram  and the solid  be completed.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the two sides ,  are equal to the two sides , , while the angle  is also equal to the angle , inasmuch as the angle  is also equal to the angle  because of the similarity of the solids , ,  is equal <and similar> to the parallelogram .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason the parallelogram  is also equal and similar to , and further  to ; therefore three parallelograms of the solid  are equal and similar to three parallelograms of the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the former three parallelograms are equal and similar to their opposites, and the latter three to their opposites; [elem.11.24] therefore the whole solid  is equal and similar to the whole solid . [elem.11.def.10]",
+            "refs": [
+                "elem.11.24",
+                "elem.11.def.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let the parallelogram  be completed, and on the parallelograms ,  as bases, and with the same height as that of , let the solids ,  be completed.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then since; owing to the similarity of the solids , , as  is to , so is  to , and  to , while  is equal to ,  to , and  to , therefore, as  is to , so is  to , and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to the parallelogram , as  is to , so is  to , and, as  is to , so is  to ; [elem.6.1] therefore also, as the parallelogram  is to , so is  to , and  to .",
+            "refs": [
+                "elem.6.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is the solid  to the solid , as  is to , so is the solid  to the solid , and, as  is to , so is the solid  to the solid ; [elem.11.32] therefore also, as the solid  is to , so is  to , and  to .",
+            "refs": [
+                "elem.11.32"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, if four magnitudes be continuously proportional, the first has to the fourth the ratio triplicate of that which it has to the second; [elem.5.def.10] therefore the solid  has to  the ratio triplicate of that which  has to .",
+            "refs": [
+                "elem.5.def.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is the parallelogram  to , and the straight line  to  [elem.6.1];  has also to  the ratio triplicate of that which  has to .",
+            "refs": [
+                "elem.6.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the solid  is equal to the solid , and the straight line  to ; therefore the solid  has also to the solid  the ratio triplicate of that which the corresponding side of it, , has to the corresponding side .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

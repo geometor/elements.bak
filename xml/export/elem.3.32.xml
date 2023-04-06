@@ -1,0 +1,17 @@
+<div3 id="elem.3.32" n="32" type="proposition">
+      <head>PROPOSITION 32.</head>
+      <p><emph>If a straight line touch a circle</emph>, <emph>and from the point of contact there be drawn across</emph>, <emph>in the circle</emph>, <emph>a straight line cutting the circle</emph>, <emph>the angles which it makes with the tangent will be equal to the angles in the alternate segments of the circle</emph>. </p>
+      <p>For let a straight line <emph>EF</emph> touch the circle <emph>ABCD</emph> at the point <emph>B</emph>, and from the point <emph>B</emph> let there be drawn across, in the circle <emph>ABCD</emph>, a straight line <emph>BD</emph> cutting it; I say that the angles which <emph>BD</emph> makes with the tangent <emph>EF</emph> will be equal to the angles in the alternate segments of the <emph>FBD</emph> is equal to the angle constructed in the segment <emph>BAD</emph>, and the angle <emph>EBD</emph> is equal to the angle constructed in the segment <emph>DCB</emph>. </p>
+      <p>For let <emph>BA</emph> be drawn from <emph>B</emph> at right angles to <emph>EF</emph>, let a point <emph>C</emph> be taken at random on the circumference <emph>BD</emph>, <emph>AD</emph>, <emph>DC</emph>, <emph>CB</emph> be joined. </p>
+      <p>Then, since a straight line <emph>EF</emph> touches the circle <emph>ABCD</emph> at <emph>B</emph>, and <emph>BA</emph> has been drawn from the point of contact at right angles to the tangent, the centre of the circle <emph>ABCD</emph> is on <emph>BA</emph>. [<ref target="elem.3.19" targOrder="U">III. 19</ref>] </p>
+      <p>Therefore <emph>BA</emph> is a diameter of the circle <emph>ABCD</emph>; <hi rend="center">therefore the angle <emph>ADB</emph>, being an angle in a semicircle, is right. [<ref target="elem.3.31" targOrder="U">III. 31</ref>]</hi>
+      </p>
+      <p>Therefore the remaining angles <emph>BAD</emph>, <emph>ABD</emph> are equal to one right angle. [<ref target="elem.1.32" targOrder="U">I. 32</ref>] </p>
+      <p>But the angle <emph>ABF</emph> is also right; therefore the angle <emph>ABF</emph> is equal to the angles <emph>BAD</emph>, <emph>ABD</emph>. </p>
+      <p>Let the angle <emph>ABD</emph> be subtracted from each; therefore the angle <emph>DBF</emph> which remains is equal to the angle <emph>BAD</emph> in the alternate segment of the circle. </p>
+      <p>Next, since <emph>ABCD</emph> is a quadrilateral in a circle, its opposite angles are equal to two right angles. [<ref target="elem.3.22" targOrder="U">III. 22</ref>] </p>
+      <p>But the angles <emph>DBF</emph>, <emph>DBE</emph> are also equal to two right angles; therefore the angles <emph>DBF</emph>, <emph>DBE</emph> are equal to the angles <emph>BAD</emph>, <emph>BCD</emph>, <hi rend="center">of which the angle <emph>BAD</emph> was proved equal to the angle <emph>DBF</emph>; therefore the angle <emph>DBE</emph> which remains is equal to the angle <emph>DCB</emph> in the alternate segment <emph>DCB</emph> of the circle.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

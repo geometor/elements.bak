@@ -1,0 +1,14 @@
+<div3 id="elem.4.1" n="1" type="proposition">
+      <head>PROPOSITION 1.</head>
+      <p><emph>Into a given circle to fit a straight line equal to a given straight line which is not greater than the diameter of the circle</emph>. </p>
+      <p>Let <emph>ABC</emph> be the given circle, and <emph>D</emph> the given straight line not greater than the diameter of the circle; thus it is required to fit into the circle <emph>ABC</emph> a straight line equal to the straight line <emph>D</emph>. </p>
+      <p>Let a diameter <emph>BC</emph> of the circle <emph>ABC</emph> be drawn. </p>
+      <p>Then, if <emph>BC</emph> is equal to <emph>D</emph>, that which was enjoined will have been done; for <emph>BC</emph> has been fitted into the circle <emph>ABC</emph> equal to the straight line <emph>D</emph>. </p>
+      <p>But, if <emph>BC</emph> is greater than <emph>D</emph>, let <emph>CE</emph> be made equal to <emph>D</emph>, and with centre <emph>C</emph> and distance <emph>CE</emph> let the circle <emph>EAF</emph> be described; let <emph>CA</emph> be joined. </p>
+      <p>Then, since the point <emph>C</emph> is the centre of the circle <emph>EAF</emph>, <hi rend="center"><emph>CA</emph> is equal to <emph>CE</emph>.</hi>
+      </p>
+      <p>But <emph>CE</emph> is equal to <emph>D</emph>; <hi rend="center">therefore <emph>D</emph> is also equal to <emph>CA</emph>.</hi>
+      </p>
+      <p>Therefore into the given circle <emph>ABC</emph> there has been fitted <emph>CA</emph> equal to the given straight line <emph>D</emph>.</p>
+     </div3>
+     

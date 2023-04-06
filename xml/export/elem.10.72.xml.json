@@ -1,0 +1,108 @@
+{
+    "id": "elem.10.72",
+    "n": 72,
+    "type": "propositions 48\u201484",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let two medial areas ,  incommensurable with one another be added together; I say that the \n of the area  is either a second bimedial or a side of the sum of two medial areas.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For  is either greater or less than .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, if it so chance, let  be greater than .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the rational straight line  be set out, and to  let there be applied the rectangle  equal to  and producing  as breadth, and the rectangle  equal to  and producing  as breadth.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since each of the areas ,  is medial, therefore each of the areas ,  is also medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And they are applied to the rational straight line , producing ,  as breadth; therefore each of the straight lines ,  is rational and incommensurable in length with . [elem.10.22]",
+            "refs": [
+                "elem.10.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is incommensurable with , and  is equal to , and  to , therefore  is also incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are rational straight lines commensurable in square only; therefore  is binomial. [elem.10.36]",
+            "refs": [
+                "elem.10.36"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is greater than the square on  either by the square on a straight line commensurable with  or by the square on a straight line incommensurable with it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let the square on it be greater by the square on a straight line commensurable in length with itself.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now neither of the straight lines ,  is commensurable in length with the rational straight line  set out; therefore  is a third binomial. [elem.10.def.2.3]",
+            "refs": [
+                "elem.10.def.2.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is rational; and, if an area be contained by a rational straight line and the third binomial, the \n of the area is a second bimedial; [elem.10.56] therefore the \n of , that is, of , is a second bimedial.",
+            "refs": [
+                "elem.10.56"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, let the square on  be greater than the square on  by the square on a straight line incommensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now each of the straight lines ,  is incommensurable in length with ; therefore  is a sixth binomial. [elem.10.def.2.6]",
+            "refs": [
+                "elem.10.def.2.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, if an area be contained by a rational straight line and \n of the area is the side of the sum of two medial areas; [elem.10.59] so that the \n of the area  is also the side of the sum of two medial areas.",
+            "refs": [
+                "elem.10.59"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

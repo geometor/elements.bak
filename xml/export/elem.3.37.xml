@@ -1,0 +1,20 @@
+<div3 id="elem.3.37" n="37" type="proposition">
+      <head>PROPOSITION 37.</head>
+      <p><emph>If a point be taken outside a circle and from the point there fall on the circle two straight lines</emph>, <emph>if one of them cut the circle</emph>, <emph>and the other fall on it</emph>, <emph>and if further the rectangle contained by the whole of the straight line which cuts </emph>, <emph>the straight line which falls on it will touch the circle</emph>. </p>
+      <p>For let a point <emph>D</emph> be taken outside the circle <emph>ABC</emph>; from <emph>D</emph> let the two straight lines <emph>DCA</emph>, <emph>DB</emph> fall on the circle <emph>ACB</emph>; let <emph>DCA</emph> cut the circle and <emph>DB</emph> fall on it; and let the rectangle <emph>AD</emph>, <emph>DC</emph> be equal to the square on <emph>DB</emph>. </p>
+      <p>I say that <emph>DB</emph> touches the circle <emph>ABC</emph>. </p>
+      <p>For let <emph>DE</emph> be drawn touching <emph>ABC</emph>; let the centre of the circle <emph>ABC</emph> be taken, and let it be <emph>F</emph>; let <emph>FE</emph>, <emph>FB</emph>, <emph>FD</emph> be joined. </p>
+      <p>Thus the angle <emph>FED</emph> is right. [<ref target="elem.3.18" targOrder="U">III. 18</ref>] </p>
+      <p>Now, since <emph>DE</emph> touches the circle <emph>ABC</emph>, and <emph>DCA</emph> cuts it, the rectangle <emph>AD</emph>, <emph>DC</emph> is equal to the square on <emph>DE</emph>. [<ref target="elem.3.36" targOrder="U">III. 36</ref>] </p>
+      <p>But the rectangle <emph>AD</emph>, <emph>DC</emph> was also equal to the square on <emph>DB</emph>; therefore the square on <emph>DE</emph> is equal to the square on <emph>DB</emph>; <hi rend="center">therefore <emph>DE</emph> is equal to <emph>DB</emph>.</hi>
+      </p>
+      <p>And <emph>FE</emph> is equal to <emph>FB</emph>; therefore the two sides <emph>DE</emph>, <emph>EF</emph> are equal to the two sides <emph>DB</emph>, <emph>BF</emph>; and <emph>FD</emph> is the common base of the triangles; <hi rend="center">therefore the angle <emph>DEF</emph> is equal to the angle <emph>DBF</emph>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>]</hi>
+      </p>
+      <p>But the angle <emph>DEF</emph> is right; <hi rend="center">therefore the angle <emph>DBF</emph> is also right.</hi>
+      </p>
+      <p>And <emph>FB</emph> produced is a diameter; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [<ref target="elem.3.16.p.1" targOrder="U">III. 16, Por.</ref>] <hi rend="center">therefore <emph>DB</emph> touches the circle.</hi>
+      </p>
+      <p>Similarly this can be proved to be the case even if the centre be on <emph>AC</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+    

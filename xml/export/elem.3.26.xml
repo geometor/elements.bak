@@ -1,0 +1,14 @@
+<div3 id="elem.3.26" n="26" type="proposition">
+      <head>PROPOSITION 26.</head>
+      <p><emph>In equal circles equal angles stand on equal circumferences</emph>, <emph>whether they stand at the centres or at the circumferences</emph>. </p>
+      <p>Let <emph>ABC</emph>, <emph>DEF</emph> be equal circles, and in them let there be equal angles, namely at the centres the angles <emph>BGC</emph>, <emph>EHF</emph>, and at the circumferences the angles <emph>BAC</emph>, <emph>EDF</emph>; I say that the circumference <emph>BKC</emph> is equal to the circumference <emph>ELF</emph>. </p>
+      <p>For let <emph>BC</emph>, <emph>EF</emph> be joined. </p>
+      <p>Now, since the circles <emph>ABC</emph>, <emph>DEF</emph> are equal, <hi rend="center">the radii are equal.</hi>
+      </p>
+      <p>Thus the two straight lines <emph>BG</emph>, <emph>GC</emph> are equal to the two straight lines <emph>EH</emph>, <emph>HF</emph>; <hi rend="center">and the angle at <emph>G</emph> is equal to the angle at <emph>H</emph>; therefore the base <emph>BC</emph> is equal to the base <emph>EF</emph>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>]</hi>
+      </p>
+      <p>And, since the angle at <emph>A</emph> is equal to the angle at <emph>D</emph>, <hi rend="center">the segment <emph>BAC</emph> is similar to the segment <emph>EDF</emph>; [<ref target="elem.3.def.11" targOrder="U">III. Def. 11</ref>]</hi> and they are upon equal straight lines. </p>
+      <p>But similar segments of circles on equal straight lines are equal to one another; [<ref target="elem.3.24" targOrder="U">III. 24</ref>] <hi rend="center">therefore the segment <emph>BAC</emph> is equal to <emph>EDF</emph>.</hi> But the whole circle <emph>ABC</emph> is also equal to the whole circle <emph>DEF</emph>; therefore the circumference <emph>BKC</emph> which remains is equal to the circumference <emph>ELF</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,19 @@
+<div3 id="elem.1.19" n="19" type="proposition">
+      <head>Proposition 19.</head>
+      <div4 type="Enunc">
+       <p>In any triangle the greater angle is subtended by the greater side.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph> be a triangle having the angle <emph>ABC</emph> greater than the angle <emph>BCA</emph>;</p>
+       <p>I say that the side <emph>AC</emph> is also greater than the side <emph>AB</emph>.</p>
+       <p>For, if not, <emph>AC</emph> is either equal to <emph>AB</emph> or less.</p>
+       <p>Now <emph>AC</emph> is not equal to <emph>AB</emph>; for then the angle <emph>ABC</emph> would also have been equal to the angle <emph>ACB</emph>; [<ref target="elem.1.5" targOrder="U">I. 5</ref>] but it is not; <hi rend="center">therefore <emph>AC</emph> is not equal to <emph>AB</emph>.</hi></p>
+       <p>Neither is <emph>AC</emph> less than <emph>AB</emph>, for then the angle <emph>ABC</emph> would also have been less than the angle <emph>ACB</emph>; [<ref target="elem.1.18" targOrder="U">I. 18</ref>] but it is not; <hi rend="center">therefore <emph>AC</emph> is not less than <emph>AB</emph>.</hi></p>
+       <p>And it was proved that it is not equal either. <hi rend="center">Therefore <emph>AC</emph> is greater than <emph>AB</emph>.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+     </div3>
+     

@@ -1,0 +1,15 @@
+<div3 id="elem.11.1" n="1" type="proposition">
+      <head>PROPOSITION 1.</head>
+      <p>
+       <hi rend="ital">A part of a straight line cannot be in the plane of reference and a part in a plane more elevated.</hi>
+      </p>
+      <p>For, if possible, let a part <hi rend="ital">AB</hi> of the straight line <hi rend="ital">ABC</hi> be in the plane of reference, and a part <hi rend="ital">BC</hi> in a plane more elevated. </p>
+      <p>There will then be in the plane of reference some straight line continuous with <hi rend="ital">AB</hi> in a straight line. </p>
+      <p>Let it be <hi rend="ital">BD</hi>; therefore <hi rend="ital">AB</hi> is a common segment of the two straight lines <hi rend="ital">ABC</hi>, <hi rend="ital">ABD</hi>: which is impossible, inasmuch as, if we describe a circle with centre <hi rend="ital">B</hi> and distance <hi rend="ital">AB</hi>, the diameters will cut off unequal circumferences of the circle. </p>
+      <p>Therefore a part of a straight line cannot be in the plane of reference, and a part in a plane more elevated. Q. E. D.
+<note n="1" type="crit" place="unspecified" anchored="yes">1. <lemma from="ROOT" to="DITTO" targOrder="U">the plane of reference,</lemma>
+        <foreign lang="greek">τὸ ὑποκείμενον ἐπίπεδον</foreign>, the plane laid down or assumed.</note>
+       <note n="2" type="crit" place="unspecified" anchored="yes">2. <lemma from="ROOT" to="DITTO" targOrder="U">more elevated,</lemma>
+        <foreign lang="greek">μετεωροτέρῳ</foreign>.</note></p>
+     </div3>
+     

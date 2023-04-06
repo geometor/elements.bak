@@ -1,0 +1,23 @@
+<div3 id="elem.3.3" n="3" type="proposition">
+      <head>PROPOSITION 3.</head>
+      <p><emph>If in a circle a straight line through the centre bisect a straight line not through the centre</emph>, <emph>it also cuts it at right angles; and if it cut it at right angles</emph>, <emph>it also bisects it</emph>. </p>
+      <p>Let <emph>ABC</emph> be a circle, and in it let a straight line <emph>CD</emph>
+       <emph>AB</emph> not through the centre at the point <emph>F</emph>; </p>
+      <p>For let the centre of the circle <emph>ABC</emph>
+       <emph>E</emph>; let <emph>EA</emph>, <emph>EB</emph> be joined. </p>
+      <p>Then, since <emph>AF</emph> is equal to <emph>FB</emph>, and <emph>FE</emph> is common, <hi rend="center">two sides are equal to two sides;</hi>
+       <hi rend="center">and the base <emph>EA</emph> is equal to the base <emph>EB</emph>; therefore the angle <emph>AFE</emph> is equal to the angle <emph>BFE</emph>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>]</hi>
+      </p>
+      <p>But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [<ref target="elem.1.def.10" targOrder="U">I. Def. 10</ref>] <hi rend="center">therefore each of the angles <emph>AFE</emph>, <emph>BFE</emph> is right.</hi>
+      </p>
+      <p>Therefore <emph>CD</emph>, which is through the centre, and bisects <emph>AB</emph> which is not through the centre, also cuts it at right angles. </p>
+      <p>Again, let <emph>CD</emph> cut <emph>AB</emph> at right angles; <emph>AF</emph> is equal to <emph>FB</emph>. </p>
+      <p>For, with the same construction, <hi rend="center">since <emph>EA</emph> is equal to <emph>EB</emph>,</hi> the angle <emph>EAF</emph> is also equal to the angle <emph>EBF</emph>. [<ref target="elem.1.5" targOrder="U">I. 5</ref>] </p>
+      <p>But the right angle <emph>AFE</emph> is equal to the right angle <emph>BFE</emph>, <emph>EAF</emph>, <emph>EBF</emph> are two triangles having two angles equal to two angles and one side equal to one side, namely <emph>EF</emph>, which is common to them, and subtends one of the equal angles; <hi rend="center">therefore they will also have the remaining sides equal to <ref target="elem.1.26" targOrder="U">I. 26</ref>] therefore <emph>AF</emph> is equal to <emph>FB</emph>.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.
+<note n="26" type="crit" place="unspecified" anchored="yes">
+        <p>with the same construction, <foreign lang="greek">τῶν αὐτῶν κατασκευασθέντων</foreign>.</p>
+       </note></p>
+     </div3>
+     

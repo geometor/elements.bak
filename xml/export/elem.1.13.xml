@@ -1,0 +1,33 @@
+<div3 id="elem.1.13" n="13" type="proposition">
+      <head>Proposition 13.</head>
+      <div4 type="Enunc">
+       <p>If a straight line set up on a straight line make angles, it will make either two right angles or angles equal to two right angles.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>For let any straight line <emph>AB</emph> set up on the straight line <emph>CD</emph> make the angles <emph>CBA</emph>, <emph>ABD</emph>;</p>
+       <p>I say that the angles <emph>CBA</emph>, <emph>ABD</emph> are either two right angles or equal to two right angles. </p>
+       <p>Now, if the angle <emph>CBA</emph> is equal to <emph>ABD</emph>, <hi rend="center">they are two right angles. [<ref target="elem.1.def.10" targOrder="U">Def. 10</ref>]</hi></p>
+       <p>But, if not, let <emph>BE</emph> be drawn from the point <emph>B</emph> at right angles to <emph>CD</emph>; [<ref target="elem.1.11" targOrder="U">I. 11</ref>] <hi rend="center">therefore the angles <emph>CBE</emph>, <emph>EBD</emph> are two right angles.</hi>
+        </p>
+       <p>Then, since the angle <emph>CBE</emph> is equal to the two angles <emph>CBA</emph>, <emph>ABE</emph>, <hi rend="center">let the angle <emph>EBD</emph> be added to each; therefore the angles <emph>CBE</emph>, <emph>EBD</emph> are equal to the three angles <emph>CBA</emph>, <emph>ABE</emph>, <emph>EBD</emph>. [<title>C. N</title>. 2]</hi>
+        </p>
+       <p>Again, since the angle <emph>DBA</emph> is equal to the two angles <emph>DBE</emph>, <emph>EBA</emph>, <hi rend="center">let the angle <emph>ABC</emph> be added to each; therefore the angles <emph>DBA</emph>. <emph>ABC</emph> are equal to the three angles <emph>DBE</emph>, <emph>EBA</emph>, <emph>ABC</emph>. [<title>C. N</title>. 2]</hi>
+        </p>
+       <p>But the angles <emph>CBE</emph>, <emph>EBD</emph> were also proved equal to the same three angles; <hi rend="center">and things which are equal to the same thing are also equal to one another; [<title>C. N</title>. 1] therefore the angles <emph>CBE</emph>, <emph>EBD</emph> are also equal to the <emph>DBA</emph>, <emph>ABC</emph>.</hi>
+        <emph>CBE</emph>, <emph>EBD</emph> are two right angles; <hi rend="center">therefore the angles <emph>DBA</emph>, <emph>ABC</emph> are also equal to two right angles.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="17. let the angle EBD be added to each," type="crit" place="unspecified" anchored="yes">
+       <p>literally <quote>let the angle <emph>EBD</emph> be added (so as to be) common,</quote>
+ <foreign lang="greek">κοινὴ προσκείσθω ἡ ὑπὸ ΕΒΔ</foreign>. Similarly <foreign lang="greek">κοινὴ ἀφηρήσθω</foreign> is used of subtracting a straight line or angle from each of two others. <quote>Let the common angle <emph>EBD</emph> be added</quote>
+ is clearly an inaccurate translation, for the angle is not common before it is added, i.e. the <foreign lang="greek">κοινὴ</foreign> is proleptic. <quote>Let the common angle be <emph>subtracted</emph></quote>
+ as a translation of <foreign lang="greek">κοινὴ ἀφηρήσθω</foreign> would be less unsatisfactory, it is true, but, as it is desirable to use corresponding words when translating the two expressions, it seems hopeless to attempt to keep the word <quote>common,</quote>
+ and I have therefore said <quote>to each</quote>
+ and <quote>from each</quote>
+ simply.</p>
+      </note>
+     </div3>
+     

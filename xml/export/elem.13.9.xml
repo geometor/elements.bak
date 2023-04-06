@@ -1,0 +1,20 @@
+<div3 id="elem.13.9" n="9" type="proposition">
+      <head>PROPOSITION 9.</head>
+      <p><hi rend="ital">If the side of the hexagon and that of the decagon inscribed in the same circle be added together</hi>, <hi rend="ital">the whole straight line has been cut in extreme and mean ratio</hi>, <hi rend="ital">and its greater segment is the side of the hexagon.</hi>
+      </p>
+      <p>Let <hi rend="ital">ABC</hi> be a circle; of the figures inscribed in the circle <hi rend="ital">ABC</hi> let <hi rend="ital">BC</hi> be the side of a decagon, <hi rend="ital">CD</hi> that of a hexagon, and let them be in a straight line; I say that the whole straight line <hi rend="ital">BD</hi> has been cut in extreme and mean ratio, and <hi rend="ital">CD</hi> is its greater segment. </p>
+      <p>For let the centre of the circle, the point <hi rend="ital">E</hi>, be taken, let <hi rend="ital">EB</hi>, <hi rend="ital">EC</hi>, <hi rend="ital">ED</hi> be joined, and let <hi rend="ital">BE</hi> be carried through to <hi rend="ital">A</hi>. </p>
+      <p>Since <hi rend="ital">BC</hi> is the side of an equilateral decagon, <hi rend="ital">ACB</hi> is five times the circumference <hi rend="ital">BC</hi>; therefore the circumference <hi rend="ital">AC</hi> is quadruple of <hi rend="ital">CB</hi>. </p>
+      <p>But, as the circumference <hi rend="ital">AC</hi> is to <hi rend="ital">CB</hi>, so is the angle <hi rend="ital">AEC</hi> to the angle <hi rend="ital">CEB</hi>; [<ref target="elem.6.33" targOrder="U">VI. 33</ref>] therefore the angle <hi rend="ital">AEC</hi> is quadruple of the angle <hi rend="ital">CEB</hi>. </p>
+      <p>And, since the angle <hi rend="ital">EBC</hi> is equal to the angle <hi rend="ital">ECB</hi>, [<ref target="elem.1.5" targOrder="U">I. 5</ref>] therefore the angle <hi rend="ital">AEC</hi> is double of the angle <hi rend="ital">ECB</hi>. [<ref target="elem.1.32" targOrder="U">I. 32</ref>] </p>
+      <p>And, since the straight line <hi rend="ital">EC</hi> is equal to <hi rend="ital">CD</hi>, for each of them is equal to the side of the hexagon inscribed in the circle <hi rend="ital">ABC</hi>, [<ref target="elem.4.15.p.1" targOrder="U">IV. 15, Por.</ref>] the angle <hi rend="ital">CED</hi> is also equal to the angle <hi rend="ital">CDE</hi>; [<ref target="elem.1.5" targOrder="U">I. 5</ref>] therefore the angle <hi rend="ital">ECB</hi> is double of the angle <hi rend="ital">EDC</hi>. [<ref target="elem.1.32" targOrder="U">I. 32</ref>] </p>
+      <p>But the angle <hi rend="ital">AEC</hi> was proved double of the angle <hi rend="ital">ECB</hi>; therefore the angle <hi rend="ital">AEC</hi> is quadruple of the angle <hi rend="ital">EDC</hi>. </p>
+      <p>But the angle <hi rend="ital">AEC</hi> was also proved quadruple of the angle <hi rend="ital">BEC</hi>; therefore the angle <hi rend="ital">EDC</hi> is equal to the angle <hi rend="ital">BEC</hi>. </p>
+      <p>But the angle <hi rend="ital">EBD</hi> is common to the two triangles <hi rend="ital">BEC</hi> and <hi rend="ital">BED</hi>; therefore the remaining angle <hi rend="ital">BED</hi> is also equal to the remaining angle <hi rend="ital">ECB</hi>; [<ref target="elem.1.32" targOrder="U">I. 32</ref>] therefore the triangle <hi rend="ital">EBD</hi> is equiangular with the triangle <hi rend="ital">EBC</hi>. </p>
+      <p>Therefore, proportionally, as <hi rend="ital">DB</hi> is to <hi rend="ital">BE</hi>, so is <hi rend="ital">EB</hi> to <hi rend="ital">BC</hi>. [<ref target="elem.6.4" targOrder="U">VI. 4</ref>] </p>
+      <p>But <hi rend="ital">EB</hi> is equal to <hi rend="ital">CD</hi>. </p>
+      <p>Therefore, as <hi rend="ital">BD</hi> is to <hi rend="ital">DC</hi>, so is <hi rend="ital">DC</hi> to <hi rend="ital">CB</hi>. </p>
+      <p>And <hi rend="ital">BD</hi> is greater than <hi rend="ital">DC</hi>; therefore <hi rend="ital">DC</hi> is also greater than <hi rend="ital">CB</hi>. </p>
+      <p>Therefore the straight line <hi rend="ital">BD</hi> has been cut in extreme and mean ratio, and <hi rend="ital">DC</hi> is its greater segment. Q. E. D.</p>
+     </div3>
+     

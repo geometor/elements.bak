@@ -1,0 +1,14 @@
+<div3 id="elem.9.23" n="23" type="proposition">
+      <head>PROPOSITION 23.</head>
+      <p>
+       <hi rend="ital">If as many odd numbers as we please be added together, and their multitude be odd, the whole will also be odd.</hi>
+      </p>
+      <p>For let as many odd numbers as we please, <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">CD</hi>, the multitude of which is odd, be added together; I say that the whole <hi rend="ital">AD</hi> is also odd. </p>
+      <p>Let the unit <hi rend="ital">DE</hi> be subtracted from <hi rend="ital">CD</hi>; therefore the remainder <hi rend="ital">CE</hi> is even. [<ref target="elem.7.def.7" targOrder="U">VII. Def. 7</ref>] </p>
+      <p>But <hi rend="ital">CA</hi> is also even; [<ref target="elem.9.22" targOrder="U">IX. 22</ref>] therefore the whole <hi rend="ital">AE</hi> is also even. [<ref target="elem.9.21" targOrder="U">IX. 21</ref>] </p>
+      <p>And <hi rend="ital">DE</hi> is an unit. </p>
+      <p>Therefore <hi rend="ital">AD</hi> is odd. [<ref target="elem.7.def.7" targOrder="U">VII. Def. 7</ref>] Q. E. D.
+<note n="3" type="crit" place="unspecified" anchored="yes">3. Literally <quote>let there be as many numbers as we please, of which <hi rend="ital">let</hi> the multitude <hi rend="ital">be</hi> odd.</quote>
+ This form, natural in Greek, is awkward in English.</note></p>
+     </div3>
+     

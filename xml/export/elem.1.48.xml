@@ -1,0 +1,20 @@
+<div3 id="elem.1.48" n="48" type="proposition">
+      <head>Proposition 48.</head>
+      <div4 type="Enunc">
+       <p>If in a triangle the square on one of the sides be equal to the squares on the remaining two sides of the triangle, the angle contained by the remaining two sides of the triangle is right.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>For in the triangle <emph>ABC</emph> let the square on one side <emph>BC</emph> be equal to the squares on the sides <emph>BA</emph>, <emph>AC</emph>;</p>
+       <p>I say that the angle <emph>BAC</emph> is right.</p>
+       <p>For let <emph>AD</emph> be drawn from the point <emph>A</emph> at right angles to the straight line <emph>AC</emph>, let <emph>AD</emph> be made equal to <emph>BA</emph>, and let <emph>DC</emph> be joined.</p>
+       <p>Since <emph>DA</emph> is equal to <emph>AB</emph>, the square on <emph>DA</emph> is also equal to the square on <emph>AB</emph>. </p>
+       <p>Let the square on <emph>AC</emph> be added to each; <hi rend="center">therefore the squares on <emph>DA</emph>, <emph>AC</emph> are equal to the squares on <emph>BA</emph>, <emph>AC</emph>.</hi></p>
+       <p>But the square on <emph>DC</emph> is equal to the squares on <emph>DA</emph>, <emph>AC</emph>, for the angle <emph>DAC</emph> is right; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] and the square on <emph>BC</emph> is equal to the squares on <emph>BA</emph>, <emph>AC</emph>, for this is the hypothesis; <hi rend="center">therefore the square on <emph>DC</emph> is equal to the square on <emph>BC</emph>, so that the side <emph>DC</emph> is also equal to <emph>BC</emph>.</hi></p>
+       <p>And, since <emph>DA</emph> is equal to <emph>AB</emph>, and <emph>AC</emph> is common, <hi rend="center">the two sides <emph>DA</emph>, <emph>AC</emph> are equal to the two sides <emph>BA</emph>, <emph>AC</emph>;</hi> and the base <emph>DC</emph> is equal to the base <emph>BC</emph>; <hi rend="center">therefore the angle <emph>DAC</emph> is equal to the angle <emph>BAC</emph>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>]</hi> But the angle <emph>DAC</emph> is right; <hi rend="center">therefore the angle <emph>BAC</emph> is also right.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+     </div3>
+    

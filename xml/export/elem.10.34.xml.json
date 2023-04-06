@@ -1,0 +1,63 @@
+{
+    "id": "elem.10.34",
+    "n": 34,
+    "type": "propositions i\u201447",
+    "proof": [
+        {
+            "text": "Let there be set out two medial straight lines , , commensurable in square only, such that the rectangle which they contain is rational, and the square on  is greater than the square on  by the square on a straight line incommensurable with ; [elem.10.31, .]  be described on , let  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, namely the rectangle , ; [elem.6.28] therefore  is incommensurable in length with . [elem.10.18]",
+            "refs": [
+                "elem.10.31",
+                "elem.6.28",
+                "elem.10.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let  be drawn from  at right angles to , and let ,  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since  is incommensurable in length with , therefore the rectangle ,  is also incommensurable with the rectangle , . [elem.10.11]",
+            "refs": [
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the rectangle ,  is equal to the square on , and the rectangle ,  to the square on ; therefore the square on  is also incommensurable with the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since the square on  is medial, therefore the sum of the squares on ,  is also medial. [elem.3.31, elem.1.47]",
+            "refs": [
+                "elem.3.31",
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is double of , therefore the rectangle ,  is also double of the rectangle , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the rectangle ,  is rational; therefore the rectangle ,  is also rational. [elem.10.6]",
+            "refs": [
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the rectangle ,  is equal to the rectangle , ; [Lemma] so that the rectangle ,  is also rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore two straight lines ,  incommensurable in square have been found which make the sum of the squares on them medial, but the rectangle contained by them rational. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

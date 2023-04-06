@@ -1,0 +1,88 @@
+{
+    "id": "elem.3.3",
+    "n": 3,
+    "type": "proposition",
+    "enunciation": "`If in a circle a straight line through the centre bisect a straight line not through the centre`, `it also cuts it at right angles; and if it cut it at right angles`, `it also bisects it`.",
+    "proof": [
+        {
+            "text": "Let `ABC` be a circle, and in it let a straight line `CD`\n       `AB` not through the centre at the point `F`;",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "CD",
+                "AB",
+                "F"
+            ]
+        },
+        {
+            "text": "For let the centre of the circle `ABC`\n       `E`; let `EA`, `EB` be joined.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "E",
+                "EA",
+                "EB"
+            ]
+        },
+        {
+            "text": "Then, since `AF` is equal to `FB`, and `FE` is common,",
+            "refs": [],
+            "emphs": [
+                "AF",
+                "FB",
+                "FE"
+            ]
+        },
+        {
+            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10]",
+            "refs": [
+                "elem.1.def.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore `CD`, which is through the centre, and bisects `AB` which is not through the centre, also cuts it at right angles.",
+            "refs": [],
+            "emphs": [
+                "CD",
+                "AB"
+            ]
+        },
+        {
+            "text": "Again, let `CD` cut `AB` at right angles; `AF` is equal to `FB`.",
+            "refs": [],
+            "emphs": [
+                "CD",
+                "AB",
+                "AF",
+                "FB"
+            ]
+        },
+        {
+            "text": "For, with the same construction,  the angle `EAF` is also equal to the angle `EBF`. [elem.1.5]",
+            "refs": [
+                "elem.1.5"
+            ],
+            "emphs": [
+                "EAF",
+                "EBF"
+            ]
+        },
+        {
+            "text": "But the right angle `AFE` is equal to the right angle `BFE`, `EAF`, `EBF` are two triangles having two angles equal to two angles and one side equal to one side, namely `EF`, which is common to them, and subtends one of the equal angles;",
+            "refs": [],
+            "emphs": [
+                "AFE",
+                "BFE",
+                "EAF",
+                "EBF",
+                "EF"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

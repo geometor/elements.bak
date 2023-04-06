@@ -1,0 +1,88 @@
+{
+    "id": "elem.11.38",
+    "n": 38,
+    "type": "proposition",
+    "enunciation": ", ,",
+    "proof": [
+        {
+            "text": "For let the sides of the opposite planes ,  of the cube  be bisected at the points , , , , , , , , ,  be carried; let  be the common section of the planes, and  the diameter of the cube .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that  is equal to , and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let , , ,  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then, since  is parallel to , the alternate angles ,  are equal to one another. [elem.1.29]",
+            "refs": [
+                "elem.1.29"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is equal to , and  to , and they contain equal angles, therefore the base  is equal to the base , the triangle  is equal to the triangle , and the remaining angles are equal to the remaining angles; [elem.1.4] therefore the angle  is equal to the angle .",
+            "refs": [
+                "elem.1.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For this reason  is a straight line. [elem.1.14]",
+            "refs": [
+                "elem.1.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason,  is also a straight line, and  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is equal and parallel to , while  is also equal and parallel to , therefore  is also equal and parallel to . [elem.11.9]",
+            "refs": [
+                "elem.11.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the straight lines ,  join their extremities; therefore  is parallel to . [elem.1.33]",
+            "refs": [
+                "elem.1.33"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the angle  is equal to the angle , for they are alternate; [elem.1.29] and the angle  is equal to the angle . [elem.1.15]",
+            "refs": [
+                "elem.1.29",
+                "elem.1.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are two triangles which have two angles equal to two angles, and one side equal to one side, namely that subtending one of the equal angles, that is,  equal to , for they are the halves of , ; therefore they will also have the remaining sides equal to the remaining sides. [elem.1.26]",
+            "refs": [
+                "elem.1.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is equal to , and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

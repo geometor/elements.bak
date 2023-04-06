@@ -1,0 +1,78 @@
+{
+    "id": "elem.13.1",
+    "n": 1,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "For let the straight line  be cut in extreme and mean ratio at the point , and let  be the greater segment; let the straight line  be produced in a straight line with , and let  be made half of ; I say that the square on  is five times the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the squares ,  be described on , , and let the figure in  be drawn; let  be carried through to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  has been cut in extreme and mean ratio at , therefore the rectangle ,  is equal to the square on . [elem.6.def.3, elem.6.17]",
+            "refs": [
+                "elem.6.def.3",
+                "elem.6.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is the rectangle , , and  the square on ; therefore  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is double of , while  is equal to , and  to , therefore  is also double of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; [elem.6.1] therefore  is double of .",
+            "refs": [
+                "elem.6.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are also double of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is equal to , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  was also proved equal to ; therefore the whole square  is equal to the gnomon .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is double of , the square on  is quadruple of the square on , that is,  is quadruple of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to the gnomon ; therefore the gnomon  is also quadruple of ; therefore the whole  is five times .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is the square on , and  the square on ; therefore the square on  is five times the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

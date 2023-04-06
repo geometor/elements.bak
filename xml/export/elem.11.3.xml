@@ -1,0 +1,12 @@
+<div3 id="elem.11.3" n="3" type="proposition">
+      <head>PROPOSITION 3.</head>
+      <p><hi rend="ital">If two planes cut one another</hi>, <hi rend="ital">their common section is a straight line.</hi>
+      </p>
+      <p>For let the two planes <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> cut one another, and let the line <hi rend="ital">DB</hi> be their common section; I say that the line <hi rend="ital">DB</hi> is a straight line. </p>
+      <p>For, if not, from <hi rend="ital">D</hi> to <hi rend="ital">B</hi> let the straight line <hi rend="ital">DEB</hi> be joined in the plane <hi rend="ital">AB</hi>, and in the plane <hi rend="ital">BC</hi> the straight line <hi rend="ital">DFB</hi>. </p>
+      <p>Then the two straight lines <hi rend="ital">DEB</hi>, <hi rend="ital">DFB</hi> will have the same extremities, and will clearly enclose an area: which is absurd. </p>
+      <p>Therefore <hi rend="ital">DEB</hi>, <hi rend="ital">DFB</hi> are not straight lines. </p>
+      <p>Similarly we can prove that neither will there be any other straight line joined from <hi rend="ital">D</hi> to <hi rend="ital">B</hi> except <hi rend="ital">DB</hi> the common section of the planes <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

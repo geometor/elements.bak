@@ -1,0 +1,38 @@
+{
+    "id": "elem.8.24",
+    "n": 24,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the two numbers ,  have to one another the ratio which the square number  has to the square number , and let  be square; I say that  is also square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since ,  are square, ,  are similar plane numbers.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore one mean proportional number falls between , . [elem.8.18]",
+            "refs": [
+                "elem.8.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore one mean proportional number falls between ,  also. [elem.8.8]",
+            "refs": [
+                "elem.8.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is square; therefore  is also square. [elem.8.22] Q. E. D.",
+            "refs": [
+                "elem.8.22"
+            ],
+            "emphs": []
+        }
+    ]
+}

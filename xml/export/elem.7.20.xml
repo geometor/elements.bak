@@ -1,0 +1,18 @@
+<div3 id="elem.7.20" n="20" type="proposition">
+      <head>PROPOSITION 20.</head>
+      <p>
+       <hi rend="ital">The least numbers of those which have the same ratio with them measure those which have the same ratio the same number of times, the greater the greater and the less the less.</hi>
+      </p>
+      <p>For let <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi> be the least numbers of those which have the same ratio with <hi rend="ital">A</hi>, <hi rend="ital">B</hi>; I say that <hi rend="ital">CD</hi> measures <hi rend="ital">A</hi> the same number of times that <hi rend="ital">EF</hi> measures <hi rend="ital">B</hi>. </p>
+      <p>Now <hi rend="ital">CD</hi> is not parts of <hi rend="ital">A</hi>. </p>
+      <p>For, if possible, let it be so; therefore <hi rend="ital">EF</hi> is also the same parts of <hi rend="ital">B</hi> that <hi rend="ital">CD</hi> is of <hi rend="ital">A</hi>. [<ref target="elem.7.13" targOrder="U">VII. 13</ref> and <ref target="elem.7.def.20" targOrder="U">Def. 20</ref>] </p>
+      <p>Therefore, as many parts of <hi rend="ital">A</hi> as there are in <hi rend="ital">CD</hi>, so many parts of <hi rend="ital">B</hi> are there also in <hi rend="ital">EF</hi>. </p>
+      <p>Let <hi rend="ital">CD</hi> be divided into the parts of <hi rend="ital">A</hi>, namely <hi rend="ital">CG</hi>, <hi rend="ital">GD</hi>, and <hi rend="ital">EF</hi> into the parts of <hi rend="ital">B</hi>, namely <hi rend="ital">EH</hi>, <hi rend="ital">HF</hi>; thus the multitude of <hi rend="ital">CG</hi>, <hi rend="ital">GD</hi> will be equal to the multitude of <hi rend="ital">EH</hi>, <hi rend="ital">HF</hi>. </p>
+      <p>Now, since the numbers <hi rend="ital">CG</hi>, <hi rend="ital">GD</hi> are equal to one another, and the numbers <hi rend="ital">EH</hi>, <hi rend="ital">HF</hi> are also equal to one another, while the multitude of <hi rend="ital">CG</hi>, <hi rend="ital">GD</hi> is equal to the multitude of <hi rend="ital">EH</hi>, <hi rend="ital">HF</hi>, therefore, as <hi rend="ital">CG</hi> is to <hi rend="ital">EH</hi>, so is <hi rend="ital">GD</hi> to <hi rend="ital">HF</hi>. </p>
+      <p>Therefore also, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents. [<ref target="elem.7.12" targOrder="U">VII. 12</ref>] </p>
+      <p>Therefore, as <hi rend="ital">CG</hi> is to <hi rend="ital">EH</hi>, so is <hi rend="ital">CD</hi> to <hi rend="ital">EF</hi>. </p>
+      <p>Therefore <hi rend="ital">CG</hi>, <hi rend="ital">EH</hi> are in the same ratio with <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi>, being less than they: which is impossible, for by hypothesis <hi rend="ital">CD</hi>, <hi rend="ital">EF</hi> are the least numbers of those which have the same ratio with them. </p>
+      <p>Therefore <hi rend="ital">CD</hi> is not parts of <hi rend="ital">A</hi>; therefore it is a part of it. [<ref target="elem.7.4" targOrder="U">VII. 4</ref>] </p>
+      <p>And <hi rend="ital">EF</hi> is the same part of <hi rend="ital">B</hi> that <hi rend="ital">CD</hi> is of <hi rend="ital">A</hi>; [<ref target="elem.7.13" targOrder="U">VII. 13</ref> and <ref target="elem.7.def.20" targOrder="U">Def. 20</ref>] therefore <hi rend="ital">CD</hi> measures <hi rend="ital">A</hi> the same number of times that <hi rend="ital">EF</hi> measures <hi rend="ital">B</hi>. Q. E. D.</p>
+     </div3>
+     

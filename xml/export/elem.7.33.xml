@@ -1,0 +1,31 @@
+<div3 id="elem.7.33" n="33" type="proposition">
+      <head>PROPOSITION 33.</head>
+      <p>
+       <hi rend="ital">Given as many numbers as we please, to find the least of those which have the same ratio with them.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the given numbers, as many as we please; thus it is required to find the least of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p><hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are either prime to one another or not. </p>
+      <p>Now, if <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are prime to one <ref target="elem.7.21" targOrder="U">VII. 21</ref>] </p>
+      <p>But, if not, let <hi rend="ital">D</hi> the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be taken, [<ref target="elem.7.3" targOrder="U">VII. 3</ref>] <hi rend="ital">D</hi> measures the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>
+       <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> respectively. </p>
+      <p>Therefore the numbers <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> measure the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> respectively according to the units in <hi rend="ital">D</hi>. [<ref target="elem.7.16" targOrder="U">VII. 16</ref>] </p>
+      <p>Therefore <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> the same number of <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> are in the same ratio with <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. [<ref target="elem.7.def.20" targOrder="U">VII. Def. 20</ref>] </p>
+      <p>I say next that they are the least that are in that ratio. </p>
+      <p>For, if <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> are not the least of those which have the same ratio with <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> which are in the same ratio with <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Let them be <hi rend="ital">H</hi>, <hi rend="ital">K</hi>, <hi rend="ital">L</hi>; therefore <hi rend="ital">H</hi> measures <hi rend="ital">A</hi> the same number of times that the numbers <hi rend="ital">K</hi>, <hi rend="ital">L</hi> measure the numbers <hi rend="ital">B</hi>, <hi rend="ital">C</hi> respectively. </p>
+      <p>Now, as many times as <hi rend="ital">H</hi> measures <hi rend="ital">A</hi>, so many units let there be in <hi rend="ital">M</hi>; therefore the numbers <hi rend="ital">K</hi>, <hi rend="ital">L</hi> also measure the numbers <hi rend="ital">B</hi>, <hi rend="ital">C</hi> respectively according to the units in <hi rend="ital">M</hi>. </p>
+      <p>And, since <hi rend="ital">H</hi> measures <hi rend="ital">A</hi> according to the units in <hi rend="ital">M</hi>, <hi rend="ital">M</hi> also measures <hi rend="ital">A</hi> according to the units in <hi rend="ital">H</hi>. [<ref target="elem.7.16" targOrder="U">VII. 16</ref>] </p>
+      <p>For the same reason <hi rend="ital">M</hi> also measures the numbers <hi rend="ital">B</hi>, <hi rend="ital">C</hi> according to the units in the numbers <hi rend="ital">K</hi>, <hi rend="ital">L</hi> respectively; </p>
+      <p>Therefore <hi rend="ital">M</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Now, since <hi rend="ital">H</hi> measures <hi rend="ital">A</hi> according to the units in <hi rend="ital">M</hi>, therefore <hi rend="ital">H</hi> by multiplying <hi rend="ital">M</hi> has made <hi rend="ital">A</hi>. [<ref target="elem.7.def.15" targOrder="U">VII. Def. 15</ref>] </p>
+      <p>For the same reason also <hi rend="ital">E</hi> by multiplying <hi rend="ital">D</hi> has made <hi rend="ital">A</hi>. </p>
+      <p>Therefore the product of <hi rend="ital">E</hi>, <hi rend="ital">D</hi> is equal to the product of <hi rend="ital">H</hi>, <hi rend="ital">M</hi>. </p>
+      <p>Therefore, as <hi rend="ital">E</hi> is to <hi rend="ital">H</hi>, so is <hi rend="ital">M</hi> to <hi rend="ital">D</hi>. [<ref target="elem.7.19" targOrder="U">VII. 19</ref>] </p>
+      <p>But <hi rend="ital">E</hi> is greater than <hi rend="ital">H</hi>; therefore <hi rend="ital">M</hi> is also greater than <hi rend="ital">D</hi>. </p>
+      <p>And it measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>: <hi rend="ital">D</hi> is the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Therefore there cannot be any numbers less than <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> which are in the same ratio with <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Therefore <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> are the least of those which have the <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. Q. E. D.
+<note n="17. the numbers E, F, G measure the numbers A, B, C respectively," type="crit" place="unspecified" anchored="yes">literally (as usual) <quote>each of the numbers <hi rend="ital">E</hi>, <hi rend="ital">F</hi>, <hi rend="ital">G</hi> measures each of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>.</quote>
+</note></p>
+     </div3>
+     

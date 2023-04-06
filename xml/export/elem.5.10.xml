@@ -1,0 +1,22 @@
+<div3 id="elem.5.10" n="10" type="proposition">
+      <head>PROPOSITION 10.</head>
+      <p><emph>Of magnitudes which have a ratio to the same</emph>, <emph>that which has a greater ratio is greater</emph>; <emph>and that to which the same has a greater ratio is less</emph>. </p>
+      <p>For let <emph>A</emph> have to <emph>C</emph> a greater ratio than <emph>B</emph> has to <emph>C</emph>; I say that <emph>A</emph> is greater than <emph>B</emph>. </p>
+      <p>For, if not, <emph>A</emph> is either equal to <emph>B</emph> or less. </p>
+      <p>Now <emph>A</emph> is not equal to <emph>B</emph>; for in that case each of the magnitudes <emph>A</emph>, <emph>B</emph> would have had the same ratio to <emph>C</emph>; [<ref target="elem.5.7" targOrder="U">V. 7</ref>] but they have not; <hi rend="center">therefore <emph>A</emph> is not equal to <emph>B</emph>.</hi>
+      </p>
+      <p>Nor again is <emph>A</emph> less than <emph>B</emph>; for in that case <emph>A</emph> would have had to <emph>C</emph> a less ratio than <emph>B</emph> has to <emph>C</emph>; [<ref target="elem.5.8" targOrder="U">V. 8</ref>] but it has not; <hi rend="center">therefore <emph>A</emph> is not less than <emph>B</emph>.</hi>
+      </p>
+      <p>But it was proved not to be equal either; <hi rend="center">therefore <emph>A</emph> is greater than <emph>B</emph>.</hi>
+      </p>
+      <p>Again, let <emph>C</emph> have to <emph>B</emph> a greater ratio than <emph>C</emph> has to <emph>A</emph>; I say that <emph>B</emph> is less than <emph>A</emph>. </p>
+      <p>For, if not, it is either equal or greater. </p>
+      <p>Now <emph>B</emph> is not equal to <emph>A</emph>; for in that case <emph>C</emph> would have had the same ratio to each of the magnitudes <emph>A</emph>, <emph>B</emph>; [<ref target="elem.5.7" targOrder="U">V. 7</ref>] but it has not; <hi rend="center">therefore <emph>A</emph> is not equal to <emph>B</emph>.</hi>
+       </p>
+      <p>Nor again is <emph>B</emph> greater than <emph>A</emph>; for in that case <emph>C</emph> would have had to <emph>B</emph> a less ratio than it has to <emph>A</emph>; [<ref target="elem.5.8" targOrder="U">V. 8</ref>] but it has not; <hi rend="center">therefore <emph>B</emph> is not greater than <emph>A</emph>.</hi>
+      </p>
+      <p>But it was proved that it is not equal either; <hi rend="center">therefore <emph>B</emph> is less than <emph>A</emph>.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

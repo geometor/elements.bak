@@ -1,0 +1,15 @@
+<div3 id="elem.2.7" n="7" type="proposition">
+      <head>Proposition 7.</head>
+      <p><emph>If a straight line be cut at random</emph>, <emph>the square on the whole and that on one of the segments both together are equal to twice the rectangle contained by the whole and the said segment and the square on the remaining segment</emph>.</p>
+      <p>For let a straight line <emph>AB</emph> be cut at random at the point <emph>C</emph>;</p>
+      <p>I say that the squares on <emph>AB</emph>, <emph>BC</emph> are equal to twice the rectangle contained by <emph>AB</emph>, <emph>BC</emph> and the square on <emph>CA</emph>.</p>
+      <p>For let the square <emph>ADEB</emph> be described on <emph>AB</emph>, [<ref target="elem.1.46" targOrder="U">I. 46</ref>] and let the figure be drawn.</p>
+      <p>Then, since <emph>AG</emph> is equal to <emph>GE</emph>, [<ref target="elem.1.43" targOrder="U">I. 43</ref>] let <emph>CF</emph> be added to each; <hi rend="center">therefore the whole <emph>AF</emph> is equal to the whole <emph>CE</emph>.</hi></p>
+      <p>Therefore <emph>AF</emph>, <emph>CE</emph> are double of <emph>AF</emph>. </p>
+      <p>But <emph>AF</emph>, <emph>CE</emph> are the gnomon <emph>KLM</emph> and the square <emph>CF</emph>; therefore the gnomon <emph>KLM</emph> and the square <emph>CF</emph> are double of <emph>AF</emph>. </p>
+      <p>But twice the rectangle <emph>AB</emph>, <emph>BC</emph> is also double of <emph>AF</emph>; for <emph>BF</emph> is equal to <emph>BC</emph>; therefore the gnomon <emph>KLM</emph> and the square <emph>CF</emph> are equal to twice the rectangle <emph>AB</emph>, <emph>BC</emph>.</p>
+      <p>Let <emph>DG</emph>, which is the square on <emph>AC</emph>, be added to each; therefore the gnomon <emph>KLM</emph> and the squares <emph>BG</emph>, <emph>GD</emph> are equal to twice the rectangle contained by <emph>AB</emph>, <emph>BC</emph> and the square on <emph>AC</emph>.</p>
+      <p>But the gnomon <emph>KLM</emph> and the squares <emph>BG</emph>, <emph>GD</emph> are the whole <emph>ADEB</emph> and <emph>CF</emph>, <hi rend="center">which are squares described on <emph>AB</emph>, <emph>BC</emph>;</hi> therefore the squares on <emph>AB</emph>, <emph>BC</emph> are equal to twice the rectangle contained by <emph>AB</emph>, <emph>BC</emph> together with the square on <emph>AC</emph>.</p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

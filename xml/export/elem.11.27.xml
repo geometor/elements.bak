@@ -1,0 +1,15 @@
+<div3 id="elem.11.27" n="27" type="proposition">
+      <head>PROPOSITION 27.</head>
+      <p>
+       <hi rend="ital">On a given straight line to describe a parallelepipedal solid similar and similarly situated to a given parallelepipedal solid.</hi>
+      </p>
+      <p>Let <hi rend="ital">AB</hi> be the given straight line and <hi rend="ital">CD</hi> the given parallelepipedal solid; thus it is required to describe on the given straight line <hi rend="ital">AB</hi> a parallelepipedal solid similar and similarly situated to the given parallelepipedal solid <hi rend="ital">CD</hi>. </p>
+      <p>For on the straight line <hi rend="ital">AB</hi> and at the point <hi rend="ital">A</hi> on it let the solid angle, contained by the angles <hi rend="ital">BAH</hi>, <hi rend="ital">HAK</hi>, <hi rend="ital">KAB</hi>, be constructed equal to the solid angle at <hi rend="ital">C</hi>, so that the angle <hi rend="ital">BAH</hi> is equal to the angle <hi rend="ital">ECF</hi>, the angle <hi rend="ital">BAK</hi> equal to the angle <hi rend="ital">ECG</hi>, and the angle <hi rend="ital">KAH</hi> to the angle <hi rend="ital">GCF</hi>; and let it be contrived that, as <hi rend="ital">EC</hi> is to <hi rend="ital">CG</hi>, so is <hi rend="ital">BA</hi> to <hi rend="ital">AK</hi>, and, as <hi rend="ital">GC</hi> is to <hi rend="ital">CF</hi>, so is <hi rend="ital">KA</hi> to <hi rend="ital">AH</hi>. [<ref target="elem.6.12" targOrder="U">VI. 12</ref>] </p>
+      <p>Therefore also, <foreign lang="la">ex aequali</foreign>, as <hi rend="ital">EC</hi> is to <hi rend="ital">CF</hi>, so is <hi rend="ital">BA</hi> to <hi rend="ital">AH</hi>. [<ref target="elem.5.22" targOrder="U">V. 22</ref>] </p>
+      <p>Let the parallelogram <hi rend="ital">HB</hi> and the solid <hi rend="ital">AL</hi> be completed. </p>
+      <p>Now since, as <hi rend="ital">EC</hi> is to <hi rend="ital">CG</hi>, so is <hi rend="ital">BA</hi> to <hi rend="ital">AK</hi>, and the sides about the equal angles <hi rend="ital">ECG</hi>, <hi rend="ital">BAK</hi> are thus proportional, <hi rend="ital">GE</hi> is similar to the parallelogram <hi rend="ital">KB</hi>. </p>
+      <p>For the same reason the parallelogram <hi rend="ital">KH</hi> is also similar to the parallelogram <hi rend="ital">GF</hi>, and further <hi rend="ital">FE</hi> to <hi rend="ital">HB</hi>; therefore three parallelograms of the solid <hi rend="ital">CD</hi> are similar to three parallelograms of the solid <hi rend="ital">AL</hi>. </p>
+      <p>But the former three are both equal and similar to the three opposite parallelograms, and the latter three are both equal and similar to the three opposite parallelograms; therefore the whole solid <hi rend="ital">CD</hi> is similar to the whole solid <hi rend="ital">AL</hi>. [<ref target="elem.11.def.9" targOrder="U">XI. Def. 9</ref>] </p>
+      <p>Therefore on the given straight line <hi rend="ital">AB</hi> there has been described <hi rend="ital">AL</hi> similar and similarly situated to the given parallelepipedal solid <hi rend="ital">CD</hi>. Q. E. F.</p>
+     </div3>
+     

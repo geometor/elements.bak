@@ -1,0 +1,30 @@
+<div3 id="elem.13.2" n="2" type="proposition">
+      <head>PROPOSITION 2.</head>
+      <p><hi rend="ital">If the square on a straight line be five times the square on a segment of it</hi>, <hi rend="ital">then</hi>, <hi rend="ital">when the double of the said segment is cut in extreme and mean ratio</hi>, <hi rend="ital">the greater segment is the remaining part of the original straight line.</hi>
+      </p>
+      <p>For let the square on the straight line <hi rend="ital">AB</hi> be five times the square on the segment <hi rend="ital">AC</hi> of it, and let <hi rend="ital">CD</hi> be double of <hi rend="ital">AC</hi>; I say that, when <hi rend="ital">CD</hi> is cut in extreme and mean ratio, the greater segment is <hi rend="ital">CB</hi>. </p>
+      <p>Let the squares <hi rend="ital">AF</hi>, <hi rend="ital">CG</hi> be described on <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> respectively, let the figure in <hi rend="ital">AF</hi> be drawn, and let <hi rend="ital">BE</hi> be drawn through. </p>
+      <p>Now, since the square on <hi rend="ital">BA</hi> is five times the square on <hi rend="ital">AC</hi>, <hi rend="ital">AF</hi> is five times <hi rend="ital">AH</hi>. </p>
+      <p>Therefore the gnomon <hi rend="ital">MNO</hi> is quadruple of <hi rend="ital">AH</hi>. </p>
+      <p>And, since <hi rend="ital">DC</hi> is double of <hi rend="ital">CA</hi>, therefore the square on <hi rend="ital">DC</hi> is quadruple of the square on <hi rend="ital">CA</hi>, that is, <hi rend="ital">CG</hi> is quadruple of <hi rend="ital">AH</hi>. </p>
+      <p>But the gnomon <hi rend="ital">MNO</hi> was also proved quadruple of <hi rend="ital">AH</hi>; therefore the gnomon <hi rend="ital">MNO</hi> is equal to <hi rend="ital">CG</hi>. </p>
+      <p>And, since <hi rend="ital">DC</hi> is double of <hi rend="ital">CA</hi>, while <hi rend="ital">DC</hi> is equal to <hi rend="ital">CK</hi>, and <hi rend="ital">AC</hi> to <hi rend="ital">CH</hi>, therefore <hi rend="ital">KB</hi> is also double of <hi rend="ital">BH</hi>. [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] </p>
+      <p>But <hi rend="ital">LH</hi>, <hi rend="ital">HB</hi> are also double of <hi rend="ital">HB</hi>; therefore <hi rend="ital">KB</hi> is equal to <hi rend="ital">LH</hi>, <hi rend="ital">HB</hi>. </p>
+      <p>But the whole gnomon <hi rend="ital">MNO</hi> was also proved equal to the whole <hi rend="ital">CG</hi>; therefore the remainder <hi rend="ital">HF</hi> is equal to <hi rend="ital">BG</hi>. </p>
+      <p>And <hi rend="ital">BG</hi> is the rectangle <hi rend="ital">CD</hi>, <hi rend="ital">DB</hi>, for <hi rend="ital">CD</hi> is equal to <hi rend="ital">DG</hi>; and <hi rend="ital">HF</hi> is the square on <hi rend="ital">CB</hi>; therefore the rectangle <hi rend="ital">CD</hi>, <hi rend="ital">DB</hi> is equal to the square on <hi rend="ital">CB</hi>. </p>
+      <p>Therefore, as <hi rend="ital">DC</hi> is to <hi rend="ital">CB</hi>, so is <hi rend="ital">CB</hi> to <hi rend="ital">BD</hi>. </p>
+      <p>But <hi rend="ital">DC</hi> is greater than <hi rend="ital">CB</hi>; therefore <hi rend="ital">CB</hi> is also greater than <hi rend="ital">BD</hi>. </p>
+      <p>Therefore, when the straight line <hi rend="ital">CD</hi> is cut in extreme and mean ratio, <hi rend="ital">CB</hi> is the greater segment. </p>
+      <p>Therefore etc. Q. E. D.</p>
+      <div4 id="elem.13.2.l.1" type="lemma">
+       <head>LEMMA.</head>
+       <p>That the double of <hi rend="ital">AC</hi> is greater than <hi rend="ital">BC</hi> is to be proved thus. </p>
+       <p>If not, let <hi rend="ital">BC</hi> be, if possible, double of <hi rend="ital">CA</hi>. </p>
+       <p>Therefore the square on <hi rend="ital">BC</hi> is quadruple of the square on <hi rend="ital">CA</hi>; therefore the squares on <hi rend="ital">BC</hi>, <hi rend="ital">CA</hi> are five times the square on <hi rend="ital">CA</hi>. </p>
+       <p>But, by hypothesis, the square on <hi rend="ital">BA</hi> is also five times the square on <hi rend="ital">CA</hi>; therefore the square on <hi rend="ital">BA</hi> is equal to the squares on <hi rend="ital">BC</hi>, <hi rend="ital">CA</hi>: which is impossible. [<ref target="elem.2.4" targOrder="U">II. 4</ref>] </p>
+       <p>Therefore <hi rend="ital">CB</hi> is not double of <hi rend="ital">AC</hi>. </p>
+       <p>Similarly we can prove that neither is a straight line less than <hi rend="ital">CB</hi> double of <hi rend="ital">CA</hi>; for the absurdity is much greater. </p>
+       <p>Therefore the double of <hi rend="ital">AC</hi> is greater than <hi rend="ital">CB</hi>. Q. E. D.</p>
+      </div4>
+     </div3>
+     

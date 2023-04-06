@@ -1,0 +1,49 @@
+<div3 id="elem.1.5" n="5" type="proposition">
+      <head>Proposition 5.</head>
+      <div4 type="Enunc">
+       <p>In isosceles triangles the angles at the base are equal to one another, and, if the equal straight lines be produced further, the angles under the base will be equal to one another.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph> be an isosceles triangle having the side <emph>AB</emph>
+        <emph>AC</emph>; and let the straight lines <emph>BD</emph>, <emph>CE</emph> be produced further in a straight line with <emph>AB</emph>, <emph>AC</emph>. [<ref target="elem.1.post.2" targOrder="U">Post. 2</ref>]</p>
+       <p>I say that the angle <emph>ABC</emph> is equal to the angle <emph>ACB</emph>, and the angle <emph>CBD</emph> to the angle <emph>BCE</emph>. </p>
+       <p>Let a point <emph>F</emph> be taken at random on <emph>BD</emph>; <emph>AE</emph> the greater let <emph>AG</emph> be cut off equal to <emph>AF</emph> the less; [<ref target="elem.1.3" targOrder="U">I. 3</ref>] and let the straight lines <emph>FC</emph>, <emph>GB</emph> be joined. [<ref target="elem.1.post.1" targOrder="U">Post. 1</ref>] </p>
+       <p>Then, since <emph>AF</emph> is equal to <emph>AG</emph> and <emph>AB</emph> to <emph>AC</emph>, <hi rend="center">the two sides <emph>FA</emph>, <emph>AC</emph> are equal to the two sides <emph>GA</emph>, <emph>AB</emph>, respectively;</hi> and they contain a common angle, the angle <emph>FAG</emph>. <hi rend="center">Therefore the base <emph>FC</emph> is equal to the base <emph>GB</emph>, and the triangle <emph>AFC</emph> is equal to the triangle <emph>AGB</emph>,</hi> and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, <hi rend="center">that is, the angle <emph>ACF</emph> to the angle <emph>ABG</emph>, <emph>AFC</emph> to the angle <emph>AGB</emph>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>]</hi></p>
+       <p>And, since the whole <emph>AF</emph> is equal to the whole <emph>AG</emph>, <hi rend="center">and in these <emph>AB</emph> is equal to <emph>AC</emph>, the remainder <emph>BF</emph> is equal to the remainder <emph>CG</emph>.</hi></p>
+       <p>But <emph>FC</emph> was also proved equal to <emph>GB</emph>; <emph>BF</emph>, <emph>FC</emph> are equal to the two sides <emph>CG</emph>, <emph>GB</emph> respectively; and the angle <emph>BFC</emph> is equal to the angle <emph>CGB</emph>, <hi rend="center">while the base <emph>BC</emph> is common to them;</hi> therefore the triangle <emph>BFC</emph> is also equal to the triangle <emph>CGB</emph>, <hi rend="center">therefore the angle <emph>FBC</emph> is equal to the angle <emph>GCB</emph>, and the angle <emph>BCF</emph> to the angle <emph>CBG</emph>.</hi>
+        </p>
+       <p>Accordingly, since the whole angle <emph>ABG</emph> was proved equal to the angle <emph>ACF</emph>, <hi rend="center">and in these the angle <emph>CBG</emph> is equal to the angle <emph>BCF</emph>,</hi> the remaining angle <emph>ABC</emph> is equal to the remaining angle <emph>ACB</emph>; <hi rend="center">and they are at the base of the triangle <emph>ABC</emph>.</hi> But the angle <emph>FBC</emph> was also proved equal to the angle <emph>GCB</emph>; <hi rend="center">and they are under the base.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="2. the equal straight lines" type="crit" place="unspecified" anchored="yes">
+       <p>(meaning the equal <emph>sides</emph>). Cf. note on the similar expression in <ref target="elem.1.4" targOrder="U">Prop. 4</ref>, lines 2, 3.</p>
+      </note>
+      <note n="10. Let a point F be taken at random on BD" type="crit" place="unspecified" anchored="yes">
+       <p>, <foreign lang="greek">εἰλήφθω ἐπὶ τῆς ΒΔ τυχὸν σημεῖον τὸ Ζ</foreign>, where <foreign lang="greek">τυχὸν σημεῖον</foreign>means <quote>a chance point.</quote>
+</p>
+      </note>
+      <note n="17. the two sides FA, AC are equal to the two sides GA, AB respectively," type="crit" place="unspecified" anchored="yes">
+       <p><foreign lang="greek">δύο αἱ ΖΑ, ΑΓ δυσὶ ταῖς ΗΑ, ΑΒ ἴσαι εἰσὶν ἑκατέρα ἑκατέρᾳ</foreign>. Here, and in numberless later passages, I have inserted the word <quote>sides</quote>
+ for the reason given in the note on <ref target="elem.1.1" targOrder="U">I. 1</ref>, line 20. It would have been permissible to supply either <quote>straight lines</quote>
+ or <quote>sides</quote>
+; but on the whole <quote>sides</quote>
+ seems to be more in accordance with the phraseology of <ref target="elem.1.4" targOrder="U">I. 4</ref>.</p>
+      </note>
+      <note n="33. the base BC is common to them," type="crit" place="unspecified" anchored="yes">
+       <p>i.e., apparently, common to the <emph>angles</emph>, as the <foreign lang="greek">αὐτῶν</foreign> in <foreign lang="greek">βάσις αὐτῶν κοινὴ</foreign> can only refer to <foreign lang="greek">γωνία</foreign> and <foreign lang="greek">γωνίᾳ</foreign> preceding. Simson wrote <quote>and the base <emph>BC</emph> is common to the two triangles <emph>BFC</emph>, <emph>CGB</emph></quote>
+; Todhunter left out these words as being of no use and tending to perplex a beginner. But Euclid evidently chose to quote the conclusion of <ref target="elem.1.4" targOrder="U">I. 4</ref> exactly; the first phrase of that conclusion is that the bases (of the two triangles) are equal, and, as the equal bases are here the <emph>same</emph> base, Euclid naturally substitutes the word <quote>common</quote>
+ for <quote>equal.</quote>
+</p>
+      </note>
+      <note n="48" type="crit" place="unspecified" anchored="yes">
+       <p>As <quote>(Being) what it was required to prove</quote>
+ (or <quote>do</quote>
+) is somewhat long, I shall henceforth write the time-honoured <quote>Q. E. D.</quote>
+ and <quote>Q. E. F.</quote>
+ for <foreign lang="greek">ὅπερ ἔδει δεῖξαι</foreign> and <foreign lang="greek">ὅπερ ἔδει ποιῆσαι</foreign>.</p>
+      </note>
+     </div3>
+     

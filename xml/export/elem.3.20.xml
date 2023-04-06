@@ -1,0 +1,19 @@
+<div3 id="elem.3.20" n="20" type="proposition">
+      <head>PROPOSITION 20.</head>
+      <p><emph>In a circle the angle at the centre is double of the angle at the circumference</emph>, <emph>when the angles have the same circumference as base</emph>. </p>
+      <p>Let <emph>ABC</emph> be a circle, let the angle <emph>BEC</emph> be an angle <emph>BAC</emph> an angle at the circumference, and let them have the same circumference <emph>BC</emph> as base; I say that the angle <emph>BEC</emph> is double of <emph>BAC</emph>. </p>
+      <p>For let <emph>AE</emph> be joined and drawn through to <emph>F</emph>. </p>
+      <p>Then, since <emph>EA</emph> is equal to <emph>EB</emph>, <hi rend="center">the angle <emph>EAB</emph> is also equal to the <emph>EBA</emph>; [<ref target="elem.1.5" targOrder="U">I. 5</ref>]</hi> therefore the angles <emph>EAB</emph>, <emph>EBA</emph> are double of the angle <emph>EAB</emph>. </p>
+      <p>But the angle <emph>BEF</emph> is equal to the angles <emph>EAB</emph>, <emph>EBA</emph>; [<ref target="elem.1.32" targOrder="U">I. 32</ref>] therefore the angle <emph>BEF</emph> is also double of the angle <emph>EAB</emph>. </p>
+      <p>For the same reason <hi rend="center">the angle <emph>FEC</emph> is also double of the angle <emph>EAC</emph>.</hi>
+      </p>
+      <p>Therefore the whole angle <emph>BEC</emph> is double of the whole angle <emph>BAC</emph>. </p>
+      <p>Again let another straight line be inflected, and let there be another angle <emph>BDC</emph>; let <emph>DE</emph> be joined and produced to <emph>G</emph>. </p>
+      <p>Similarly then we can prove that the angle <emph>GEC</emph> is double of the angle <emph>EDC</emph>, <hi rend="center">of which the angle <emph>GEB</emph> is double of the angle <emph>EDB</emph>; therefore the angle <emph>BEC</emph> which remains is double of the angle <emph>BDC</emph>.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.
+<note n="25" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">let another straight line be inflected</hi>, <foreign lang="greek">κεκλάσθω δὴ πάλιν</foreign> (without <foreign lang="greek">εὐθεῖα</foreign>). The verb <foreign lang="greek">κλάω</foreign> (to <emph>break off</emph>) was the regular technical term for drawing from a point a (broken) straight line which first meets another straight line or curve and is then <emph>bent back</emph> from it to another point, or (in other words) for drawing straight lines from two points meeting at a point on a curve or another straight line. <foreign lang="greek">κεκλάσθαι</foreign> is one of the geometrical terms the definition of which must according to Aristotle be assumed (<xref n="Aristot. Post. Anal. 76b 9" from="ROOT" to="DITTO" targOrder="U"><title>Anal. Post.</title> I. 10, 76 b 9</xref>).</p>
+       </note></p>
+     </div3>
+     

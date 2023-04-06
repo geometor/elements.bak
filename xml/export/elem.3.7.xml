@@ -1,0 +1,43 @@
+<div3 id="elem.3.7" n="7" type="proposition">
+      <head>PROPOSITION 7.</head>
+      <p><emph>If on the diameter of a circle a point be taken which is not the centre of the circle</emph>, <emph>and from the point straight lines fall upon the circle</emph>, <emph>that will be greatest on which the centre is</emph>, <emph>the remainder of the same diameter will be least</emph>, <emph>and of the rest</emph>
+       <emph>the nearer to the straight line through the centre is always greater than the more remote</emph>, <emph>and only two equal straight lines will fall from the point on the circle</emph>, <emph>one on each side of the least straight line</emph>. </p>
+      <p>Let <emph>ABCD</emph> be a circle, and let <emph>AD</emph> be a diameter of it; <emph>AD</emph> let a point <emph>F</emph> be taken which is not the centre of the circle, let <emph>E</emph> be the centre of the circle, and from <emph>F</emph> let straight lines <emph>FB</emph>, <emph>FC</emph>, <emph>FG</emph> fall upon the circle <emph>ABCD</emph>; I say that <emph>FA</emph> is greatest, <emph>FD</emph> is least, and of the rest <emph>FB</emph> is <emph>FC</emph>, and <emph>FC</emph> than <emph>FG</emph>. </p>
+      <p>For let <emph>BE</emph>, <emph>CE</emph>, <emph>GE</emph> be joined. </p>
+      <p>Then, since in any triangle two sides are greater than the remaining one, [<ref target="elem.1.20" targOrder="U">I. 20</ref>] <hi rend="center"><emph>EB</emph>, <emph>EF</emph> are greater than <emph>BF</emph>.</hi>
+      </p>
+      <p>But <emph>AE</emph> is equal to <emph>BE</emph>; <hi rend="center">therefore <emph>AF</emph> is greater than <emph>BF</emph>.</hi>
+      </p>
+      <p>Again, since <emph>BE</emph> is equal to <emph>CE</emph>, and <emph>FE</emph> is common, <emph>BE</emph>, <emph>EF</emph> are equal to the two sides <emph>CE</emph>, <emph>EF</emph>. </p>
+      <p>But the angle <emph>BEF</emph> is also greater than the angle <emph>CEF</emph>; therefore the base <emph>BF</emph> is greater than the base <emph>CF</emph>. [<ref target="elem.1.24" targOrder="U">I. 24</ref>] </p>
+      <p>For the same reason <hi rend="center"><emph>CF</emph> is also greater than <emph>FG</emph>.</hi>
+       </p>
+      <p>Again, since <emph>GF</emph>, <emph>FE</emph> are greater than <emph>EG</emph>, and <emph>EG</emph> is equal to <emph>ED</emph>, <hi rend="center"><emph>GF</emph>, <emph>FE</emph> are greater than <emph>ED</emph>.</hi>
+      </p>
+      <p>Let <emph>EF</emph> be subtracted from each; <hi rend="center">therefore the remainder <emph>GF</emph> is greater than the remainder <emph>FD</emph>.</hi>
+      </p>
+      <p>Therefore <emph>FA</emph> is greatest, <emph>FD</emph> is least, and <emph>FB</emph> is greater than <emph>FC</emph>, and <emph>FC</emph> than <emph>FG</emph>. </p>
+      <p>I say also that from the point <emph>F</emph> only two equal straight lines will fall on the circle <emph>ABCD</emph>, one on each side of the <emph>FD</emph>. </p>
+      <p>For on the straight line <emph>EF</emph>, and at the point <emph>E</emph> on it, let the angle <emph>FEH</emph> be constructed equal to the angle <emph>GEF</emph> [<ref target="elem.1.23" targOrder="U">I. 23</ref>], and let <emph>FH</emph> be joined. </p>
+      <p>Then, since <emph>GE</emph> is equal to <emph>EH</emph>, <emph>EF</emph> is common, <hi rend="center">the two sides <emph>GE</emph>, <emph>EF</emph> are equal to the two sides <emph>HE</emph>, <emph>EF</emph>; and the angle <emph>GEF</emph> is equal to the angle <emph>HEF</emph>;</hi>
+       <hi rend="center">therefore the base <emph>FG</emph> is equal to the base <emph>FH</emph>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>]</hi>
+      </p>
+      <p>I say again that another straight line equal to <emph>FG</emph> will not <emph>F</emph>. </p>
+      <p>For, if possible, let <emph>FK</emph> so fall. </p>
+      <p>Then, since <emph>FK</emph> is equal to <emph>FG</emph>, and <emph>FH</emph> to <emph>FG</emph>, <hi rend="center"><emph>FK</emph> is also equal to <emph>FH</emph>, the nearer to the straight line through the centre being </hi>
+      </p>
+      <p>Therefore another straight line equal to <emph>GF</emph> will not fall from the point <emph>F</emph> upon the circle; <hi rend="center">therefore only one straight line will so fall.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.
+<note n="4" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">of the same diameter</hi>. I have inserted these words for clearness' sake. The text has simply <foreign lang="greek">ἐλαχίστη δὲ ἡ λοιπή</foreign>, <quote>and the remaining (straight line) least.</quote>
+</p>
+       </note>
+       <note n="7, 39" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">one on each side</hi>. The word <quote>one</quote>
+ is not in the Greek, but is necessary to give the force of <foreign lang="greek">ἐφ̓ ἑκάτερα τῆς ἐλαχίστης</foreign>, literally <quote>on both sides,</quote>
+ or <quote>on each of the two sides, of the least.</quote>
+</p>
+       </note></p>
+     </div3>
+     

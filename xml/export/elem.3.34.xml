@@ -1,0 +1,11 @@
+<div3 id="elem.3.34" n="34" type="proposition">
+      <head>PROPOSITION 34.</head>
+      <p><emph>From a given circle to cut off a segment admitting an angle equal to a given rectilineal angle</emph>. </p>
+      <p>Let <emph>ABC</emph> be the given circle, and the angle at <emph>D</emph> the given rectilineal angle; thus it is required to cut off from the circle <emph>ABC</emph> a segment admitting an angle equal to the given rectilineal angle, the angle at <emph>D</emph>. </p>
+      <p>Let <emph>EF</emph> be drawn touching <emph>ABC</emph> at the point <emph>B</emph>, and on the straight line <emph>FB</emph>, and at the point <emph>B</emph> on it, let the angle <emph>FBC</emph> be constructed equal to the angle at <emph>D</emph>. [<ref target="elem.1.23" targOrder="U">I. 23</ref>] </p>
+      <p>Then, since a straight line <emph>EF</emph> touches the circle <emph>ABC</emph>, <hi rend="center">and <emph>BC</emph> has been drawn across from the point of contact at <emph>B</emph>,</hi> the angle <emph>FBC</emph> is equal to the angle constructed in the alternate segment <emph>BAC</emph>. [<ref target="elem.3.32" targOrder="U">III. 32</ref>] </p>
+      <p>But the angle <emph>FBC</emph> is equal to the angle at <emph>D</emph>; <hi rend="center">therefore the angle in the segment <emph>BAC</emph> is equal to the angle at <emph>D</emph>.</hi>
+      </p>
+      <p>Therefore from the given circle <emph>ABC</emph> the segment <emph>BAC</emph>. has been cut off admitting an angle equal to the given rectilineal angle, the angle at <emph>D</emph>. Q. E. F.</p>
+     </div3>
+     

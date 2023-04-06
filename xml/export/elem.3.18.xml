@@ -1,0 +1,19 @@
+<div3 id="elem.3.18" n="18" type="proposition">
+      <head>PROPOSITION 18.</head>
+      <p><emph>If a straight line touch a circle</emph>, <emph>and a straight line be joined from the centre to the point of contact</emph>, <emph>the straight line so joined will be perpendicular to the tangent</emph>. </p>
+      <p>For let a straight line <emph>DE</emph> touch the circle <emph>ABC</emph> at the point <emph>C</emph>, let the centre <emph>F</emph> of the circle <emph>ABC</emph> be taken, and let <emph>FC</emph> be joined from <emph>F</emph> to <emph>C</emph>; I say that <emph>FC</emph> is perpendicular to <emph>DE</emph>. </p>
+      <p>For, if not, let <emph>FG</emph> be drawn from <emph>F</emph> perpendicular to <emph>DE</emph>. </p>
+      <p>Then, since the angle <emph>FGC</emph> is right, <hi rend="center">the angle <emph>FCG</emph> is acute; [<ref target="elem.1.17" targOrder="U">I. 17</ref>]</hi> and the greater angle is subtended by the greater side; [<ref target="elem.1.19" targOrder="U">I. 19</ref>] <hi rend="center">therefore <emph>FC</emph> is greater than <emph>FG</emph>.</hi>
+      </p>
+      <p>But <emph>FC</emph> is equal to <emph>FB</emph>; <hi rend="center">therefore <emph>FB</emph> is also greater than <emph>FG</emph>, the less than the greater: which is impossible.</hi>
+      </p>
+      <p>Therefore <emph>FG</emph> is not perpendicular to <emph>DE</emph>. </p>
+      <p>Similarly we can prove that neither is any other straight line except <emph>FC</emph>; <hi rend="center">therefore <emph>FC</emph> is perpendicular to <emph>DE</emph>.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.<note place="unspecified" anchored="yes">
+        <note n="3" type="crit" place="unspecified" anchored="yes">
+         <p><hi rend="bold">the tangent</hi>, <foreign lang="greek">ἡ ἐφαπτομένη</foreign>.</p>
+        </note>
+       </note></p>
+     </div3>
+     

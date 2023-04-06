@@ -1,0 +1,126 @@
+{
+    "id": "elem.5.5",
+    "n": 5,
+    "type": "proposition",
+    "enunciation": "`If a magnitude be the same multiple of a magnitude that a part subtracted is of a part subtracted`, `the remainder will also be the same multiple of the remainder that the whole is of the whole`.",
+    "proof": [
+        {
+            "text": "For let the magnitude `AB` be the same multiple of the magnitude `CD` that the part `AE` subtracted is of the part `CF` subtracted; I say that the remainder `EB` is also the same multiple of the remainder `FD` that the whole `AB` is of the whole `CD`.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "CD",
+                "AE",
+                "CF",
+                "EB",
+                "FD",
+                "AB",
+                "CD"
+            ]
+        },
+        {
+            "text": "For, whatever multiple `AE` is of `CF`, let `EB` be made that multiple of `CG`.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "CF",
+                "EB",
+                "CG"
+            ]
+        },
+        {
+            "text": "Then, since `AE` is the same multiple of `CF` that `EB` is of `GC`, therefore `AE` is the same multiple of `CF` that `AB` is of `GF`. [elem.5.1]",
+            "refs": [
+                "elem.5.1"
+            ],
+            "emphs": [
+                "AE",
+                "CF",
+                "EB",
+                "GC",
+                "AE",
+                "CF",
+                "AB",
+                "GF"
+            ]
+        },
+        {
+            "text": "But, by the assumption, `AE` is the same multiple of `CF` that `AB` is of `CD`.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "CF",
+                "AB",
+                "CD"
+            ]
+        },
+        {
+            "text": "Therefore `AB` is the same multiple of each of the magnitudes `GF`, `CD`;",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "GF",
+                "CD"
+            ]
+        },
+        {
+            "text": "Let `CF` be subtracted from each; therefore the remainder `GC` is equal to the remainder `FD`.",
+            "refs": [],
+            "emphs": [
+                "CF",
+                "GC",
+                "FD"
+            ]
+        },
+        {
+            "text": "And, since `AE` is the same multiple of `CF` that `EB` is of `GC`, and `GC` is equal to `DF`, `AE` is the same multiple of `CF` that `EB` is of `FD`.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "CF",
+                "EB",
+                "GC",
+                "GC",
+                "DF",
+                "AE",
+                "CF",
+                "EB",
+                "FD"
+            ]
+        },
+        {
+            "text": "But, by hypothesis,",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "`AE` is the same multiple of `CF` that `AB` is of `CD`; therefore `EB` is the same multiple of `FD` that `AB` is of `CD`.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "CF",
+                "AB",
+                "CD",
+                "EB",
+                "FD",
+                "AB",
+                "CD"
+            ]
+        },
+        {
+            "text": "That is, the remainder `EB` will be the same multiple of `FD` that the whole `AB` is of the whole `CD`.",
+            "refs": [],
+            "emphs": [
+                "EB",
+                "FD",
+                "AB",
+                "CD"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "elem.9.29",
+    "n": 29,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the odd number  by multiplying the odd number  make ; I say that  is odd.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  by multiplying  has made ,  is made up of as many numbers equal to  as there are units in . [elem.7.def.15]",
+            "refs": [
+                "elem.7.def.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And each of the numbers ,  is odd; therefore  is made up of odd numbers the multitude of which is odd.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Thus  is odd. [elem.9.23] Q. E. D.",
+            "refs": [
+                "elem.9.23"
+            ],
+            "emphs": []
+        }
+    ]
+}

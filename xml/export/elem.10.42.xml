@@ -1,0 +1,20 @@
+<div3 id="elem.10.42" n="42" type="propositions i&#x2014;47">
+      <head>PROPOSITION 42.</head>
+      <p>A binomial straight line is divided into its terms at one point only.</p>
+      <p>Let <hi rend="ital">AB</hi> be a binomial straight line divided into its terms at <hi rend="ital">C</hi>; therefore <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are rational straight lines commensurable in square only. [<ref target="elem.10.36" targOrder="U">X. 36</ref>
+] </p>
+      <p>I say that <hi rend="ital">AB</hi> is not divided at another point into two rational straight lines commensurable in square only. </p>
+      <p>For, if possible, let it be divided at <hi rend="ital">D</hi> also, so that <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> are also rational straight lines commensurable in square only. </p>
+      <p>It is then manifest that <hi rend="ital">AC</hi> is not the same with <hi rend="ital">DB</hi>. </p>
+      <p>For, if possible, let it be so. </p>
+      <p>Then <hi rend="ital">AD</hi> will also be the same as <hi rend="ital">CB</hi>, and, as <hi rend="ital">AC</hi> is to <hi rend="ital">CB</hi>, so will <hi rend="ital">BD</hi> be to <hi rend="ital">DA</hi>; thus <hi rend="ital">AB</hi> will be divided at <hi rend="ital">D</hi> also in the same way as by the division at <hi rend="ital">C</hi>: which is contrary to the hypothesis. </p>
+      <p>Therefore <hi rend="ital">AC</hi> is not the same with <hi rend="ital">DB</hi>. </p>
+      <p>For this reason also the points <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are not equidistant from the point of bisection. </p>
+      <p>Therefore that by which the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> differ from the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> is also that by which twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> differs from twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, because both the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> together with twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, and the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> together with twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>, are equal to the square on <hi rend="ital">AB</hi>. [<ref target="elem.2.4" targOrder="U">II. 4</ref>
+] </p>
+      <p>But the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> differ from the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> by a rational area, for both are rational; therefore twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> also differs from twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> by a rational area, though they are medial [<ref target="elem.10.21" targOrder="U">X. 21</ref>
+]: which is absurd, for a medial area does not exceed a medial by a rational area. [<ref target="elem.10.26" targOrder="U">x. 26</ref>
+] </p>
+      <p>Therefore a binomial straight line is not divided at different points; therefore it is divided at one point only. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,39 @@
+{
+    "id": "elem.9.23",
+    "n": 23,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let as many odd numbers as we please, , , , the multitude of which is odd, be added together; I say that the whole  is also odd.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the unit  be subtracted from ; therefore the remainder  is even. [elem.7.def.7]",
+            "refs": [
+                "elem.7.def.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is also even; [elem.9.22] therefore the whole  is also even. [elem.9.21]",
+            "refs": [
+                "elem.9.22",
+                "elem.9.21"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is an unit.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is odd. [elem.7.def.7] Q. E. D.",
+            "refs": [
+                "elem.7.def.7"
+            ],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "elem.10.43",
+    "n": 43,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let  be a first bimedial straight line divided at , so that ,  are medial straight lines commensurable in square only and containing a rational rectangle;  is not so divided at another point.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let it be divided at  also, so that ,  are also medial straight lines commensurable in square only and containing a rational rectangle.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since, then, that by which twice the rectangle ,  differs from twice the rectangle ,  is that by which the squares on ,  differ from the squares on , , while twice the rectangle ,  differs from twice the rectangle ,  by a rational area\u2014for both are rational\u2014 therefore the squares on ,  also differ from the squares on ,  by a rational area, though they are medial: which is absurd. [elem.10.26\n]",
+            "refs": [
+                "elem.10.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore a first bimedial straight line is not divided into its terms at different points; therefore it is so divided at one point only.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

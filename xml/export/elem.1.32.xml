@@ -1,0 +1,22 @@
+<div3 id="elem.1.32" n="32" type="proposition">
+      <head>Proposition 32.</head>
+      <div4 type="Enunc">
+       <p>In any triangle, if one of the sides be produced, the exterior angle is equal to the two interior and opposite angles, and the three interior angles of the triangle are equal to two right angles.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph> be a triangle, and let one side of it <emph>BC</emph> be produced to <emph>D</emph>;</p>
+       <p>I say that the exterior angle <emph>ACD</emph> is equal to the two interior and opposite angles <emph>CAB</emph>, <emph>ABC</emph>, and the three interior angles of the triangle <emph>ABC</emph>, <emph>BCA</emph>, <emph>CAB</emph> are equal to two right angles. </p>
+       <p>For let <emph>CE</emph> be drawn through the point <emph>C</emph> parallel to the straight line <emph>AB</emph>. [<ref target="elem.1.31" targOrder="U">I. 31</ref>]</p>
+       <p>Then, since <emph>AB</emph> is parallel to <emph>CE</emph>, <hi rend="center">and <emph>AC</emph> has fallen upon them, the alternate angles <emph>BAC</emph>, <emph>ACE</emph> are equal to one another. [<ref target="elem.1.29" targOrder="U">I. 29</ref>]</hi>
+        </p>
+       <p>Again, since <emph>AB</emph> is parallel to <emph>CE</emph>, <hi rend="center">and the straight line <emph>BD</emph> has fallen upon them,</hi> the exterior angle <emph>ECD</emph> is equal to the interior and opposite angle <emph>ABC</emph>. [<ref target="elem.1.29" targOrder="U">I. 29</ref>]</p>
+       <p>But the angle <emph>ACE</emph> was also proved equal to the angle <emph>BAC</emph>; <hi rend="center">therefore the whole angle <emph>ACD</emph> is equal to the two interior and opposite angles <emph>BAC</emph>, <emph>ABC</emph>.</hi></p>
+       <p>Let the angle <emph>ACB</emph> be added to each; <hi rend="center">therefore the angles <emph>ACD</emph>, <emph>ACB</emph> are equal to the three angles <emph>ABC</emph>, <emph>BCA</emph>, <emph>CAB</emph>.</hi></p>
+       <p>But the angles <emph>ACD</emph>, <emph>ACB</emph> are equal to two right angles; [<ref target="elem.1.13" targOrder="U">I. 13</ref>] <hi rend="center">therefore the angles <emph>ABC</emph>, <emph>BCA</emph>, <emph>CAB</emph> are also equal to two right angles.</hi></p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+     </div3>
+     

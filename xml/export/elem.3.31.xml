@@ -1,0 +1,22 @@
+<div3 id="elem.3.31" n="31" type="proposition">
+      <head>PROPOSITION 31.</head>
+      <p><emph>In a circle the angle in the semicircle is right</emph>, <emph>that in a greater segment less than a right angle</emph>, <emph>and that in a less segment greater than a right angle; and further the angle of the greater segment is greater than a right angle</emph>, <emph>and the angle of the less segment less than a right angle</emph>. </p>
+      <p>Let <emph>ABCD</emph> be a circle, let <emph>BC</emph> be its diameter, and <emph>E</emph> its centre, and let <emph>BA</emph>, <emph>AC</emph>, <emph>AD</emph>, <emph>DC</emph> be joined; I say that the angle <emph>BAC</emph> in the semicircle <emph>BAC</emph> is right, the angle <emph>ABC</emph> in the segment <emph>ABC</emph> greater than the semicircle is less <emph>ADC</emph> in the segment <emph>ADC</emph> less than the semicircle is greater than a right angle. </p>
+      <p>Let <emph>AE</emph> be joined, and let <emph>BA</emph> be carried through to <emph>F</emph>. </p>
+      <p>Then, since <emph>BE</emph> is equal to <emph>EA</emph>, <hi rend="center">the angle <emph>ABE</emph> is also equal to the angle <emph>BAE</emph>. [<ref target="elem.1.5" targOrder="U">I. 5</ref>]</hi>
+      </p>
+      <p>Again, since <emph>CE</emph> is equal to <emph>EA</emph>, <hi rend="center">the angle <emph>ACE</emph> is also equal to the angle <emph>CAE</emph>. [<ref target="elem.1.5" targOrder="U">I. 5</ref>]</hi>
+      </p>
+      <p>Therefore the whole angle <emph>BAC</emph> is equal to the two angles <emph>ABC</emph>, <emph>ACB</emph>. </p>
+      <p>But the angle <emph>FAC</emph> exterior to the triangle <emph>ABC</emph> is also equal to the two angles <emph>ABC</emph>, <emph>ACB</emph>; [<ref target="elem.1.32" targOrder="U">I. 32</ref>] <hi rend="center">therefore the angle <emph>BAC</emph> is also equal to the angle <emph>FAC</emph>; therefore each is right; [<ref target="elem.1.def.10" targOrder="U">I. Def. 10</ref>] therefore the angle <emph>BAC</emph> in the semicircle <emph>BAC</emph> is right.</hi>
+      </p>
+      <p>Next, since in the triangle <emph>ABC</emph> the two angles <emph>ABC</emph>, <emph>BAC</emph> are less than two right angles, [<ref target="elem.1.17" targOrder="U">I. 17</ref>] and the angle <emph>BAC</emph> is a right angle, <hi rend="center">the angle <emph>ABC</emph> is less than a right angle;</hi> and it is the angle in the segment <emph>ABC</emph> greater than the semicircle. </p>
+      <p>Next, since <emph>ABCD</emph> is a quadrilateral in a circle, and the opposite angles of quadrilaterals in circles are equal to two right angles, [<ref target="elem.3.22" targOrder="U">III. 22</ref>] while the angle <emph>ABC</emph> is less than a right angle, therefore the angle <emph>ADC</emph> which remains is greater than a right angle; and it is the angle in the segment <emph>ADC</emph> less than the semicircle. </p>
+      <p>I say further that the angle of the greater segment, namely that contained by the circumference <emph>ABC</emph> and the straight line <emph>AC</emph>, is greater than a right angle; and the angle of the less segment, namely that contained by the circumference <emph>ADC</emph> and the straight line <emph>AC</emph>, is less than a right angle. </p>
+      <p>This is at once manifest. For, since the angle contained by the straight lines <emph>BA</emph>, <emph>AC</emph> is right, <hi rend="center">the angle contained by the circumference <emph>ABC</emph> and the straight line <emph>AC</emph> is greater than a right angle.</hi>
+      </p>
+      <p>Again, since the angle contained by the straight lines <emph>AC</emph>, <emph>AF</emph> is right, <hi rend="center">the angle contained by the straight line <emph>CA</emph> and the circumference <emph>ADC</emph> is less than a right angle.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

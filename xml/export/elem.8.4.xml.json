@@ -1,0 +1,192 @@
+{
+    "id": "elem.8.4",
+    "n": 4,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let the given ratios in least numbers be that of  to ,  to , and that of  to ; thus it is required to find numbers in continued proportion which are the least that are in the ratio of  to , in the ratio of  to , and in the ratio of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let , the least number measured by , , be taken. [elem.7.34]",
+            "refs": [
+                "elem.7.34"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as many times as  measures , so many times also let  measure , and, as many times as  measures , so many times also let  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now  either measures or does not measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let it measure it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, as many times as  measures , so many times let  measure  also.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  measures  the same number of times that  measures ,  is to , so is  to . [elem.7.def.20 elem.7.13]",
+            "refs": [
+                "elem.7.def.20 elem.7.13"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason also,  and further, as  is to , so is  to ; therefore , , ,  are continuously proportional in the  to , in the ratio of  to , and in the ratio of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that they are also the least that have this property.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if , , ,  are not the least numbers continuously  to , of  to , and of  to , let them be , , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then since, as  is to , so is  to , while ,  are least, and the least numbers measure those which have the same  measures . [elem.7.20]",
+            "refs": [
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  also measures ; therefore ,  measure ; therefore the least number measured by ,  will also measure . [elem.7.35]",
+            "refs": [
+                "elem.7.35"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is the least number measured by , ;  measures , the greater the less: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore there will be no numbers less than , , ,  which are continuously in the ratio of  to , of  to , and of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  not measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let , the least number measured by , , be taken.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, as many times as  measures , so many times let ,  measure ,  respectively, and, as many times as  measures , so many times let \n        also.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since  measures  the same number of times that  measures , therefore, as  is to , so is  to . [elem.7.13 elem.7.def.20]",
+            "refs": [
+                "elem.7.13 elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ;  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason also,",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  measures  the same number of times that  measures ,  is to , so is  to ; [elem.7.13 elem.7.def.20] therefore , , ,  are continuously proportional in the ratios of  to , of  to , and of  to .",
+            "refs": [
+                "elem.7.13 elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say next that they are also the least that are in the ratios  : ,  : ,  : .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if not, there will be some numbers less than , , ,  continuously proportional in the ratios  : ,  : ,  : .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let them be , , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now since, as  is to , so is  to , ,  are least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, [elem.7.20] therefore  measures .",
+            "refs": [
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  also measures ; therefore ,  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the least number measured by ,  will also measure . [elem.7.35]",
+            "refs": [
+                "elem.7.35"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is the least number measured by , ;  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to : [elem.7.13] therefore  also measures .",
+            "refs": [
+                "elem.7.13"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  also measures ; therefore ,  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the least number measured by ,  will also measure . [elem.7.35]",
+            "refs": [
+                "elem.7.35"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is the least number measured by , ; therefore  measures , the greater the less: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore there will not be any numbers less than , , ,  continuously proportional in the ratios of  to , of  to , and of  to ; , , ,  are the least numbers continuously proportional in the ratios  : ,  : ,  : . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

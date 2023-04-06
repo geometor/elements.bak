@@ -1,0 +1,17 @@
+<div3 id="elem.7.4" n="4" type="proposition">
+      <head>PROPOSITION 4.</head>
+      <p>
+       <hi rend="ital">Any number is either a part or parts of any number, the less of the greater.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">BC</hi> be two numbers, and let <hi rend="ital">BC</hi> be the less; I say that <hi rend="ital">BC</hi> is either a part, or parts, of <hi rend="ital">A</hi>. </p>
+      <p>For <hi rend="ital">A</hi>, <hi rend="ital">BC</hi> are either prime to one another or not. </p>
+      <p>First, let <hi rend="ital">A</hi>, <hi rend="ital">BC</hi> be prime to one another. </p>
+      <p>Then, if <hi rend="ital">BC</hi> be divided into the units in it, each unit of those in <hi rend="ital">BC</hi> will be some part of <hi rend="ital">A</hi>; so that <hi rend="ital">BC</hi> is parts of <hi rend="ital">A</hi>. </p>
+      <p>Next let <hi rend="ital">A</hi>, <hi rend="ital">BC</hi> not be prime to one another; then <hi rend="ital">BC</hi> either measures, or does not measure, <hi rend="ital">A</hi>. </p>
+      <p>If now <hi rend="ital">BC</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">BC</hi> is a part of <hi rend="ital">A</hi>. </p>
+      <p>But, if not, let the greatest common measure <hi rend="ital">D</hi> of <hi rend="ital">A</hi>, <hi rend="ital">BC</hi> be taken; [<ref target="elem.7.2" targOrder="U">VII. 2</ref>] and let <hi rend="ital">BC</hi> be divided into the numbers equal to <hi rend="ital">D</hi>, namely <hi rend="ital">BE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">FC</hi>. </p>
+      <p>Now, since <hi rend="ital">D</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">D</hi> is a part of <hi rend="ital">A</hi>. </p>
+      <p>But <hi rend="ital">D</hi> is equal to each of the numbers <hi rend="ital">BE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">FC</hi>; therefore each of the numbers <hi rend="ital">BE</hi>, <hi rend="ital">EF</hi>, <hi rend="ital">FC</hi> is also a part of <hi rend="ital">A</hi>; so that <hi rend="ital">BC</hi> is parts of <hi rend="ital">A</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

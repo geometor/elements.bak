@@ -1,0 +1,117 @@
+{
+    "id": "elem.10.101",
+    "n": 101,
+    "type": "propositions 85\u2014115",
+    "proof": [
+        {
+            "text": "Let  be the straight line which produces with a rational area a medial whole, and  a rational straight line, and to  let  be applied equal to the square on  and producing  as breadth; I say that  is a fifth apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  be the annex to ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial but twice the rectangle contained by them rational. [elem.10.77]",
+            "refs": [
+                "elem.10.77"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "To  let there be applied  equal to the square on , and  equal to the square on ; therefore the whole  is equal to the squares on , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the sum of the squares on ,  together is medial; therefore  is medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable with . [elem.10.22]",
+            "refs": [
+                "elem.10.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the whole  is equal to the squares on , , and, in these,  is equal to the square on , therefore the remainder  is equal to twice the rectangle , . [elem.2.7]",
+            "refs": [
+                "elem.2.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let then  be bisected at , and through  let  be drawn parallel to either of the straight lines , ; therefore each of the rectangles ,  is equal to the rectangle , :",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since twice the rectangle ,  is rational and equal to , therefore  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is applied to the rational straight line , producing  as breadth; therefore  is rational and commensurable in length with . [elem.10.20]",
+            "refs": [
+                "elem.10.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is medial, and  rational, therefore  is incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]",
+            "refs": [
+                "elem.10.73"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say next that it is also a fifth apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For we can prove similarly that the rectangle ,  is equal to the square on , that is, to the fourth part of the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since the square on  is incommensurable with the square on ,  is equal to , and the square on  to , therefore  is incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Since then ,  are two unequal straight lines, and a parallelogram equal to the fourth part of the square on  and deficient by a square figure has been applied to , and divides it into incommensurable parts, therefore the square on  is greater than the square on  by the square on a straight line incommensurable with . [elem.10.18]",
+            "refs": [
+                "elem.10.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the annex  is commensurable with the rational straight line  set out; therefore  is a fifth apotome. [elem.10.def.3.5] Q. E. D.",
+            "refs": [
+                "elem.10.def.3.5"
+            ],
+            "emphs": []
+        }
+    ]
+}

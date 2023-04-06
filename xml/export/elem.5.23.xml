@@ -1,0 +1,26 @@
+<div3 id="elem.5.23" n="23" type="proposition">
+      <head>PROPOSITION 23.</head>
+      <p><emph>If there be three magnitudes</emph>, <emph>and others equal to them in multitude</emph>, <emph>which taken two and two together are in the same ratio</emph>, <emph>and the proportion of them be perturbed</emph>, <emph>they will also be in the same ratio</emph>
+       <foreign lang="la">ex aequali</foreign>. </p>
+      <p>Let there be three magnitudes <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, and others equal to them in multitude, which, taken two and two together, are in the same proportion, namely <emph>D</emph>, <emph>E</emph>, <emph>F</emph>; and let the proportion of them be perturbed, so that, <hi rend="center">as <emph>A</emph> is to <emph>B</emph>, so is <emph>E</emph> to <emph>F</emph>,</hi> and, as <emph>B</emph> is to <emph>C</emph>, so is <emph>D</emph> to <emph>E</emph>; I say that, as <emph>A</emph> is to <emph>C</emph>, so is <emph>D</emph> to <emph>F</emph>. </p>
+      <p>Of <emph>A</emph>, <emph>B</emph>, <emph>D</emph> let equimultiples <emph>G</emph>, <emph>H</emph>, <emph>K</emph> be taken, and of <emph>C</emph>, <emph>E</emph>, <emph>F</emph> other, chance, equimultiples <emph>L</emph>, <emph>M</emph>, <emph>N</emph>. </p>
+      <p>Then, since <emph>G</emph>, <emph>H</emph> are equimultiples of <emph>A</emph>, <emph>B</emph>, and parts have the same ratio as the same multiples of them, [<ref target="elem.5.15" targOrder="U">V. 15</ref>] <hi rend="center">therefore, as <emph>A</emph> is to <emph>B</emph>, so is <emph>G</emph> to <emph>H</emph>.</hi>
+      </p>
+      <p>For the same reason also, <hi rend="center">as <emph>E</emph> is to <emph>F</emph>, so is <emph>M</emph> to <emph>N</emph>.</hi> And, as <emph>A</emph> is to <emph>B</emph>, so is <emph>E</emph> to <emph>F</emph>; <hi rend="center">therefore also, as <emph>G</emph> is to <emph>H</emph>, so is <emph>M</emph> to <emph>N</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>]</hi>
+      </p>
+      <p>Next, since, as <emph>B</emph> is to <emph>C</emph>, so is <emph>D</emph> to <emph>E</emph>, alternately, also, as <emph>B</emph> is to <emph>D</emph>, so is <emph>C</emph> to <emph>E</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>And, since <emph>H</emph>, <emph>K</emph> are equimultiples of <emph>B</emph>, <emph>D</emph>, and parts have the same ratio as their equimultiples, <hi rend="center">therefore, as <emph>B</emph> is to <emph>D</emph>, so is <emph>H</emph> to <emph>K</emph>. [<ref target="elem.5.15" targOrder="U">V. 15</ref>]</hi>
+       </p>
+      <p>But, as <emph>B</emph> is to <emph>D</emph>, so is <emph>C</emph> to <emph>E</emph>; <hi rend="center">therefore also, as <emph>H</emph> is to <emph>K</emph>, so is <emph>C</emph> to <emph>E</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>]</hi>
+      </p>
+      <p>Again, since <emph>L</emph>, <emph>M</emph> are equimultiples of <emph>C</emph>, <emph>E</emph>, <hi rend="center">therefore, as <emph>C</emph> is to <emph>E</emph>, so is <emph>L</emph> to <emph>M</emph>. [<ref target="elem.5.15" targOrder="U">V. 15</ref>]</hi>
+      </p>
+      <p>But, as <emph>C</emph> is to <emph>E</emph>, so is <emph>H</emph> to <emph>K</emph>; <hi rend="center">therefore also, as <emph>H</emph> is to <emph>K</emph>, so is <emph>L</emph> to <emph>M</emph>, [<ref target="elem.5.11" targOrder="U">V. 11</ref>]</hi> and, alternately, as <emph>H</emph> is to <emph>L</emph>, so is <emph>K</emph> to <emph>M</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>But it was also proved that, <hi rend="center">as <emph>G</emph> is to <emph>H</emph>, so is <emph>M</emph> to <emph>N</emph>.</hi>
+      </p>
+      <p>Since, then, there are three magnitudes <emph>G</emph>, <emph>H</emph>, <emph>L</emph>, and others equal to them in multitude <emph>K</emph>, <emph>M</emph>, <emph>N</emph>, which taken two and two together are in the same ratio, and the proportion of them is perturbed, therefore, <foreign lang="la">ex aequali</foreign>, if <emph>G</emph> is in excess of <emph>L</emph>, <emph>K</emph> is also in excess of <emph>N</emph>; if equal, equal; and if less, less. [<ref target="elem.5.21" targOrder="U">V. 21</ref>] </p>
+      <p>And <emph>G</emph>, <emph>K</emph> are equimultiples of <emph>A</emph>, <emph>D</emph>, and <emph>L</emph>, <emph>N</emph> of <emph>C</emph>, <emph>F</emph>. </p>
+      <p>Therefore, as <emph>A</emph> is to <emph>C</emph>, so is <emph>D</emph> to <emph>F</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,22 @@
+<div3 id="elem.6.24" n="24" type="proposition">
+      <head>PROPOSITION 24.</head>
+      <p><emph>In any parallelogram the parallelograms about the diameter are similar both to the whole and to one another</emph>. </p>
+      <p>Let <emph>ABCD</emph> be a parallelogram, and <emph>AC</emph> its diameter, and let <emph>EG</emph>, <emph>HK</emph> be parallelograms about <emph>AC</emph>; I say that each of the parallelograms <emph>EG</emph>, <emph>HK</emph> is similar both to the whole <emph>ABCD</emph> and to the other. </p>
+      <p>For, since <emph>EF</emph> has been drawn parallel to <emph>BC</emph>, one of the sides of the triangle <emph>ABC</emph>, <hi rend="center">proportionally, as <emph>BE</emph> is to <emph>EA</emph>, so is <emph>CF</emph> to <emph>FA</emph>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>]</hi>
+      </p>
+      <p>Again, since <emph>FG</emph> has been drawn parallel to <emph>CD</emph>, one of the sides of the triangle <emph>ACD</emph>, <hi rend="center">proportionally, as <emph>CF</emph> is to <emph>FA</emph>, so is <emph>DG</emph> to <emph>GA</emph>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>]</hi>
+      </p>
+      <p>But it was proved that, <hi rend="center">as <emph>CF</emph> is to <emph>FA</emph>, so also is <emph>BE</emph> to <emph>EA</emph>; therefore also, as <emph>BE</emph> is to <emph>EA</emph>, so is <emph>DG</emph> to <emph>GA</emph>,</hi> and therefore, <emph>componendo</emph>, <hi rend="center">as <emph>BA</emph> is to <emph>AE</emph>, so is <emph>DA</emph> to <emph>AG</emph>, [<ref target="elem.5.18" targOrder="U">V. 18</ref>]</hi> and, alternately, <hi rend="center">as <emph>BA</emph> is to <emph>AD</emph>, so is <emph>EA</emph> to <emph>AG</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>]</hi>
+      </p>
+      <p>Therefore in the parallelograms <emph>ABCD</emph>, <emph>EG</emph>, the sides about the common angle <emph>BAD</emph> are proportional. </p>
+      <p>And, since <emph>GF</emph> is parallel to <emph>DC</emph>, <hi rend="center">the angle <emph>AFG</emph> is equal to the angle <emph>DCA</emph>;</hi> and the angle <emph>DAC</emph> is common to the two triangles <emph>ADC</emph>, <emph>AGF</emph>; <hi rend="center">therefore the triangle <emph>ADC</emph> is equiangular with the triangle <emph>AGF</emph>.</hi>
+      </p>
+      <p>For the same reason <hi rend="center">the triangle <emph>ACB</emph> is also equiangular with the triangle <emph>AFE</emph>,</hi> and the whole parallelogram <emph>ABCD</emph> is equiangular with the parallelogram <emph>EG</emph>. </p>
+      <p>Therefore, proportionally, <hi rend="center">as <emph>AD</emph> is to <emph>DC</emph>, so is <emph>AG</emph> to <emph>GF</emph>, as <emph>DC</emph> is to <emph>CA</emph>, so is <emph>GF</emph> to <emph>FA</emph>, as <emph>AC</emph> is to <emph>CB</emph>, so is <emph>AF</emph> to <emph>FE</emph>,</hi> and further, as <emph>CB</emph> is to <emph>BA</emph>, so is <emph>FE</emph> to <emph>EA</emph>. </p>
+      <p>And, since it was proved that, <hi rend="center">as <emph>DC</emph> is to <emph>CA</emph>, so is <emph>GF</emph> to <emph>FA</emph>,</hi> and, as <emph>AC</emph> is to <emph>CB</emph>, so is <emph>AF</emph> to <emph>FE</emph>, therefore, <foreign lang="la">ex aequali</foreign>, as <emph>DC</emph> is to <emph>CB</emph>, so is <emph>GF</emph> to <emph>FE</emph>. [<ref target="elem.5.22" targOrder="U">V. 22</ref>] </p>
+      <p>Therefore in the parallelograms <emph>ABCD</emph>, <emph>EG</emph> the sides about the equal angles are proportional; therefore the parallelogram <emph>ABCD</emph> is similar to the parallelogram <emph>EG</emph>. [<ref target="elem.6.def.1" targOrder="U">VI. Def. 1</ref>] </p>
+      <p>For the same reason the parallelogram <emph>ABCD</emph> is also similar to the parallelogram <emph>KH</emph>; therefore each of the parallelograms <emph>EG</emph>, <emph>HK</emph> is similar to <emph>ABCD</emph>. </p>
+      <p>But figures similar to the same rectilineal figure are also similar to one another; [<ref target="elem.6.21" targOrder="U">VI. 21</ref>] therefore the parallelogram <emph>EG</emph> is also similar to the parallelogram <emph>HK</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

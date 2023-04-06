@@ -1,0 +1,29 @@
+{
+    "id": "elem.8.7",
+    "n": 7,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let there be as many numbers as we please, , , , , in continued proportion; and let  measure ; I say that  also measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  does not measure , neither will any other of the numbers measure any other. [elem.8.6]",
+            "refs": [
+                "elem.8.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  also measures . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

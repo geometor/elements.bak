@@ -1,0 +1,20 @@
+<div3 id="elem.5.5" n="5" type="proposition">
+      <head>PROPOSITION 5.</head>
+      <p><emph>If a magnitude be the same multiple of a magnitude that a part subtracted is of a part subtracted</emph>, <emph>the remainder will also be the same multiple of the remainder that the whole is of the whole</emph>. </p>
+      <p>For let the magnitude <emph>AB</emph> be the same multiple of the magnitude <emph>CD</emph> that the part <emph>AE</emph> subtracted is of the part <emph>CF</emph> subtracted; I say that the remainder <emph>EB</emph> is also the same multiple of the remainder <emph>FD</emph> that the whole <emph>AB</emph> is of the whole <emph>CD</emph>. </p>
+      <p>For, whatever multiple <emph>AE</emph> is of <emph>CF</emph>, let <emph>EB</emph> be made that multiple of <emph>CG</emph>. </p>
+      <p>Then, since <emph>AE</emph> is the same multiple of <emph>CF</emph> that <emph>EB</emph> is of <emph>GC</emph>, therefore <emph>AE</emph> is the same multiple of <emph>CF</emph> that <emph>AB</emph> is of <emph>GF</emph>. [<ref target="elem.5.1" targOrder="U">V. 1</ref>] </p>
+      <p>But, by the assumption, <emph>AE</emph> is the same multiple of <emph>CF</emph> that <emph>AB</emph> is of <emph>CD</emph>. </p>
+      <p>Therefore <emph>AB</emph> is the same multiple of each of the magnitudes <emph>GF</emph>, <emph>CD</emph>; <hi rend="center">therefore <emph>GF</emph> is equal to <emph>CD</emph>.</hi>
+       </p>
+      <p>Let <emph>CF</emph> be subtracted from each; therefore the remainder <emph>GC</emph> is equal to the remainder <emph>FD</emph>. </p>
+      <p>And, since <emph>AE</emph> is the same multiple of <emph>CF</emph> that <emph>EB</emph> is of <emph>GC</emph>, and <emph>GC</emph> is equal to <emph>DF</emph>, <emph>AE</emph> is the same multiple of <emph>CF</emph> that <emph>EB</emph> is of <emph>FD</emph>. </p>
+      <p>But, by hypothesis, </p>
+      <p><emph>AE</emph> is the same multiple of <emph>CF</emph> that <emph>AB</emph> is of <emph>CD</emph>; therefore <emph>EB</emph> is the same multiple of <emph>FD</emph> that <emph>AB</emph> is of <emph>CD</emph>. </p>
+      <p>That is, the remainder <emph>EB</emph> will be the same multiple of <emph>FD</emph> that the whole <emph>AB</emph> is of the whole <emph>CD</emph>. </p>
+      <p>Therefore etc. Q. E. D.
+<note n="10" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">let EB be made that multiple of CG</hi>, <foreign lang="greek">τοσαυταπλάσιον γεγονέτω καὶ τὸ ΕΒ τοῦ ΓΗ</foreign>. From this way of stating the construction one might suppose that <emph>CG</emph> was given and <emph>EB</emph> had to be found equal to a certain multiple of it. But in fact <emph>EB</emph> is what is given and <emph>CG</emph> has to be found, i.e. <emph>CG</emph> has to be constructed as a certain <emph>sub</emph>multiple of <emph>EB</emph>.</p>
+       </note></p>
+     </div3>
+     

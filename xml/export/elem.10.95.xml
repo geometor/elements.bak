@@ -1,0 +1,27 @@
+<div3 id="elem.10.95" n="95" type="propositions 85&#x2014;115">
+      <head>PROPOSITION 95.</head>
+      <p>
+       <hi rend="ital">If an area be contained by a rational straight line and a fifth apotome, the <quote>side</quote>
+ of the area is a straight line which produces with a rational area a medial whole.</hi>
+      </p>
+      <p>For let the area <hi rend="ital">AB</hi> be contained by the rational straight line <hi rend="ital">AC</hi> and the fifth apotome <hi rend="ital">AD</hi>; I say that the <quote>side</quote>
+ of the area <hi rend="ital">AB</hi> is a straight line which produces with a rational area a medial whole. </p>
+      <p>For let <hi rend="ital">DG</hi> be the annex to <hi rend="ital">AD</hi>; therefore <hi rend="ital">AG</hi>, <hi rend="ital">GD</hi> are rational straight lines commensurable in square only, <hi rend="ital">GD</hi> is commensurable in length with the rational straight line <hi rend="ital">AC</hi> set out, and the square on the whole <hi rend="ital">AG</hi> is greater than the square <hi rend="ital">DG</hi> by the square on a straight line incommensurable with <hi rend="ital">AG</hi>. [<ref target="elem.10.def.3.5" targOrder="U">X. Deff. III. 5</ref>] </p>
+      <p>Therefore, if there be applied to <hi rend="ital">AG</hi> a parallelogram equal to the fourth part of the square on <hi rend="ital">DG</hi> and deficient by a square figure, it will divide it into incommensurable parts. [<ref target="elem.10.18" targOrder="U">X. 18</ref>] </p>
+      <p>Let then <hi rend="ital">DG</hi> be bisected at the point <hi rend="ital">E</hi>, let there be applied to <hi rend="ital">AG</hi> a parallelogram equal to the square on <hi rend="ital">EG</hi> and deficient by a square figure, and let it be the rectangle <hi rend="ital">AF</hi>, <hi rend="ital">FG</hi>; therefore <hi rend="ital">AF</hi> is incommensurable in length with <hi rend="ital">FG</hi>. </p>
+      <p>Now, since <hi rend="ital">AG</hi> is incommensurable in length with <hi rend="ital">CA</hi>, and both are rational, therefore <hi rend="ital">AK</hi> is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+      <p>Again, since <hi rend="ital">DG</hi> is rational and commensurable in length with <hi rend="ital">AC</hi>, <hi rend="ital">DK</hi> is rational. [<ref target="elem.10.19" targOrder="U">X. 19</ref>] </p>
+      <p>Now let the square <hi rend="ital">LM</hi> be constructed equal to <hi rend="ital">AI</hi>, and let the square <hi rend="ital">NO</hi> equal to <hi rend="ital">FK</hi> and about the same angle, the angle <hi rend="ital">LPM</hi>, be subtracted; therefore the squares <hi rend="ital">LM</hi>, <hi rend="ital">NO</hi> are about the same diameter. [<ref target="elem.6.26" targOrder="U">VI. 26</ref>] </p>
+      <p>Let <hi rend="ital">PR</hi> be their diameter, and let the figure be drawn. </p>
+      <p>Similarly then we can prove that <hi rend="ital">LN</hi> is the <quote>side</quote>
+ of the area <hi rend="ital">AB</hi>. </p>
+      <p>I say that <hi rend="ital">LN</hi> is the straight line which produces with a rational area a medial whole. </p>
+      <p>For, since <hi rend="ital">AK</hi> was proved medial and is equal to the squares on <hi rend="ital">LP</hi>, <hi rend="ital">PN</hi>, therefore the sum of the squares on <hi rend="ital">LP</hi>, <hi rend="ital">PN</hi> is medial. </p>
+      <p>Again, since <hi rend="ital">DK</hi> is rational and is equal to twice the rectangle <hi rend="ital">LP</hi>, <hi rend="ital">PN</hi>, the latter is itself also rational. </p>
+      <p>And, since <hi rend="ital">AI</hi> is incommensurable with <hi rend="ital">FK</hi>, therefore the square on <hi rend="ital">LP</hi> is also incommensurable with the square on <hi rend="ital">PN</hi>; therefore <hi rend="ital">LP</hi>, <hi rend="ital">PN</hi> are straight lines incommensurable in </p>
+      <p>Therefore the remainder <hi rend="ital">LN</hi> is the irrational straight line called that which produces with a rational area a medial whole; [<ref target="elem.10.77" targOrder="U">X. 77</ref>] and it is the <quote>side</quote>
+ of the area <hi rend="ital">AB</hi>. </p>
+      <p>Therefore the <quote>side</quote>
+ of the area <hi rend="ital">AB</hi> is a straight line which produces with a rational area a medial whole. Q. E. D.</p>
+     </div3>
+     

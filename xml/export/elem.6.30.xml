@@ -1,0 +1,19 @@
+<div3 id="elem.6.30" n="30" type="proposition">
+      <head>PROPOSITION 30.</head>
+      <p><emph>To cut a given finite straight line in extreme and mean ratio</emph>. </p>
+      <p>Let <emph>AB</emph> be the given finite straight line; <hi rend="center">thus it is required to cut <emph>AB</emph> in extreme and mean ratio.</hi>
+      </p>
+      <p>On <emph>AB</emph> let the square <emph>BC</emph> be described; and let there be applied to <emph>AC</emph> the parallelogram <emph>CD</emph> equal to <emph>BC</emph> and exceeding by the figure <emph>AD</emph> similar to <emph>BC</emph>. [<ref target="elem.6.29" targOrder="U">VI. 29</ref>] </p>
+      <p>Now <emph>BC</emph> is a square; <hi rend="center">therefore <emph>AD</emph> is also a square.</hi>
+       </p>
+      <p>And, since <emph>BC</emph> is equal to <emph>CD</emph>, let <emph>CE</emph> be subtracted from each; <hi rend="center">therefore the remainder <emph>BF</emph> is equal to the remainder <emph>AD</emph>.</hi>
+       </p>
+      <p>But it is also equiangular with it; therefore in <emph>BF</emph>, <emph>AD</emph> the sides about the equal angles are reciprocally proportional; [<ref target="elem.6.14" targOrder="U">VI. 14</ref>] <hi rend="center">therefore, as <emph>FE</emph> is to <emph>ED</emph>, so is <emph>AE</emph> to <emph>EB</emph>.</hi>
+      </p>
+      <p>But <emph>FE</emph> is equal to <emph>AB</emph>, and <emph>ED</emph> to <emph>AE</emph>. </p>
+      <p>Therefore, as <emph>BA</emph> is to <emph>AE</emph>, so is <emph>AE</emph> to <emph>EB</emph>. </p>
+      <p>And <emph>AB</emph> is greater than <emph>AE</emph>; <hi rend="center">therefore <emph>AE</emph> is also greater than <emph>EB</emph>.</hi>
+      </p>
+      <p>Therefore the straight line <emph>AB</emph> has been cut in extreme and mean ratio at <emph>E</emph>, and the greater segment of it is <emph>AE</emph>. Q. E. F.</p>
+     </div3>
+     

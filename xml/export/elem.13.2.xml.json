@@ -1,0 +1,80 @@
+{
+    "id": "elem.13.2",
+    "n": 2,
+    "type": "proposition",
+    "enunciation": ", , ,",
+    "proof": [
+        {
+            "text": "For let the square on the straight line  be five times the square on the segment  of it, and let  be double of ; I say that, when  is cut in extreme and mean ratio, the greater segment is .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the squares ,  be described on ,  respectively, let the figure in  be drawn, and let  be drawn through.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the square on  is five times the square on ,  is five times .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the gnomon  is quadruple of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is double of , therefore the square on  is quadruple of the square on , that is,  is quadruple of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the gnomon  was also proved quadruple of ; therefore the gnomon  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is double of , while  is equal to , and  to , therefore  is also double of . [elem.6.1]",
+            "refs": [
+                "elem.6.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are also double of ; therefore  is equal to , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the whole gnomon  was also proved equal to the whole ; therefore the remainder  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is the rectangle , , for  is equal to ; and  is the square on ; therefore the rectangle ,  is equal to the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is greater than ; therefore  is also greater than .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, when the straight line  is cut in extreme and mean ratio,  is the greater segment.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

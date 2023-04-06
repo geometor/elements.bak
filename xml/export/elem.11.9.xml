@@ -1,0 +1,13 @@
+<div3 id="elem.11.9" n="9" type="proposition">
+      <head>PROPOSITION 9.</head>
+      <p>
+       <hi rend="ital">Straight lines which are parallel to the same straight line and are not in the same plane with it are also parallel to one another.</hi>
+      </p>
+      <p>For let each of the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be parallel to <hi rend="ital">EF</hi>, not being in the same plane with it; I say that <hi rend="ital">AB</hi> is parallel to <hi rend="ital">CD</hi>. </p>
+      <p>For let a point <hi rend="ital">G</hi> be taken at random on <hi rend="ital">EF</hi>, and from it let there be drawn <hi rend="ital">GH</hi>, in the plane through <hi rend="ital">EF</hi>, <hi rend="ital">AB</hi>, at right angles to <hi rend="ital">EF</hi>, and <hi rend="ital">GK</hi> in the plane through <hi rend="ital">FE</hi>, <hi rend="ital">CD</hi> again at right angles to <hi rend="ital">EF</hi>. </p>
+      <p>Now, since <hi rend="ital">EF</hi> is at right angles to each of the straight lines <hi rend="ital">GH</hi>, <hi rend="ital">GK</hi>, therefore <hi rend="ital">EF</hi> is also at right angles to the plane through <hi rend="ital">GH</hi>, <hi rend="ital">GK</hi>. [<ref target="elem.11.4" targOrder="U">XI. 4</ref>] </p>
+      <p>And <hi rend="ital">EF</hi> is parallel to <hi rend="ital">AB</hi>; therefore <hi rend="ital">AB</hi> is also at right angles to the plane through <hi rend="ital">HG</hi>, <hi rend="ital">GK</hi>. [<ref target="elem.11.8" targOrder="U">XI. 8</ref>] </p>
+      <p>For the same reason <hi rend="ital">CD</hi> is also at right angles to the plane through <hi rend="ital">HG</hi>, <hi rend="ital">GK</hi>; therefore each of the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> is at right angles to the plane through <hi rend="ital">HG</hi>, <hi rend="ital">GK</hi>. </p>
+      <p>But if two straight lines be at right angles to the same plane, the straight lines are parallel; [<ref target="elem.11.6" targOrder="U">XI. 6</ref>] therefore <hi rend="ital">AB</hi> is parallel to <hi rend="ital">CD</hi>.</p>
+     </div3>
+     

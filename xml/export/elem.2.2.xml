@@ -1,0 +1,12 @@
+<div3 id="elem.2.2" n="2" type="proposition">
+      <head>Proposition 2.</head>
+      <p><emph>If a straight line be cut at random</emph>, <emph>the rectangle contained by the whole and both of the segments is equal to the square on the whole</emph>.</p>
+      <p>For let the straight line <emph>AB</emph> be cut at random at the point <emph>C</emph>; I say that the rectangle contained by <emph>AB</emph>, <emph>BC</emph> together with the rectangle contained by <emph>BA</emph>, <emph>AC</emph> is equal to the square on <emph>AB</emph>. </p>
+      <p>For let the square <emph>ADEB</emph> be described on <emph>AB</emph> [<ref target="elem.1.46" targOrder="U">I. 46</ref>], and let <emph>CF</emph> be drawn through <emph>C</emph> parallel to either <emph>AD</emph> or <emph>BE</emph>. [<ref target="elem.1.31" targOrder="U">I. 31</ref>]</p>
+      <p>Then <emph>AE</emph> is equal to <emph>AF</emph>, <emph>CE</emph>.</p>
+      <p>Now <emph>AE</emph> is the square on <emph>AB</emph>;</p>
+      <p><emph>AF</emph> is the rectangle contained by <emph>BA</emph>, <emph>AC</emph>, for it is contained by <emph>DA</emph>, <emph>AC</emph>, and <emph>AD</emph> is equal to <emph>AB</emph>; <hi rend="center">and <emph>CE</emph> is the rectangle <emph>AB</emph>, <emph>BC</emph>, for <emph>BE</emph> is equal to <emph>AB</emph>.</hi></p>
+      <p>Therefore the rectangle <emph>BA</emph>, <emph>AC</emph> together with the rectangle <emph>AB</emph>, <emph>BC</emph> is equal to the square on <emph>AB</emph>.</p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

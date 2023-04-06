@@ -1,0 +1,22 @@
+<div3 id="elem.1.17" n="17" type="proposition">
+      <head>Proposition 17.</head>
+      <div4 type="Enunc">
+       <p>In any triangle two angles taken together in any manner are less than two right angles.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph> be a triangle; I say that two angles of the triangle <emph>ABC</emph> taken together in any manner are less than two right angles.</p>
+       <p>For let <emph>BC</emph> be produced to <emph>D</emph>. [<ref target="elem.1.post.2" targOrder="U">Post. 2</ref>]</p>
+       <p>Then, since the angle <emph>ACD</emph> is an exterior angle of the triangle <emph>ABC</emph>,</p>
+       <p>it is greater than the interior and opposite angle <emph>ABC</emph>. [<ref target="elem.1.16" targOrder="U">I. 16</ref>] <hi rend="center">Let the angle <emph>ACB</emph> be added to each;</hi> therefore the angles <emph>ACD</emph>, <emph>ACB</emph> are greater than the angles <emph>ABC</emph>, <emph>BCA</emph>. <emph>ACD</emph>, <emph>ACB</emph> are equal to two right angles. [<ref target="elem.1.13" targOrder="U">I. 13</ref>]</p>
+       <p>Therefore the angles <emph>ABC</emph>, <emph>BCA</emph> are less than two right angles.</p>
+       <p>Similarly we can prove that the angles <emph>BAC</emph>, <emph>ACB</emph> are also less than two right angles, and so are the angles <emph>CAB</emph>, <emph>ABC</emph> as well.</p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="1. taken together in any manner," type="crit" place="unspecified" anchored="yes">
+       <p><foreign lang="greek">πάντη μεταλαμβανόμεναι</foreign>, i.e. any pair added together.</p>
+      </note>
+     </div3>
+     

@@ -1,0 +1,13 @@
+<div3 id="elem.9.34" n="34" type="proposition">
+      <head>PROPOSITION 34.</head>
+      <p><hi rend="ital">If a number neither be one of those which are continually doubled from a dyad, nor have its half odd, it is both eventimes even and even-times odd</hi>. </p>
+      <p>For let the number <hi rend="ital">A</hi> neither be one of those doubled from a dyad, nor have its half odd; I say that <hi rend="ital">A</hi> is both even-times even and even-times odd. </p>
+      <p>Now that <hi rend="ital">A</hi> is even-times even is manifest; for it has not its half odd. [<ref target="elem.7.def.8" targOrder="U">VII. Def. 8</ref>] </p>
+      <p>I say next that it is also even-times odd. </p>
+      <p>For, if we bisect <hi rend="ital">A</hi>, then bisect its half, and do this continually, we shall come upon some odd number which will measure <hi rend="ital">A</hi> according to an even number. </p>
+      <p>For, if not, we shall come upon a dyad, and <hi rend="ital">A</hi> will be among those which are doubled from a dyad: which is contrary to the hypothesis. </p>
+      <p>Thus <hi rend="ital">A</hi> is even-times odd. </p>
+      <p>But it was also proved even-times even. </p>
+      <p>Therefore <hi rend="ital">A</hi> is both even-times even and even-times odd. Q. E. D.</p>
+     </div3>
+     

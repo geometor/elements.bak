@@ -1,0 +1,71 @@
+{
+    "id": "elem.3.2",
+    "n": 2,
+    "type": "proposition",
+    "enunciation": "`If on the circumference of a circle two points be taken at random`, `the straight line joining the points will fall within the circle`.",
+    "proof": [
+        {
+            "text": "Let `ABC` be a circle, and let two points `A`, `B` be taken at random on its circumference; I say that the straight line joined from `A` to `B` will fall within the circle.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "A",
+                "B",
+                "A",
+                "B"
+            ]
+        },
+        {
+            "text": "For suppose it does not, but, if possible, let it fall outside, as `AEB`; let the centre of the circle `ABC` be taken [elem.3.1], and let it be `D`; let `DA`, `DB` be joined, and let `DFE` be drawn through.",
+            "refs": [
+                "elem.3.1"
+            ],
+            "emphs": [
+                "AEB",
+                "ABC",
+                "D",
+                "DA",
+                "DB",
+                "DFE"
+            ]
+        },
+        {
+            "text": "Then, since `DA` is equal to `DB`,  And, since one side `AEB` of the triangle `DAE` is produced,",
+            "refs": [],
+            "emphs": [
+                "DA",
+                "DB",
+                "AEB",
+                "DAE"
+            ]
+        },
+        {
+            "text": "But the angle `DAE` is equal to the angle `DBE`;  And the greater angle is subtended by the greater side; [elem.1.19]",
+            "refs": [
+                "elem.1.19"
+            ],
+            "emphs": [
+                "DAE",
+                "DBE"
+            ]
+        },
+        {
+            "text": "Therefore the straight line joined from `A` to `B` will not fall outside the circle.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "B"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that neither will it fall on the circumference itself;",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

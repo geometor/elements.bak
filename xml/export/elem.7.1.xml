@@ -1,0 +1,17 @@
+<div3 id="elem.7.1" n="1" type="proposition">
+      <head>PROPOSITION I.</head>
+      <p>
+       <hi rend="ital">Two unequal numbers being set out, and the less being continually subtracted in turn from the greater, if the number which is left never measures the one before it until an unit is left, the original numbers will be prime to one another.</hi>
+      </p>
+      <p>For, the less of two unequal numbers <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> being continually subtracted from the greater, let the number which is left never measure the one before it until an unit is left; I say that <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are prime to one another, that is, that an unit alone measures <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>For, if <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are not prime to one another, some number will measure them. </p>
+      <p>Let a number measure them, and let it be <hi rend="ital">E</hi>; let <hi rend="ital">CD</hi>, measuring <hi rend="ital">BF</hi>, leave <hi rend="ital">FA</hi> less than itself, let <hi rend="ital">AF</hi>, measuring <hi rend="ital">DG</hi>, leave <hi rend="ital">GC</hi> less than itself, and let <hi rend="ital">GC</hi>, measuring <hi rend="ital">FH</hi>, leave an unit <hi rend="ital">HA</hi>. </p>
+      <p>Since, then, <hi rend="ital">E</hi> measures <hi rend="ital">CD</hi>, and <hi rend="ital">CD</hi> measures <hi rend="ital">BF</hi>, therefore <hi rend="ital">E</hi> also measures <hi rend="ital">BF</hi>. </p>
+      <p>But it also measures the whole <hi rend="ital">BA</hi>; therefore it will also measure the remainder <hi rend="ital">AF</hi>. </p>
+      <p>But <hi rend="ital">AF</hi> measures <hi rend="ital">DG</hi>; therefore <hi rend="ital">E</hi> also measures <hi rend="ital">DG</hi>. </p>
+      <p>But it also measures the whole <hi rend="ital">DC</hi> therefore it will also measure the remainder <hi rend="ital">CG</hi>. </p>
+      <p>But <hi rend="ital">CG</hi> measures <hi rend="ital">FH</hi>; therefore <hi rend="ital">E</hi> also measures <hi rend="ital">FH</hi>. </p>
+      <p>But it also measures the whole <hi rend="ital">FA</hi>; therefore it will also measure the remainder, the unit <hi rend="ital">AH</hi>, though it is a number: which is impossible. </p>
+      <p>Therefore no number will measure the numbers <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>; therefore <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are prime to one another. [<ref target="elem.7.def.12" targOrder="U">VII. Def. 12</ref>] Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,31 @@
+{
+    "id": "elem.7.18",
+    "n": 18,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let two numbers ,  by multiplying any number  make , ; I say that, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  by multiplying  has made , therefore also  by multiplying  has made . [elem.7.16] For the same reason also  by multiplying  has made .",
+            "refs": [
+                "elem.7.16"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the number  by multiplying the two numbers ,  has made , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        }
+    ]
+}

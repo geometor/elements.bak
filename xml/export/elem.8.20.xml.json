@@ -1,0 +1,83 @@
+{
+    "id": "elem.8.20",
+    "n": 20,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let one mean proportional number  fall between the two numbers , ; ,  are similar plane numbers.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let , , the least numbers of those which have the same ratio with , , be taken; [elem.7.33] therefore  measures  the same number of times that  measures . [elem.7.20]",
+            "refs": [
+                "elem.7.33",
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, as many times as  measures , so many units let there be in ; therefore  by multiplying  has made , so that  is plane, and ,  are its sides.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since ,  are the least of the numbers which have , , therefore  measures  the same number of times that  measures . [elem.7.20]",
+            "refs": [
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "As many times, then, as  measures , so many units let there be in ;  measures  according to the units in ; therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is plane, and ,  are its sides.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are plane numbers.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that they are also similar.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, <*> since  by multiplying  has made , and by multiplying  has made , therefore, as  is to , so is  to , that is,  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, <*> since  by multiplying ,  has made ,  respectively,  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And alternately, as  is to , so is  to . [elem.7.13]",
+            "refs": [
+                "elem.7.13"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are similar plane numbers; for their sides",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

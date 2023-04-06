@@ -1,0 +1,14 @@
+<div3 id="elem.11.13" n="13" type="proposition">
+      <head>PROPOSITION 13.</head>
+      <p>
+       <hi rend="ital">From the same point two straight lines cannot be set up at right angles to the same plane on the same side.</hi>
+      </p>
+      <p>For, if possible, from the same point <hi rend="ital">A</hi> let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">AC</hi> be set up at right angles to the plane of reference and on the same side, and let a plane be drawn through <hi rend="ital">BA</hi>, <hi rend="ital">AC</hi>; it will then make, as section through <hi rend="ital">A</hi> in the plane of reference, a straight line. [<ref target="elem.11.3" targOrder="U">XI. 3</ref>] </p>
+      <p>Let it make <hi rend="ital">DAE</hi>; therefore the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">AC</hi>, <hi rend="ital">DAE</hi> are in one plane. </p>
+      <p>And, since <hi rend="ital">CA</hi> is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference. [<ref target="elem.11.def.3" targOrder="U">XI. Def. 3</ref>] </p>
+      <p>But <hi rend="ital">DAE</hi> meets it and is in the plane of reference; therefore the angle <hi rend="ital">CAE</hi> is right. </p>
+      <p>For the same reason the angle <hi rend="ital">BAE</hi> is also right; therefore the angle <hi rend="ital">CAE</hi> is equal to the angle <hi rend="ital">BAE</hi>. </p>
+      <p>And they are in one plane: which is impossible. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

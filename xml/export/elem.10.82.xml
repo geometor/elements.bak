@@ -1,0 +1,10 @@
+<div3 id="elem.10.82" n="82" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 82.</head>
+      <p><hi rend="ital">To a minor straight line only one straight line can be annexed which is incommensurable in square with the whole and which makes, with the whole, the sum of the squares on them rational but twice the rectangle contained by them medial</hi>. </p>
+      <p>Let <hi rend="ital">AB</hi> be the minor straight line, and let <hi rend="ital">BC</hi> be an annex to <hi rend="ital">AB</hi>; <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are straight lines incommensurable in square <ref target="elem.10.76" targOrder="U">X. 76</ref>] </p>
+      <p>I say that no other straight line can be annexed to <hi rend="ital">AB</hi> fulfilling the same conditions. </p>
+      <p>For, if possible, let <hi rend="ital">BD</hi> be so annexed; therefore <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> are also straight lines incommensurable in square which fulfil the aforesaid conditions. [<ref target="elem.10.76" targOrder="U">X. 76</ref>] </p>
+      <p>Now, since the excess of the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> over the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> is also the excess of twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> over twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, while the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> exceed the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> by a rational area, for both are rational, therefore twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> also exceeds twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> by a rational area: which is impossible, for both are medial. [<ref target="elem.10.26" targOrder="U">X. 26</ref>] </p>
+      <p>Therefore to a minor straight line only one straight line can be annexed which is incommensurable in square with the whole and which makes the squares on them added together rational, but twice the rectangle contained by them medial. Q. E. D.</p>
+     </div3>
+     

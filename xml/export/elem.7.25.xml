@@ -1,0 +1,16 @@
+<div3 id="elem.7.25" n="25" type="proposition">
+      <head>PROPOSITION 25.</head>
+      <p>
+       <hi rend="ital">If two numbers be prime to one another, the product of one of them into itself will be prime to the remaining one.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi> be two numbers prime to one another, and let <hi rend="ital">A</hi> by multiplying itself make <hi rend="ital">C</hi>: I say that <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are prime to one another. </p>
+      <p>For let <hi rend="ital">D</hi> be made equal to <hi rend="ital">A</hi>. </p>
+      <p>Since <hi rend="ital">A</hi>, <hi rend="ital">B</hi> are prime to one another, and <hi rend="ital">A</hi> is equal to <hi rend="ital">D</hi>, therefore <hi rend="ital">D</hi>, <hi rend="ital">B</hi> are also prime to one another. </p>
+      <p>Therefore each of the two numbers <hi rend="ital">D</hi>, <hi rend="ital">A</hi> is prime to <hi rend="ital">B</hi>; therefore the product of <hi rend="ital">D</hi>, <hi rend="ital">A</hi> will also be prime to <hi rend="ital">B</hi>. [<ref target="elem.7.24" targOrder="U">VII. 24</ref>] </p>
+      <p>But the number which is the product of <hi rend="ital">D</hi>, <hi rend="ital">A</hi> is <hi rend="ital">C</hi>. </p>
+      <p>Therefore <hi rend="ital">C</hi>, <hi rend="ital">B</hi> are prime to one another. Q. E. D.
+<note n="1. the product of one of them into itself." type="crit" place="unspecified" anchored="yes">The Greek, <foreign lang="greek">ὁ ἐκ τοῦ ἑνὸς αὐτῶν γενόμενος</foreign>, literally <quote>the number produced from the one of them,</quote>
+ leaves <quote>multiplied into itself</quote>
+ to be understood.</note></p>
+     </div3>
+     

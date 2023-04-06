@@ -1,0 +1,23 @@
+<div3 id="elem.1.30" n="30" type="proposition">
+      <head>Proposition 30.</head>
+      <div4 type="Enunc">
+       <p>Straight lines parallel to the same straight line are also parallel to one another.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let each of the straight lines <emph>AB</emph>, <emph>CD</emph> be parallel to <emph>EF</emph>; I say that <emph>AB</emph> is also parallel to <emph>CD</emph>. </p>
+       <p>For let the straight line <emph>GK</emph> fall upon them; </p>
+       <p>Then, since the straight line <emph>GK</emph> has fallen on the parallel straight lines <emph>AB</emph>, <emph>EF</emph>, <hi rend="center">the angle <emph>AGK</emph> is equal to the angle <emph>GHF</emph>. [<ref target="elem.1.29" targOrder="U">I. 29</ref>]</hi></p>
+       <p>Again, since the straight line <emph>GK</emph> has fallen on the parallel straight lines <emph>EF</emph>, <emph>CD</emph>, <hi rend="center">the angle <emph>GHF</emph> is equal to the angle <emph>GKD</emph>. [<ref target="elem.1.29" targOrder="U">I. 29</ref>]</hi>
+        </p>
+       <p>But the angle <emph>AGK</emph> was also proved equal to the angle <emph>GHF</emph>; <hi rend="center">therefore the angle <emph>AGK</emph> is also equal to the angle <emph>GKD</emph>; [<ref target="elem.1.c.n.1" targOrder="U">C.N. 1</ref>]</hi> and they are alternate. </p>
+       <p>Therefore <emph>AB</emph> is parallel to <emph>CD</emph>.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="20" type="crit" place="unspecified" anchored="yes">
+       <p>The usual <emph>conclusion</emph> in general terms (<quote>Therefore etc.</quote>
+) repeating the enunciation is, curiously enough, wanting at the end of this proposition.</p>
+      </note>
+     </div3>
+     

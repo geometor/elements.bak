@@ -1,0 +1,18 @@
+<div3 id="elem.6.17" n="17" type="proposition">
+      <head>PROPOSITION 17</head>
+      <p><emph>If three straight lines be proportional</emph>, <emph>the rectangle contained by the extremes is equal to the square on the mean</emph>; <emph>and</emph>, <emph>if the rectangle contained by the extremes be equal to the square on the mean</emph>, <emph>the three straight lines will be proportional</emph>. </p>
+      <p>Let the three straight lines <emph>A</emph>, <emph>B</emph>, <emph>C</emph> be proportional, so that, as <emph>A</emph> is to <emph>B</emph>, so is <emph>B</emph> to <emph>C</emph>; I say that the rectangle contained by <emph>A</emph>, <emph>C</emph> is equal to the square on <emph>B</emph>. </p>
+      <p>Let <emph>D</emph> be made equal to <emph>B</emph>. </p>
+      <p>Then, since, as <emph>A</emph> is to <emph>B</emph>, so is <emph>B</emph> to <emph>C</emph>, and <emph>B</emph> is equal to <emph>D</emph>, therefore, as <emph>A</emph> is to <emph>B</emph>, so is <emph>D</emph> to <emph>C</emph>. </p>
+      <p>But, if four straight lines be proportional, the rectangle contained by the extremes is equal to the rectangle contained by the means. [<ref target="elem.6.16" targOrder="U">VI. 16</ref>] </p>
+      <p>Therefore the rectangle <emph>A</emph>, <emph>C</emph> is equal to the rectangle <emph>B</emph>, <emph>D</emph>. </p>
+      <p>But the rectangle <emph>B</emph>, <emph>D</emph> is the square on <emph>B</emph>, for <emph>B</emph> is equal to <emph>D</emph>; therefore the rectangle contained by <emph>A</emph>, <emph>C</emph> is equal to the square on <emph>B</emph>. </p>
+      <p>Next, let the rectangle <emph>A</emph>, <emph>C</emph> be equal to the square on <emph>B</emph>; I say that, as <emph>A</emph> is to <emph>B</emph>, so is <emph>B</emph> to <emph>C</emph>. </p>
+      <p>For, with the same construction, since the rectangle <emph>A</emph>, <emph>C</emph> is equal to the square on <emph>B</emph>, while the square on <emph>B</emph> is the rectangle <emph>B</emph>, <emph>D</emph>, for <emph>B</emph> is equal to <emph>D</emph>, therefore the rectangle <emph>A</emph>, <emph>C</emph> is equal to the rectangle <emph>B</emph>, <emph>D</emph>. </p>
+      <p>But, if the rectangle contained by the extremes be equal to that contained by the means, the four straight lines are proportional. [<ref target="elem.6.16" targOrder="U">VI. 16</ref>] </p>
+      <p>Therefore, as <emph>A</emph> is to <emph>B</emph>, so is <emph>D</emph> to <emph>C</emph>. </p>
+      <p>But <emph>B</emph> is equal to <emph>D</emph>; <hi rend="center">therefore, as <emph>A</emph> is to <emph>B</emph>, so is <emph>B</emph> to <emph>C</emph>.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

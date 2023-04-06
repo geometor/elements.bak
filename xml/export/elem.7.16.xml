@@ -1,0 +1,22 @@
+<div3 id="elem.7.16" n="16" type="proposition">
+      <head>PROPOSITION 16.</head>
+      <p>
+       <hi rend="ital">If two numbers by multiplying one another make certain numbers, the numbers so produced will be equal to one another.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi> be two numbers, and let <hi rend="ital">A</hi> by multiplying <hi rend="ital">B</hi> make <hi rend="ital">C</hi>, and <hi rend="ital">B</hi> by multiplying <hi rend="ital">A</hi> make <hi rend="ital">D</hi>; I say that <hi rend="ital">C</hi> is equal to <hi rend="ital">D</hi>. </p>
+      <p>For, since <hi rend="ital">A</hi> by multiplying <hi rend="ital">B</hi> has made <hi rend="ital">C</hi>, therefore <hi rend="ital">B</hi> measures <hi rend="ital">C</hi> according to the units in <hi rend="ital">A</hi>. </p>
+      <p>But the unit <hi rend="ital">E</hi> also measures the number <hi rend="ital">A</hi> according to the units in it; <hi rend="center">therefore the unit <hi rend="ital">E</hi> measures <hi rend="ital">A</hi> the same number of times that <hi rend="ital">B</hi> measures <hi rend="ital">C</hi>.</hi>
+      </p>
+      <p>Therefore, alternately, the unit <hi rend="ital">E</hi> measures the number <hi rend="ital">B</hi> the same number of times that <hi rend="ital">A</hi> measures <hi rend="ital">C</hi>. [<ref target="elem.7.15" targOrder="U">VII. 15</ref>] </p>
+      <p>Again, since <hi rend="ital">B</hi> by multiplying <hi rend="ital">A</hi> has made <hi rend="ital">D</hi>, therefore <hi rend="ital">A</hi> measures <hi rend="ital">D</hi> according to the units in <hi rend="ital">B</hi>. </p>
+      <p>But the unit <hi rend="ital">E</hi> also measures <hi rend="ital">B</hi> according to the units in it; <hi rend="center">therefore the unit <hi rend="ital">E</hi> measures the number <hi rend="ital">B</hi> the same number of times that <hi rend="ital">A</hi> measures <hi rend="ital">D</hi>.</hi>
+      </p>
+      <p>But the unit <hi rend="ital">E</hi> measured the number <hi rend="ital">B</hi> the same number of times that <hi rend="ital">A</hi> measures <hi rend="ital">C</hi>; <hi rend="center">therefore <hi rend="ital">A</hi> measures each of the numbers <hi rend="ital">C</hi>, <hi rend="ital">D</hi> the same number of times.</hi>
+      </p>
+      <p>Therefore <hi rend="ital">C</hi> is equal to <hi rend="ital">D</hi>. Q. E. D.
+<note n="2. The numbers so produced." type="crit" place="unspecified" anchored="yes">The Greek has <foreign lang="greek">οἰ γενόμενοι ἐξ αὐτῶν</foreign>, <quote>the (numbers) produced <hi rend="ital">from them</hi>.</quote>
+ By <quote>from them</quote>
+ Euclid means <quote>from the original numbers,</quote>
+ though this is not very clear even in the Greek. I think ambiguity is best avoided by leaving out the words.</note></p>
+     </div3>
+     

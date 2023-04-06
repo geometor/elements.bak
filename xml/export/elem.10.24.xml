@@ -1,0 +1,9 @@
+<div3 id="elem.10.24" n="24" type="propositions i&#x2014;47">
+      <head>PROPOSITION 24.</head>
+      <p><hi rend="ital">The rectangle contained by medial straight lines commensurable in length is medial</hi>. </p>
+      <p>For let the rectangle <hi rend="ital">AC</hi> be contained by the medial straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> which are commensurable in length; I say that <hi rend="ital">AC</hi> is medial. </p>
+      <p>For on <hi rend="ital">AB</hi> let the square <hi rend="ital">AD</hi> be described; therefore <hi rend="ital">AD</hi> is medial. </p>
+      <p>And, since <hi rend="ital">AB</hi> is commensurable in length with <hi rend="ital">BC</hi>, while <hi rend="ital">AB</hi> is equal to <hi rend="ital">BD</hi>, therefore <hi rend="ital">DB</hi> is also commensurable in length with <hi rend="ital">BC</hi>; so that <hi rend="ital">DA</hi> is also commensurable with <hi rend="ital">AC</hi>. [<ref target="elem.6.1" targOrder="U">VI. 1</ref>, <ref target="elem.10.11" targOrder="U">X. 11</ref>] </p>
+      <p>But <hi rend="ital">DA</hi> is medial; therefore <hi rend="ital">AC</hi> is also medial. [<ref target="elem.10.23.p.1" targOrder="U">X. 23, Por.</ref>] Q. E. D.</p>
+     </div3>
+     

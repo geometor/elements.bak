@@ -1,0 +1,16 @@
+<div3 id="elem.3.24" n="24" type="proposition">
+      <head>PROPOSITION 24.</head>
+      <p><emph>Similar segments of circles on equal straight lines are equal to one another</emph>. </p>
+      <p>For let <emph>AEB</emph>, <emph>CFD</emph> be similar segments of circles on equal straight lines <emph>AB</emph>, <emph>CD</emph>; <emph>AEB</emph> is equal to the segment <emph>CFD</emph>. </p>
+      <p>For, if the segment <emph>AEB</emph> be applied to <emph>CFD</emph>, and if the point <emph>A</emph> be placed on <emph>C</emph> and the straight line <emph>AB</emph> on <emph>CD</emph>, <hi rend="center">the point <emph>B</emph> will also coincide with the point <emph>D</emph>, because <emph>AB</emph> is equal to <emph>CD</emph>;</hi>
+       <hi rend="center">and, <emph>AB</emph> coinciding with <emph>CD</emph>, the segment <emph>AEB</emph> will also coincide with <emph>CFD</emph>.</hi>
+       </p>
+      <p>For, if the straight line <emph>AB</emph> coincide with <emph>CD</emph> but the segment <emph>AEB</emph> do not coincide with <emph>CFD</emph>, it will either fall with it, or outside it; <emph>CGD</emph>, and a circle cuts a circle at more points than two : which is impossible. [<ref target="elem.3.10" targOrder="U">III. 10</ref>] </p>
+      <p>Therefore, if the straight line <emph>AB</emph> be applied to <emph>CD</emph>, the segment <emph>AEB</emph> will not fail to coincide with <emph>CFD</emph> also; <hi rend="center">therefore it will coincide with it and will be equal to it.</hi>
+       </p>
+      <p>Therefore etc. Q. E. D.
+<note n="15" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">fall awry</hi>, <foreign lang="greek">παραλλάξει</foreign>, the same word as used in the like case in <ref target="elem.1.8" targOrder="U">I. 8</ref>. The word implies that the applied figure will partly fall short of, and partly overlap, the figure to which it is applied.</p>
+       </note></p>
+     </div3>
+     

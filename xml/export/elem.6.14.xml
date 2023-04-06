@@ -1,0 +1,15 @@
+<div3 id="elem.6.14" n="14" type="proposition">
+      <head>PROPOSITION 14.</head>
+      <p><emph>In equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional; and equiangular parallelograms in which the sides about the equal angles are reciprocally proportional are equal</emph>. </p>
+      <p>Let <emph>AB</emph>, <emph>BC</emph> be equal and equiangular parallelograms having the angles at <emph>B</emph> equal, and let <emph>DB</emph>, <emph>BE</emph> be placed in a straight line; <hi rend="center">therefore <emph>FB</emph>, <emph>BG</emph> are also in a straight line. [<ref target="elem.1.14" targOrder="U">I. 14</ref>]</hi>
+      </p>
+      <p>I say that, in <emph>AB</emph>, <emph>BC</emph>, the sides about the equal angles are reciprocally proportional, that is to say, that, as <emph>DB</emph> is to <emph>BE</emph>, so is <emph>GB</emph> to <emph>BF</emph>. </p>
+      <p>For let the parallelogram <emph>FE</emph> be completed. </p>
+      <p>Since, then, the parallelogram <emph>AB</emph> is equal to the parallelogram <emph>BC</emph>, <hi rend="center">and <emph>FE</emph> is another area,</hi> therefore, as <emph>AB</emph> is to <emph>FE</emph>, so is <emph>BC</emph> to <emph>FE</emph>. [<ref target="elem.5.7" targOrder="U">V. 7</ref>] </p>
+      <p>But, as <emph>AB</emph> is to <emph>FE</emph>, so is <emph>DB</emph> to <emph>BE</emph>, [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] and, as <emph>BC</emph> is to <emph>FE</emph>, so is <emph>GB</emph> to <emph>BF</emph>. [<emph>id</emph>.] therefore also, as <emph>DB</emph> is to <emph>BE</emph>, so is <emph>GB</emph> to <emph>BF</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore in the parallelograms <emph>AB</emph>, <emph>BC</emph> the sides about the equal angles are reciprocally proportional. </p>
+      <p>Next, let <emph>GB</emph> be to <emph>BF</emph> as <emph>DB</emph> to <emph>BE</emph>; I say that the parallelogram <emph>AB</emph> is equal to the parallelogram <emph>BC</emph>. </p>
+      <p>For since, as <emph>DB</emph> is to <emph>BE</emph>, so is <emph>GB</emph> to <emph>BF</emph>, while, as <emph>DB</emph> is to <emph>BE</emph>, so is the parallelogram <emph>AB</emph> to the parallelogram <emph>FE</emph>, [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] and, as <emph>GB</emph> is to <emph>BF</emph>, so is the parallelogram <emph>BC</emph> to the parallelogram <emph>FE</emph>, [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] therefore also, as <emph>AB</emph> is to <emph>FE</emph>, so is <emph>BC</emph> to <emph>FE</emph>; [<ref target="elem.5.11" targOrder="U">V. 11</ref>] therefore the parallelogram <emph>AB</emph> is equal to the parallelogram <emph>BC</emph>. [<ref target="elem.5.9" targOrder="U">V. 9</ref>] </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

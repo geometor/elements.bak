@@ -1,0 +1,22 @@
+<div3 id="elem.7.19" n="19" type="proposition">
+      <head>PROPOSITION 19.</head>
+      <p>
+       <hi rend="ital">If four numbers be proportional, the number produced from the first and fourth will be equal to the number produced from the second and third; and, if the number produced from the first and fourth be equal to that produced from the second and third, the four numbers will be proportional.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi> be four numbers in proportion, so that, <hi rend="center">as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>;</hi> and let <hi rend="ital">A</hi> by multiplying <hi rend="ital">D</hi> make <hi rend="ital">E</hi>, and let <hi rend="ital">B</hi> by multiplying <hi rend="ital">C</hi> make <hi rend="ital">F</hi>; I say that <hi rend="ital">E</hi> is equal to <hi rend="ital">F</hi>. </p>
+      <p>For let <hi rend="ital">A</hi> by multiplying <hi rend="ital">C</hi> make <hi rend="ital">G</hi>. </p>
+      <p>Since, then, <hi rend="ital">A</hi> by multiplying <hi rend="ital">C</hi> has made <hi rend="ital">G</hi>, and by multiplying <hi rend="ital">D</hi> has made <hi rend="ital">E</hi>, the number <hi rend="ital">A</hi> by multiplying the two numbers <hi rend="ital">C</hi>, <hi rend="ital">D</hi> has made <hi rend="ital">G</hi>, <hi rend="ital">E</hi>. </p>
+      <p>Therefore, as <hi rend="ital">C</hi> is to <hi rend="ital">D</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">E</hi>. [<ref target="elem.7.17" targOrder="U">VII. 17</ref>] </p>
+      <p>But, as <hi rend="ital">C</hi> is to <hi rend="ital">D</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">B</hi>; therefore also, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">E</hi>. </p>
+      <p>Again, since <hi rend="ital">A</hi> by multiplying <hi rend="ital">C</hi> has made <hi rend="ital">G</hi>, but, further, <hi rend="ital">B</hi> has also by multiplying <hi rend="ital">C</hi> made <hi rend="ital">F</hi>, the two numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi> by multiplying a certain number <hi rend="ital">C</hi> have made <hi rend="ital">G</hi>, <hi rend="ital">F</hi>. </p>
+      <p>Therefore, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">F</hi>. [<ref target="elem.7.18" targOrder="U">VII. 18</ref>] </p>
+      <p>But further, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">E</hi> also; therefore also, as <hi rend="ital">G</hi> is to <hi rend="ital">E</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">F</hi>. </p>
+      <p>Therefore <hi rend="ital">G</hi> has to each of the numbers <hi rend="ital">E</hi>, <hi rend="ital">F</hi> the same ratio; <hi rend="center">therefore <hi rend="ital">E</hi> is equal to <hi rend="ital">F</hi>. [cf. <ref target="elem.5.9" targOrder="U">V. 9</ref>]</hi>
+      </p>
+      <p>Again, let <hi rend="ital">E</hi> be equal to <hi rend="ital">F</hi>; I say that, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>. </p>
+      <p>For, with the same construction, since <hi rend="ital">E</hi> is equal to <hi rend="ital">F</hi>, therefore, as <hi rend="ital">G</hi> is to <hi rend="ital">E</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">F</hi>. [cf. <ref target="elem.5.7" targOrder="U">V. 7</ref>] </p>
+      <p>But, as <hi rend="ital">G</hi> is to <hi rend="ital">E</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>, [<ref target="elem.7.17" targOrder="U">VII. 17</ref>] <hi rend="center">and, as <hi rend="ital">G</hi> is to <hi rend="ital">F</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">B</hi>. [<ref target="elem.7.18" targOrder="U">VII. 18</ref>]</hi>
+      </p>
+      <p>Therefore also, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>. Q. E. D.</p>
+     </div3>
+     

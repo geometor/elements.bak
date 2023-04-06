@@ -1,0 +1,9 @@
+<div3 id="elem.6.21" n="21" type="proposition">
+      <head>PROPOSITION 21.</head>
+      <p><emph>Figures which are similar to the same rectilineal figure are also similar to one another</emph>. </p>
+      <p>For let each of the rectilineal figures <emph>A</emph>, <emph>B</emph> be similar to <emph>C</emph>; I say that <emph>A</emph> is also similar to <emph>B</emph>. </p>
+      <p>For, since <emph>A</emph> is similar to <emph>C</emph>, it is equiangular with it and has the sides about the equal angles proportional. [<ref target="elem.6.def.1" targOrder="U">VI. Def. 1</ref>] </p>
+      <p>Again, since <emph>B</emph> is similar to <emph>C</emph>, it is equiangular with it and has the sides about the equal angles proportional. </p>
+      <p>Therefore each of the figures <emph>A</emph>, <emph>B</emph> is equiangular with <emph>C</emph> and with <emph>C</emph> has the sides about the equal angles proportional; <hi rend="center">therefore <emph>A</emph> is similar to <emph>B</emph>. Q. E. D.</hi></p>
+     </div3>
+     

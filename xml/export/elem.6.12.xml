@@ -1,0 +1,10 @@
+<div3 id="elem.6.12" n="12" type="proposition">
+      <head>PROPOSITION 12.</head>
+      <p><emph>To three given straight lines to find a fourth proportional</emph>. </p>
+      <p>Let <emph>A</emph>, <emph>B</emph>, <emph>C</emph> be the three given straight lines; thus it is required to find a fourth proportional to <emph>A</emph>, <emph>B</emph>, <emph>C</emph>. </p>
+      <p>Let two straight lines <emph>DE</emph>, <emph>DF</emph> be set out containing any angle <emph>EDF</emph>; let <emph>DG</emph> be made equal to <emph>A</emph>, <emph>GE</emph> equal to <emph>B</emph>, and further <emph>DH</emph> equal to <emph>C</emph>; let <emph>GH</emph> be joined, and let <emph>EF</emph> be drawn through <emph>E</emph> parallel to it. [<ref target="elem.1.31" targOrder="U">I. 31</ref>] </p>
+      <p>Since, then, <emph>GH</emph> has been drawn parallel to <emph>EF</emph>, one of the sides of the triangle <emph>DEF</emph>, therefore, as <emph>DG</emph> is to <emph>GE</emph>, so is <emph>DH</emph> to <emph>HF</emph>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] </p>
+      <p>But <emph>DG</emph> is equal to <emph>A</emph>, <emph>GE</emph> to <emph>B</emph>, and <emph>DH</emph> to <emph>C</emph>; therefore, as <emph>A</emph> is to <emph>B</emph>, so is <emph>C</emph> to <emph>HF</emph>. </p>
+      <p>Therefore to the three given straight lines <emph>A</emph>, <emph>B</emph>, <emph>C</emph> a fourth proportional <emph>HF</emph> has been found. Q. E. F.</p>
+     </div3>
+     

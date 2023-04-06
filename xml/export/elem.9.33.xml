@@ -1,0 +1,12 @@
+<div3 id="elem.9.33" n="33" type="proposition">
+      <head>PROPOSITION 33.</head>
+      <p>
+       <hi rend="ital">If a number have its half odd, it is even-times odd only.</hi>
+      </p>
+      <p>For let the number <hi rend="ital">A</hi> have its half odd; I say that <hi rend="ital">A</hi> is even-times odd only. </p>
+      <p>Now that it is even-times odd is manifest; for the half of it, being odd, measures it an even number of times. [<ref target="elem.7.def.9" targOrder="U">VII. Def. 9</ref>] </p>
+      <p>I say next that it is also even-times odd only. </p>
+      <p>For, if <hi rend="ital">A</hi> is even-times even also, it will be measured by an even number according to an even number; [<ref target="elem.7.def.8" targOrder="U">VII. Def. 8</ref>] so that the half of it will also be measured by an even number though it is odd: which is absurd. </p>
+      <p>Therefore <hi rend="ital">A</hi> is even-times odd only. Q. E. D.</p>
+     </div3>
+     

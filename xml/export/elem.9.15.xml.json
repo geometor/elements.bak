@@ -1,0 +1,109 @@
+{
+    "id": "elem.9.15",
+    "n": 15,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let , , , three numbers in continued proportion, be the least of those which have the same ratio with them; I say that any two of the numbers , ,  whatever added together are prime to the remaining number, namely ,  to ; ,  to ; and further ,  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let two numbers , , the least of those which have the same ratio with , , , be taken. [elem.8.2]",
+            "refs": [
+                "elem.8.2"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "It is then manifest that  by multiplying itself has made , and by multiplying  has made , and, further,  by multiplying itself has made . [elem.8.2]",
+            "refs": [
+                "elem.8.2"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since ,  are least, they are prime to one another. [elem.7.22]",
+            "refs": [
+                "elem.7.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, if two numbers be prime to one another, their sum is also prime to each; [elem.7.28] therefore  is also prime to each of the numbers , .",
+            "refs": [
+                "elem.7.28"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But further  is also prime to ; therefore ,  are prime to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, if two numbers be prime to any number, their product is also prime to the other; [elem.7.24] so that the product of ,  is prime to ; hence the product of ,  is also prime to the square on . [elem.7.25]",
+            "refs": [
+                "elem.7.24",
+                "elem.7.25"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the product of ,  is the square on  together with the product of , ; [elem.2.3] therefore the square on  together with the product of ,  is prime to the square on .",
+            "refs": [
+                "elem.2.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the square on  is , the product of ,  is , and the square on  is ; therefore ,  added together are prime to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that ,  added together are prime to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that ,  added together are also prime to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is prime to each of the numbers , , the square on  is also prime to the product of , . [elem.7.24 elem.7.25]",
+            "refs": [
+                "elem.7.24 elem.7.25"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the squares on ,  together with twice the product of ,  are equal to the square on ; [elem.2.4] therefore the squares on ,  together with twice the product of ,  are prime to the product of , .",
+            "refs": [
+                "elem.2.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": ", the squares on ,  together with once the product of ,  are prime to the product of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore,  again, the squares on ,  are prime to the product of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And the square on  is , the product of ,  is , and the square on  is .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  added together are prime to . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

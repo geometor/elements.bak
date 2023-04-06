@@ -1,0 +1,17 @@
+<div3 id="elem.3.2" n="2" type="proposition">
+      <head>PROPOSITION 2.</head>
+      <p><emph>If on the circumference of a circle two points be taken at random</emph>, <emph>the straight line joining the points will fall within the circle</emph>. </p>
+      <p>Let <emph>ABC</emph> be a circle, and let two points <emph>A</emph>, <emph>B</emph> be taken at random on its circumference; I say that the straight line joined from <emph>A</emph> to <emph>B</emph> will fall within the circle. </p>
+      <p>For suppose it does not, but, if possible, let it fall outside, as <emph>AEB</emph>; let the centre of the circle <emph>ABC</emph> be taken [<ref target="elem.3.1" targOrder="U">III. 1</ref>], and let it be <emph>D</emph>; let <emph>DA</emph>, <emph>DB</emph> be joined, and let <emph>DFE</emph> be drawn through. </p>
+      <p>Then, since <emph>DA</emph> is equal to <emph>DB</emph>, <hi rend="center">the angle <emph>DAE</emph> is also equal to the angle <emph>DBE</emph>. [<ref target="elem.1.5" targOrder="U">I. 5</ref>]</hi> And, since one side <emph>AEB</emph> of the triangle <emph>DAE</emph> is produced, <hi rend="center">the angle <emph>DEB</emph> is greater than the angle <emph>DAE</emph>. [<ref target="elem.1.16" targOrder="U">I. 16</ref>]</hi>
+      </p>
+      <p>But the angle <emph>DAE</emph> is equal to the angle <emph>DBE</emph>; <hi rend="center">therefore the angle <emph>DEB</emph> is greater than the angle <emph>DBE</emph>.</hi> And the greater angle is subtended by the greater side; [<ref target="elem.1.19" targOrder="U">I. 19</ref>] <hi rend="center">therefore <emph>DB</emph> is greater than <emph>DE</emph>. But <emph>DB</emph> is equal to <emph>DF</emph>;</hi>
+       <hi rend="center">therefore <emph>DF</emph> is greater than <emph>DE</emph>,</hi>
+       <hi rend="center">the less than the greater : which is impossible.</hi>
+      </p>
+      <p>Therefore the straight line joined from <emph>A</emph> to <emph>B</emph> will not fall outside the circle. </p>
+      <p>Similarly we can prove that neither will it fall on the circumference itself; <hi rend="center">therefore it will fall within.</hi>
+      </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

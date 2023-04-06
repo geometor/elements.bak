@@ -1,0 +1,67 @@
+{
+    "id": "elem.1.12",
+    "n": 12,
+    "type": "proposition",
+    "enunciation": "To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.",
+    "proof": [
+        {
+            "text": "Let `AB` be the given infinite straight line, and `C` the given point which is not on it; `AB`, from the given point `C` which is not on it, a perpendicular straight line.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "C",
+                "AB",
+                "C"
+            ]
+        },
+        {
+            "text": "For let a point `D` be taken `AB`, and with centre `C` and distance `CD` let the circle `EFG` be described; [elem.1.post.3]",
+            "refs": [
+                "elem.1.post.3"
+            ],
+            "emphs": [
+                "D",
+                "AB",
+                "C",
+                "CD",
+                "EFG"
+            ]
+        },
+        {
+            "text": "I say that `CH` has been drawn perpendicular to the given infinite straight line `AB` from the given point `C` which is not on it.",
+            "refs": [],
+            "emphs": [
+                "CH",
+                "AB",
+                "C"
+            ]
+        },
+        {
+            "text": "For, since `GH` is equal to `HE`, and `HC` is common,  and the base `CG` is equal to the base `CE`;",
+            "refs": [],
+            "emphs": [
+                "GH",
+                "HE",
+                "HC",
+                "CG",
+                "CE"
+            ]
+        },
+        {
+            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is elem.1.def.10]",
+            "refs": [
+                "elem.1.def.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore `CH` has been drawn perpendicular to the given infinite straight line `AB` from the given point `C` which is not on it.",
+            "refs": [],
+            "emphs": [
+                "CH",
+                "AB",
+                "C"
+            ]
+        }
+    ]
+}

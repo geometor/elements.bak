@@ -1,0 +1,43 @@
+{
+    "id": "elem.11.32",
+    "n": 32,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be parallelepipedal solids of the same height; I say that the parallelepipedal solids ,  are to one another as their bases, that is, that, as the base  is to the base , so is the solid  to the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  equal to  be applied to , [elem.1.45] and on  as base, and with the same height as that of , let the parallelepipedal solid  be completed.",
+            "refs": [
+                "elem.1.45"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Then the solid  is equal to the solid ; for they are on equal bases ,  and of the same height. [elem.11.31]",
+            "refs": [
+                "elem.11.31"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the parallelepipedal solid  is cut by the plane  which is parallel to opposite planes, therefore, as the base  is to the base , so is the solid  to the solid . [elem.11.25]",
+            "refs": [
+                "elem.11.25"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the base  is equal to the base , and the solid  to the solid ; therefore also, as the base  is to the base , so is the solid  to the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

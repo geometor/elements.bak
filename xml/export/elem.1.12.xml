@@ -1,0 +1,28 @@
+<div3 id="elem.1.12" n="12" type="proposition">
+      <head>Proposition 12.</head>
+      <div4 type="Enunc">
+       <p>To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>AB</emph> be the given infinite straight line, and <emph>C</emph> the given point which is not on it; <emph>AB</emph>, from the given point <emph>C</emph> which is not on it, a perpendicular straight line.</p>
+       <p>For let a point <emph>D</emph> be taken <emph>AB</emph>, and with centre <emph>C</emph> and distance <emph>CD</emph> let the circle <emph>EFG</emph> be described; [<ref target="elem.1.post.3" targOrder="U">Post. 3</ref>] <hi rend="center">let the straight line <emph>EG</emph>
+         <emph>H</emph>, [<ref target="elem.1.10" targOrder="U">I. 10</ref>] and let the straight lines <emph>CG</emph>, <emph>CH</emph>, <emph>CE</emph> be joined. [<ref target="elem.1.post.1" targOrder="U">Post. 1</ref>]</hi></p>
+       <p>I say that <emph>CH</emph> has been drawn perpendicular to the given infinite straight line <emph>AB</emph> from the given point <emph>C</emph> which is not on it. </p>
+       <p>For, since <emph>GH</emph> is equal to <emph>HE</emph>, and <emph>HC</emph> is common, <hi rend="center">the two sides <emph>GH</emph>, <emph>HC</emph> are equal to the two sides <emph>EH</emph>, <emph>HC</emph> respectively;</hi> and the base <emph>CG</emph> is equal to the base <emph>CE</emph>; <hi rend="center">therefore the angle <emph>CHG</emph> is equal to the angle <emph>EHC</emph>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>] And they are adjacent angles.</hi></p>
+       <p>But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is <ref target="elem.1.def.10" targOrder="U">Def. 10</ref>]</p>
+       <p>Therefore <emph>CH</emph> has been drawn perpendicular to the given infinite straight line <emph>AB</emph> from the given point <emph>C</emph> which is not on it.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. F.</p>
+      </div4>
+      <note n="2. a perpendicular straight line" type="crit" place="unspecified" anchored="yes">
+       <p>, <foreign lang="greek">κάθετον εὐθεῖαν γραμμἡν</foreign>. This is the full expression for a <emph>perpendicular</emph>, <foreign lang="greek">κάθετος</foreign> meaning <emph>let fall</emph> or <emph>let down</emph>, so that the expression corresponds to our <emph>plumb-line</emph>. <foreign lang="greek">ἡ κάθετος</foreign> is however constantly used alone for a perpendicular, <foreign lang="greek">γραμμἡ</foreign> being understood.</p>
+      </note>
+      <note n="10. on the other side of the straight line AB" type="crit" place="unspecified" anchored="yes">
+       <p>, literally <quote>towards the other parts of the straight line <emph>AB</emph>,</quote>
+ <foreign lang="greek">ἐπὶ τὰ ἕτερα μέρη τῆς</foreign> AB. Cf. <quote>on the same side</quote>
+ (<foreign lang="greek">ἐπὶ τὰ αὐτὰ μέρη</foreign>) in <ref target="elem.1.post.5" targOrder="U">Post. 5</ref> and <quote>in both directions</quote>
+ (<foreign lang="greek">ἐφ̓ ἑκάτερα τὰ μἑρη</foreign>) in <ref target="elem.1.def.23" targOrder="U">Def. 23</ref>.</p>
+      </note>
+     </div3>
+     

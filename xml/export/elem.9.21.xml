@@ -1,0 +1,10 @@
+<div3 id="elem.9.21" n="21" type="proposition">
+      <head>PROPOSITION 21.</head>
+      <p>
+       <hi rend="ital">If as many even numbers as we please be added together, the whole is even.</hi>
+      </p>
+      <p>For let as many even numbers as we please, <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">DE</hi>, be added together; I say that the whole <hi rend="ital">AE</hi> is even. </p>
+      <p>For, since each of the numbers <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">CD</hi>, <hi rend="ital">DE</hi> is even, it has a half part; [<ref target="elem.7.def.6" targOrder="U">VII. Def. 6</ref>] so that the whole <hi rend="ital">AE</hi> also has a half part. </p>
+      <p>But an even number is that which is divisible into two equal parts; [<hi rend="ital">id</hi>.] therefore <hi rend="ital">AE</hi> is even. Q. E. D.</p>
+     </div3>
+     

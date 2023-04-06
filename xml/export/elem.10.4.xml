@@ -1,0 +1,30 @@
+<div3 id="elem.10.4" n="4" type="propositions i&#x2014;47">
+      <head>PROPOSITION 4.</head>
+      <p><hi rend="ital">Given three commensurable magnitudes</hi>, <hi rend="ital">to find their greatest common measure</hi>. </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the three given commensurable magnitudes; thus it is required to find the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Let the greatest common measure of the two magnitudes <hi rend="ital">A</hi>, <hi rend="ital">B</hi> be taken, and let it be <hi rend="ital">D</hi>; [<ref target="elem.10.3" targOrder="U">X. 3</ref>] then <hi rend="ital">D</hi> either measures <hi rend="ital">C</hi>, or does not measure it. </p>
+      <p>First, let it measure it. </p>
+      <p>Since then <hi rend="ital">D</hi> measures <hi rend="ital">C</hi>, while it also measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, therefore <hi rend="ital">D</hi> is a common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>And it is manifest that it is also the greatest; for a greater magnitude than the magnitude <hi rend="ital">D</hi> does not measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. </p>
+      <p>Next, let <hi rend="ital">D</hi> not measure <hi rend="ital">C</hi>. </p>
+      <p>I say first that <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are commensurable. </p>
+      <p>For, since <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are commensurable, some magnitude will measure them, and this will of course measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi> also; so that it will also measure the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, namely <hi rend="ital">D</hi>. [<ref target="elem.10.3.p.1" targOrder="U">X. 3, Por.</ref>] </p>
+      <p>But it also measures <hi rend="ital">C</hi>; so that the said magnitude will measure <hi rend="ital">C</hi>, <hi rend="ital">D</hi>; therefore <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are commensurable. </p>
+      <p>Now let their greatest common measure be taken, and let it be <hi rend="ital">E</hi>. [<ref target="elem.10.3" targOrder="U">X. 3</ref>] </p>
+      <p>Since then <hi rend="ital">E</hi> measures <hi rend="ital">D</hi>, while <hi rend="ital">D</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, therefore <hi rend="ital">E</hi> will also measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. </p>
+      <p>But it measures <hi rend="ital">C</hi> also; therefore <hi rend="ital">E</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; therefore <hi rend="ital">E</hi> is a common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>I say next that it is also the greatest. </p>
+      <p>For, if possible, let there be some magnitude <hi rend="ital">F</hi> greater than <hi rend="ital">E</hi>, and let it measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Now, since <hi rend="ital">F</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, it will also measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, and will measure the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. [<ref target="elem.10.3.p.1" targOrder="U">X. 3, Por.</ref>] </p>
+      <p>But the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi> is <hi rend="ital">D</hi>; therefore <hi rend="ital">F</hi> measures <hi rend="ital">D</hi>. </p>
+      <p>But it measures <hi rend="ital">C</hi> also; therefore <hi rend="ital">F</hi> measures <hi rend="ital">C</hi>, <hi rend="ital">D</hi>; therefore <hi rend="ital">F</hi> will also measure the greatest common measure of <hi rend="ital">C</hi>, <hi rend="ital">D</hi>. [<ref target="elem.10.3.p.1" targOrder="U">X. 3, Por.</ref>] </p>
+      <p>But that is <hi rend="ital">E</hi>; therefore <hi rend="ital">F</hi> will measure <hi rend="ital">E</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore no magnitude greater than the magnitude <hi rend="ital">E</hi> will measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; therefore <hi rend="ital">E</hi> is the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> if <hi rend="ital">D</hi> do not measure <hi rend="ital">C</hi>, and, if it measure it, <hi rend="ital">D</hi> is itself the greatest common measure. </p>
+      <p>Therefore the greatest common measure of the three given commensurable magnitudes has been found. </p>
+      <div4 id="elem.10.4.p.1" type="porism">
+       <head>PORISM.</head>
+       <p>From this it is manifest that, if a magnitude measure three magnitudes, it will also measure their greatest common measure. </p>
+       <p>Similarly too, with more magnitudes, the greatest common measure can be found, and the porism can be extended. Q. E. D.</p>
+      </div4>
+      </div3>
+     

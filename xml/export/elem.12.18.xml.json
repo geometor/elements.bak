@@ -1,0 +1,89 @@
+{
+    "id": "elem.12.18",
+    "n": 18,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let the spheres ,  be conceived, and let ,  be their diameters; I say that the sphere  has to the sphere  the ratio triplicate of that which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if the sphere  has not to the sphere  the ratio triplicate of that which  has to , then the sphere  will have either to some less sphere than the sphere , or to a greater, the ratio triplicate of that which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let it have that ratio to a less sphere , let  be conceived about the same centre with , let there be inscribed in the greater sphere  a polyhedral solid which does not touch the lesser sphere  at its surface, [elem.12.17]  a polyhedral solid similar to the polyhedral solid in the sphere ; therefore the polyhedral solid in  has to the polyhedral solid in  the ratio triplicate of that which  has to . [elem.12.17.p.1]",
+            "refs": [
+                "elem.12.17",
+                "elem.12.17.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the sphere  also has to the sphere  the ratio triplicate of that which  has to ; therefore, as the sphere  is to the sphere , so is the polyhedral solid in the sphere  to the polyhedral solid in the sphere ; and, alternately, as the sphere  is to the polyhedron in it, so is the sphere  to the polyhedral solid in the sphere . [elem.5.16]",
+            "refs": [
+                "elem.5.16"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the sphere  is greater than the polyhedron in it; therefore the sphere  is also greater than the polyhedron in the sphere .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it is also less, for it is enclosed by it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the sphere  has not to a less sphere than the sphere  the ratio triplicate of that which the diameter  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that neither has the sphere  to a less sphere than the sphere  the ratio triplicate of that which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that neither has the sphere  to any greater sphere than the sphere  the ratio triplicate of that which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let it have that ratio to a greater, ; therefore, inversely, the sphere  has to the sphere  the ratio triplicate of that which the diameter  has to the diameter .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, inasmuch as  is greater than , therefore, as the sphere  is to the sphere , so is the sphere  to some less sphere than the sphere , as was before proved. [elem.12.2.l.1]",
+            "refs": [
+                "elem.12.2.l.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the sphere  also has to some less sphere than the sphere  the ratio triplicate of that which  has to : which was proved impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the sphere  has not to any sphere greater than the sphere  the ratio triplicate of that which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it was proved that neither has it that ratio to a less sphere.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the sphere  has to the sphere  the ratio triplicate of that which  has to . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

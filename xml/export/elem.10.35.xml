@@ -1,0 +1,23 @@
+<div3 id="elem.10.35" n="35" type="propositions i&#x2014;47">
+      <head>PROPOSITION 35.</head>
+      <p><hi rend="ital">To find two straight lines incommensurable in square which make the sum of the squares on them medial and the rectangle contained by them medial and moreover incommensurable with the sum of the squares on them</hi>. </p>
+      <p>Let there be set out two medial straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> commensurable in square only, containing a medial rectangle, and such that the square on <hi rend="ital">AB</hi> is greater than the square on <hi rend="ital">BC</hi> by the square on a straight line incommensurable with <hi rend="ital">AB</hi>; [<ref target="elem.10.32" targOrder="U">X. 32</ref>
+, <hi rend="ital">ad fin</hi>.] <hi rend="ital">ADB</hi> be described on <hi rend="ital">AB</hi>, and let the rest of the construction be as above. </p>
+      <p>Then, since <hi rend="ital">AF</hi> is incommensurable in length with <hi rend="ital">FB</hi>, [<ref target="elem.10.18" targOrder="U">X. 18</ref>
+] <hi rend="ital">AD</hi> is also incommensurable in square with <hi rend="ital">DB</hi>. [<ref target="elem.10.11" targOrder="U">X. 11</ref>
+] </p>
+      <p>And, since the square on <hi rend="ital">AB</hi> is medial, therefore the sum of the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> is also medial. [<ref target="elem.3.31" targOrder="U">III. 31</ref>
+, <ref target="elem.1.47" targOrder="U">I. 47</ref>
+] </p>
+      <p>And, since the rectangle <hi rend="ital">AF</hi>, <hi rend="ital">FB</hi> is equal to the square on each of the straight lines <hi rend="ital">BE</hi>, <hi rend="ital">DF</hi>, therefore <hi rend="ital">BE</hi> is equal to <hi rend="ital">DF</hi>; therefore <hi rend="ital">BC</hi> is double of <hi rend="ital">FD</hi>, so that the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is also double of the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">FD</hi>. </p>
+      <p>But the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is medial; therefore the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">FD</hi> is also medial. [<ref target="elem.10.32.p.1" targOrder="U">X. 32, Por.</ref>] </p>
+      <p>And it is equal to the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>; [<ref target="elem.10.32.l.1" targOrder="U">Lemma after X. 32</ref>
+] therefore the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> is also medial. </p>
+      <p>And, since <hi rend="ital">AB</hi> is incommensurable in length with <hi rend="ital">BC</hi>, while <hi rend="ital">CB</hi> is commensurable with <hi rend="ital">BE</hi>, therefore <hi rend="ital">AB</hi> is also incommensurable in length with <hi rend="ital">BE</hi>, [<ref target="elem.10.13" targOrder="U">X. 13</ref>
+] so that the square on <hi rend="ital">AB</hi> is also incommensurable with the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BE</hi>. [<ref target="elem.10.11" targOrder="U">X. 11</ref>
+] </p>
+      <p>But the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> are equal to the square on <hi rend="ital">AB</hi>, [<ref target="elem.1.47" targOrder="U">I. 47</ref>
+] and the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">FD</hi>, that is, the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>, is equal to the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BE</hi>; therefore the sum of the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> is incommensurable with the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>. </p>
+      <p>Therefore two straight lines <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> incommensurable in square have been found which make the sum of the squares on them medial and the rectangle contained by them medial and moreover incommensurable with the sum of the squares on them. Q. E. D.</p>
+     </div3>
+     

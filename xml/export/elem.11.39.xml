@@ -1,0 +1,12 @@
+<div3 id="elem.11.39" n="39" type="proposition">
+      <head>PROPOSITION 39.</head>
+      <p><hi rend="ital">If there be two prisms of equal height</hi>, <hi rend="ital">and one have a parallelogram as base and the other a triangle</hi>, <hi rend="ital">and if the parallelogram be double of the triangle</hi>, <hi rend="ital">the prisms will be equal.</hi>
+      </p>
+      <p>Let <hi rend="ital">ABCDEF</hi>, <hi rend="ital">GHKLMN</hi> be two prisms of equal height, let one have the parallelogram <hi rend="ital">AF</hi> as base, and the other the triangle <hi rend="ital">GHK</hi>, and let the parallelogram <hi rend="ital">AF</hi> be double of the triangle <hi rend="ital">GHK</hi>; I say that the prism <hi rend="ital">ABCDEF</hi> is equal to the prism <hi rend="ital">GHKLMN</hi>. </p>
+      <p>For let the solids <hi rend="ital">AO</hi>, <hi rend="ital">GP</hi> be completed. </p>
+      <p>Since the parallelogram <hi rend="ital">AF</hi> is double of the triangle <hi rend="ital">GHK</hi>, while the parallelogram <hi rend="ital">HK</hi> is also double of the triangle <hi rend="ital">GHK</hi>, [<ref target="elem.1.34" targOrder="U">I. 34</ref>] therefore the parallelogram <hi rend="ital">AF</hi> is equal to the parallelogram <hi rend="ital">HK</hi>. </p>
+      <p>But parallelepipedal solids which are on equal bases and of the same height are equal to one another; [<ref target="elem.11.31" targOrder="U">XI. 31</ref>] therefore the solid <hi rend="ital">AO</hi> is equal to the solid <hi rend="ital">GP</hi>. </p>
+      <p>And the prism <hi rend="ital">ABCDEF</hi> is half of the solid <hi rend="ital">AO</hi>, and the prism <hi rend="ital">GHKLMN</hi> is half of the solid <hi rend="ital">GP</hi>; [<ref target="elem.11.28" targOrder="U">XI. 28</ref>] therefore the prism <hi rend="ital">ABCDEF</hi> is equal to the prism <hi rend="ital">GHKLMN</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+    

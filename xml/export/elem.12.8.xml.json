@@ -1,0 +1,74 @@
+{
+    "id": "elem.12.8",
+    "n": 8,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let there be similar and similarly situated pyramids of , , are the bases and the points ,  the vertices; I say that the pyramid  has to the pyramid  the ratio triplicate of that which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the parallelepipedal solids ,  be completed.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the pyramid  is similar to the pyramid , therefore the angle  is equal to the angle , the angle  to the angle , and the angle  to the angle ; and, as  is to , so is  to , and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And since, as  is to , so is  to , and the sides are proportional about equal angles, therefore the parallelogram  is similar to the parallelogram .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  is also similar to , and  to ; therefore the three parallelograms , ,  are similar to the three , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the three parallelograms , ,  are equal and similar to their three opposites, and the three , ,  are equal and similar to their three opposites. [elem.11.24]",
+            "refs": [
+                "elem.11.24"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the solids ,  are contained by similar planes equal in multitude.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the solid  is similar to the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But similar parallelepipedal solids are in the triplicate ratio of their corresponding sides. [elem.11.33]",
+            "refs": [
+                "elem.11.33"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the solid  has to the solid  the ratio triplicate of that which the corresponding side  has to the corresponding side .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as the solid  is to the solid , so is the pyramid  to the pyramid , inasmuch as the pyramid is a sixth part of the solid, because the prism which is half of the parallelepipedal solid [elem.11.28] is also triple of the pyramid. [elem.12.7]",
+            "refs": [
+                "elem.11.28",
+                "elem.12.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the pyramid  also has to the pyramid  the ratio triplicate of that which  has to . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

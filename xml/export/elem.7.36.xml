@@ -1,0 +1,32 @@
+<div3 id="elem.7.36" n="36" type="proposition">
+      <head>PROPOSITION 36.</head>
+      <p>
+       <hi rend="ital">Given three numbers, to find the least number which they measure.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the three given numbers; thus it is required to find the least number which they measure. </p>
+      <p>Let <hi rend="ital">D</hi>, the least number measured by the two numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, be taken. [<ref target="elem.7.34" targOrder="U">VII. 34</ref>] </p>
+      <p>Then <hi rend="ital">C</hi> either measures, or does not measure, <hi rend="ital">D</hi>. </p>
+      <p>First, let it measure it. </p>
+      <p>But <hi rend="ital">A</hi>, <hi rend="ital">B</hi> also measure <hi rend="ital">D</hi>; therefore <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> measure <hi rend="ital">D</hi>. </p>
+      <p>I say next that it is also the least that they measure. </p>
+      <p>For, if not, <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> will measure some number which is less than <hi rend="ital">D</hi>. </p>
+      <p>Let them measure <hi rend="ital">E</hi>. </p>
+      <p>Since <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> measure <hi rend="ital">E</hi>, therefore also <hi rend="ital">A</hi>, <hi rend="ital">B</hi> measure <hi rend="ital">E</hi>. </p>
+      <p>Therefore the least number measured by <hi rend="ital">A</hi>, <hi rend="ital">B</hi> will also measure <hi rend="ital">E</hi>. [<ref target="elem.7.35" targOrder="U">VII. 35</ref>] </p>
+      <p>But <hi rend="ital">D</hi> is the least number measured by <hi rend="ital">A</hi>, <hi rend="ital">B</hi>; therefore <hi rend="ital">D</hi> will measure <hi rend="ital">E</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> will not measure any number which is less than <hi rend="ital">D</hi>; <hi rend="center">therefore <hi rend="ital">D</hi> is the least that <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> measure.</hi>
+      </p>
+      <p>Again, let <hi rend="ital">C</hi> not measure <hi rend="ital">D</hi>, and let <hi rend="ital">E</hi>, the least number measured by <hi rend="ital">C</hi>, <hi rend="ital">D</hi>, be taken. [<ref target="elem.7.34" targOrder="U">VII. 34</ref>] </p>
+      <p>Since <hi rend="ital">A</hi>, <hi rend="ital">B</hi> measure <hi rend="ital">D</hi>, and <hi rend="ital">D</hi> measures <hi rend="ital">E</hi>, therefore also <hi rend="ital">A</hi>, <hi rend="ital">B</hi> measure <hi rend="ital">E</hi>. </p>
+      <p>But <hi rend="ital">C</hi> also measures <hi rend="ital">E</hi>; therefore also <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> measure <hi rend="ital">E</hi>. </p>
+      <p>I say next that it is also the least that they measure. </p>
+      <p>For, if not, <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> will measure some number which is less than <hi rend="ital">E</hi>. </p>
+      <p>Let them measure <hi rend="ital">F</hi>. </p>
+      <p>Since <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> measure <hi rend="ital">F</hi>, therefore also <hi rend="ital">A</hi>, <hi rend="ital">B</hi> measure <hi rend="ital">F</hi>; therefore the least number measured by <hi rend="ital">A</hi>, <hi rend="ital">B</hi> will also measure <hi rend="ital">F</hi>. [<ref target="elem.7.35" targOrder="U">VII. 35</ref>] </p>
+      <p>But <hi rend="ital">D</hi> is the least number measured by <hi rend="ital">A</hi>, <hi rend="ital">B</hi>; therefore <hi rend="ital">D</hi> measures <hi rend="ital">F</hi>. </p>
+      <p>But <hi rend="ital">C</hi> also measures <hi rend="ital">F</hi>; therefore <hi rend="ital">D</hi>, <hi rend="ital">C</hi> measure <hi rend="ital">F</hi>, so that the least number measured by <hi rend="ital">D</hi>, <hi rend="ital">C</hi> will also measure <hi rend="ital">F</hi>. </p>
+      <p>But <hi rend="ital">E</hi> is the least number measured by <hi rend="ital">C</hi>, <hi rend="ital">D</hi>; therefore <hi rend="ital">E</hi> measures <hi rend="ital">F</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> will not measure any number which is less than <hi rend="ital">E</hi>. </p>
+      <p>Therefore <hi rend="ital">E</hi> is the least that is measured by <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. Q. E. D.</p>
+     </div3>
+     

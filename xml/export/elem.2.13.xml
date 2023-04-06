@@ -1,0 +1,13 @@
+<div3 id="elem.2.13" n="13" type="proposition">
+      <head>Proposition 13.</head>
+      <p><emph>In acute-angled triangles the square on the side subtending the acute angle is less than the squares on the sides containing the acute angle by twice the rectangle contained by one of the sides about the acute angle</emph>, <emph>namely that on which the perpendicular falls</emph>, <emph>and the straight line cut off within by the perpendicular towards the acutc angle</emph>.</p>
+      <p>Let <emph>ABC</emph> be an acute-angled triangle having the angle at <emph>B</emph> acute, and let <emph>AD</emph> be drawn from the point <emph>A</emph> perpendicular to <emph>BC</emph>;</p>
+      <p>I say that the square on <emph>AC</emph> is less than the squares on <emph>CB</emph>, <emph>BA</emph> by twice the rectangle contained by <emph>CB</emph>, <emph>BD</emph>.</p>
+      <p>For, since the straight line <emph>CB</emph> has been cut at random at <emph>D</emph>, <hi rend="center">the squares on <emph>CB</emph>, <emph>BD</emph> are equal to twice the rectangle contained by <emph>CB</emph>, <emph>BD</emph> and the square on <emph>DC</emph>. [<ref target="elem.2.7" targOrder="U">II. 7</ref>]</hi>
+       </p>
+      <p>Let the square on <emph>DA</emph> be added to each; therefore the squares on <emph>CB</emph>, <emph>BD</emph>, <emph>DA</emph> are equal to twice the rectangle contained by <emph>CB</emph>, <emph>BD</emph> and the squares on <emph>AD</emph>, <emph>DC</emph>.</p>
+      <p>But the square on <emph>AB</emph> is equal to the squares on <emph>BD</emph>, <emph>DA</emph>, for the angle at <emph>D</emph> is right; [<ref target="elem.1.47" targOrder="U">I. 47</ref>] and the square on <emph>AC</emph> is equal to the squares on <emph>AD</emph>, <emph>DC</emph>; therefore the squares on <emph>CB</emph>, <emph>BA</emph> are equal to the square on <emph>AC</emph> and twice the rectangle <emph>CB</emph>, <emph>BD</emph>,</p>
+      <p>so that the square on <emph>AC</emph> alone is less than the squares on <emph>CB</emph>, <emph>BA</emph> by twice the rectangle contained by <emph>CB</emph>, <emph>BD</emph>.</p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

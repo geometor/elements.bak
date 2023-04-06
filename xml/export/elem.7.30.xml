@@ -1,0 +1,17 @@
+<div3 id="elem.7.30" n="30" type="proposition">
+      <head>PROPOSITION 30.</head>
+      <p>
+       <hi rend="ital">If two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers.</hi>
+      </p>
+      <p>For let the two numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi> by multiplying one another make <hi rend="ital">C</hi>, and let any prime number <hi rend="ital">D</hi> measure <hi rend="ital">C</hi>; I say that <hi rend="ital">D</hi> measures one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. </p>
+      <p>For let it not measure <hi rend="ital">A</hi>. </p>
+      <p>Now <hi rend="ital">D</hi> is prime; therefore <hi rend="ital">A</hi>, <hi rend="ital">D</hi> are prime to one another. [<ref target="elem.7.29" targOrder="U">VII. 29</ref>] </p>
+      <p>And, as many times as <hi rend="ital">D</hi> measures <hi rend="ital">C</hi>, so many units let there be in <hi rend="ital">E</hi>. </p>
+      <p>Since then <hi rend="ital">D</hi> measures <hi rend="ital">C</hi> according to the units in <hi rend="ital">E</hi>, therefore <hi rend="ital">D</hi> by multiplying <hi rend="ital">E</hi> has made <hi rend="ital">C</hi>. [<ref target="elem.7.def.15" targOrder="U">VII. Def. 15</ref>] </p>
+      <p>Further, <hi rend="ital">A</hi> by multiplying <hi rend="ital">B</hi> has also made <hi rend="ital">C</hi>; therefore the product of <hi rend="ital">D</hi>, <hi rend="ital">E</hi> is equal to the product of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. </p>
+      <p>Therefore, as <hi rend="ital">D</hi> is to <hi rend="ital">A</hi>, so is <hi rend="ital">B</hi> to <hi rend="ital">E</hi>. [<ref target="elem.7.19" targOrder="U">VII. 19</ref>] </p>
+      <p>But <hi rend="ital">D</hi>, <hi rend="ital">A</hi> are prime to one another, primes are also least, [<ref target="elem.7.21" targOrder="U">VII. 21</ref>] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [<ref target="elem.7.20" targOrder="U">VII. 20</ref>] therefore <hi rend="ital">D</hi> measures <hi rend="ital">B</hi>. </p>
+      <p>Similarly we can also show that, if <hi rend="ital">D</hi> do not measure <hi rend="ital">B</hi>, it will measure <hi rend="ital">A</hi>. </p>
+      <p>Therefore <hi rend="ital">D</hi> measures one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. Q. E. D.</p>
+     </div3>
+     

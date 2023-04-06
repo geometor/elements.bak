@@ -1,0 +1,51 @@
+{
+    "id": "elem.10.11",
+    "n": 11,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let , , ,  be four magnitudes in proportion, so that, as  is to , so is  to , and let  be commensurable with ;  will also be commensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is commensurable with , therefore  has to  the ratio which a number has to a number. [elem.10.5]",
+            "refs": [
+                "elem.10.5"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore  also has to  the ratio which a number has to a number; therefore  is commensurable with . [elem.10.6]",
+            "refs": [
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  be incommensurable with ; I say that  will also be incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is incommensurable with , therefore  has not to  the ratio which a number has to a number. [elem.10.7]",
+            "refs": [
+                "elem.10.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore neither has  to  the ratio which a number has to a number; therefore  is incommensurable with . [elem.10.8]",
+            "refs": [
+                "elem.10.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

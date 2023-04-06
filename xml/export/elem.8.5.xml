@@ -1,0 +1,19 @@
+<div3 id="elem.8.5" n="5" type="proposition">
+      <head>PROPOSITION 5.</head>
+      <p>
+       <hi rend="ital">Plane numbers have to one another the ratio compounded of the ratios of their sides.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi> be plane numbers, and let the numbers <hi rend="ital">C</hi>, <hi rend="ital">D</hi> be the sides of <hi rend="ital">A</hi>, and <hi rend="ital">E</hi>, <hi rend="ital">F</hi> of <hi rend="ital">B</hi>; <hi rend="ital">A</hi> has to <hi rend="ital">B</hi> the ratio compounded of the ratios of the sides. </p>
+      <p>For, the ratios being given which <hi rend="ital">C</hi> has to <hi rend="ital">E</hi> and <hi rend="ital">D</hi> to <hi rend="ital">F</hi>, let the least numbers <hi rend="ital">G</hi>, <hi rend="ital">H</hi>, <hi rend="ital">K</hi> that are continuously <hi rend="ital">C</hi> : <hi rend="ital">E</hi>, <hi rend="ital">D</hi> : <hi rend="ital">F</hi> be taken, so that, <hi rend="center">as <hi rend="ital">C</hi> is to <hi rend="ital">E</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">H</hi>,</hi> and, as <hi rend="ital">D</hi> is to <hi rend="ital">F</hi>, so is <hi rend="ital">H</hi> to <hi rend="ital">K</hi>. [<ref target="elem.8.4" targOrder="U">VIII. 4</ref>] </p>
+      <p>And let <hi rend="ital">D</hi> by multiplying <hi rend="ital">E</hi> make <hi rend="ital">L</hi>. </p>
+      <p>Now, since <hi rend="ital">D</hi> by multiplying <hi rend="ital">C</hi> has made <hi rend="ital">A</hi>, and by multiplying <hi rend="ital">E</hi> has made <hi rend="ital">L</hi>, therefore, as <hi rend="ital">C</hi> is to <hi rend="ital">E</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">L</hi>. [<ref target="elem.7.17" targOrder="U">VII. 17</ref>] </p>
+      <p>But, as <hi rend="ital">C</hi> is to <hi rend="ital">E</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">H</hi>; therefore also, as <hi rend="ital">G</hi> is to <hi rend="ital">H</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">L</hi>. </p>
+      <p>Again, since <hi rend="ital">E</hi> by multiplying <hi rend="ital">D</hi> has made <hi rend="ital">L</hi>, and further by multiplying <hi rend="ital">F</hi> has made <hi rend="ital">B</hi>, therefore, as <hi rend="ital">D</hi> is to <hi rend="ital">F</hi>, so is <hi rend="ital">L</hi> to <hi rend="ital">B</hi>. [<ref target="elem.7.17" targOrder="U">VII. 17</ref>] </p>
+      <p>But, as <hi rend="ital">D</hi> is to <hi rend="ital">F</hi>, so is <hi rend="ital">H</hi> to <hi rend="ital">K</hi>; therefore also, as <hi rend="ital">H</hi> is to <hi rend="ital">K</hi>, so is <hi rend="ital">L</hi> to <hi rend="ital">B</hi>. </p>
+      <p>But it was also proved that, <hi rend="center">as <hi rend="ital">G</hi> is to <hi rend="ital">H</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">L</hi>;</hi> therefore, <foreign lang="la">ex aequali</foreign>, <hi rend="center">as <hi rend="ital">G</hi> is to <hi rend="ital">K</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">B</hi>. [<ref target="elem.7.14" targOrder="U">VII. 14</ref>]</hi>
+      </p>
+      <p>But <hi rend="ital">G</hi> has to <hi rend="ital">K</hi> the ratio compounded of the ratios of the <hi rend="ital">A</hi> also has to <hi rend="ital">B</hi> the ratio compounded of the ratios of the sides. Q. E. D.
+<note n="1, 5, 29, 31" type="crit" place="unspecified" anchored="yes">1, 5, 29, 31. <lemma from="ROOT" to="DITTO" targOrder="U">compounded of the ratios of their sides.</lemma> As in <ref target="elem.6.23" targOrder="U">VI. 23</ref>, the Greek has the less exact phrase, <quote>compounded of their sides.</quote>
+</note></p>
+     </div3>
+     

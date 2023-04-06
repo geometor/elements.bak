@@ -1,0 +1,24 @@
+<div3 id="elem.10.57" n="57" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 57.</head>
+      <p>
+       <hi rend="ital">If an area be contained by a rational straight line and the fourth binomial, the <quote>side</quote>
+ of the area is the irrational straight line called major.</hi>
+      </p>
+      <p>For let the area <hi rend="ital">AC</hi> be contained by the rational straight line <hi rend="ital">AB</hi> and the fourth binomial <hi rend="ital">AD</hi> divided into its terms at <hi rend="ital">E</hi>, of which terms let <hi rend="ital">AE</hi> be the greater; I say that the <quote>side</quote>
+ of the area <hi rend="ital">AC</hi> is the irrational straight line called major. </p>
+      <p>For, since <hi rend="ital">AD</hi> is a fourth binomial straight line, therefore <hi rend="ital">AE</hi>, <hi rend="ital">ED</hi> are rational straight lines commensurable in square only, the square on <hi rend="ital">AE</hi> is greater than the square on <hi rend="ital">ED</hi> by the square on a straight line incommensurable with <hi rend="ital">AE</hi>, and <hi rend="ital">AE</hi> is commensurable in length with <hi rend="ital">AB</hi>. [<ref target="elem.10.def.2.4" targOrder="U">X. Deff. II. 4</ref>] </p>
+      <p>Let <hi rend="ital">DE</hi> be bisected at <hi rend="ital">F</hi>, and let there be applied to <hi rend="ital">AE</hi> a parallelogram, the rectangle <hi rend="ital">AG</hi>, <hi rend="ital">GE</hi>, equal to the square on <hi rend="ital">EF</hi>; therefore <hi rend="ital">AG</hi> is incommensurable in length with <hi rend="ital">GE</hi>. [<ref target="elem.10.18" targOrder="U">X. 18</ref>] </p>
+      <p>Let <hi rend="ital">GH</hi>, <hi rend="ital">EK</hi>, <hi rend="ital">FL</hi> be drawn parallel to <hi rend="ital">AB</hi>, and let the rest of the construction be as before; it is then manifest that <hi rend="ital">MO</hi> is the <quote>side</quote>
+ of the area <hi rend="ital">AC</hi>. </p>
+      <p>It is next to be proved that <hi rend="ital">MO</hi> is the irrational straight line called major. </p>
+      <p>Since <hi rend="ital">AG</hi> is incommensurable with <hi rend="ital">EG</hi>, <hi rend="ital">AH</hi> is also incommensurable with <hi rend="ital">GK</hi>, that is, <hi rend="ital">SN</hi> with <hi rend="ital">NQ</hi>; [<ref target="elem.6.1" targOrder="U">VI. 1</ref>, <ref target="elem.10.11" targOrder="U">X. 11</ref>] therefore <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> are incommensurable in square. </p>
+      <p>And, since <hi rend="ital">AE</hi> is commensurable with <hi rend="ital">AB</hi>, <hi rend="ital">AK</hi> is rational; [<ref target="elem.10.19" targOrder="U">X. 19</ref>] and it is equal to the squares on <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>; therefore the sum of the squares on <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> is also rational. </p>
+      <p>And, since <hi rend="ital">DE</hi> is incommensurable in length with <hi rend="ital">AB</hi>, that is, with <hi rend="ital">EK</hi>, while <hi rend="ital">DE</hi> is commensurable with <hi rend="ital">EF</hi>, therefore <hi rend="ital">EF</hi> is incommensurable in length with <hi rend="ital">EK</hi>. [<ref target="elem.10.13" targOrder="U">X. 13</ref>] </p>
+      <p>Therefore <hi rend="ital">EK</hi>, <hi rend="ital">EF</hi> are rational straight lines commensurable in square only; therefore <hi rend="ital">LE</hi>, that is, <hi rend="ital">MR</hi>, is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+      <p>And it is contained by <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>; therefore the rectangle <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> is medial. </p>
+      <p>And the [sum] of the squares on <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> is rational, and <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> are incommensurable in square. </p>
+      <p>But, if two straight lines incommensurable in square and making the sum of the squares on them rational, but the rectangle contained by them medial, be added together, the whole is irrational and is called major. [<ref target="elem.10.39" targOrder="U">X. 39</ref>] </p>
+      <p>Therefore <hi rend="ital">MO</hi> is the irrational straight line called major and is the <quote>side</quote>
+ of the area <hi rend="ital">AC.</hi> Q. E. D.</p>
+     </div3>
+     

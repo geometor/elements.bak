@@ -1,0 +1,67 @@
+{
+    "id": "elem.11.16",
+    "n": 16,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "For let the two parallel planes ,  be cut by the plane , and let ,  be their common sections; I say that  is parallel to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if not, ,  will, when produced, meet either in the direction of ,  or of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let them be produced, as in the direction of , , and let them, first, meet at .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is in the plane , therefore all the points on  are also in the plane . [elem.11.1]",
+            "refs": [
+                "elem.11.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is one of the points on the straight line ; therefore  is in the plane .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  is also in the plane ; therefore the planes ,  will meet when produced.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But they do not meet, because they are, by hypothesis, parallel; therefore the straight lines ,  will not meet when produced in the direction of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that neither will the straight lines ,  meet when produced in the direction of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But straight lines which do not meet in either direction are parallel. [elem.1.def.23]",
+            "refs": [
+                "elem.1.def.23"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is parallel to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

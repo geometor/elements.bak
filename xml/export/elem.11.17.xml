@@ -1,0 +1,14 @@
+<div3 id="elem.11.17" n="17" type="proposition">
+      <head>PROPOSITION 17.</head>
+      <p><hi rend="ital">If two straight lines be cut by parallel planes</hi>, <hi rend="ital">they will be cut in the same ratios.</hi>
+      </p>
+      <p>For let the two straight lines <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be cut by the parallel planes <hi rend="ital">GH</hi>, <hi rend="ital">KL</hi>, <hi rend="ital">MN</hi> at the points <hi rend="ital">A</hi>, <hi rend="ital">E</hi>, <hi rend="ital">B</hi> and <hi rend="ital">C</hi>, <hi rend="ital">F</hi>, <hi rend="ital">D</hi>; I say that, as the straight line <hi rend="ital">AE</hi> is to <hi rend="ital">EB</hi>, so is <hi rend="ital">CF</hi> to <hi rend="ital">FD</hi>. </p>
+      <p>For let <hi rend="ital">AC</hi>, <hi rend="ital">BD</hi>, <hi rend="ital">AD</hi> be joined, let <hi rend="ital">AD</hi> meet the plane <hi rend="ital">KL</hi> at the point <hi rend="ital">O</hi>, and let <hi rend="ital">EO</hi>, <hi rend="ital">OF</hi> be joined. </p>
+      <p>Now, since the two parallel planes <hi rend="ital">KL</hi>, <hi rend="ital">MN</hi> are cut by the plane <hi rend="ital">EBDO</hi>, their common sections <hi rend="ital">EO</hi>, <hi rend="ital">BD</hi> are parallel. [<ref target="elem.11.16" targOrder="U">XI. 16</ref>] </p>
+      <p>For the same reason, since the two parallel planes <hi rend="ital">GH</hi>, <hi rend="ital">KL</hi> are cut by the plane <hi rend="ital">AOFC</hi>, their common sections <hi rend="ital">AC</hi>, <hi rend="ital">OF</hi> are parallel. [<hi rend="ital">id</hi>.] </p>
+      <p>And, since the straight line <hi rend="ital">EO</hi> has been drawn parallel to <hi rend="ital">BD</hi>, one of the sides of the triangle <hi rend="ital">ABD</hi>, therefore, proportionally, as <hi rend="ital">AE</hi> is to <hi rend="ital">EB</hi>, so is <hi rend="ital">AO</hi> to <hi rend="ital">OD</hi>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] </p>
+      <p>Again, since the straight line <hi rend="ital">OF</hi> has been drawn parallel to <hi rend="ital">AC</hi>, one of the sides of the triangle <hi rend="ital">ADC</hi>, proportionally, as <hi rend="ital">AO</hi> is to <hi rend="ital">OD</hi>, so is <hi rend="ital">CF</hi> to <hi rend="ital">FD</hi>. [<hi rend="ital">id</hi>.] </p>
+      <p>But it was also proved that, as <hi rend="ital">AO</hi> is to <hi rend="ital">OD</hi>, so is <hi rend="ital">AE</hi> to <hi rend="ital">EB</hi>; therefore also, as <hi rend="ital">AE</hi> is to <hi rend="ital">EB</hi>, so is <hi rend="ital">CF</hi> to <hi rend="ital">FD</hi>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

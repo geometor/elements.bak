@@ -1,0 +1,32 @@
+<div3 id="elem.1.21" n="21" type="proposition">
+      <head>Proposition 21.</head>
+      <div4 type="Enunc">
+       <p>If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle, the straight lines so constructed will be less than the remaining two sides of the triangle, but will contain a greater </p>
+      </div4>
+      <div4 type="Proof">
+       <p>On <emph>BC</emph>, one of the sides of the triangle <emph>ABC</emph>, from its extremities <emph>B</emph>, <emph>C</emph>, let the two straight lines <emph>BD</emph>, <emph>DC</emph> be constructed meeting within the triangle;</p>
+       <p>I say that <emph>BD</emph>, <emph>DC</emph> are less than the remaining two sides <emph>BA</emph>, <emph>AC</emph>, but contain an angle <emph>BDC</emph> greater than the angle <emph>BAC</emph>. </p>
+       <p>For let <emph>BD</emph> be drawn through to <emph>E</emph>.</p>
+       <p>Then, since in any triangle two sides are greater than the remaining <ref target="elem.1.20" targOrder="U">I. 20</ref>] <hi rend="center">therefore, in the triangle <emph>ABE</emph>, the two sides <emph>AB</emph>, <emph>AE</emph> are greater than <emph>BE</emph>.</hi></p>
+       <p>Let <emph>EC</emph> be added to each; <hi rend="center">therefore <emph>BA</emph>, <emph>AC</emph> are greater than <emph>BE</emph>, <emph>EC</emph>.</hi>
+        </p>
+       <p>Again, since, in the triangle <emph>CED</emph>, <hi rend="center">the two sides <emph>CE</emph>, <emph>ED</emph> are greater than <emph>CD</emph>, let <emph>DB</emph> be added to each; therefore <emph>CE</emph>, <emph>EB</emph> are greater than <emph>CD</emph>, <emph>DB</emph>.</hi></p>
+       <p>But <emph>BA</emph>, <emph>AC</emph> were proved greater than <emph>BE</emph>, <emph>EC</emph>; <hi rend="center">therefore <emph>BA</emph>, <emph>AC</emph> are much greater than <emph>BD</emph>, <emph>DC</emph>.</hi></p>
+       <p>Again, since in any triangle the exterior angle is greater than the interior and opposite angle, [<ref target="elem.1.16" targOrder="U">I. 16</ref>] therefore, in the triangle <emph>CDE</emph>, <hi rend="center">the exterior angle <emph>BDC</emph> is greater than the angle <emph>CED</emph>.</hi>
+        </p>
+       <p>For the same reason, moreover, in the triangle <emph>ABE</emph> also, <hi rend="center">the exterior angle <emph>CEB</emph> is greater than the angle <emph>BAC</emph>.</hi> But the angle <emph>BDC</emph> was proved greater than the angle <emph>CEB</emph>; <hi rend="center">therefore the angle <emph>BDC</emph> is much greater than the angle <emph>BAC</emph>.</hi>
+        </p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="2. be constructed...meeting within the triangle." type="crit" place="unspecified" anchored="yes">
+       <p>The word <quote>meeting</quote>
+ is not in the Greek, where the words are <foreign lang="greek">ἐντὸς συσταθῶσιν. συνίστασθαι</foreign> is the word used of constructing two straight lines <emph>to a point</emph> (cf. <ref target="elem.1.7" targOrder="U">I. 7</ref>) or so as to form a triangle; but it is necessary in English to indicate that they <emph>meet</emph>.</p>
+      </note>
+      <note n="3. the straight lines so constructed." type="crit" place="unspecified" anchored="yes">
+       <p>Observe the elegant brevity of the Greek <foreign lang="greek">αἱ συσταθεῖσαι</foreign>.</p>
+      </note>
+     </div3>
+     

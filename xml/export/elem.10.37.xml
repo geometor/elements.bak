@@ -1,0 +1,13 @@
+<div3 id="elem.10.37" n="37" type="propositions i&#x2014;47">
+      <head>PROPOSITION 37.</head>
+      <p><hi rend="ital">If two medial straight lines commensurable in square only and containing a rational rectangle be added together, the whole is irrational; and let it be called</hi>
+       <hi rend="bold">a first bimedial</hi>
+       <hi rend="ital">straight line</hi>. </p>
+      <p>For let two medial straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> commensurable in square only and containing a rational rectangle be added together; <hi rend="ital">AC</hi> is irrational. </p>
+      <p>For, since <hi rend="ital">AB</hi> is incommensurable in length with <hi rend="ital">BC</hi>, therefore the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are also incommensurable with twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>; [cf. <ref target="elem.10.36" targOrder="U">X. 36, ll. 9-20</ref>]<foreign lang="la">componendo</foreign>, the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, that is, the square on <hi rend="ital">AC</hi> [<ref target="elem.2.4" targOrder="U">II. 4</ref>], is incommensurable with the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. [<ref target="elem.10.16" targOrder="U">X. 16</ref>
+] </p>
+      <p>But the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is rational, for, by hypothesis, <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are straight lines containing a rational rectangle; therefore the square on <hi rend="ital">AC</hi> is irrational; therefore <hi rend="ital">AC</hi> is irrational. [<ref target="elem.10.def.4" targOrder="U">X. Def. 4</ref>
+] </p>
+      <p>And let it be called a <hi rend="bold">first bimedial</hi> straight line. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,33 @@
+<div3 id="elem.7.3" n="3" type="proposition">
+      <head>PROPOSITION 3.</head>
+      <p>
+       <hi rend="ital">Given three numbers not prime to one another, to find their greatest common measure.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the three given numbers not prime to one another; thus it is required to find the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>For let the greatest common measure, <hi rend="ital">D</hi>, of the two numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi> be taken; [<ref target="elem.7.2" targOrder="U">VII. 2</ref>] then <hi rend="ital">D</hi> either measures, or does not measure, <hi rend="ital">C</hi>. </p>
+      <p>First, let it measure it. </p>
+      <p>But it measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi> also; therefore <hi rend="ital">D</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; therefore <hi rend="ital">D</hi> is a common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>I say that it is also the greatest. </p>
+      <p>For, if <hi rend="ital">D</hi> is not the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, some number which is greater than <hi rend="ital">D</hi> will measure the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Let such a number measure them, and let it be <hi rend="ital">E</hi>. </p>
+      <p>Since then <hi rend="ital">E</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, it will also measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>; therefore it will also measure the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. [<ref target="elem.7.2.p.1" targOrder="U">VII. 2, Por.</ref>] </p>
+      <p>But the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi> is <hi rend="ital">D</hi>; therefore <hi rend="ital">E</hi> measures <hi rend="ital">D</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore no number which is greater than <hi rend="ital">D</hi> will measure the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; <hi rend="center">therefore <hi rend="ital">D</hi> is the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>.</hi>
+      </p>
+      <p>Next, let <hi rend="ital">D</hi> not measure <hi rend="ital">C</hi>; I say first that <hi rend="ital">C</hi>, <hi rend="ital">D</hi> are not prime to one another. </p>
+      <p>For, since <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are not prime to one another, some number will measure them. </p>
+      <p>Now that which measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> will also measure <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, and will measure <hi rend="ital">D</hi>, the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. [<ref target="elem.7.2.p.1" targOrder="U">VII. 2, Por.</ref>] </p>
+      <p>But it measures <hi rend="ital">C</hi> also; therefore some number will measure the numbers <hi rend="ital">D</hi>, <hi rend="ital">C</hi>; therefore <hi rend="ital">D</hi>, <hi rend="ital">C</hi> are not prime to one another. </p>
+      <p>Let then their greatest common measure <hi rend="ital">E</hi> be taken. [<ref target="elem.7.2" targOrder="U">VII. 2</ref>] </p>
+      <p>Then, since <hi rend="ital">E</hi> measures <hi rend="ital">D</hi>, and <hi rend="ital">D</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, therefore <hi rend="ital">E</hi> also measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. </p>
+      <p>But it measures <hi rend="ital">C</hi> also; therefore <hi rend="ital">E</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; therefore <hi rend="ital">E</hi> is a common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>I say next that it is also the greatest. </p>
+      <p>For, if <hi rend="ital">E</hi> is not the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, some number which is greater than <hi rend="ital">E</hi> will measure the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Let such a number measure them, and let it be <hi rend="ital">F</hi>. </p>
+      <p>Now, since <hi rend="ital">F</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, it also measures <hi rend="ital">A</hi>, <hi rend="ital">B</hi>; therefore it will also measure the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>. [<ref target="elem.7.2.p.1" targOrder="U">VII. 2, Por.</ref>] </p>
+      <p>But the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi> is <hi rend="ital">D</hi>; therefore <hi rend="ital">F</hi> measures <hi rend="ital">D</hi>. </p>
+      <p>And it measures <hi rend="ital">C</hi> also; therefore <hi rend="ital">F</hi> measures <hi rend="ital">D</hi>, <hi rend="ital">C</hi>; therefore it will also measure the greatest common measure of <hi rend="ital">D</hi>, <hi rend="ital">C</hi>. [<ref target="elem.7.2.p.1" targOrder="U">VII. 2, Por.</ref>] </p>
+      <p>But the greatest common measure of <hi rend="ital">D</hi>, <hi rend="ital">C</hi> is <hi rend="ital">E</hi>; therefore <hi rend="ital">F</hi> measures <hi rend="ital">E</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore no number which is greater than <hi rend="ital">E</hi> will measure the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; therefore <hi rend="ital">E</hi> is the greatest common measure of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. Q. E. D.</p>
+     </div3>
+     

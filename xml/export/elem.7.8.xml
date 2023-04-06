@@ -1,0 +1,19 @@
+<div3 id="elem.7.8" n="8" type="proposition">
+      <head>PROPOSITION 8.</head>
+      <p>
+       <hi rend="ital">If a number be the same parts of a number that a number subtracted is of a number subtracted, the remainder will also be the same parts of the remainder that the whole is of the whole.</hi>
+      </p>
+      <p>For let the number <hi rend="ital">AB</hi> be the same parts of the number <hi rend="ital">CD</hi> that <hi rend="ital">AE</hi> subtracted is of <hi rend="ital">CF</hi> subtracted; I say that the remainder <hi rend="ital">EB</hi> is also the same parts of the remainder <hi rend="ital">FD</hi> that the whole <hi rend="ital">AB</hi> is of the whole <hi rend="ital">CD</hi>. </p>
+      <p>For let <hi rend="ital">GH</hi> be made equal to <hi rend="ital">AB</hi>. </p>
+      <p>Therefore, whatever parts <hi rend="ital">GH</hi> is of <hi rend="ital">CD</hi>, the same parts also is <hi rend="ital">AE</hi> of <hi rend="ital">CF</hi>. </p>
+      <p>Let <hi rend="ital">GH</hi> be divided into the parts of <hi rend="ital">CD</hi>, namely <hi rend="ital">GK</hi>, <hi rend="ital">KH</hi>, and <hi rend="ital">AE</hi> into the parts of <hi rend="ital">CF</hi>, namely <hi rend="ital">AL</hi>, <hi rend="ital">LE</hi>; thus the multitude of <hi rend="ital">GK</hi>, <hi rend="ital">KH</hi> will be equal to the multitude of <hi rend="ital">AL</hi>, <hi rend="ital">LE</hi>. </p>
+      <p>Now since, whatever part <hi rend="ital">GK</hi> is of <hi rend="ital">CD</hi>, the same part also is <hi rend="ital">AL</hi> of <hi rend="ital">CF</hi>, while. <hi rend="ital">CD</hi> is greater than <hi rend="ital">CF</hi>, therefore <hi rend="ital">GK</hi> is also greater than <hi rend="ital">AL</hi>. </p>
+      <p>Let <hi rend="ital">GM</hi> be made equal to <hi rend="ital">AL</hi>. </p>
+      <p>Therefore, whatever part <hi rend="ital">GK</hi> is of <hi rend="ital">CD</hi>, the same part also is <hi rend="ital">GM</hi> of <hi rend="ital">CF</hi>; therefore also the remainder <hi rend="ital">MK</hi> is the same part of the remainder <hi rend="ital">FD</hi> that the whole <hi rend="ital">GK</hi> is of the whole <hi rend="ital">CD</hi>. [<ref target="elem.7.7" targOrder="U">VII. 7</ref>] </p>
+      <p>Again, since, whatever part <hi rend="ital">KH</hi> is of <hi rend="ital">CD</hi>, the same part also is <hi rend="ital">EL</hi> of <hi rend="ital">CF</hi>, while <hi rend="ital">CD</hi> is greater than <hi rend="ital">CF</hi>, therefore <hi rend="ital">HK</hi> is also greater than <hi rend="ital">EL</hi>. </p>
+      <p>Let <hi rend="ital">KN</hi> be made equal to <hi rend="ital">EL</hi>. </p>
+      <p>Therefore, whatever part <hi rend="ital">KH</hi> is of <hi rend="ital">CD</hi>, the same part also is <hi rend="ital">KN</hi> of <hi rend="ital">CF</hi>; therefore also the remainder <hi rend="ital">NH</hi> is the same part of the remainder <hi rend="ital">FD</hi> that the whole <hi rend="ital">KH</hi> is of the whole <hi rend="ital">CD</hi>. [<ref target="elem.7.7" targOrder="U">VII. 7</ref>] </p>
+      <p>But the remainder <hi rend="ital">MK</hi> was also proved to be the same part of the remainder <hi rend="ital">FD</hi> that the whole <hi rend="ital">GK</hi> is of the whole <hi rend="ital">CD</hi>; therefore also the sum of <hi rend="ital">MK</hi>, <hi rend="ital">NH</hi> is the same parts of <hi rend="ital">DF</hi> that the whole <hi rend="ital">HG</hi> is of the whole <hi rend="ital">CD</hi>. </p>
+      <p>But the sum of <hi rend="ital">MK</hi>, <hi rend="ital">NH</hi> is equal to <hi rend="ital">EB</hi>, and <hi rend="ital">HG</hi> is equal to <hi rend="ital">BA</hi>; therefore the remainder <hi rend="ital">EB</hi> is the same parts of the remainder <hi rend="ital">FD</hi> that the whole <hi rend="ital">AB</hi> is of the whole <hi rend="ital">CD</hi>. Q. E. D.</p>
+     </div3>
+     

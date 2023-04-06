@@ -1,0 +1,35 @@
+<div3 id="elem.10.38" n="38" type="propositions i&#x2014;47">
+      <head>PROPOSITION 38.</head>
+      <p><hi rend="ital">If two medial straight lines commensurable in square only and containing a medial rectangle be added together, the whole is irrational; and let it be called a</hi>
+       <hi rend="bold">second bimedial</hi>
+       <hi rend="ital">straight line</hi>. </p>
+      <p>For let two medial straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> commensurable in square only and containing a medial rectangle be added together; <hi rend="ital">AC</hi> is irrational. </p>
+      <p>For let a rational straight line <hi rend="ital">DE</hi> be set out, and let the parallelogram <hi rend="ital">DF</hi> equal to the square on <hi rend="ital">AC</hi> be applied to <hi rend="ital">DE</hi>, producing <hi rend="ital">DG</hi> as breadth. [<ref target="elem.1.44" targOrder="U">I. 44</ref>
+] </p>
+      <p>Then, since the square on <hi rend="ital">AC</hi> is equal to the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> and twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, [<ref target="elem.2.4" targOrder="U">II. 4</ref>
+] let <hi rend="ital">EH</hi>, equal to the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, be applied to <hi rend="ital">DE</hi>; <hi rend="ital">HF</hi> is equal to twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. </p>
+      <p>And, since each of the straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is medial, therefore the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> are also medial. </p>
+      <p>But, by hypothesis, twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is also medial. </p>
+      <p>And <hi rend="ital">EH</hi> is equal to the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, <hi rend="ital">FH</hi> is equal to twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>; therefore each of the rectangle <hi rend="ital">EH</hi>, <hi rend="ital">HF</hi> is medial. </p>
+      <p>And they are applied to the rational straight line <hi rend="ital">DE</hi>; therefore each of the straight lines <hi rend="ital">DH</hi>, <hi rend="ital">HG</hi> is rational and incommensurable in length with <hi rend="ital">DE</hi>. [<ref target="elem.10.22" targOrder="U">X. 22</ref>
+] </p>
+      <p>Since then <hi rend="ital">AB</hi> is incommensurable in length with <hi rend="ital">BC</hi>, and, as <hi rend="ital">AB</hi> is to <hi rend="ital">BC</hi>, so is the square on <hi rend="ital">AB</hi> to the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, therefore the square on <hi rend="ital">AB</hi> is incommensurable with the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. [<ref target="elem.10.11" targOrder="U">X. 11</ref>
+] </p>
+      <p>But the sum of the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is commensurable with the square on <hi rend="ital">AB</hi>, [<ref target="elem.10.15" targOrder="U">X. 15</ref>
+] and twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is commensurable with the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. [<ref target="elem.10.6" targOrder="U">X. 6</ref>
+] </p>
+      <p>Therefore the sum of the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is incommensurable<hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. [<ref target="elem.10.13" targOrder="U">X. 13</ref>
+] </p>
+      <p>But <hi rend="ital">EH</hi> is equal to the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, and <hi rend="ital">HF</hi> is equal to twice the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>. </p>
+      <p>Therefore <hi rend="ital">EH</hi> is incommensurable with <hi rend="ital">HF</hi>, so that <hi rend="ital">DH</hi> is also incommensurable in length with <hi rend="ital">HG</hi>. [<ref target="elem.6.1" targOrder="U">VI. 1</ref>
+, <ref target="elem.10.11" targOrder="U">X. 11</ref>
+] </p>
+      <p>Therefore <hi rend="ital">DH</hi>, <hi rend="ital">HG</hi> are rational straight lines commensurable in square only; so that <hi rend="ital">DG</hi> is irrational. [<ref target="elem.10.36" targOrder="U">X. 36</ref>
+] </p>
+      <p>But <hi rend="ital">DE</hi> is rational; and the rectangle contained by an irrational and a rational <ref target="elem.10.20" targOrder="U">X. 20</ref>
+] therefore the area <hi rend="ital">DF</hi> is irrational, and the side of the square equal to it is irrational. [<ref target="elem.10.def.4" targOrder="U">X. Def. 4</ref>
+] </p>
+      <p>But <hi rend="ital">AC</hi> is the side of the square equal to <hi rend="ital">DF</hi>; therefore <hi rend="ital">AC</hi> is irrational. </p>
+      <p>And let it be called a <hi rend="bold">second bimedial</hi> straight line. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,19 @@
+<div3 id="elem.13.1" n="1" type="proposition">
+      <head>PROPOSITION 1.</head>
+      <p><hi rend="ital">If a straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">the square on the greater segment added to the half of the whole is five times the square on the half.</hi>
+      </p>
+      <p>For let the straight line <hi rend="ital">AB</hi> be cut in extreme and mean ratio at the point <hi rend="ital">C</hi>, and let <hi rend="ital">AC</hi> be the greater segment; let the straight line <hi rend="ital">AD</hi> be produced in a straight line with <hi rend="ital">CA</hi>, and let <hi rend="ital">AD</hi> be made half of <hi rend="ital">AB</hi>; I say that the square on <hi rend="ital">CD</hi> is five times the square on <hi rend="ital">AD</hi>. </p>
+      <p>For let the squares <hi rend="ital">AE</hi>, <hi rend="ital">DF</hi> be described on <hi rend="ital">AB</hi>, <hi rend="ital">DC</hi>, and let the figure in <hi rend="ital">DF</hi> be drawn; let <hi rend="ital">FC</hi> be carried through to <hi rend="ital">G</hi>. </p>
+      <p>Now, since <hi rend="ital">AB</hi> has been cut in extreme and mean ratio at <hi rend="ital">C</hi>, therefore the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is equal to the square on <hi rend="ital">AC</hi>. [<ref target="elem.6.def.3" targOrder="U">VI. Def. 3</ref>, <ref target="elem.6.17" targOrder="U">VI. 17</ref>] </p>
+      <p>And <hi rend="ital">CE</hi> is the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, and <hi rend="ital">FH</hi> the square on <hi rend="ital">AC</hi>; therefore <hi rend="ital">CE</hi> is equal to <hi rend="ital">FH</hi>. </p>
+      <p>And, since <hi rend="ital">BA</hi> is double of <hi rend="ital">AD</hi>, while <hi rend="ital">BA</hi> is equal to <hi rend="ital">KA</hi>, and <hi rend="ital">AD</hi> to <hi rend="ital">AH</hi>, therefore <hi rend="ital">KA</hi> is also double of <hi rend="ital">AH</hi>. </p>
+      <p>But, as <hi rend="ital">KA</hi> is to <hi rend="ital">AH</hi>, so is <hi rend="ital">CK</hi> to <hi rend="ital">CH</hi>; [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] therefore <hi rend="ital">CK</hi> is double of <hi rend="ital">CH</hi>. </p>
+      <p>But <hi rend="ital">LH</hi>, <hi rend="ital">HC</hi> are also double of <hi rend="ital">CH</hi>. </p>
+      <p>Therefore <hi rend="ital">KC</hi> is equal to <hi rend="ital">LH</hi>, <hi rend="ital">HC</hi>. </p>
+      <p>But <hi rend="ital">CE</hi> was also proved equal to <hi rend="ital">HF</hi>; therefore the whole square <hi rend="ital">AE</hi> is equal to the gnomon <hi rend="ital">MNO</hi>. </p>
+      <p>And, since <hi rend="ital">BA</hi> is double of <hi rend="ital">AD</hi>, the square on <hi rend="ital">BA</hi> is quadruple of the square on <hi rend="ital">AD</hi>, that is, <hi rend="ital">AE</hi> is quadruple of <hi rend="ital">DH</hi>. </p>
+      <p>But <hi rend="ital">AE</hi> is equal to the gnomon <hi rend="ital">MNO</hi>; therefore the gnomon <hi rend="ital">MNO</hi> is also quadruple of <hi rend="ital">AP</hi>; therefore the whole <hi rend="ital">DF</hi> is five times <hi rend="ital">AP</hi>. </p>
+      <p>And <hi rend="ital">DF</hi> is the square on <hi rend="ital">DC</hi>, and <hi rend="ital">AP</hi> the square on <hi rend="ital">DA</hi>; therefore the square on <hi rend="ital">CD</hi> is five times the square on <hi rend="ital">DA</hi>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

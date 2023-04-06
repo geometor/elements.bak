@@ -1,0 +1,20 @@
+<div3 id="elem.6.4" n="4" type="proposition">
+      <head>PROPOSITION 4.</head>
+      <p><emph>In equiangular triangles the sides about the equal angles are proportional</emph>, <emph>and those are corresponding sides which subtend the equal angles</emph>. </p>
+      <p>Let <emph>ABC</emph>, <emph>DCE</emph> be equiangular triangles having the angle <emph>ABC</emph> equal to the angle <emph>DCE</emph>, the angle <emph>BAC</emph> to the angle <emph>CDE</emph>, and further the angle <emph>ACB</emph> to the angle <emph>CED</emph>; I say that in the triangles <emph>ABC</emph>, <emph>DCE</emph> the sides about the equal angles are proportional, and those are corresponding sides which subtend the equal angles. </p>
+      <p>For let <emph>BC</emph> be placed in a straight line with <emph>CE</emph>. </p>
+      <p>Then, since the angles <emph>ABC</emph>, <emph>ACB</emph> are less than two right angles, [<ref target="elem.1.17" targOrder="U">I. 17</ref>] and the angle <emph>ACB</emph> is equal to the angle <emph>DEC</emph>, therefore the angles <emph>ABC</emph>, <emph>DEC</emph> are less than two right angles; therefore <emph>BA</emph>, <emph>ED</emph>, when produced, will meet. [<ref target="elem.1.post.5" targOrder="U">I. Post. 5</ref>] </p>
+      <p>Let them be produced and meet at <emph>F</emph>. </p>
+      <p>Now, since the angle <emph>DCE</emph> is equal to the angle <emph>ABC</emph>, <hi rend="center"><emph>BF</emph> is parallel to <emph>CD</emph>. [<ref target="elem.1.28" targOrder="U">I. 28</ref>]</hi>
+      </p>
+      <p>Again, since the angle <emph>ACB</emph> is equal to the angle <emph>DEC</emph>, <hi rend="center"><emph>AC</emph> is parallel to <emph>FE</emph>. [<ref target="elem.1.28" targOrder="U">I. 28</ref>]</hi>
+      </p>
+      <p>Therefore <emph>FACD</emph> is a parallelogram; therefore <emph>FA</emph> is equal to <emph>DC</emph>, and <emph>AC</emph> to <emph>FD</emph>. [<ref target="elem.1.34" targOrder="U">I. 34</ref>] </p>
+      <p>And, since <emph>AC</emph> has been drawn parallel to <emph>FE</emph>, one side of the triangle <emph>FBE</emph>, therefore, as <emph>BA</emph> is to <emph>AF</emph>, so is <emph>BC</emph> to <emph>CE</emph>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] </p>
+      <p>But <emph>AF</emph> is equal to <emph>CD</emph>; <hi rend="center">therefore, as <emph>BA</emph> is to <emph>CD</emph>, so is <emph>BC</emph> to <emph>CE</emph>,</hi> and alternately, as <emph>AB</emph> is to <emph>BC</emph>, so is <emph>DC</emph> to <emph>CE</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>Again, since <emph>CD</emph> is parallel to <emph>BF</emph>, therefore, as <emph>BC</emph> is to <emph>CE</emph>, so is <emph>FD</emph> to <emph>DE</emph>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] </p>
+      <p>But <emph>FD</emph> is equal to <emph>AC</emph>; <hi rend="center">therefore, as <emph>BC</emph> is to <emph>CE</emph>, so is <emph>AC</emph> to <emph>DE</emph>,</hi> and alternately, as <emph>BC</emph> is to <emph>CA</emph>, so is <emph>CE</emph> to <emph>ED</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>Since then it was proved that, <hi rend="center">as <emph>AB</emph> is to <emph>BC</emph>, so is <emph>DC</emph> to <emph>CE</emph>,</hi> and, as <emph>BC</emph> is to <emph>CA</emph>, so is <emph>CE</emph> to <emph>ED</emph>; therefore, <emph>ex aequali</emph>, as <emph>BA</emph> is to <emph>AC</emph>, so is <emph>CD</emph> to <emph>DE</emph>. [<ref target="elem.5.22" targOrder="U">V. 22</ref>] </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

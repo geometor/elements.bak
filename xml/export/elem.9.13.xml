@@ -1,0 +1,44 @@
+<div3 id="elem.9.13" n="13" type="proposition">
+      <head>PROPOSITION 13.</head>
+      <p><hi rend="ital">If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be prime, the greatest will not be measured by any except those which have a place among the proportional numbers</hi>. </p>
+      <p>Let there be as many numbers as we please, <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">D</hi>, beginning from an unit and in continued proportion, and let <hi rend="ital">A</hi>, the number after the unit, be prime; I say that <hi rend="ital">D</hi>, the greatest of them, will not be measured by any other number except <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>For, if possible, let it be measured by <hi rend="ital">E</hi>, and let <hi rend="ital">E</hi> not be the same with any of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>It is then manifest that <hi rend="ital">E</hi> is not prime. </p>
+      <p>For, if <hi rend="ital">E</hi> is prime and measures <hi rend="ital">D</hi>, it will also measure <hi rend="ital">A</hi> [<ref target="elem.9.12" targOrder="U">IX. 12</ref>], which is prime, though it is not the same with it: which is impossible. </p>
+      <p>Therefore <hi rend="ital">E</hi> is not prime. </p>
+      <p>Therefore it is composite. </p>
+      <p>But any composite number is measured by some prime number; [<ref target="elem.7.31" targOrder="U">VII. 31</ref>] therefore <hi rend="ital">E</hi> is measured by some prime number. </p>
+      <p>I say next that it will not be measured by any other prime except <hi rend="ital">A</hi>. </p>
+      <p>For, if <hi rend="ital">E</hi> is measured by another, and <hi rend="ital">E</hi> measures <hi rend="ital">D</hi>, that other will also measure <hi rend="ital">D</hi>; so that it will also measure <hi rend="ital">A</hi> [<ref target="elem.9.12" targOrder="U">IX. 12</ref>], which is prime, though it is not the same with it: which is impossible. </p>
+      <p>Therefore <hi rend="ital">A</hi> measures <hi rend="ital">E</hi>. </p>
+      <p>And, since <hi rend="ital">E</hi> measures <hi rend="ital">D</hi>, let it measure it according to <hi rend="ital">F</hi>. </p>
+      <p>I say that <hi rend="ital">F</hi> is not the same with any of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>For, if <hi rend="ital">F</hi> is the same with one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, and measures <hi rend="ital">D</hi> according to <hi rend="ital">E</hi>, therefore one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> also measures <hi rend="ital">D</hi> according to <hi rend="ital">E</hi>. </p>
+      <p>But one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> measures <hi rend="ital">D</hi> according to some one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; [<ref target="elem.9.11" targOrder="U">IX. 11</ref>] therefore <hi rend="ital">E</hi> is also the same with one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>: which is contrary to the hypothesis. </p>
+      <p>Therefore <hi rend="ital">F</hi> is not the same as any one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Similarly we can prove that <hi rend="ital">F</hi> is measured by <hi rend="ital">A</hi>, by proving again that <hi rend="ital">F</hi> is not prime. </p>
+      <p>For, if it is, and measures <hi rend="ital">D</hi>, it will also measure <hi rend="ital">A</hi> [<ref target="elem.9.12" targOrder="U">IX. 12</ref>], which is prime, though it is not the same with it: which is impossible; therefore <hi rend="ital">F</hi> is not prime. </p>
+      <p>Therefore it is composite. </p>
+      <p>But any composite number is measured by some prime number; [<ref target="elem.7.31" targOrder="U">VII. 31</ref>] therefore <hi rend="ital">F</hi> is measured by some prime number. </p>
+      <p>I say next that it will not be measured by any other prime except <hi rend="ital">A</hi>. </p>
+      <p>For, if any other prime number measures <hi rend="ital">F</hi>, and <hi rend="ital">F</hi> measures <hi rend="ital">D</hi>, that other will also measure <hi rend="ital">D</hi>; so that it will also measure <hi rend="ital">A</hi> [<ref target="elem.9.12" targOrder="U">IX. 12</ref>], which is prime, though it is not the same with it: which is impossible. </p>
+      <p>Therefore <hi rend="ital">A</hi> measures <hi rend="ital">F</hi>. </p>
+      <p>And, since <hi rend="ital">E</hi> measures <hi rend="ital">D</hi> according to <hi rend="ital">F</hi>, therefore <hi rend="ital">E</hi> by multiplying <hi rend="ital">F</hi> has made <hi rend="ital">D</hi>. </p>
+      <p>But, further, <hi rend="ital">A</hi> has also by multiplying <hi rend="ital">C</hi> made <hi rend="ital">D</hi>; [<ref target="elem.9.11" targOrder="U">IX. 11</ref>] therefore the product of <hi rend="ital">A</hi>, <hi rend="ital">C</hi> is equal to the product of <hi rend="ital">E</hi>, <hi rend="ital">F</hi>. </p>
+      <p>Therefore, proportionally, as <hi rend="ital">A</hi> is to <hi rend="ital">E</hi>, so is <hi rend="ital">F</hi> to <hi rend="ital">C</hi>. [<ref target="elem.7.19" targOrder="U">VII. 19</ref>] </p>
+      <p>But <hi rend="ital">A</hi> measures <hi rend="ital">E</hi>; therefore <hi rend="ital">F</hi> also measures <hi rend="ital">C</hi>. </p>
+      <p>Let it measure it according to <hi rend="ital">G</hi>. </p>
+      <p>Similarly, then, we can prove that <hi rend="ital">G</hi> is not the same with any of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, and that it is measured by <hi rend="ital">A</hi>. </p>
+      <p>And, since <hi rend="ital">F</hi> measures <hi rend="ital">C</hi> according to <hi rend="ital">G</hi> therefore <hi rend="ital">F</hi> by multiplying <hi rend="ital">G</hi> has made <hi rend="ital">C</hi>. </p>
+      <p>But, further, <hi rend="ital">A</hi> has also by multiplying <hi rend="ital">B</hi> made <hi rend="ital">C</hi>; [<ref target="elem.9.11" targOrder="U">IX. 11</ref>] therefore the product of <hi rend="ital">A</hi>, <hi rend="ital">B</hi> is equal to the product of <hi rend="ital">F</hi>, <hi rend="ital">G</hi>. </p>
+      <p>Therefore, proportionally, as <hi rend="ital">A</hi> is to <hi rend="ital">F</hi>, so is <hi rend="ital">G</hi> to <hi rend="ital">B</hi>. [<ref target="elem.7.19" targOrder="U">VII. 19</ref>] </p>
+      <p>But <hi rend="ital">A</hi> measures <hi rend="ital">F</hi>; therefore <hi rend="ital">G</hi> also measures <hi rend="ital">B</hi>. </p>
+      <p>Let it measure it according to <hi rend="ital">H</hi>. </p>
+      <p>Similarly then we can prove that <hi rend="ital">H</hi> is not the same with <hi rend="ital">A</hi>. </p>
+      <p>And, since <hi rend="ital">G</hi> measures <hi rend="ital">B</hi> according to <hi rend="ital">H</hi>, therefore <hi rend="ital">G</hi> by multiplying <hi rend="ital">H</hi> has made <hi rend="ital">B</hi>. </p>
+      <p>But further <hi rend="ital">A</hi> has also by multiplying itself made <hi rend="ital">B</hi>; [<ref target="elem.9.8" targOrder="U">IX. 8</ref>] therefore the product of <hi rend="ital">H</hi>, <hi rend="ital">G</hi> is equal to the square on <hi rend="ital">A</hi>. </p>
+      <p>Therefore, as <hi rend="ital">H</hi> is to <hi rend="ital">A</hi>, so is <hi rend="ital">A</hi> to <hi rend="ital">G</hi>. [<ref target="elem.7.19" targOrder="U">VII. 19</ref>] </p>
+      <p>But <hi rend="ital">A</hi> measures <hi rend="ital">G</hi>;&lt; therefore <hi rend="ital">H</hi> also measures <hi rend="ital">A</hi>, which is prime, though it is not the same with it: which is absurd. </p>
+      <p>Therefore <hi rend="ital">D</hi> the greatest will not be measured by any other number except <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. Q. E. D.</p>
+     </div3>
+     

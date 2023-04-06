@@ -1,0 +1,31 @@
+<div3 id="elem.9.19" n="19" type="proposition">
+      <head>PROPOSITION 19.</head>
+      <p>
+       <hi rend="ital">Given three numbers, to investigate when it is possible to find a fourth proportional to them.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the given three numbers, and let it be required to investigate when it is possible to find a fourth proportional to them. </p>
+      <p>Now either they are not in continued proportion, and the extremes of them are prime to one another; or they are in continued proportion, and the extremes of them are not prime to one another; or they are not in continued proportion, nor are the extremes of them prime to one another; or they are in continued proportion, and the extremes of them are prime to one another. </p>
+      <p>If then <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are in continued proportion, and the extremes of them <hi rend="ital">A</hi>, <hi rend="ital">C</hi> are prime to one another, it has been proved that it is impossible to find a fourth proportional number to them. [<ref target="elem.9.17" targOrder="U">IX. 17</ref>] </p>
+      <p>&lt;*&gt;Next, let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> not be in continued proportion, the extremes being again prime to one another; I say that in this case also it is impossible to find a fourth proportional to them. </p>
+      <p>For, if possible, let <hi rend="ital">D</hi> have been found, so that, <hi rend="center">as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>,</hi> and let it be contrived that, as <hi rend="ital">B</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">D</hi> to <hi rend="ital">E</hi>. </p>
+      <p>Now, since, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">D</hi>, and, as <hi rend="ital">B</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">D</hi> to <hi rend="ital">E</hi>, therefore, <foreign lang="la">ex aequali</foreign>, as <hi rend="ital">A</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">E</hi>. [<ref target="elem.7.14" targOrder="U">VII. 14</ref>] </p>
+      <p>But <hi rend="ital">A</hi>, <hi rend="ital">C</hi> are prime, primes are also least, [<ref target="elem.7.21" targOrder="U">VII. 21</ref>] and the least numbers measure those which have the same ratio, the antecedent the antecedent and the consequent the consequent. [<ref target="elem.7.20" targOrder="U">VII. 20</ref>] </p>
+      <p>Therefore <hi rend="ital">A</hi> measures <hi rend="ital">C</hi> as antecedent antecedent. </p>
+      <p>But it also measures itself; therefore <hi rend="ital">A</hi> measures <hi rend="ital">A</hi>, <hi rend="ital">C</hi> which are prime to one another: which is impossible. </p>
+      <p>Therefore it is not possible to find a fourth proportional to <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>.&lt;*&gt; </p>
+      <p>Next, let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be again in continued proportion, but let <hi rend="ital">A</hi>, <hi rend="ital">C</hi> not be prime to one another. </p>
+      <p>I say that it is possible to find a fourth proportional to them. </p>
+      <p>For let <hi rend="ital">B</hi> by multiplying <hi rend="ital">C</hi> make <hi rend="ital">D</hi>; therefore <hi rend="ital">A</hi> either measures <hi rend="ital">D</hi> or does not measure it. </p>
+      <p>First, let it measure it according to <hi rend="ital">E</hi>; therefore <hi rend="ital">A</hi> by multiplying <hi rend="ital">E</hi> has made <hi rend="ital">D</hi>. </p>
+      <p>But, further, <hi rend="ital">B</hi> has also by multiplying <hi rend="ital">C</hi> made <hi rend="ital">D</hi>; therefore the product of <hi rend="ital">A</hi>, <hi rend="ital">E</hi> is equal to the product of <hi rend="ital">B</hi>, <hi rend="ital">C</hi>; therefore, proportionally, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">C</hi> to <hi rend="ital">E</hi>; [<ref target="elem.7.19" targOrder="U">VII. 19</ref>] therefore <hi rend="ital">E</hi> has been found a fourth proportional to <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Next, let <hi rend="ital">A</hi> not measure <hi rend="ital">D</hi>; I say that it is impossible to find a fourth proportional number to <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>For, if possible, let <hi rend="ital">E</hi> have been found; therefore the product of <hi rend="ital">A</hi>, <hi rend="ital">E</hi> is equal to the product of <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. [<ref target="elem.7.19" targOrder="U">VII. 19</ref>] </p>
+      <p>But the product of <hi rend="ital">B</hi>, <hi rend="ital">C</hi> is <hi rend="ital">D</hi>; therefore the product of <hi rend="ital">A</hi>, <hi rend="ital">E</hi> is also equal to <hi rend="ital">D</hi>. </p>
+      <p>Therefore <hi rend="ital">A</hi> by multiplying <hi rend="ital">E</hi> has made <hi rend="ital">D</hi>; therefore <hi rend="ital">A</hi> measures <hi rend="ital">D</hi> according to <hi rend="ital">E</hi>, so that <hi rend="ital">A</hi> measures <hi rend="ital">D</hi>. </p>
+      <p>But it also does not measure it: which is absurd. </p>
+      <p>Therefore it is not possible to find a fourth proportional number to <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> when <hi rend="ital">A</hi> does not measure <hi rend="ital">D</hi>. </p>
+      <p>Next, let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> not be in continued proportion, nor the extremes prime to one another. </p>
+      <p>And let <hi rend="ital">B</hi> by multiplying <hi rend="ital">C</hi> make <hi rend="ital">D</hi>. </p>
+      <p>Similarly then it can be proved that, if <hi rend="ital">A</hi> measures <hi rend="ital">D</hi>, it is possible to find a fourth proportional to them, but, if it does not measure it, impossible. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,20 @@
+<div3 id="elem.6.25" n="25" type="proposition">
+      <head>PROPOSITION 25.</head>
+      <p><emph>To construct one and the same figure similar to a given rectilineal figure and equal to another given rectilineal figure</emph>. </p>
+      <p>Let <emph>ABC</emph> be the given rectilineal figure to which the figure to be constructed must be similar, and <emph>D</emph> that to which it must be equal; thus it is required to construct one and the same figure similar to <emph>ABC</emph> and equal to <emph>D</emph>. </p>
+      <p>Let there be applied to <emph>BC</emph> the parallelogram <emph>BE</emph> equal to the triangle <emph>ABC</emph> [<ref target="elem.1.44" targOrder="U">I. 44</ref>], and to <emph>CE</emph> the parallelogram <emph>CM</emph> equal to <emph>D</emph> in the angle <emph>FCE</emph> which is equal to the angle <emph>CBL</emph>. [<ref target="elem.1.45" targOrder="U">I. 45</ref>] </p>
+      <p>Therefore <emph>BC</emph> is in a straight line with <emph>CF</emph>, and <emph>LE</emph> with <emph>EM</emph>. </p>
+      <p>Now let <emph>GH</emph> be taken a mean proportional to <emph>BC</emph>, <emph>CF</emph> [<ref target="elem.6.13" targOrder="U">VI. 13</ref>], and on <emph>GH</emph> let <emph>KGH</emph> be described similar and similarly situated to <emph>ABC</emph>. [<ref target="elem.6.18" targOrder="U">VI. 18</ref>] </p>
+      <p>Then, since, as <emph>BC</emph> is to <emph>GH</emph>, so is <emph>GH</emph> to <emph>CF</emph>, and, if three straight lines be proportional, as the first is to the third, so is the figure on the first to the similar and similarly situated figure described on the second, [<ref target="elem.6.19.p.1" targOrder="U">VI. 19, Por.</ref>] therefore, as <emph>BC</emph> is to <emph>CF</emph>, so is the triangle <emph>ABC</emph> to the triangle <emph>KGH</emph>. </p>
+      <p>But, as <emph>BC</emph> is to <emph>CF</emph>, so also is the parallelogram <emph>BE</emph> to the parallelogram <emph>EF</emph>. [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] </p>
+      <p>Therefore also, as the triangle <emph>ABC</emph> is to the triangle <emph>KGH</emph>, so is the parallelogram <emph>BE</emph> to the parallelogram <emph>EF</emph>; therefore, alternately, as the triangle <emph>ABC</emph> is to the parallelogram <emph>BE</emph>, so is the triangle <emph>KGH</emph> to the parallelogram <emph>EF</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>But the triangle <emph>ABC</emph> is equal to the parallelogram <emph>BE</emph>; therefore the triangle <emph>KGH</emph> is also equal to the parallelogram <emph>EF</emph>. </p>
+      <p>But the parallelogram <emph>EF</emph> is equal to <emph>D</emph>; therefore <emph>KGH</emph> is also equal to <emph>D</emph>. </p>
+      <p>And <emph>KGH</emph> is also similar to <emph>ABC</emph>. </p>
+      <p>Therefore one and the same figure <emph>KGH</emph> has been constructed similar to the given rectilineal figure <emph>ABC</emph> and equal to the other given figure <emph>D</emph>. Q. E. D.
+<note n="3" type="crit" place="unspecified" anchored="yes">
+        <p>to which the figure to be constructed must be similar, literally <quote>to which it is required to construct (one) similar,</quote>
+ <foreign lang="greek">ᾧ δεῖ ὅμοιον συστήσασθαι</foreign>.</p>
+       </note></p>
+     </div3>
+     

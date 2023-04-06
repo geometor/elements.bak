@@ -1,0 +1,191 @@
+{
+    "id": "elem.2.4",
+    "n": 4,
+    "type": "proposition",
+    "enunciation": "`If a straight line be cut at random`, `the square on the whole is equal to the squares on the segments and twice the rectangle contained by the segments`.",
+    "proof": [
+        {
+            "text": "For let the straight line `AB` be cut at random at `C`; `AB` is equal to the squares on `AC`, `CB` and twice the rectangle contained by `AC`, `CB`.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "C",
+                "AB",
+                "AC",
+                "CB",
+                "AC",
+                "CB"
+            ]
+        },
+        {
+            "text": "For let the square `ADEB` be described on `AB`, [elem.1.46] `BD` be joined; through `C` let `CF` be drawn parallel to either `AD` or `EB`, and through `G` let `HK` be drawn parallel to either `AB` or `DE`. [elem.1.31]",
+            "refs": [
+                "elem.1.46",
+                "elem.1.31"
+            ],
+            "emphs": [
+                "ADEB",
+                "AB",
+                "BD",
+                "C",
+                "CF",
+                "AD",
+                "EB",
+                "G",
+                "HK",
+                "AB",
+                "DE"
+            ]
+        },
+        {
+            "text": "Then, since `CF` is parallel to `AD`, and `BD` has fallen on them, the exterior angle `CGB` is equal to the interior and opposite angle `ADB`. [elem.1.29]",
+            "refs": [
+                "elem.1.29"
+            ],
+            "emphs": [
+                "CF",
+                "AD",
+                "BD",
+                "CGB",
+                "ADB"
+            ]
+        },
+        {
+            "text": "But the angle `ADB` is equal to the angle `ABD`,  therefore the angle `CGB` is also equal to the angle `GBC`, so that the side `BC` is also equal to the side `CG`. [elem.1.6]",
+            "refs": [
+                "elem.1.6"
+            ],
+            "emphs": [
+                "ADB",
+                "ABD",
+                "CGB",
+                "GBC",
+                "BC",
+                "CG"
+            ]
+        },
+        {
+            "text": "But `CB` is equal to `GK`, and `CG` to `KB`; [elem.1.34]",
+            "refs": [
+                "elem.1.34"
+            ],
+            "emphs": [
+                "CB",
+                "GK",
+                "CG",
+                "KB"
+            ]
+        },
+        {
+            "text": "I say next that it is also right-angled.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since `CG` is parallel to `BK`,",
+            "refs": [],
+            "emphs": [
+                "CG",
+                "BK"
+            ]
+        },
+        {
+            "text": "But the angle `KBC` is right;",
+            "refs": [],
+            "emphs": [
+                "KBC"
+            ]
+        },
+        {
+            "text": "Therefore `CGKB` is right-angled; and it was also proved equilateral;",
+            "refs": [],
+            "emphs": [
+                "CGKB"
+            ]
+        },
+        {
+            "text": "For the same reason",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the squares `HF`, `KC` are the squares on `AC`, `CB`.",
+            "refs": [],
+            "emphs": [
+                "HF",
+                "KC",
+                "AC",
+                "CB"
+            ]
+        },
+        {
+            "text": "Now, since `AG` is equal to `GE`, and `AG` is the rectangle `AC`, `CB`, for `GC` is equal to `CB`,",
+            "refs": [],
+            "emphs": [
+                "AG",
+                "GE",
+                "AG",
+                "AC",
+                "CB",
+                "GC",
+                "CB"
+            ]
+        },
+        {
+            "text": "Therefore `AG`, `GE` are equal to twice the rectangle `AC`, `CB`.",
+            "refs": [],
+            "emphs": [
+                "AG",
+                "GE",
+                "AC",
+                "CB"
+            ]
+        },
+        {
+            "text": "But the squares `HF`, `CK` are also the squares on `AC`, `CB`; therefore the four areas `HF`, `CK`, `AG`, `GE` are equal to the squares on `AC`, `CB` and twice the rectangle contained by `AC`, `CB`.",
+            "refs": [],
+            "emphs": [
+                "HF",
+                "CK",
+                "AC",
+                "CB",
+                "HF",
+                "CK",
+                "AG",
+                "GE",
+                "AC",
+                "CB",
+                "AC",
+                "CB"
+            ]
+        },
+        {
+            "text": "But `HF`, `CK`, `AG`, `GE` are the whole `ADEB`, `AB`.",
+            "refs": [],
+            "emphs": [
+                "HF",
+                "CK",
+                "AG",
+                "GE",
+                "ADEB",
+                "AB"
+            ]
+        },
+        {
+            "text": "Therefore the square on `AB` is equal to the squares on `AC`, `CB` and twice the rectangle contained by `AC`, `CB`.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "AC",
+                "CB",
+                "AC",
+                "CB"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

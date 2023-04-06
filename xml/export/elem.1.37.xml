@@ -1,0 +1,25 @@
+<div3 id="elem.1.37" n="37" type="proposition">
+      <head>Proposition 37.</head>
+      <div4 type="Enunc">
+       <p>Triangles which are on the same base and in the same parallels are equal to one another.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABC</emph>, <emph>DBC</emph> be triangles on the same base <emph>BC</emph> and in the same parallels <emph>AD</emph>, <emph>BC</emph>; <emph>ABC</emph> is equal to the triangle <emph>DBC</emph>.</p>
+       <p>Let <emph>AD</emph> be produced in both directions to <emph>E</emph>, <emph>F</emph>; through <emph>B</emph> let <emph>BE</emph> be drawn parallel to <emph>CA</emph>, [<ref target="elem.1.31" targOrder="U">I. 31</ref>] <emph>C</emph> let <emph>CF</emph> be drawn parallel to <emph>BD</emph>. [<ref target="elem.1.31" targOrder="U">I. 31</ref>] </p>
+       <p>Then each of the figures <emph>EBCA</emph>, <emph>DBCF</emph> is a parallelogram; and they are equal, </p>
+       <p>for they are on the same base <emph>BC</emph> and in the same parallels <emph>BC</emph>, <emph>EF</emph>. [<ref target="elem.1.35" targOrder="U">I. 35</ref>]</p>
+       <p>Moreover the triangle <emph>ABC</emph> is half of the parallelogram <emph>EBCA</emph>; for the diameter <emph>AB</emph> bisects it. [<ref target="elem.1.34" targOrder="U">I. 34</ref>]</p>
+       <p>And the triangle <emph>DBC</emph> is half of the parallelogram <emph>DBCF</emph>; <emph>DC</emph> bisects it. [<ref target="elem.1.34" targOrder="U">I. 34</ref>]</p>
+       <p>[But the halves of equal things are equal to one another.]</p>
+       <p>Therefore the triangle <emph>ABC</emph> is equal to the triangle <emph>DBC</emph>.</p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="21" type="crit" place="unspecified" anchored="yes">
+       <p>Here and in the next proposition Heiberg brackets the words <quote>But the halves of equal things are equal to one another</quote>
+ on the ground that, since the <title>Common Notion</title> which asserted this fact was interpolated at a very early date (before the time of Theon), it is probable that the words here were interpolated at the same time. Cf. note above (p. 224) on the interpolated <title>Common Notion</title>.</p>
+      </note>
+     </div3>
+     

@@ -1,0 +1,23 @@
+<div3 id="elem.6.18" n="18" type="proposition">
+      <head>PROPOSITION 18.</head>
+      <p><emph>On a given straight line to describe a rectilineal figure similar and similarly situated to a given rectilineal figure</emph>. </p>
+      <p>Let <emph>AB</emph> be the given straight line and <emph>CE</emph> the given rectilineal figure; thus it is required to describe on the straight line <emph>AB</emph> a rectilineal figure similar and similarly situated to the rectilineal figure <emph>CE</emph>. </p>
+      <p>Let <emph>DF</emph> be joined, and on the straight line <emph>AB</emph>, and at the points <emph>A</emph>, <emph>B</emph> on it, let the angle <emph>GAB</emph> be constructed equal to the angle at <emph>C</emph>, and the angle <emph>ABG</emph> equal to the angle <emph>CDF</emph>. [<ref target="elem.1.23" targOrder="U">I. 23</ref>] </p>
+      <p>Therefore the remaining angle <emph>CFD</emph> is equal to the angle <emph>AGB</emph>; [<ref target="elem.1.32" targOrder="U">I. 32</ref>] <hi rend="center">therefore the triangle <emph>FCD</emph> is equiangular with the triangle <emph>GAB</emph>.</hi>
+      </p>
+      <p>Therefore, proportionally, as <emph>FD</emph> is to <emph>GB</emph>, so is <emph>FC</emph> to <emph>GA</emph>, and <emph>CD</emph> to <emph>AB</emph>. </p>
+      <p>Again, on the straight line <emph>BG</emph>, and at the points <emph>B</emph>, <emph>G</emph> on it, let the angle <emph>BGH</emph> be constructed equal to the angle <emph>DFE</emph>, and the angle <emph>GBH</emph> equal to the angle <emph>FDE</emph>. [<ref target="elem.1.23" targOrder="U">I. 23</ref>] </p>
+      <p>Therefore the remaining angle at <emph>E</emph> is equal to the remaining angle at <emph>H</emph>; [<ref target="elem.1.32" targOrder="U">I. 32</ref>] <hi rend="center">therefore the triangle <emph>FDE</emph> is equiangular with the triangle <emph>GBH</emph>; therefore, proportionally, as <emph>FD</emph> is to <emph>GB</emph>, so is <emph>FE</emph> to <emph>GH</emph>, and <emph>ED</emph> to <emph>HB</emph>. [<ref target="elem.6.4" targOrder="U">VI. 4</ref>]</hi>
+      </p>
+      <p>But it was also proved that, as <emph>FD</emph> is to <emph>GB</emph>, so is <emph>FC</emph> to <emph>GA</emph>, and <emph>CD</emph> to <emph>AB</emph>; <hi rend="center">therefore also, as <emph>FC</emph> is to <emph>AG</emph>, so is <emph>CD</emph> to <emph>AB</emph>, and <emph>FE</emph> to <emph>GH</emph>, and further <emph>ED</emph> to <emph>HB</emph>.</hi>
+      </p>
+      <p>And, since the angle <emph>CFD</emph> is equal to the angle <emph>AGB</emph>, and the angle <emph>DFE</emph> to the angle <emph>BGH</emph>, therefore the whole angle <emph>CFE</emph> is equal to the whole angle <emph>AGH</emph>. </p>
+      <p>For the same reason <hi rend="center">the angle <emph>CDE</emph> is also equal to the angle <emph>ABH</emph>.</hi>
+      </p>
+      <p>And the angle at <emph>C</emph> is also equal to the angle at <emph>A</emph>, <hi rend="center">and the angle at <emph>E</emph> to the angle at <emph>H</emph>.</hi>
+      </p>
+      <p>Therefore <emph>AH</emph> is equiangular with <emph>CE</emph>; and they have the sides about their equal angles proportional; <hi rend="center">therefore the rectilineal figure <emph>AH</emph> is similar to the rectilineal figure <emph>CE</emph>. [<ref target="elem.6.def.1" targOrder="U">VI. Def. 1</ref>]</hi>
+      </p>
+      <p>Therefore on the given straight line <emph>AB</emph> the rectilineal figure <emph>AH</emph> has been described similar and similarly situated to the given rectilineal figure <emph>CE</emph>. Q. E. F.</p>
+     </div3>
+     

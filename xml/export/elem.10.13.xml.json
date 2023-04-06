@@ -1,0 +1,35 @@
+{
+    "id": "elem.10.13",
+    "n": 13,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let ,  be two commensurable magnitudes, and let one of them, , be incommensurable with any other magnitude ; I say that the remaining one, , will also be incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  is commensurable with , while  is also commensurable with ,  is also commensurable with . [elem.10.12]",
+            "refs": [
+                "elem.10.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it is also incommensurable with it: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is not commensurable with ; therefore it is incommensurable with it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

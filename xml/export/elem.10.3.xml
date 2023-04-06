@@ -1,0 +1,29 @@
+<div3 id="elem.10.3" n="3" type="propositions i&#x2014;47">
+      <head>PROPOSITION 3.</head>
+      <p><hi rend="ital">Given two commensurable magnitudes, to find their greatest common measure</hi>. </p>
+      <p>Let the two given commensurable magnitudes be <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> of which <hi rend="ital">AB</hi> is the less; thus it is required to find the greatest common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Now the magnitude <hi rend="ital">AB</hi> either measures <hi rend="ital">CD</hi> or it does not. </p>
+      <p>If then it measures it—and it measures itself also—<hi rend="ital">AB</hi> is a common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>And it is manifest that it is also the greatest; for a greater magnitude than the magnitude <hi rend="ital">AB</hi> will not measure <hi rend="ital">AB</hi>. </p>
+      <p>Next, let <hi rend="ital">AB</hi> not measure <hi rend="ital">CD</hi>. </p>
+      <p>Then, if the less be continually subtracted in turn from the greater, that which is left over will sometime measure the one before it, because <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are not incommensurable; [cf. <ref target="elem.10.2" targOrder="U">X. 2</ref>] let <hi rend="ital">AB</hi>, measuring <hi rend="ital">ED</hi>, leave <hi rend="ital">EC</hi> less than itself, let <hi rend="ital">EC</hi>, measuring <hi rend="ital">FB</hi>, leave <hi rend="ital">AF</hi> less than itself, and let <hi rend="ital">AF</hi> measure <hi rend="ital">CE</hi>. </p>
+      <p>Since, then, <hi rend="ital">AF</hi> measures <hi rend="ital">CE</hi>, while <hi rend="ital">CE</hi> measures <hi rend="ital">FB</hi>, therefore <hi rend="ital">AF</hi> will also measure <hi rend="ital">FB</hi>. </p>
+      <p>But it measures itself also; therefore <hi rend="ital">AF</hi> will also measure the whole <hi rend="ital">AB</hi>. </p>
+      <p>But <hi rend="ital">AB</hi> measures <hi rend="ital">DE</hi>; therefore <hi rend="ital">AF</hi> will also measure <hi rend="ital">ED</hi>. </p>
+      <p>But it measures <hi rend="ital">CE</hi> also; therefore it also measures the whole <hi rend="ital">CD</hi>. </p>
+      <p>Therefore <hi rend="ital">AF</hi> is a common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>I say next that it is also the greatest. </p>
+      <p>For, if not, there will be some magnitude greater than <hi rend="ital">AF</hi> which will measure <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Let it be <hi rend="ital">G</hi>. </p>
+      <p>Since then <hi rend="ital">G</hi> measures <hi rend="ital">AB</hi>, while <hi rend="ital">AB</hi> measures <hi rend="ital">ED</hi>, therefore <hi rend="ital">G</hi> will also measure <hi rend="ital">ED</hi>. </p>
+      <p>But it measures the whole <hi rend="ital">CD</hi> also; therefore <hi rend="ital">G</hi> will also measure the remainder <hi rend="ital">CE</hi>. </p>
+      <p>But <hi rend="ital">CE</hi> measures <hi rend="ital">FB</hi>; therefore <hi rend="ital">G</hi> will also measure <hi rend="ital">FB</hi>. </p>
+      <p>But it measures the whole <hi rend="ital">AB</hi> also, and it will therefore measure the remainder <hi rend="ital">AF</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore no magnitude greater than <hi rend="ital">AF</hi> will measure <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>; therefore <hi rend="ital">AF</hi> is the greatest common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Therefore the greatest common measure of the two given commensurable magnitudes <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> has been found. Q. E. D. </p>
+      <div4 id="elem.10.3.p.1" type="porism">
+       <head>PORISM.</head>
+       <p>From this it is manifest that, if a magnitude measure two magnitudes, it will also measure their greatest common measure.</p>
+      </div4>
+     </div3>
+     

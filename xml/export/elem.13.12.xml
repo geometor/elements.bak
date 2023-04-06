@@ -1,0 +1,15 @@
+<div3 id="elem.13.12" n="12" type="proposition">
+      <head>PROPOSITION 12.</head>
+      <p><hi rend="ital">If an equilateral triangle be inscribed in a circle</hi>, <hi rend="ital">the square on the side of the triangle is triple of the square on the radius of the circle.</hi>
+       </p>
+      <p>Let <hi rend="ital">ABC</hi> be a circle, and let the equilateral triangle <hi rend="ital">ABC</hi> be inscribed in it; I say that the square on one side of the triangle <hi rend="ital">ABC</hi> is triple of the square on the radius of the circle. </p>
+      <p>For let the centre <hi rend="ital">D</hi> of the circle <hi rend="ital">ABC</hi> be taken, let <hi rend="ital">AD</hi> be joined and carried through to <hi rend="ital">E</hi>, and let <hi rend="ital">BE</hi> be joined. </p>
+      <p>Then, since the triangle <hi rend="ital">ABC</hi> is equilateral, therefore the circumference <hi rend="ital">BEC</hi> is a third part of the circumference of the circle <hi rend="ital">ABC</hi>. </p>
+      <p>Therefore the circumference <hi rend="ital">BE</hi> is a sixth part of the circumference of the circle; therefore the straight line <hi rend="ital">BE</hi> belongs to a hexagon; therefore it is equal to the radius <hi rend="ital">DE</hi>. [<ref target="elem.4.15.p.1" targOrder="U">IV. 15, Por.</ref>] </p>
+      <p>And, since <hi rend="ital">AE</hi> is double of <hi rend="ital">DE</hi>, the square on <hi rend="ital">AE</hi> is quadruple of the square on <hi rend="ital">ED</hi>, that is, of the square on <hi rend="ital">BE</hi>. </p>
+      <p>But the square on <hi rend="ital">AE</hi> is equal to the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BE</hi>; [<ref target="elem.3.31" targOrder="U">III. 31</ref>, <ref target="elem.1.47" targOrder="U">I. 47</ref>] therefore the squares on <hi rend="ital">AB</hi>, <hi rend="ital">BE</hi> are quadruple of the square on <hi rend="ital">BE</hi>. </p>
+      <p>Therefore, <foreign lang="la">separando</foreign>, the square on <hi rend="ital">AB</hi> is triple of the square on <hi rend="ital">BE</hi>. </p>
+      <p>But <hi rend="ital">BE</hi> is equal to <hi rend="ital">DE</hi>; therefore the square on <hi rend="ital">AB</hi> is triple of the square on <hi rend="ital">DE</hi>. </p>
+      <p>Therefore the square on the side of the triangle is triple of the square on the radius. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,12 @@
+<div3 id="elem.12.16" n="16" type="proposition">
+      <head>PROPOSITION 16.</head>
+      <p><hi rend="ital">Given two circles about the same centre</hi>, <hi rend="ital">to inscribe in the greater circle an equilateral polygon with an even number of sides which does not touch the lesser circle.</hi>
+       </p>
+      <p>Let <hi rend="ital">ABCD</hi>, <hi rend="ital">EFGH</hi> be the two given circles about the same centre <hi rend="ital">K</hi>; thus it is required to inscribe in the greater circle <hi rend="ital">ABCD</hi> an equilateral polygon with an even number of sides which does not touch the circle <hi rend="ital">EFGH</hi>. </p>
+      <p>For let the straight line <hi rend="ital">BKD</hi> be drawn through the centre <hi rend="ital">K</hi>, and from the point <hi rend="ital">G</hi> let <hi rend="ital">GA</hi> be drawn at right angles to the straight line <hi rend="ital">BD</hi> and carried through to <hi rend="ital">C</hi>; therefore <hi rend="ital">AC</hi> touches the circle <hi rend="ital">EFGH</hi>. [<ref target="elem.3.16.p.1" targOrder="U">III. 16, Por.</ref>] </p>
+      <p>Then, bisecting the circumference <hi rend="ital">BAD</hi>, bisecting the half of it, and doing this continually, we shall leave a circumference less than <hi rend="ital">AD</hi>. [<ref target="elem.10.1" targOrder="U">X. 1</ref>] </p>
+      <p>Let such be left, and let it be <hi rend="ital">LD</hi>; from <hi rend="ital">L</hi> let <hi rend="ital">LM</hi> be drawn perpendicular to <hi rend="ital">BD</hi> and carried through to <hi rend="ital">N</hi>, and let <hi rend="ital">LD</hi>, <hi rend="ital">DN</hi> be joined; therefore <hi rend="ital">LD</hi> is equal to <hi rend="ital">DN</hi>. [<ref target="elem.3.3" targOrder="U">III. 3</ref>, <ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>Now, since <hi rend="ital">LN</hi> is parallel to <hi rend="ital">AC</hi>, and <hi rend="ital">AC</hi> touches the circle <hi rend="ital">EFGH</hi>, therefore <hi rend="ital">LN</hi> does not touch the circle <hi rend="ital">EFGH</hi>; therefore <hi rend="ital">LD</hi>, <hi rend="ital">DN</hi> are far from touching the circle <hi rend="ital">EFGH</hi>. </p>
+      <p>If then we fit into the circle <hi rend="ital">ABCD</hi> straight lines equal to the straight line <hi rend="ital">LD</hi> and placed continuously, there will be inscribed in the circle <hi rend="ital">ABCD</hi> an equilateral polygon with an even number of sides which does not touch the lesser circle <hi rend="ital">EFGH</hi>. Q. E. F.</p>
+     </div3>
+     

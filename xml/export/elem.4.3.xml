@@ -1,0 +1,24 @@
+<div3 id="elem.4.3" n="3" type="proposition">
+      <head>PROPOSITION 3.</head>
+      <p><emph>About a given circle to circumscribe a triangle equiangular with a given triangle</emph>. </p>
+      <p>Let <emph>ABC</emph> be the given circle, and <emph>DEF</emph> the given triangle; <emph>ABC</emph> a triangle equiangular with the triangle <emph>DEF</emph>. </p>
+      <p>Let <emph>EF</emph> be produced in both directions to the points <emph>G</emph>, <emph>H</emph>, let the centre <emph>K</emph> of the circle <emph>ABC</emph> be taken [<ref target="elem.3.1" targOrder="U">III. 1</ref>], and let <emph>KB</emph> be drawn across at random; on the straight line <emph>KB</emph>, and at the point <emph>K</emph> on it, let the angle <emph>BKA</emph> be constructed equal to the angle <emph>DEG</emph>, and the angle <emph>BKC</emph> equal to the angle <emph>DFH</emph>; [<ref target="elem.1.23" targOrder="U">I. 23</ref>] and through the points <emph>A</emph>, <emph>B</emph>, <emph>C</emph> let <emph>LAM</emph>, <emph>MBN</emph>, <emph>NCL</emph> be <emph>ABC</emph>. [<ref target="elem.3.16.p.1" targOrder="U">III. 16, Por.</ref>] </p>
+      <p>Now, since <emph>LM</emph>, <emph>MN</emph>, <emph>NL</emph> touch the circle <emph>ABC</emph> at the points <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, and <emph>KA</emph>, <emph>KB</emph>, <emph>KC</emph> have been joined from the centre <emph>K</emph> to the points <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, <emph>A</emph>, <emph>B</emph>, <emph>C</emph> are right. [<ref target="elem.3.18" targOrder="U">III. 18</ref>] </p>
+      <p>And, since the four angles of the quadrilateral <emph>AMBK</emph> are equal to four right angles, inasmuch as <emph>AMBK</emph> is in fact divisible into two triangles, <hi rend="center">and the angles <emph>KAM</emph>, <emph>KBM</emph> are right,</hi>
+       <emph>AKB</emph>, <emph>AMB</emph> are equal to two right angles. </p>
+      <p>But the angles <emph>DEG</emph>, <emph>DEF</emph> are also equal to two right angles; [<ref target="elem.1.13" targOrder="U">I. 13</ref>] therefore the angles <emph>AKB</emph>, <emph>AMB</emph> are equal to the angles <emph>DEG</emph>, <emph>DEF</emph>, of which the angle <emph>AKB</emph> is equal to the angle <emph>DEG</emph>; <hi rend="center">therefore the angle <emph>AMB</emph> which remains is equal to the angle <emph>DEF</emph> which remains.</hi>
+      </p>
+      <p>Similarly it can be proved that the angle <emph>LNB</emph> is also <emph>DFE</emph>; <hi rend="center">therefore the remaining angle <emph>MLN</emph> is equal to the angle <emph>EDF</emph>. [<ref target="elem.1.32" targOrder="U">I. 32</ref>]</hi>
+      </p>
+      <p>Therefore the triangle <emph>LMN</emph> is equiangular with the triangle <emph>DEF</emph>; and it has been circumscribed about the <emph>ABC</emph>. </p>
+      <p>Therefore about a given circle there has been circumscribed a triangle equiangular with the given triangle. Q. E. F.
+<note n="10" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">at random</hi>, literally <quote>as it may chance,</quote>
+ <foreign lang="greek">ὡς ἕτυχεν</foreign>. The same expression is used in <ref target="elem.3.1" targOrder="U">III. 1</ref> and commonly.</p>
+       </note>
+       <note n="22" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">is in fact divisible</hi>, <foreign lang="greek">καὶ διαιρεῖται</foreign>, literally <quote>is actually divided.</quote>
+</p>
+       </note></p>
+     </div3>
+     

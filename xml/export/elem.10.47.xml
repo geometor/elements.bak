@@ -1,0 +1,23 @@
+<div3 id="elem.10.47" n="47" type="propositions i&#x2014;47">
+      <head>PROPOSITION 47.</head>
+      <p><hi rend="ital">The side of the sum of two medial areas is divided at one point only</hi>. </p>
+      <p>Let <hi rend="ital">AB</hi> be divided at <hi rend="ital">C</hi>, so that <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are incommensurable in square and make the sum of the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> medial, and the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> medial and also incommensurable with the sum of the squares on them; I say that <hi rend="ital">AB</hi> is not divided at another point so as to fulfil the given conditions. </p>
+      <p>For, if possible, let it be divided at <hi rend="ital">D</hi>, so that again <hi rend="ital">AC</hi> is of course not the same as <hi rend="ital">BD</hi>, but <hi rend="ital">AC</hi> is supposed greater; let a rational straight line <hi rend="ital">EF</hi> be set out, and let there be applied to <hi rend="ital">EF</hi> the rectangle <hi rend="ital">EG</hi> equal to the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, and the rectangle <hi rend="ital">HK</hi> equal to twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>; therefore the whole <hi rend="ital">EK</hi> is equal to the square on <hi rend="ital">AB</hi>. [<ref target="elem.2.4" targOrder="U">II. 4</ref>
+] </p>
+      <p>Again, let <hi rend="ital">EL</hi>, equal to the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>, be applied to <hi rend="ital">EF</hi>; therefore the remainder, twice the rectangle <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi>, is equal to the remainder <hi rend="ital">MK</hi>. </p>
+      <p>And since, by hypothesis, the sum of the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> is medial, therefore <hi rend="ital">EG</hi> is also medial. </p>
+      <p>And it is applied to the rational straight line <hi rend="ital">EF</hi>; therefore <hi rend="ital">HE</hi> is rational and incommensurable in length with <hi rend="ital">EF</hi>. [<ref target="elem.10.22" targOrder="U">X. 22</ref>
+] </p>
+      <p>For the same reason <hi rend="ital">HN</hi> is also rational and incommensurable in length with <hi rend="ital">EF</hi>. </p>
+      <p>And, since the sum of the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> is incommensurable with twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>, therefore <hi rend="ital">EG</hi> is also incommensurable with <hi rend="ital">GN</hi>, so that <hi rend="ital">EH</hi> is also incommensurable with <hi rend="ital">HN</hi>. [<ref target="elem.6.1" targOrder="U">VI. 1</ref>
+, <ref target="elem.10.11" targOrder="U">X. 11</ref>
+] </p>
+      <p>And they are rational; <hi rend="ital">EH</hi>, <hi rend="ital">HN</hi> are rational straight lines commensurable in square only; therefore <hi rend="ital">EN</hi> is a binomial straight line divided at <hi rend="ital">H</hi>. [<ref target="elem.10.36" targOrder="U">X. 36</ref>
+] </p>
+      <p>Similarly we can prove that it is also divided at <hi rend="ital">M.</hi>
+      </p>
+      <p>And <hi rend="ital">EH</hi> is not the same with <hi rend="ital">MN</hi>; therefore a binomial has been divided at different points: which is absurd. [<ref target="elem.10.42" targOrder="U">X. 42</ref>
+] </p>
+      <p>Therefore a side of the sum of two medial areas is not divided at different points; therefore it is divided at one point only.</p>
+     </div3>
+    

@@ -1,0 +1,30 @@
+<div3 id="elem.1.43" n="43" type="proposition">
+      <head>Proposition 43.</head>
+      <div4 type="Enunc">
+       <p>In any parallelogram the complements of the parallelograms about the diameter are equal to one another.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABCD</emph> be a parallelogram, and <emph>AC</emph> its diameter; and about <emph>AC</emph> let <emph>EH</emph>, <emph>FG</emph> be parallelograms, and <emph>BK</emph>, <emph>KD</emph>
+        </p>
+       <p>I say that the complement <emph>BK</emph> is equal to the complement <emph>KD</emph>.</p>
+       <p>For, since <emph>ABCD</emph> is a parallelogram, and <emph>AC</emph> its diameter, <hi rend="center">the triangle <emph>ABC</emph> is equal to <emph>ACD</emph>. [<ref target="elem.1.34" targOrder="U">I. 34</ref>]</hi></p>
+       <p>Again, since <emph>EH</emph> is a parallelogram, and <emph>AK</emph> is its diameter, <hi rend="center">the triangle <emph>AEK</emph> is equal to the triangle <emph>AHK</emph>.</hi>
+        <hi rend="center">the triangle <emph>KFC</emph> is also equal to <emph>KGC</emph>.</hi></p>
+       <p>Now, since the triangle <emph>AEK</emph> is equal to the triangle <emph>AHK</emph>, <hi rend="center">and <emph>KFC</emph> to <emph>KGC</emph>,</hi>
+        <emph>AEK</emph> together with <emph>KGC</emph> is equal to the triangle <emph>AHK</emph> together with <emph>KFC</emph>. [<ref target="elem.1.c.n.2" targOrder="U">C.N. 2</ref>]</p>
+       <p>And the whole triangle <emph>ABC</emph> is also equal to the whole <emph>ADC</emph>; therefore the complement <emph>BK</emph> which remains is equal to the <emph>KD</emph> which remains. [<ref target="elem.1.c.n.3" targOrder="U">C.N. 3</ref>]</p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="1" type="crit" place="unspecified" anchored="yes">
+       <p><hi rend="bold">complements</hi>, <foreign lang="greek">παραπληρώματα</foreign>, the figures put in to fill up (interstices).</p>
+      </note>
+      <note n="4. and about AC...." type="crit" place="unspecified" anchored="yes">
+       <p>Euclid's phraseology here and in the next proposition implies that the complements as well as the other parallelograms are <quote>about</quote>
+ the diagonal. The words are here <foreign lang="greek">περὶ δὲ τὴν ΑΓ παραλληλόγραμμα μὲν ἔστω τὰ ΕΘ, ΖΗ, τὰ δὲ λεγόμενα παραπληρώματα τὰ ΒΚ, ΚΔ</foreign>. The expression <quote>the so-called complements</quote>
+ indicates that this technical use of <foreign lang="greek">παραπληρώματα</foreign> was not new, though it might not be universally known.</p>
+      </note>
+     </div3>
+     

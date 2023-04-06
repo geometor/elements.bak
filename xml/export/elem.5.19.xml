@@ -1,0 +1,18 @@
+<div3 id="elem.5.19" n="19" type="proposition">
+      <head>PROPOSITION 19</head>
+      <p><emph>If, as a whole is to a whole, so is a part subtracted to a part subtracted</emph>, <emph>the remainder will also be to the remainder as whole to whole</emph>. </p>
+      <p>For, as the whole <emph>AB</emph> is to the whole <emph>CD</emph>, so let the part <emph>AE</emph> subtracted be to the part <emph>CF</emph> subtracted; I say that the remainder <emph>EB</emph> will also be to the remainder <emph>FD</emph> as the whole <emph>AB</emph> to the whole <emph>CD</emph>. </p>
+      <p>For since, as <emph>AB</emph> is to <emph>CD</emph>, so is <emph>AE</emph> to <emph>CF</emph>, alternately also, as <emph>BA</emph> is to <emph>AE</emph>, so is <emph>DC</emph> to <emph>CF</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>] </p>
+      <p>And, since the magnitudes are proportional <emph>componendo</emph>, they will also be proportional <emph>separando</emph>, [<ref target="elem.5.17" targOrder="U">V. 17</ref>] that is, as <emph>BE</emph> is to <emph>EA</emph>, so is <emph>DF</emph> to <emph>CF</emph>, and, alternately, <hi rend="center">as <emph>BE</emph> is to <emph>DF</emph>, so is <emph>EA</emph> to <emph>FC</emph>. [<ref target="elem.5.16" targOrder="U">V. 16</ref>]</hi>
+      </p>
+      <p>But, as <emph>AE</emph> is to <emph>CF</emph>, so by hypothesis is the whole <emph>AB</emph> to the whole <emph>CD</emph>. </p>
+      <p>Therefore also the remainder <emph>EB</emph> will be to the remainder <emph>FD</emph> as the whole <emph>AB</emph> is to the whole <emph>CD</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore etc. 
+[</p>
+      <div4 id="elem.5.19.p.1" type="porism">
+       <head>PORISM.</head>
+       <p>From this it is manifest that, if magnitudes be proportional <foreign lang="la">componendo</foreign>, they will also be proportional <foreign lang="la">convertendo</foreign>.</p>
+      </div4>
+      <trailer>] Q. E. D.</trailer>
+     </div3>
+     

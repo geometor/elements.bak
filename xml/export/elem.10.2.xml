@@ -1,0 +1,17 @@
+<div3 id="elem.10.2" n="2" type="propositions i&#x2014;47">
+      <head>PROPOSITION 2.</head>
+      <p>
+       <hi rend="ital">If, when the less of two unequal magnitudes is continually subtracted in turn from the greater, that which is left never measures the one before it, the magnitudes will be incommensurable.</hi>
+      </p>
+      <p>For, there being two unequal magnitudes <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, and <hi rend="ital">AB</hi> being the less, when the less is continually subtracted in turn from the greater, let that which is left over never measure the one before it; I say that the magnitudes <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are incommensurable. </p>
+      <p>For, if they are commensurable, some magnitude will measure them. </p>
+      <p>Let a magnitude measure them, if possible, and let it be <hi rend="ital">E</hi>; let <hi rend="ital">AB</hi>, measuring <hi rend="ital">FD</hi>, leave <hi rend="ital">CF</hi> less than itself, let <hi rend="ital">CF</hi> measuring <hi rend="ital">BG</hi>, leave <hi rend="ital">AG</hi> less than itself, and let this process be repeated continually, until there is left some magnitude which is less than <hi rend="ital">E</hi>. </p>
+      <p>Suppose this done, and let there be left <hi rend="ital">AG</hi> less than <hi rend="ital">E</hi>. </p>
+      <p>Then, since <hi rend="ital">E</hi> measures <hi rend="ital">AB</hi>, while <hi rend="ital">AB</hi> measures <hi rend="ital">DF</hi>, therefore <hi rend="ital">E</hi> will also measure <hi rend="ital">FD</hi>. </p>
+      <p>But it measures the whole <hi rend="ital">CD</hi> also; therefore it will also measure the remainder <hi rend="ital">CF</hi>. </p>
+      <p>But <hi rend="ital">CF</hi> measures <hi rend="ital">BG</hi>; therefore <hi rend="ital">E</hi> also measures <hi rend="ital">BG</hi>. </p>
+      <p>But it measures the whole <hi rend="ital">AB</hi> also; therefore it will also measure the remainder <hi rend="ital">AG</hi>, the greater the less: which is impossible. </p>
+      <p>Therefore no magnitude will measure the magnitudes <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>; therefore the magnitudes <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are incommensurable. </p>
+      <p>Therefore etc. [<ref target="elem.10.def.1" targOrder="U">X. Def. 1</ref>]</p>
+     </div3>
+     

@@ -1,0 +1,27 @@
+<div3 id="elem.4.4" n="4" type="proposition">
+      <head>PROPOSITION 4.</head>
+      <p><emph>In a given triangle to inscribe a circle</emph>. </p>
+      <p>Let <emph>ABC</emph> be the given triangle; thus it is required to inscribe a circle in the triangle <emph>ABC</emph>. </p>
+      <p>Let the angles <emph>ABC</emph>, <emph>ACB</emph>
+       <emph>BD</emph>, <emph>CD</emph> [<ref target="elem.1.9" targOrder="U">I. 9</ref>], and let these meet one another at the point <emph>D</emph>; from <emph>D</emph> let <emph>DE</emph>, <emph>DF</emph>, <emph>DG</emph> be drawn perpendicular to the straight <emph>AB</emph>, <emph>BC</emph>, <emph>CA</emph>. </p>
+      <p>Now, since the angle <emph>ABD</emph> is equal to the angle <emph>CBD</emph>, and the right angle <emph>BED</emph> is also equal to the right angle <emph>BFD</emph>, <emph>EBD</emph>, <emph>FBD</emph> are two triangles having two angles equal to two angles and one side equal to one side, namely that subtending one of the equal angles, which is <emph>BD</emph> common to the triangles; <hi rend="center">therefore they will also have the remaining sides equal to <ref target="elem.1.26" targOrder="U">I. 26</ref>]</hi>
+       <hi rend="center">therefore <emph>DE</emph> is equal to <emph>DF</emph>.</hi>
+      </p>
+      <p>For the same reason <hi rend="center"><emph>DG</emph> is also equal to <emph>DF</emph>.</hi>
+      </p>
+      <p>Therefore the three straight lines <emph>DE</emph>, <emph>DF</emph>, <emph>DG</emph> are equal <hi rend="center">therefore the circle described with centre <emph>D</emph> and distance one of the straight lines <emph>DE</emph>, <emph>DF</emph>, <emph>DG</emph> will pass also through the remaining points, and will touch the straight lines <emph>AB</emph>, <emph>BC</emph>, <emph>CA</emph>, because the angles at the points <emph>E</emph>, <emph>F</emph>, <emph>G</emph>
+        </hi>
+      </p>
+      <p>For, if it cuts them, the straight line drawn at right angles to the diameter of the circle from its extremity will be found to fall within the circle : which was proved absurd; [<ref target="elem.3.16" targOrder="U">III. 16</ref>] <hi rend="center">therefore the circle described with centre <emph>D</emph> and distance <emph>DE</emph>, <emph>DF</emph>, <emph>DG</emph> will not cut the straight lines <emph>AB</emph>, <emph>BC</emph>, <emph>CA</emph>;</hi>
+       <hi rend="center">therefore it will touch them, and will be the circle inscribed in the triangle <emph>ABC</emph>. [<ref target="elem.4.def.5" targOrder="U">IV. Def. 5</ref>]</hi>
+      </p>
+      <p>Let it be inscribed, as <emph>FGE</emph>. </p>
+      <p>Therefore in the given triangle <emph>ABC</emph> the circle <emph>EFG</emph> has been inscribed. Q. E. F.
+<note n="26, 34" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">and distance one of the (straight lines D)E, (D)F, (D)G.</hi> The words and letters here shown in brackets are put in to fill out the rather careless language of the Greek. Here and in several other places in Book IV. Euclid says literally <quote>and with distance one of the (points) <emph>E</emph>, <emph>F</emph>, <emph>G</emph></quote>
+ (<foreign lang="greek">καὶ διαστήματι ὲνὶ τῶν</foreign> E, Z, H) and the like. In one case (<ref target="elem.4.13" targOrder="U">IV. 13</ref>) he actually has <quote>with distance one of the <emph>points G</emph>, <emph>H</emph>, <emph>K</emph>, <emph>L</emph>, <emph>M</emph></quote>
+ (<foreign lang="greek">διαστήματι ὲνὶ τῶν Η, Θ, Κ, Λ, Μ σημείων</foreign>). Heiberg notes <quote>Graecam locutionem satis miram et negligentem,</quote>
+ but, in view of its frequent occurrence in good MSS., does not venture to correct it.</p>
+       </note></p>
+     </div3>
+     

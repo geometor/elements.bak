@@ -1,0 +1,18 @@
+<div3 id="elem.1.36" n="36" type="proposition">
+      <head>Proposition 36.</head>
+      <div4 type="Enunc">
+       <p>Parallelograms which are on equal bases and in the same parallels are equal to one another.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>ABCD</emph>, <emph>EFGH</emph> be parallelograms which are on equal bases <emph>BC</emph>, <emph>FG</emph> and in the same parallels <emph>AH</emph>, <emph>BG</emph>; <emph>ABCD</emph> is equal to <emph>EFGH</emph>.</p>
+       <p>For let <emph>BE</emph>, <emph>CH</emph> be joined.</p>
+       <p>Then, since <emph>BC</emph> is equal to <emph>FG</emph> while <emph>FG</emph> is equal to <emph>EH</emph>, <hi rend="center"><emph>BC</emph> is also equal to <emph>EH</emph>. [<ref target="elem.1.c.n.1" targOrder="U">C.N. 1</ref>]</hi></p>
+       <p>But they are also parallel.</p>
+       <p>And <emph>EB</emph>, <emph>HC</emph> join them; but straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are equal and parallel. [<ref target="elem.1.33" targOrder="U">I. 33</ref>]</p>
+       <p>Therefore <emph>EBCH</emph> is a parallelogram. [<ref target="elem.1.34" targOrder="U">I. 34</ref>]</p>
+       <p>And it is equal to <emph>ABCD</emph>; for it has the same base <emph>BC</emph> with it, and is in the same parallels <emph>BC</emph>, <emph>AH</emph> with it. [<ref target="elem.1.35" targOrder="U">I. 35</ref>]</p>
+       <p>For the same reason also <emph>EFGH</emph> is equal to the same <emph>EBCH</emph>; [<ref target="elem.1.35" targOrder="U">I. 35</ref>] so that the parallelogram <emph>ABCD</emph> is also equal to <emph>EFGH</emph>. [<ref target="elem.1.c.n.1" targOrder="U">C.N. 1</ref>]</p>
+       <p>Therefore etc. Q. E. D.</p>
+      </div4>
+     </div3>
+     

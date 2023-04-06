@@ -1,0 +1,116 @@
+{
+    "id": "elem.5.3",
+    "n": 3,
+    "type": "proposition",
+    "enunciation": "`If a first magnitude be the same multiple of a second that a third is of a fourth`, `and if equimultiples be taken of the first and third`, `then also` ex aequali `the magnitudes taken will be equimultiples respectively`, `the one of the second and the other of the fourth`.",
+    "proof": [
+        {
+            "text": "Let a first magnitude `A` be the same multiple of a second `B` that a third `C` is of a fourth `D`, and let equimultiples `EF`, `GH` be taken of `A`, `C`; I say that `EF` is the same multiple of `B` that `GH` is of `D`.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "EF",
+                "GH",
+                "A",
+                "C",
+                "EF",
+                "B",
+                "GH",
+                "D"
+            ]
+        },
+        {
+            "text": "For, since `EF` is the same multiple of `A` that `GH` is of `C`, therefore, as many magnitudes as there are in `EF` equal to `A`, so many also are there in `GH` equal to `C`.",
+            "refs": [],
+            "emphs": [
+                "EF",
+                "A",
+                "GH",
+                "C",
+                "EF",
+                "A",
+                "GH",
+                "C"
+            ]
+        },
+        {
+            "text": "Let `EF` be divided into the magnitudes `EK`, `KF` equal to `A`, and `GH` into the magnitudes `GL`, `LH` equal to `C`; then the multitude of the magnitudes `EK`, `KF` will be equal to the multitude of the magnitudes `GL`, `LH`.",
+            "refs": [],
+            "emphs": [
+                "EF",
+                "EK",
+                "KF",
+                "A",
+                "GH",
+                "GL",
+                "LH",
+                "C",
+                "EK",
+                "KF",
+                "GL",
+                "LH"
+            ]
+        },
+        {
+            "text": "And, since `A` is the same multiple of `B` that `C` is of `D`, while `EK` is equal to `A`, and `GL` to `C`, therefore `EK` is the same multiple of `B` that `GL` is of `D`.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "EK",
+                "A",
+                "GL",
+                "C",
+                "EK",
+                "B",
+                "GL",
+                "D"
+            ]
+        },
+        {
+            "text": "For the same reason",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "`KF` is the same multiple of `B` that `LH` is of `D`.",
+            "refs": [],
+            "emphs": [
+                "KF",
+                "B",
+                "LH",
+                "D"
+            ]
+        },
+        {
+            "text": "Since, then, a first magnitude `EK` is the same multiple of a second `B` that a third `GL` is of a fourth `D`, and a fifth `KF` is also the same multiple of the second `B` that a sixth `LH` is of the fourth `D`, therefore the sum of the first and fifth, `EF`, is also the same multiple of the second `B` that the sum of the third and sixth, `GH`, is of the fourth `D`. [elem.5.2]",
+            "refs": [
+                "elem.5.2"
+            ],
+            "emphs": [
+                "EK",
+                "B",
+                "GL",
+                "D",
+                "KF",
+                "B",
+                "LH",
+                "D",
+                "EF",
+                "B",
+                "GH",
+                "D"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+<div3 id="elem.9.4" n="4" type="proposition">
+      <head>PROPOSITION 4.</head>
+      <p>
+       <hi rend="ital">If a cube number by multiplying a cube number make some number, the product will be cube.</hi>
+      </p>
+      <p>For let the cube number <hi rend="ital">A</hi> by multiplying the cube number <hi rend="ital">B</hi> make <hi rend="ital">C</hi>; I say that <hi rend="ital">C</hi> is cube. </p>
+      <p>For let <hi rend="ital">A</hi> by multiplying itself make <hi rend="ital">D</hi>; therefore <hi rend="ital">D</hi> is cube. [<ref target="elem.9.3" targOrder="U">IX. 3</ref>] </p>
+      <p>And, since <hi rend="ital">A</hi> by multiplying itself has made <hi rend="ital">D</hi>, and by multiplying <hi rend="ital">B</hi> has made <hi rend="ital">C</hi> therefore, as <hi rend="ital">A</hi> is to <hi rend="ital">B</hi>, so is <hi rend="ital">D</hi> to <hi rend="ital">C</hi>. [<ref target="elem.7.17" targOrder="U">VII. 17</ref>] </p>
+      <p>And, since <hi rend="ital">A</hi>, <hi rend="ital">B</hi> are cube numbers, <hi rend="ital">A</hi>, <hi rend="ital">B</hi> are similar solid numbers. </p>
+      <p>Therefore two mean proportional numbers fall between <hi rend="ital">A</hi>, <hi rend="ital">B</hi>; [<ref target="elem.8.19" targOrder="U">VIII. 19</ref>] so that two mean proportional numbers will fall between <hi rend="ital">D</hi>, <hi rend="ital">C</hi> also. [<ref target="elem.8.8" targOrder="U">VIII. 8</ref>] </p>
+      <p>And <hi rend="ital">D</hi> is cube; therefore <hi rend="ital">C</hi> is also cube [<ref target="elem.8.23" targOrder="U">VIII. 23</ref>] Q. E. D.</p>
+     </div3>
+     

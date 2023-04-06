@@ -1,0 +1,129 @@
+{
+    "id": "elem.3.31",
+    "n": 31,
+    "type": "proposition",
+    "enunciation": "`In a circle the angle in the semicircle is right`, `that in a greater segment less than a right angle`, `and that in a less segment greater than a right angle; and further the angle of the greater segment is greater than a right angle`, `and the angle of the less segment less than a right angle`.",
+    "proof": [
+        {
+            "text": "Let `ABCD` be a circle, let `BC` be its diameter, and `E` its centre, and let `BA`, `AC`, `AD`, `DC` be joined; I say that the angle `BAC` in the semicircle `BAC` is right, the angle `ABC` in the segment `ABC` greater than the semicircle is less `ADC` in the segment `ADC` less than the semicircle is greater than a right angle.",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "BC",
+                "E",
+                "BA",
+                "AC",
+                "AD",
+                "DC",
+                "BAC",
+                "BAC",
+                "ABC",
+                "ABC",
+                "ADC",
+                "ADC"
+            ]
+        },
+        {
+            "text": "Let `AE` be joined, and let `BA` be carried through to `F`.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "BA",
+                "F"
+            ]
+        },
+        {
+            "text": "Then, since `BE` is equal to `EA`,",
+            "refs": [],
+            "emphs": [
+                "BE",
+                "EA"
+            ]
+        },
+        {
+            "text": "Again, since `CE` is equal to `EA`,",
+            "refs": [],
+            "emphs": [
+                "CE",
+                "EA"
+            ]
+        },
+        {
+            "text": "Therefore the whole angle `BAC` is equal to the two angles `ABC`, `ACB`.",
+            "refs": [],
+            "emphs": [
+                "BAC",
+                "ABC",
+                "ACB"
+            ]
+        },
+        {
+            "text": "But the angle `FAC` exterior to the triangle `ABC` is also equal to the two angles `ABC`, `ACB`; [elem.1.32]",
+            "refs": [
+                "elem.1.32"
+            ],
+            "emphs": [
+                "FAC",
+                "ABC",
+                "ABC",
+                "ACB"
+            ]
+        },
+        {
+            "text": "Next, since in the triangle `ABC` the two angles `ABC`, `BAC` are less than two right angles, [elem.1.17] and the angle `BAC` is a right angle,  and it is the angle in the segment `ABC` greater than the semicircle.",
+            "refs": [
+                "elem.1.17"
+            ],
+            "emphs": [
+                "ABC",
+                "ABC",
+                "BAC",
+                "BAC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Next, since `ABCD` is a quadrilateral in a circle, and the opposite angles of quadrilaterals in circles are equal to two right angles, [elem.3.22] while the angle `ABC` is less than a right angle, therefore the angle `ADC` which remains is greater than a right angle; and it is the angle in the segment `ADC` less than the semicircle.",
+            "refs": [
+                "elem.3.22"
+            ],
+            "emphs": [
+                "ABCD",
+                "ABC",
+                "ADC",
+                "ADC"
+            ]
+        },
+        {
+            "text": "I say further that the angle of the greater segment, namely that contained by the circumference `ABC` and the straight line `AC`, is greater than a right angle; and the angle of the less segment, namely that contained by the circumference `ADC` and the straight line `AC`, is less than a right angle.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "AC",
+                "ADC",
+                "AC"
+            ]
+        },
+        {
+            "text": "This is at once manifest. For, since the angle contained by the straight lines `BA`, `AC` is right,",
+            "refs": [],
+            "emphs": [
+                "BA",
+                "AC"
+            ]
+        },
+        {
+            "text": "Again, since the angle contained by the straight lines `AC`, `AF` is right,",
+            "refs": [],
+            "emphs": [
+                "AC",
+                "AF"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

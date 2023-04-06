@@ -1,0 +1,17 @@
+<div3 id="elem.1.23" n="23" type="proposition">
+      <head>Proposition 23.</head>
+      <div4 type="Enunc">
+       <p>On a given straight line and at a point on it to construct a rectilineal angle equal to a given rectilineal angle.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>AB</emph> be the given straight line, <emph>A</emph> the point on it, and the angle <emph>DCE</emph> the given rectilineal angle;</p>
+       <p>thus it is required to construct on the given straight line <emph>AB</emph>, and at the point <emph>A</emph> on it, a rectilineal angle equal to the given rectilineal angle <emph>DCE</emph>. </p>
+       <p>On the straight lines <emph>CD</emph>, <emph>CE</emph> respectively let the points <emph>D</emph>, <emph>E</emph> be taken at random; let <emph>DE</emph> be joined, and out of three straight lines which are equal to the three <emph>CD</emph>, <emph>DE</emph>, <emph>CE</emph> let the triangle <emph>AFG</emph> be constructed in such a way that <emph>CD</emph> is equal to <emph>AF</emph>, <emph>CE</emph> to <emph>AG</emph>, and further <emph>DE</emph> to <emph>FG</emph>.</p>
+       <p>Then, since the two sides <emph>DC</emph>, <emph>CE</emph> are equal to the two sides <emph>FA</emph>, <emph>AG</emph> respectively, <hi rend="center">and the base <emph>DE</emph> is equal to the base <emph>FG</emph>, the angle <emph>DCE</emph> is equal to the angle <emph>FAG</emph>. [<ref target="elem.1.8" targOrder="U">I. 8</ref>]</hi></p>
+       <p>Therefore on the given straight line <emph>AB</emph>, and at the point <emph>A</emph> on it, the rectilineal angle <emph>FAG</emph> has been constructed equal to the given rectilineal angle <emph>DCE</emph>.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. F.</p>
+      </div4>
+     </div3>
+     

@@ -1,0 +1,24 @@
+<div3 id="elem.10.21" n="21" type="propositions i&#x2014;47">
+      <head>PROPOSITION 21.</head>
+      <p>
+       <hi rend="ital">The rectangle contained by rational straight lines commensurable in square only is irrational, and the side of the square equal to it is irrational. Let the latter be called</hi>
+       <hi rend="bold">medial.</hi>
+      </p>
+      <p>For let the rectangle <hi rend="ital">AC</hi> be contained by the rational straight lines <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> commensurable in square only; <hi rend="ital">AC</hi> is irrational, and the side of the square equal to it is irrational; and let the latter be called <hi rend="bold">medial.</hi>
+      </p>
+      <p>For on <hi rend="ital">AB</hi> let the square <hi rend="ital">AD</hi> be described; therefore <hi rend="ital">AD</hi> is rational. [<ref target="elem.10.def.4" targOrder="U">X. Def. 4</ref>] </p>
+      <p>And, since <hi rend="ital">AB</hi> is incommensurable in length with <hi rend="ital">BC</hi>, for by hypothesis they are commensurable in square only, while <hi rend="ital">AB</hi> is equal to <hi rend="ital">BD</hi>, therefore <hi rend="ital">DB</hi> is also incommensurable in length with <hi rend="ital">BC</hi>. </p>
+      <p>And, as <hi rend="ital">DB</hi> is to <hi rend="ital">BC</hi>, so is <hi rend="ital">AD</hi> to <hi rend="ital">AC</hi>; [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] therefore <hi rend="ital">DA</hi> is incommensurable with <hi rend="ital">AC</hi>. [<ref target="elem.10.11" targOrder="U">X. 11</ref>] </p>
+      <p>But <hi rend="ital">DA</hi> is rational; therefore <hi rend="ital">AC</hi> is irrational, so that the side of the square equal to <hi rend="ital">AC</hi> is also irrational. [<ref target="elem.10.def.4" targOrder="U">X. Def. 4</ref>] </p>
+      <p>And let the latter be called <hi rend="bold">medial.</hi> Q. E. D.</p>
+      <div4 id="elem.10.21.l.1" type="lemma">
+       <head>LEMMA.</head>
+       <p>If there be two straight lines, then, as the first is to the second, so is the square on the first to the rectangle contained by the two straight lines. </p>
+       <p>Let <hi rend="ital">FE</hi>, <hi rend="ital">EG</hi> be two straight lines. </p>
+       <p>I say that, as <hi rend="ital">FE</hi> is to <hi rend="ital">EG</hi>, so is the square on <hi rend="ital">FE</hi> to the rectangle <hi rend="ital">FE</hi>, <hi rend="ital">EG</hi>. </p>
+       <p>For on <hi rend="ital">FE</hi> let the square <hi rend="ital">DF</hi> be described, and let <hi rend="ital">GD</hi> be completed. </p>
+       <p>Since then, as <hi rend="ital">FE</hi> is to <hi rend="ital">EG</hi>, so is <hi rend="ital">FD</hi> to <hi rend="ital">DG</hi>, [<ref target="elem.6.1" targOrder="U">VI. 1</ref>] and <hi rend="ital">FD</hi> is the square on <hi rend="ital">FE</hi>, and <hi rend="ital">DG</hi> the rectangle <hi rend="ital">DE</hi>, <hi rend="ital">EG</hi>, that is, the rectangle <hi rend="ital">FE</hi>, <hi rend="ital">EG</hi>, therefore, as <hi rend="ital">FE</hi> is to <hi rend="ital">EG</hi>, so is the square on <hi rend="ital">FE</hi> to the rectangle <hi rend="ital">FE</hi>, <hi rend="ital">EG</hi>. </p>
+       <p>Similarly also, as the rectangle <hi rend="ital">GE</hi>, <hi rend="ital">EF</hi> is to the square on <hi rend="ital">EF</hi>, that is, as <hi rend="ital">GD</hi> is to <hi rend="ital">FD</hi>, so is <hi rend="ital">GE</hi> to <hi rend="ital">EF</hi>. Q. E. D.</p>
+      </div4>
+     </div3>
+     

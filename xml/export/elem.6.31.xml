@@ -1,0 +1,14 @@
+<div3 id="elem.6.31" n="31" type="proposition">
+      <head>PROPOSITION 31.</head>
+      <p><emph>In right</emph>-<emph>angled triangles the figure on the side subtending the right angle is equal to the similar and similarly described figures on the sides containing the right angle</emph>. </p>
+      <p>Let <emph>ABC</emph> be a right-angled triangle having the angle <emph>BAC</emph> right; I say that the figure on <emph>BC</emph> is equal to the similar and similarly described figures on <emph>BA</emph>, <emph>AC</emph>. </p>
+      <p>Let <emph>AD</emph> be drawn perpendicular. </p>
+      <p>Then since, in the right-angled triangle <emph>ABC</emph>, <emph>AD</emph> has <emph>A</emph> perpendicular to the base <emph>BC</emph>, the triangles <emph>ABD</emph>, <emph>ADC</emph> adjoining the perpendicular are similar both to the whole <emph>ABC</emph> and to one another. [<ref target="elem.6.8" targOrder="U">VI. 8</ref>] </p>
+      <p>And, since <emph>ABC</emph> is similar to <emph>ABD</emph>, therefore, as <emph>CB</emph> is to <emph>BA</emph>, so is <emph>AB</emph> to <emph>BD</emph>. [<ref target="elem.6.def.1" targOrder="U">VI. Def. 1</ref>] </p>
+      <p>And, since three straight lines are proportional, as the first is to the third, so is the figure on the first to the similar and similarly described figure on the second. [<ref target="elem.6.19.p.1" targOrder="U">VI. 19, Por.</ref>] </p>
+      <p>Therefore, as <emph>CB</emph> is to <emph>BD</emph>, so is the figure on <emph>CB</emph> to the similar and similarly described figure on <emph>BA</emph>. </p>
+      <p>For the same reason also, as <emph>BC</emph> is to <emph>CD</emph>, so is the figure on <emph>BC</emph> to that on <emph>CA</emph>; so that, in addition, as <emph>BC</emph> is to <emph>BD</emph>, <emph>DC</emph>, so is the figure on <emph>BC</emph> to the similar and similarly described figures on <emph>BA</emph>, <emph>AC</emph>. </p>
+      <p>But <emph>BC</emph> is equal to <emph>BD</emph>, <emph>DC</emph>; therefore the figure on <emph>BC</emph> is also equal to the similar and similarly described figures on <emph>BA</emph>, <emph>AC</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

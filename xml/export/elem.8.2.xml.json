@@ -1,0 +1,118 @@
+{
+    "id": "elem.8.2",
+    "n": 2,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let the ratio of  to  be the given ratio in least numbers; thus it is required to find numbers in continued proportion, as many as may be prescribed, and the least that are in the ratio of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let four be prescribed; let  by multiplying itself make , and by multiplying  let it make ; let  by multiplying itself make ; further, let  by multiplying , ,  make , , , and let  by multiplying  make .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  by multiplying itself has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  by multiplying  has made , and  by multiplying itself has made , therefore the numbers ,  by multiplying  have made the numbers ,  respectively.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.7.18]",
+            "refs": [
+                "elem.7.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so was  to ; therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since ,  by multiplying  have made , , therefore, as  is to , so is  to . [elem.7.18]",
+            "refs": [
+                "elem.7.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to , and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore also, as  is to , so is  to , and  to ; therefore , , , and , , ,  are proportional in the ratio of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that they are the least numbers that are so.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since ,  are the least of those which have the same ratio with them, and the least of those which have the same ratio are prime to one another, [elem.7.22] therefore ,  are prime to one another.",
+            "refs": [
+                "elem.7.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the numbers ,  by multiplying themselves respectively have made the numbers , , and by multiplying the numbers ,  respectively have made the numbers , ; therefore ,  and ,  are prime to one another respectively. [elem.7.27]",
+            "refs": [
+                "elem.7.27"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, if there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, elem.8.1]",
+            "refs": [
+                "elem.8.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore , ,  and , , ,  are the least of those which have the same ratio with , . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+<div3 id="elem.6.3" n="3" type="proposition">
+      <head>PROPOSITION 3.</head>
+      <p><emph>If an angle of a triangle be bisected and the straight line cutting the angle cut the base also</emph>, <emph>the segments of the base will have the same ratio as the remaining sides of the triangle; and</emph>, <emph>if the segments of the base have the same ratio as the </emph>, <emph>the straight line joined from the vertex to the point of section will bisect the angle of the triangle</emph>. </p>
+      <p>Let <emph>ABC</emph> be a triangle, and let the angle <emph>BAC</emph> be bisected by the straight line <emph>AD</emph>; I say that, as <emph>BD</emph> is to <emph>CD</emph>, so is <emph>BA</emph> to <emph>AC</emph>. </p>
+      <p>For let <emph>CE</emph> be drawn through <emph>C</emph> parallel to <emph>DA</emph>, and let <emph>BA</emph>
+       <emph>E</emph>. </p>
+      <p>Then, since the straight line <emph>AC</emph> falls upon the parallels <emph>AD</emph>, <emph>EC</emph>, <hi rend="center">the angle <emph>ACE</emph> is equal to the angle <emph>CAD</emph>. [<ref target="elem.1.29" targOrder="U">I. 29</ref>]</hi>
+      </p>
+      <p>But the angle <emph>CAD</emph> is by hypothesis equal to the angle <emph>BAD</emph>; therefore the angle <emph>BAD</emph> is also equal to the angle <emph>ACE</emph>. </p>
+      <p>Again, since the straight line <emph>BAE</emph> falls upon the parallels <emph>AD</emph>, <emph>EC</emph>, <hi rend="center">the exterior angle <emph>BAD</emph> is equal to the interior angle <emph>AEC</emph>. [<ref target="elem.1.29" targOrder="U">I. 29</ref>]</hi>
+      </p>
+      <p>But the angle <emph>ACE</emph> was also proved equal to the angle <emph>BAD</emph>; <hi rend="center">therefore the angle <emph>ACE</emph> is also equal to the angle <emph>AEC</emph>, so that the side <emph>AE</emph> is also equal to the side <emph>AC</emph>. [<ref target="elem.1.6" targOrder="U">I. 6</ref>]</hi>
+      </p>
+      <p>And, since <emph>AD</emph> has been drawn parallel to <emph>EC</emph>, one of the sides of the triangle <emph>BCE</emph>, therefore, proportionally, as <emph>BD</emph> is to <emph>DC</emph>, so is <emph>BA</emph> to <emph>AE</emph>. </p>
+      <p>But <emph>AE</emph> is equal to <emph>AC</emph>; [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] therefore, as <emph>BD</emph> is to <emph>DC</emph>, so is <emph>BA</emph> to <emph>AC</emph>. </p>
+      <p>Again, let <emph>BA</emph> be to <emph>AC</emph> as <emph>BD</emph> to <emph>DC</emph>, and let <emph>AD</emph> be joined; I say that the angle <emph>BAC</emph> has been bisected by the straight line <title>A.D</title>. </p>
+      <p>For, with the same construction, since, as <emph>BD</emph> is to <emph>DC</emph>, so is <emph>BA</emph> to <emph>AC</emph>, <emph>BD</emph> is to <emph>DC</emph>, so is <emph>BA</emph> to <emph>AE</emph> : for <emph>AD</emph> has been drawn parallel to <emph>EC</emph>, one of the sides of the triangle <emph>BCE</emph>: [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] therefore also, as <emph>BA</emph> is to <emph>AC</emph>, so is <emph>BA</emph> to <emph>AE</emph>. [<ref target="elem.5.11" targOrder="U">V. 11</ref>] </p>
+      <p>Therefore <emph>AC</emph> is equal to <emph>AE</emph>, [<ref target="elem.5.9" targOrder="U">V. 9</ref>] so that the angle <emph>AEC</emph> is also equal to the angle <emph>ACE</emph>. [<ref target="elem.1.5" targOrder="U">I. 5</ref>] </p>
+      <p>But the angle <emph>AEC</emph> is equal to the exterior angle <emph>BAD</emph>, [<ref target="elem.1.29" targOrder="U">I. 29</ref>] and the angle <emph>ACE</emph> is equal to the alternate angle <emph>CAD</emph>; [<emph>id</emph>.] <hi rend="center">therefore the angle <emph>BAD</emph> is also equal to the angle <emph>CAD</emph>.</hi>
+      </p>
+      <p>Therefore the angle <emph>BAC</emph> has been bisected by the straight line <emph>AD</emph>. </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

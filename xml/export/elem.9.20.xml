@@ -1,0 +1,21 @@
+<div3 id="elem.9.20" n="20" type="proposition">
+      <head>PROPOSITION 20.</head>
+      <p>
+       <hi rend="ital">Prime numbers are more than any assigned multitude of prime numbers.</hi>
+      </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the assigned prime numbers; I say that there are more prime numbers than <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>For let the least number measured by <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be taken, and let it be <hi rend="ital">DE</hi>; let the unit <hi rend="ital">DF</hi> be added to <hi rend="ital">DE</hi>. </p>
+      <p>Then <hi rend="ital">EF</hi> is either prime or not. </p>
+      <p>First, let it be prime; then the prime numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">EF</hi> have been found which are more than <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Next, let <hi rend="ital">EF</hi> not be prime; therefore it is measured by some prime number. [<ref target="elem.7.31" targOrder="U">VII. 31</ref>] </p>
+      <p>Let it be measured by the prime number <hi rend="ital">G</hi>. </p>
+      <p>I say that <hi rend="ital">G</hi> is not the same with any of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>For, if possible, let it be so. </p>
+      <p>Now <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> measure <hi rend="ital">DE</hi>; therefore <hi rend="ital">G</hi> also will measure <hi rend="ital">DE</hi>. </p>
+      <p>But it also measures <hi rend="ital">EF</hi>. </p>
+      <p>Therefore <hi rend="ital">G</hi>, being a number, will measure the remainder, the unit <hi rend="ital">DF</hi>: which is absurd. </p>
+      <p>Therefore <hi rend="ital">G</hi> is not the same with any one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>And by hypothesis it is prime. </p>
+      <p>Therefore the prime numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">G</hi> have been found which are more than the assigned multitude of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. Q. E. D.</p>
+     </div3>
+     

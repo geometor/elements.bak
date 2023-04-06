@@ -1,0 +1,31 @@
+<div3 id="elem.10.59" n="59" type="propositions 48&#x2014;84">
+      <head>PROPOSITION 59.</head>
+      <p>
+       <hi rend="ital">If an area be contained by a rational straight line and the sixth binomial, the <quote>side</quote>
+ of the area is the irrational straight line called the side of the sum of two medial areas.</hi>
+      </p>
+      <p>For let the area <hi rend="ital">ABCD</hi> be contained by the rational straight line <hi rend="ital">AB</hi> and the sixth binomial <hi rend="ital">AD</hi>, divided into its terms at <hi rend="ital">E</hi>, so that <hi rend="ital">AE</hi> is the greater term; I say that the <quote>side</quote>
+ of <hi rend="ital">AC</hi> is the side of the sum of two medial areas. </p>
+      <p>Let the same construction be made as before shown. </p>
+      <p>It is then manifest that <hi rend="ital">MO</hi> is the <quote>side</quote>
+ of <hi rend="ital">AC</hi>, and that <hi rend="ital">MN</hi> is incommensurable in square with <hi rend="ital">NO.</hi>
+      </p>
+      <p>Now, since <hi rend="ital">EA</hi> is incommensurable in length with <hi rend="ital">AB</hi>, therefore <hi rend="ital">EA</hi>, <hi rend="ital">AB</hi> are rational straight lines commensurable in square only; therefore <hi rend="ital">AK</hi>, that is, the sum of the squares on <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>, is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+      <p>Again, since <hi rend="ital">ED</hi> is incommensurable in length with <hi rend="ital">AB</hi>, therefore <hi rend="ital">FE</hi> is also incommensurable with <hi rend="ital">EK</hi>; [<ref target="elem.10.13" targOrder="U">X. 13</ref>] therefore <hi rend="ital">FE</hi>, <hi rend="ital">EK</hi> are rational straight lines commensurable in square only; therefore <hi rend="ital">EL</hi>, that is, <hi rend="ital">MR</hi>, that is, the rectangle <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>, is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+      <p>And, since <hi rend="ital">AE</hi> is incommensurable with <hi rend="ital">EF</hi>, <hi rend="ital">AK</hi> is also incommensurable with <hi rend="ital">EL.</hi> [<ref target="elem.6.1" targOrder="U">VI. 1</ref>, <ref target="elem.10.11" targOrder="U">X. 11</ref>] </p>
+      <p>But <hi rend="ital">AK</hi> is the sum of the squares on <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>, and <hi rend="ital">EL</hi> is the rectangle <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi>; therefore the sum of the squares on <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> is incommensurable with the rectangle <hi rend="ital">MN</hi>, <hi rend="ital">NO.</hi>
+      </p>
+      <p>And each of them is medial, and <hi rend="ital">MN</hi>, <hi rend="ital">NO</hi> are incommensurable in square. </p>
+      <p>Therefore <hi rend="ital">MO</hi> is the side of the sum of two medial areas [<ref target="elem.10.41" targOrder="U">X. 41</ref>], and is the <quote>side</quote>
+ of <hi rend="ital">AC</hi>. Q. E. D.
+ </p>
+      <div4 id="elem.10.59.l.1" type="lemma">
+       <head>[LEMMA.</head>
+       <p>If a straight line be cut into unequal parts, the squares on the unequal parts are greater than twice the rectangle contained by the unequal parts. </p>
+       <p>Let <hi rend="ital">AB</hi> be a straight line, and let it be cut into unequal parts at <hi rend="ital">C</hi>, and let <hi rend="ital">AC</hi> be the greater; I say that the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are greater than twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>. </p>
+       <p>For let <hi rend="ital">AB</hi> be bisected at <hi rend="ital">D</hi>. </p>
+       <p>Since then a straight line has been cut into equal parts at <hi rend="ital">D</hi>, and into unequal parts at <hi rend="ital">C</hi>, therefore the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> together with the square on <hi rend="ital">CD</hi> is equal to the square on <hi rend="ital">AD</hi>, [<ref target="elem.2.5" targOrder="U">II. 5</ref>] so that the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> is less than double of the square on <hi rend="ital">AD</hi>. </p>
+       <p>But the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are double of the squares on <hi rend="ital">AD</hi>, <hi rend="ital">DC</hi>; [<ref target="elem.2.9" targOrder="U">II. 9</ref>] therefore the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are greater than twice the rectangle <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi>. Q. E. D.]</p>
+      </div4>
+     </div3>
+     

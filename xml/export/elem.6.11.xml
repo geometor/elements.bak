@@ -1,0 +1,14 @@
+<div3 id="elem.6.11" n="11" type="proposition">
+      <head>PROPOSITION 11.</head>
+      <p><emph>To two given straight lines to find a third proportional</emph>. </p>
+      <p>Let <emph>BA</emph>, <emph>AC</emph> be the two given straight lines, and let them be placed so as to contain any angle; thus it is required to find a third proportional to <emph>BA</emph>, <emph>AC</emph>. </p>
+      <p>For let them be produced to the points <emph>D</emph>, <emph>E</emph>, and let <emph>BD</emph> be made equal to <emph>AC</emph>; [<ref target="elem.1.3" targOrder="U">I. 3</ref>] let <emph>BC</emph> be joined, and through <emph>D</emph> let <emph>DE</emph> be drawn parallel to it. [<ref target="elem.1.31" targOrder="U">I. 31</ref>] </p>
+      <p>Since, then, <emph>BC</emph> has been drawn parallel to <emph>DE</emph>, one of the sides of the triangle <emph>ADE</emph>, proportionally, as <emph>AB</emph> is to <emph>BD</emph>, so is <emph>AC</emph> to <emph>CE</emph>. [<ref target="elem.6.2" targOrder="U">VI. 2</ref>] </p>
+      <p>But <emph>BD</emph> is equal to <emph>AC</emph>; therefore, as <emph>AB</emph> is to <emph>AC</emph>, so is <emph>AC</emph> to <emph>CE</emph>. </p>
+      <p>Therefore to two given straight lines <emph>AB</emph>, <emph>AC</emph> a third proportional to them, <emph>CE</emph>, has been found. Q. E. F.
+<note n="1" type="crit" place="unspecified" anchored="yes">
+        <p><hi rend="bold">to find</hi>. The Greek word, here and in the next two propositions, is <foreign lang="greek">προσευρεῖν</foreign>, literally <quote>to find <emph>in addition</emph>.</quote>
+</p>
+       </note></p>
+     </div3>
+     

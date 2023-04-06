@@ -1,0 +1,30 @@
+<div3 id="elem.1.33" n="33" type="proposition">
+      <head>Proposition 33.</head>
+      <div4 type="Enunc">
+       <p>The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are themselves also equal and parallel.</p>
+      </div4>
+      <div4 type="Proof">
+       <p>Let <emph>AB</emph>, <emph>CD</emph> be equal and parallel, and let the straight <emph>AC</emph>, <emph>BD</emph> join them (at the extremities which are) in the same directions (respectively); <emph>AC</emph>, <emph>BD</emph> are also equal and parallel.</p>
+       <p>Let <emph>BC</emph> be joined. </p>
+       <p>Then, since <emph>AB</emph> is parallel to <emph>CD</emph>, <emph>BC</emph> has fallen upon them, <hi rend="center">the alternate angles <emph>ABC</emph>, <emph>BCD</emph> are equal to one another. [<ref target="elem.1.29" targOrder="U">I. 29</ref>]</hi></p>
+       <p>And, since <emph>AB</emph> is equal to <emph>CD</emph>, <hi rend="center">and <emph>BC</emph> is common, <emph>AB</emph>, <emph>BC</emph> are equal to the two sides <emph>DC</emph>, <emph>CB</emph>; and the angle <emph>ABC</emph> is equal to the angle <emph>BCD</emph>; therefore the base <emph>AC</emph> is equal to the base <emph>BD</emph>, and the griangle <emph>ABC</emph> is equal to the triangle <emph>DCB</emph>, and the remaining angles will be equal to the remaining angles <ref target="elem.1.4" targOrder="U">I. 4</ref>] therefore the angle <emph>ACB</emph> is equal to the angle <emph>CBD</emph>.</hi></p>
+       <p>And, since the straight line <emph>BC</emph> falling on the two straight lines <emph>AC</emph>, <emph>BD</emph> has made the alternate angles equal to one another, <hi rend="center"><emph>AC</emph> is parallel to <emph>BD</emph>. [<ref target="elem.1.27" targOrder="U">I. 27</ref>]</hi></p>
+       <p>And it was also proved equal to it.</p>
+       <p>Therefore etc.</p>
+      </div4>
+      <div4 type="QED">
+       <p>Q. E. D.</p>
+      </div4>
+      <note n="1. joining...(at the extremities which are) in the same directions (respectively)." type="crit" place="unspecified" anchored="yes">
+       <p>I have for clearness' sake inserted the words in brackets though they are not in the original Greek, which has <quote>joining...in the same directions</quote>
+ or <quote>on the same sides,</quote>
+ <foreign lang="greek">ἐπὶ τὰ αυτὰ μέρη ἐπιζευγνύουσαι</foreign>. The expression <quote>tiwards the same parts,</quote>
+ though usage has sanctioned it, is perhaps not quite satisfactory.</p>
+      </note>
+      <note n="15. DC, CB" type="crit" place="unspecified" anchored="yes">
+       <p>and 18. <hi rend="bold">DCB</hi>. The Greek has <quote> <emph>BC</emph>, <emph>CD</emph></quote>
+ and <quote><emph>BCD</emph></quote>
+ in these places respectively. Euclid is not always careful to write in corresponding order the letters denoting corresponding points in congruent figures. On the contrary, he evidently prefers the alphabetical order, and seems to disdain to alter it for the sake of beginners or others who might be confused by it. In the case of angles alteration is perhaps unnecessary; but in the case of triangles and pairs of corresponding sides I have ventured to alter the order to that which the mathematician of to-day expects.</p>
+      </note>
+     </div3>
+     

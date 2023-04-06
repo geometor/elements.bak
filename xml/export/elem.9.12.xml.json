@@ -1,0 +1,152 @@
+{
+    "id": "elem.9.12",
+    "n": 12,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let there be as many numbers as we please, , , , , beginning from an unit, and in continued proportion; I say that, by however many prime numbers  is measured,  will also be measured by the same.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  be measured by any prime number ; I say that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For suppose it does not; now  is prime, and any prime number is prime to any which it does not measure; [elem.7.29] therefore ,  are prime to one another.",
+            "refs": [
+                "elem.7.29"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  measures , let it measure it according to , therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  measures  according to the units in , [elem.9.11 elem.9.11.p.1] therefore  by multiplying  has made .",
+            "refs": [
+                "elem.9.11 elem.9.11.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, further,  has also by multiplying  made ; therefore the product of ,  is equal to the product of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.7.19]",
+            "refs": [
+                "elem.7.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore  measures .",
+            "refs": [
+                "elem.7.21",
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let it measure it according to ; therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, further, by the theorem before this,  has also by multiplying  made . [elem.9.11 elem.9.11.p.1]",
+            "refs": [
+                "elem.9.11 elem.9.11.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the product of ,  is equal to the product of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.7.19]",
+            "refs": [
+                "elem.7.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent: [elem.7.20] therefore  measures .",
+            "refs": [
+                "elem.7.21",
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let it measure it according to ; therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But further  has also by multiplying itself made ; [elem.9.8] therefore the product of ,  is equal to the square on .",
+            "refs": [
+                "elem.9.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.7.19]",
+            "refs": [
+                "elem.7.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore  measures , as antecedent antecedent.",
+            "refs": [
+                "elem.7.21",
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, again, it also does not measure it: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are not prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore they are composite to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But numbers composite to one another are measured by some number. [elem.7.def.14]",
+            "refs": [
+                "elem.7.def.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is by hypothesis prime, and the prime is not measured by any number other than itself, therefore  measures , , so that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "[But it also measures ; therefore  measures , .]",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that, by however many prime numbers  is measured,  will also be measured by the same. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

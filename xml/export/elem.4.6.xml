@@ -1,0 +1,17 @@
+<div3 id="elem.4.6" n="6" type="proposition">
+      <head>PROPOSITION 6.</head>
+      <p><emph>In a given circle to inscribe a square</emph>. </p>
+      <p>Let <emph>ABCD</emph> be the given circle; thus it is required to inscribe a square in the circle <emph>ABCD</emph>. </p>
+      <p>Let two diameters <emph>AC</emph>, <emph>BD</emph> of the circle <emph>ABCD</emph> be drawn at right angles to one another, and let <emph>AB</emph>, <emph>BC</emph>, <emph>CD</emph>, <emph>DA</emph> be joined. </p>
+      <p>Then, since <emph>BE</emph> is equal to <emph>ED</emph>, for <emph>E</emph> is the centre, and <emph>EA</emph> is common and at right angles, therefore the base <emph>AB</emph> is equal to the base <emph>AD</emph>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
+      <p>For the same reason each of the straight lines <emph>BC</emph>, <emph>CD</emph> is also equal to each of the straight lines <emph>AB</emph>, <emph>AD</emph>; <hi rend="center">therefore the quadrilateral <emph>ABCD</emph> is equilateral.</hi>
+      </p>
+      <p>I say next that it is also right-angled. </p>
+      <p>For, since the straight line <emph>BD</emph> is a diameter of the circle <emph>ABCD</emph>, therefore <emph>BAD</emph> is a semicircle; <hi rend="center">therefore the angle <emph>BAD</emph> is right. [<ref target="elem.3.31" targOrder="U">III. 31</ref>]</hi>
+      </p>
+      <p>For the same reason each of the angles <emph>ABC</emph>, <emph>BCD</emph>, <emph>CDA</emph> is also right; <hi rend="center">therefore the quadrilateral <emph>ABCD</emph> is right-angled.</hi>
+      </p>
+      <p>But it was also proved equilateral; therefore it is a square; [<ref target="elem.1.def.22" targOrder="U">I. Def. 22</ref>] and it has been inscribed in the circle <emph>ABCD</emph>. </p>
+      <p>Therefore in the given circle the square <emph>ABCD</emph> has been inscribed. Q. E. F.</p>
+     </div3>
+     

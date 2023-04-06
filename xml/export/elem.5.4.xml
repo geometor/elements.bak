@@ -1,0 +1,13 @@
+<div3 id="elem.5.4" n="4" type="proposition">
+      <head>PROPOSITION 4.</head>
+      <p><emph>If a first magnitude have to a second the same ratio as a third to a fourth</emph>, <emph>any equimultiples whatever of the first and third will also have the same ratio to any equimultiples whatever of the second and fourth respectively</emph>, <emph>taken in corresponding order</emph>. </p>
+      <p>For let a first magnitude <emph>A</emph> have to a second <emph>B</emph> the same ratio as a third <emph>C</emph> to a fourth <emph>D</emph>; and let equimultiples <emph>E</emph>, <emph>F</emph> be taken of <emph>A</emph>, <emph>C</emph>, and <emph>G</emph>, <emph>H</emph> other, chance, equimultiples of <emph>B</emph>, <emph>D</emph>; I say that, as <emph>E</emph> is to <emph>G</emph>, so is <emph>F</emph> to <emph>H</emph>. </p>
+      <p>For let equimultiples <emph>K</emph>, <emph>L</emph> be taken of <emph>E</emph>, <emph>F</emph>, and other, chance, equimultiples <emph>M</emph>, <emph>N</emph> of <emph>G</emph>, <emph>H</emph>. </p>
+      <p>Since <emph>E</emph> is the same multiple of <emph>A</emph> that <emph>F</emph> is of <emph>C</emph>, and equimultiples <emph>K</emph>, <emph>L</emph> of <emph>E</emph>, <emph>F</emph> have been taken, therefore <emph>K</emph> is the same multiple of <emph>A</emph> that <emph>L</emph> is of <emph>C</emph>. [<ref target="elem.5.3" targOrder="U">V. 3</ref>] </p>
+      <p>For the same reason <hi rend="center"><emph>M</emph> is the same multiple of <emph>B</emph> that <emph>N</emph> is of <emph>D</emph>.</hi>
+       </p>
+      <p>And, since, as <emph>A</emph> is to <emph>B</emph>, so is <emph>C</emph> to <emph>D</emph>, and of <emph>A</emph>, <emph>C</emph> equimultiples <emph>K</emph>, <emph>L</emph> have been taken, and of <emph>B</emph>, <emph>D</emph> other, chance, equimultiples <emph>M</emph>, <emph>N</emph>, therefore, if <emph>K</emph> is in excess of <emph>M</emph>, <emph>L</emph> also is in excess of <emph>N</emph>, if it is equal, equal, and if less, less. [<ref target="elem.5.def.5" targOrder="U">V. Def. 5</ref>] </p>
+      <p>And <emph>K</emph>, <emph>L</emph> are equimultiples of <emph>E</emph>, <emph>F</emph>, and <emph>M</emph>, <emph>N</emph> other, chance, equimultiples of <emph>G</emph>, <emph>H</emph>; therefore, as <emph>E</emph> is to <emph>G</emph>, so is <emph>F</emph> to <emph>H</emph>. [<ref target="elem.5.def.5" targOrder="U">V. Def. 5</ref>] </p>
+      <p>Therefore etc. Q. E. D.</p>
+     </div3>
+     

@@ -1,0 +1,81 @@
+{
+    "id": "elem.1.8",
+    "n": 8,
+    "type": "proposition",
+    "enunciation": "If two triangles have the two sides equal to two sides respectively, and have also the base equal to the base, they will also have the angles equal which are contained by the equal straight lines.",
+    "proof": [
+        {
+            "text": "Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the two sides `DE`, `DF` respectively, namely `AB` to `DE`, and `AC` to `DF`; and let them have the base `BC` equal `EF`;",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "DEF",
+                "AB",
+                "AC",
+                "DE",
+                "DF",
+                "AB",
+                "DE",
+                "AC",
+                "DF",
+                "BC",
+                "EF"
+            ]
+        },
+        {
+            "text": "I say that the angle `BAC` is also equal to the angle `EDF`.",
+            "refs": [],
+            "emphs": [
+                "BAC",
+                "EDF"
+            ]
+        },
+        {
+            "text": "For, if the triangle `ABC` be applied to the triangle `DEF`, and if the point `B` be placed on `E` and the straight line `BC` on `EF`,",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "DEF",
+                "B",
+                "E",
+                "BC",
+                "EF"
+            ]
+        },
+        {
+            "text": "Then, `BC` coinciding with `EF`, \n        `BC` coincides with the base `EF`, and the sides `BA`, `AC` do not coincide with `ED`, `DF` but fall beside them as `EG`, `GF`,",
+            "refs": [],
+            "emphs": [
+                "BC",
+                "EF",
+                "BC",
+                "EF",
+                "BA",
+                "AC",
+                "ED",
+                "DF",
+                "EG",
+                "GF"
+            ]
+        },
+        {
+            "text": "Therefore it is not possible that, if the base `BC` be applied to the base `EF`, the sides `BA`, `AC` should not coincide with `ED`, `DF`; \n        `BAC` will also coincide with the angle `EDF`, and will be equal to it.",
+            "refs": [],
+            "emphs": [
+                "BC",
+                "EF",
+                "BA",
+                "AC",
+                "ED",
+                "DF",
+                "BAC",
+                "EDF"
+            ]
+        },
+        {
+            "text": "If therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}
