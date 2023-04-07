@@ -1,0 +1,10 @@
+Enunciation:
+, ,
+
+Proof:
+Let ,  be parallelepipedal solids on the same base  and of the same height, and let the extremities of their sides which stand up, namely , , , , , , , , not be on the same straight lines; I say that the solid  is equal to the solid .
+For let ,  be produced and meet one another at , and further let ,  be produced to , ; let , , ,  be joined.
+Then the solid , of which the parallelogram  is the base, and  its opposite, is equal to the solid , of which the parallelogram  is the base, and  its opposite; for they are on the same base  and of the same height, and the extremities of their sides which stand up, namely , , , , , , , , are on the same straight lines , . [elem.11.29]
+But the solid , of which the parallelogram  is the base, and  its opposite, is equal to the solid , of which the parallelogram  is the base and  its opposite; for they are again on the same base  and of the same height, and the extremities of their sides which stand up, namely , , , , , , , , are on the same straight lines , .
+Hence the solid  is also equal to the solid .
+Therefore etc. Q. E. D.

@@ -1,0 +1,10 @@
+Enunciation:
+, , ,
+
+Proof:
+Let ,  be two prisms of equal height, let one have the parallelogram  as base, and the other the triangle , and let the parallelogram  be double of the triangle ; I say that the prism  is equal to the prism .
+For let the solids ,  be completed.
+Since the parallelogram  is double of the triangle , while the parallelogram  is also double of the triangle , [elem.1.34] therefore the parallelogram  is equal to the parallelogram .
+But parallelepipedal solids which are on equal bases and of the same height are equal to one another; [elem.11.31] therefore the solid  is equal to the solid .
+And the prism  is half of the solid , and the prism  is half of the solid ; [elem.11.28] therefore the prism  is equal to the prism .
+Therefore etc. Q. E. D.

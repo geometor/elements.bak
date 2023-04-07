@@ -1,0 +1,16 @@
+Enunciation:
+`Triangles and parallelograms which are under the same height are to one another as their bases`.
+
+Proof:
+Let `ABC`, `ACD` be triangles and `EC`, `CF` parallelograms under the same height; `BC` is to the base `CD`, so is the triangle `ABC` to the triangle `ACD`, and the parallelogram `EC` to the parallelogram `CF`.
+For let `BD` be produced in both directions to the points `H`, `L` and let [any number of straight lines] `BG`, `GH` be `BC`, and any number of straight lines `DK`, `KL` equal to the base `CD`; let `AG`, `AH`, `AK`, `AL` be joined.
+Then, since `CB`, `BG`, `GH` are equal to one another,
+Therefore, whatever multiple the base `HC` is of the base `BC`, that multiple also is the triangle `AHC` of the triangle `ABC`.
+For the same reason, `LC` is of the base `CD`, that multiple also is the triangle `ALC` of the triangle `ACD`; and, if the base `HC` is equal to the base `CL`, the triangle `AHC` is also equal to the triangle `ACL`, [elem.1.38] `HC` is in excess of the base `CL`, the triangle `AHC`
+       `ACL`, and, if less, less.
+Thus, there being four magnitudes, two bases `BC`, `CD` and two triangles `ABC`, `ACD`, equimultiples have been taken of the base `BC` and the `ABC`, namely the base `HC` and the triangle `AHC`, and of the base `CD` and the triangle `ADC` other, chance, equimultiples, namely the base `LC` and the triangle `ALC`;  if the base `HC` is in excess of the base `CL`, the triangle `AHC`
+       `ALC`; if equal, equal; and, if less, less.
+Therefore, as the base `BC` is to the base `CD`, so is the triangle `ABC` to the triangle `ACD`. [elem.5.def.5]
+Next, since the parallelogram `EC` is double of the triangle `ABC`, [elem.1.41] and the parallelogram `FC` is double of the triangle `ACD`, while parts have the same ratio as the same multiples of them, [elem.5.15] therefore, as the triangle `ABC` is to the triangle `ACD`, so is `EC` to the parallelogram `FC`.
+Since, then, it was proved that, as the base `BC` is to `CD`, so is the triangle `ABC` to the triangle `ACD`, and, as the triangle `ABC` is to the triangle `ACD`, so is the parallelogram `EC` to the parallelogram `CF`, `BC` is to the base `CD`, so is the parallelogram `EC` to the parallelogram `FC`. [elem.5.11]
+Therefore etc. Q. E. D.

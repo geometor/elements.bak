@@ -1,0 +1,11 @@
+Enunciation:
+`If, as a whole is to a whole, so is a part subtracted to a part subtracted`, `the remainder will also be to the remainder as whole to whole`.
+
+Proof:
+For, as the whole `AB` is to the whole `CD`, so let the part `AE` subtracted be to the part `CF` subtracted; I say that the remainder `EB` will also be to the remainder `FD` as the whole `AB` to the whole `CD`.
+For since, as `AB` is to `CD`, so is `AE` to `CF`, alternately also, as `BA` is to `AE`, so is `DC` to `CF`. [elem.5.16]
+And, since the magnitudes are proportional `componendo`, they will also be proportional `separando`, [elem.5.17] that is, as `BE` is to `EA`, so is `DF` to `CF`, and, alternately,
+But, as `AE` is to `CF`, so by hypothesis is the whole `AB` to the whole `CD`.
+Therefore also the remainder `EB` will be to the remainder `FD` as the whole `AB` is to the whole `CD`. [elem.5.11]
+Therefore etc. 
+[

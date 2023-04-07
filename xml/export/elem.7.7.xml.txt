@@ -1,0 +1,11 @@
+Enunciation:
+
+
+Proof:
+For let the number  be that part of the number  which  subtracted is of  subtracted; I say that the remainder  is also the same part of the remainder  that the whole  is of the whole .
+For, whatever part  is of , the same part also let  be of .
+Now since, whatever part  is of , the same part also is  of , therefore, whatever part  is of , the same part also is  of . [elem.7.5]
+But, whatever part  is of , the same part also, by hypothesis, is  of ; therefore, whatever part  is of , the same part is it of  also; therefore  is equal to .
+Let  be subtracted from each; therefore the remainder  is equal to the remainder .
+Now since, whatever part  is of , the same part also is  of , while  is equal to , therefore, whatever part  is of , the same part also is  of .
+But, whatever part  is of , the same part also is  of ;  is the same part of the remainder  that the whole  is of the whole . Q. E. D.

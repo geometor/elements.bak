@@ -1,0 +1,9 @@
+Enunciation:
+ex aequali.
+
+Proof:
+Let there be as many numbers as we please , , , and others equal to them in multitude , , , which taken two and two are in the same ratio, so that,  and, as  is to , so is  to ; I say that, ,
+For, since, as  is to , so is  to , therefore, alternately,
+Again, since, as  is to , so is  to , therefore, alternately,
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
+Therefore, alternately,

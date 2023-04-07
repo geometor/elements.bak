@@ -1,0 +1,12 @@
+Enunciation:
+
+
+Proof:
+For let the number  be the least that is measured by the prime numbers , , ;  will not be measured by any other prime number except , , .
+For, if possible, let it be measured by the prime number , and let  not be the same with any one of the numbers , , .
+Now, since  measures , let it measure it according to ;
+And  is measured by the prime numbers , , .
+But, if two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers; [elem.7.30] therefore , ,  will measure one of the numbers , .
+Now they will not measure ; for  is prime and not the same with any one of the numbers , , .
+Therefore they will measure , which is less than : which is impossible, for  is by hypothesis the least number measured by , , .
+Therefore no prime number will measure  except , , . Q. E. D.

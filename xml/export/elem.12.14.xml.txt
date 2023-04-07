@@ -1,0 +1,12 @@
+Enunciation:
+
+
+Proof:
+For let ,  be cylinders on equal bases, the circles , ; I say that, as the cylinder  is to the cylinder , so is the axis  to the axis .
+For let the axis  be produced to the point , let  be made equal to the axis , and let the cylinder  be conceived about  as axis.
+Since then the cylinders ,  are of the same height, they are to one another as their bases. [elem.12.11]
+But the bases are equal to one another; therefore the cylinders ,  are also equal.
+And, since the cylinder  has been cut by the plane  which is parallel to its opposite planes, therefore, as the cylinder  is to the cylinder , so is the axis  to the axis . [elem.12.13]
+But the cylinder  is equal to the cylinder , and the axis  to the axis ; therefore, as the cylinder  is to the cylinder , so is the axis  to the axis .
+But, as the cylinder  is to the cylinder , so is the cone  to the cone . [elem.12.10]
+Therefore also, as the axis  is to the axis , so is the cone  to the cone  and the cylinder  to the cylinder . Q. E. D.

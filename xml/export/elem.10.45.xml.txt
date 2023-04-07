@@ -1,0 +1,10 @@
+Enunciation:
+.
+
+Proof:
+Let  be a major straight line divided at , so that ,  are incommensurable in square and make the sum of the squares on ,  rational, but the rectangle ,  medial; [elem.10.39
+]  is not so divided at another point.
+For, if possible, let it be divided at  also, so that ,  are also incommensurable in square and make the sum of the squares on ,  rational, but the rectangle contained by them medial.
+Then, since that by which the squares on ,  differ from the squares on ,  is also that by which twice the rectangle ,  differs from twice the rectangle , , while the squares on ,  exceed the squares on ,  by a rational area—for both are rational— therefore twice the rectangle ,  also exceeds twice the rectangle ,  by a rational area, though they are medial: which is impossible. [elem.10.26
+]
+Therefore a major straight line is not divided at different points; therefore it is only divided at one and the same point. Q. E. D.

@@ -1,0 +1,13 @@
+Enunciation:
+, , 
+       .
+
+Proof:
+For let two straight lines ,  incommensurable in square, and fulfilling the given conditions [elem.10.34
+], be added together; I say that  is irrational.
+For, since the sum of the squares on ,  is medial, while twice the rectangle ,  is rational, therefore the sum of the squares on ,  is incommensurable with twice the rectangle , ; so that the square on  is also incommensurable with twice the rectangle , . [elem.10.16
+]
+But twice the rectangle ,  is rational; therefore the square on  is irrational.
+Therefore  is irrational. [elem.10.def.4
+]
+And let it be called the . Q. E. D.

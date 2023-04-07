@@ -1,0 +1,15 @@
+Enunciation:
+.
+
+Proof:
+For let the two commensurable magnitudes ,  be added together; I say that the whole  is also commensurable with each of the magnitudes , .
+For, since ,  are commensurable, some magnitude will measure them.
+Let it measure them, and let it be .
+Since then  measures , , it will also measure the whole .
+But it measures ,  also; therefore  measures , , ; therefore  is commensurable with each of the magnitudes , . [elem.10.def.1]
+Next, let  be commensurable with ; I say that ,  are also commensurable.
+For, since ,  are commensurable, some magnitude will measure them.
+Let it measure them, and let it be .
+Since then  measures , , it will also measure the remainder .
+But it measures  also; therefore  will measure , ; therefore ,  are commensurable. [elem.10.def.1]
+Therefore etc.

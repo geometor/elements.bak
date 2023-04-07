@@ -1,0 +1,34 @@
+Enunciation:
+, ,
+
+Proof:
+Let there be a pyramid of which the triangle  is the base and the point  the vertex; I say that the pyramid  is divided into two pyramids equal to one another, having triangular bases and similar to the whole pyramid, and into two equal prisms; and the two prisms are greater than the half of the whole pyramid.
+For let , , , , ,  be bisected at the points , , , , , , and let , , , , , , ,  be joined.
+Since  is equal to , and  to , therefore  is parallel to . [elem.6.2]
+For the same reason  is also parallel to .
+Therefore  is a parallelogram; therefore  is equal to . [elem.1.34]
+But  is equal to ; therefore  is also equal to .
+But  is also equal to ; therefore the two sides ,  are equal to the two sides ,  respectively, and the angle  is equal to the angle ; therefore the base  is equal to the base . [elem.1.4]
+Therefore the triangle  is equal and similar to the triangle .
+For the same reason the triangle  is also equal and similar to the triangle .
+Now, since two straight lines ,  meeting one another are parallel to two straight lines ,  meeting one another, and are not in the same plane, they will contain equal angles. [elem.11.10]
+Therefore the angle  is equal to the angle .
+And, since the two straight lines ,  are equal to the two ,  respectively, and the angle  is equal to the angle , therefore the base  is equal to the base ; [elem.1.4] therefore the triangle  is equal and similar to the triangle .
+For the same reason the triangle  is also equal and similar to the triangle .
+Therefore the pyramid of which the triangle  is the base and the point  the vertex is equal and similar to the pyramid of which the triangle  is the base and the point  the vertex. [elem.11.def.10]
+And, since  has been drawn parallel to , one of the sides of the triangle ,  is equiangular to the triangle , [elem.1.29] and they have their sides proportional; therefore the triangle  is similar to the triangle . [elem.6.def.1]
+For the same reason the triangle  is also similar to the triangle , and the triangle  to the triangle .
+Now, since the two straight lines ,  meeting one another are parallel to the two straight lines ,  meeting one another, not in the same plane, they will contain equal angles. [elem.11.10]
+Therefore the angle  is equal to the angle .
+And, as  is to , so is  to ; therefore the triangle  is similar to the triangle .
+Therefore also the pyramid of which the triangle  is the base and the point  the vertex is similar to the pyramid of which the triangle  is the base and the point  the vertex.
+But the pyramid of which the triangle  is the base and the point  the vertex was proved similar to the pyramid of which the triangle  is the base and the point  the vertex.
+Therefore each of the pyramids ,  is similar to the whole pyramid .
+Next, since  is equal to , the parallelogram  is double of the triangle .
+And since, if there be two prisms of equal height, and one have a parallelogram as base, and the other a triangle, and if the parallelogram be double of the triangle, the prisms are equal, [elem.11.39] therefore the prism contained by the two triangles , , and the three parallelograms , ,  is equal to the prism contained by the two triangles ,  and the three parallelograms , , .
+And it is manifest that each of the prisms, namely that in which the parallelogram  is the base and the straight line  is its opposite, and that in which the triangle  is the base and the triangle  its opposite, is greater than each of the pyramids of which the triangles ,  are the bases and the points ,  the vertices, , , the prism in which the parallelogram  is the base and the straight line  its opposite is greater than the pyramid of which the triangle  is the base and the point  the vertex.
+But the pyramid of which the triangle  is the base and the point  the vertex is equal to the pyramid of which the triangle  is the base and the point  the vertex; for they are contained by equal and similar planes.
+Hence also the prism in which the parallelogram  is the base and the straight line  its opposite is greater than the pyramid of which the triangle  is the base and the point  the vertex.
+But the prism in which the parallelogram  is the base and the straight line  its opposite is equal to the prism in which the triangle  is the base and the triangle  its opposite, and the pyramid of which the triangle  is the base and the point  the vertex is equal to the pyramid of which the triangle  is the base and the point  the vertex.
+Therefore the said two prisms are greater than the said two pyramids of which the triangles ,  are the bases and the points ,  the vertices.
+Therefore the whole pyramid, of which the triangle  is the base and the point  the vertex, has been divided into two pyramids equal to one another and into two equal prisms, and the two prisms are greater than the half of the whole pyramid. Q. E. D.

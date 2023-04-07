@@ -1,0 +1,8 @@
+Enunciation:
+
+
+Proof:
+For let the number  have any part whatever, , and let  be a number called by the same name as the part ; I say that  measures .
+For, since  is a part of  called by the same name as , and the unit  is also a part of  called by the same name as it, therefore, whatever part the unit  is of the number , the same part is  of  also; therefore the unit  measures the number  the same number of times that  measures .
+Therefore, alternately, the unit  measures the number  the same number of times that  measures . [elem.7.15]
+Therefore  measures . Q. E. D.

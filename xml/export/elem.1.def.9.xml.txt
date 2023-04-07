@@ -1,0 +1,4 @@
+Enunciation:
+And when the lines containing the angle are straight, the angle is called .
+
+Proof:

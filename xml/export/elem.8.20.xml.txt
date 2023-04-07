@@ -1,0 +1,17 @@
+Enunciation:
+
+
+Proof:
+For let one mean proportional number  fall between the two numbers , ; ,  are similar plane numbers.
+Let , , the least numbers of those which have the same ratio with , , be taken; [elem.7.33] therefore  measures  the same number of times that  measures . [elem.7.20]
+Now, as many times as  measures , so many units let there be in ; therefore  by multiplying  has made , so that  is plane, and ,  are its sides.
+Again, since ,  are the least of the numbers which have , , therefore  measures  the same number of times that  measures . [elem.7.20]
+As many times, then, as  measures , so many units let there be in ;  measures  according to the units in ; therefore  by multiplying  has made .
+Therefore  is plane, and ,  are its sides.
+Therefore ,  are plane numbers.
+I say next that they are also similar.
+For, <*> since  by multiplying  has made , and by multiplying  has made , therefore, as  is to , so is  to , that is,  to . [elem.7.17]
+Again, <*> since  by multiplying ,  has made ,  respectively,  is to , so is  to . [elem.7.17]
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
+And alternately, as  is to , so is  to . [elem.7.13]
+Therefore ,  are similar plane numbers; for their sides

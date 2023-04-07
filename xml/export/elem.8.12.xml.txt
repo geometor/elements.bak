@@ -1,0 +1,20 @@
+Enunciation:
+
+
+Proof:
+Let ,  be cube numbers, and let  be the side of , and  of ; I say that between ,  there are two mean proportional numbers, and  has to  the ratio triplicate of that which  has to .
+For let  by multiplying itself make , and by multiplying  let it make ; let  by multiplying itself make , and let the numbers ,  by multiplying  make ,  respectively.
+Now, since  is a cube, and  its side, and  by multiplying itself has made , therefore  by multiplying itself has made  and by multiplying  has made .
+For the same reason also  by multiplying itself has made  and by multiplying  has made .
+And, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
+For the same reason also,
+Again, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
+But, as  is to , so is  to .
+Therefore also, as  is to , so is  to .
+Again, since the numbers ,  by multiplying  have made ,  respectively, therefore, as  is to , so is  to . [elem.7.18]
+Again, since  by multiplying each of the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
+But, as  is to , so is  to ; therefore also, as  is to , so is  to ,  to , and  to .
+Therefore ,  are two mean proportionals between , .
+I say next that  also has to  the ratio triplicate of that which  has to .
+For, since , , ,  are four numbers in proportion, therefore  has to  the ratio triplicate of that which  has to . [elem.5.def.10]
+But, as  is to , so is  to ; therefore  also has to  the ratio triplicate of that which  has to . Q. E. D.

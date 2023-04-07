@@ -1,0 +1,13 @@
+Enunciation:
+
+
+Proof:
+Let ,  be square numbers, let ,  be their sides, and let  measure ; I say that  also measures .
+For let  by multiplying  make ; therefore , ,  are continuously proportional in the ratio of  to . [elem.8.11]
+And, since , ,  are continuously proportional, and  measures , therefore  also measures . [elem.8.7]
+And, as  is to , so is  to ; therefore also  measures . [elem.7.def.20]
+Again, let  measure ; I say that  also measures .
+For, with the same construction, we can in a similar manner prove that , ,  are continuously proportional in the ratio of  to .
+And since, as  is to , so is  to , and  measures , therefore  also measures . [elem.7.def.20]
+And , ,  are continuously proportional; therefore  also measures .
+Therefore etc. Q. E. D.

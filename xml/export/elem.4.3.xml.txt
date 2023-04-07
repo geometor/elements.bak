@@ -1,0 +1,13 @@
+Enunciation:
+`About a given circle to circumscribe a triangle equiangular with a given triangle`.
+
+Proof:
+Let `ABC` be the given circle, and `DEF` the given triangle; `ABC` a triangle equiangular with the triangle `DEF`.
+Let `EF` be produced in both directions to the points `G`, `H`, let the centre `K` of the circle `ABC` be taken [elem.3.1], and let `KB` be drawn across at random; on the straight line `KB`, and at the point `K` on it, let the angle `BKA` be constructed equal to the angle `DEG`, and the angle `BKC` equal to the angle `DFH`; [elem.1.23] and through the points `A`, `B`, `C` let `LAM`, `MBN`, `NCL` be `ABC`. [elem.3.16.p.1]
+Now, since `LM`, `MN`, `NL` touch the circle `ABC` at the points `A`, `B`, `C`, and `KA`, `KB`, `KC` have been joined from the centre `K` to the points `A`, `B`, `C`, `A`, `B`, `C` are right. [elem.3.18]
+And, since the four angles of the quadrilateral `AMBK` are equal to four right angles, inasmuch as `AMBK` is in fact divisible into two triangles, 
+       `AKB`, `AMB` are equal to two right angles.
+But the angles `DEG`, `DEF` are also equal to two right angles; [elem.1.13] therefore the angles `AKB`, `AMB` are equal to the angles `DEG`, `DEF`, of which the angle `AKB` is equal to the angle `DEG`;
+Similarly it can be proved that the angle `LNB` is also `DFE`;
+Therefore the triangle `LMN` is equiangular with the triangle `DEF`; and it has been circumscribed about the `ABC`.
+Therefore about a given circle there has been circumscribed a triangle equiangular with the given triangle. Q. E. F.

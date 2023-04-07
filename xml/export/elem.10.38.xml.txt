@@ -1,0 +1,32 @@
+Enunciation:
+.
+
+Proof:
+For let two medial straight lines ,  commensurable in square only and containing a medial rectangle be added together;  is irrational.
+For let a rational straight line  be set out, and let the parallelogram  equal to the square on  be applied to , producing  as breadth. [elem.1.44
+]
+Then, since the square on  is equal to the squares on ,  and twice the rectangle , , [elem.2.4
+] let , equal to the squares on , , be applied to ;  is equal to twice the rectangle , .
+And, since each of the straight lines ,  is medial, therefore the squares on ,  are also medial.
+But, by hypothesis, twice the rectangle ,  is also medial.
+And  is equal to the squares on , ,  is equal to twice the rectangle , ; therefore each of the rectangle ,  is medial.
+And they are applied to the rational straight line ; therefore each of the straight lines ,  is rational and incommensurable in length with . [elem.10.22
+]
+Since then  is incommensurable in length with , and, as  is to , so is the square on  to the rectangle , , therefore the square on  is incommensurable with the rectangle , . [elem.10.11
+]
+But the sum of the squares on ,  is commensurable with the square on , [elem.10.15
+] and twice the rectangle ,  is commensurable with the rectangle , . [elem.10.6
+]
+Therefore the sum of the squares on ,  is incommensurable, . [elem.10.13
+]
+But  is equal to the squares on , , and  is equal to twice the rectangle , .
+Therefore  is incommensurable with , so that  is also incommensurable in length with . [elem.6.1
+, elem.10.11
+]
+Therefore ,  are rational straight lines commensurable in square only; so that  is irrational. [elem.10.36
+]
+But  is rational; and the rectangle contained by an irrational and a rational elem.10.20
+] therefore the area  is irrational, and the side of the square equal to it is irrational. [elem.10.def.4
+]
+But  is the side of the square equal to ; therefore  is irrational.
+And let it be called a  straight line. Q. E. D.

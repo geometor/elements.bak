@@ -1,0 +1,19 @@
+Enunciation:
+If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, or that subtending one of the equal angles, they will also have the remaining sides equal to
+
+Proof:
+Let `ABC`, `DEF` be two triangles having the two angles `ABC`, `BCA` equal to the two angles `DEF`, `EFD` respectively, namely the angle `ABC` to the angle `DEF`, and the angle `BCA` to the angle `EFD`; and let them also have one side equal to one side, first that adjoining the equal angles, namely `BC` to `EF`;
+I say that they will also have the remaining sides equal to the remaining sides respectively, namely `AB` to `DE` and `AC` to `DF`, and the remaining angle to the remaining angle, namely the angle `BAC` to the angle `EDF`.
+For, if `AB` is unequal to `DE`, one of them is greater.
+Let `AB` be greater, and let `BG` be made equal to `DE`; and let `GC` be joined.
+Then, since `BG` is equal to `DE`, and `BC` to `EF`, the two sides `GB`, `BC` are equal to the two sides `DE`, `EF` respectively; and the angle `GBC` is equal to the angle `DEF`;  But the angle `DFE` is by hypothesis equal to the angle `BCA`;
+But `BC` is also equal to `EF`;
+Again, let sides subtending equal angles be equal, as `AB` to `DE`;
+I say again that the remaining sides will be equal to the remaining sides, namely `AC` to `DF` and `BC` to `EF`, and `BAC` is equal to the remaining angle `EDF`.
+For, if `BC` is unequal to `EF`, one of them is greater.
+Let `BC` be greater, if possible, and let `BH` be made equal to `EF`; let `AH` be joined.
+Then, since `BH` is equal to `EF`, and `AB` to `DE`, the two sides `AB`, `BH` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the triangle `ABH` is equal to the triangle `DEF`, elem.1.4]
+But the angle `EFD` is equal to the angle `BCA`; therefore, in the triangle `AHC`, the exterior angle `BHA` is `BCA`:
+Therefore `BC` is not unequal to `EF`,
+But `AB` is also equal to `DE`; `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the remaining angle `BAC` equal to the remaining angle `EDF`. [elem.1.4]
+Therefore etc.

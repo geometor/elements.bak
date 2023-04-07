@@ -1,0 +1,18 @@
+Enunciation:
+.
+
+Proof:
+Let  be a second bimedial straight line divided into its medials at , so that  is the greater segment; let  be any rational straight line, and to  let there be applied the parallelogram  equal to the square on  and producing  as its breadth;  is a third binomial straight line.
+Let the same construction be made as before shown.
+Then, since  is a second bimedial divided at , therefore ,  are medial straight lines commensurable in square only and containing a medial rectangle, [elem.10.38] so that the sum of the squares on ,  is also medial. [elem.10.15 elem.10.23.p.1]
+And it is equal to ; therefore  is also medial.
+And it is applied to the rational straight line ; therefore  is also rational and incommensurable in length with . [elem.10.22]
+For the same reason,  is also rational and incommensurable in length with , that is, with ; therefore each of the straight lines ,  is rational and incommensurable in length with .
+And, since  is incommensurable in length with , and, as  is to , so is the square on  to the rectangle , , therefore the square on  is also incommensurable with the rectangle , . [elem.10.11]
+Hence the sum of the squares on ,  is incommensurable with twice the rectangle , , [elem.10.12 elem.10.13] that is,  is incommensurable with , so that  is also incommensurable with . [elem.6.1, elem.10.11]
+And they are rational; therefore  is binomial. [elem.10.36]
+It is to be proved that it is also a third binomial straight line.
+In manner similar to the foregoing we may conclude that  is greater than , and that  is commensurable with .
+And the rectangle ,  is equal to the square on ; therefore the square on  is greater than the square on  by the square on a straight line commensurable with .
+And neither of the straight lines ,  is commensurable in length with .
+Therefore  is a third binomial straight line. [elem.10.def.2.3] Q. E. D.

@@ -1,0 +1,16 @@
+Enunciation:
+
+
+Proof:
+For let the two numbers ,  be prime to any number , and let  by multiplying  make ; I say that ,  are prime to one another.
+For, if ,  are not prime to one another, some number will measure , .
+Let a number measure them, and let it be .
+Now, since ,  are prime to one another, and a certain number  measures , therefore ,  are prime to one another. [elem.7.23]
+As many times, then, as  measures , so many units let there be in ; therefore  also measures  according to the units in . [elem.7.16]
+Therefore  by multiplying  has made . [elem.7.def.15]
+But, further,  by multiplying  has also made ; therefore the product of ,  is equal to the product of , .
+But, if the product of the extremes be equal to that of the means, the four numbers are proportional; [elem.7.19] therefore, as  is to , so is  to .
+But ,  are prime to one another, numbers which are prime to one another are also the least of those which have the same ratio, [elem.7.21] and the least numbers of those which have the same ratio with them measure those which have the same ratio the same elem.7.20] therefore  measures .
+But it also measures ; therefore  measures ,  which are prime to one another: which is impossible. [elem.7.def.12]
+Therefore no number will measure the numbers , .
+Therefore ,  are prime to one another. Q. E. D.

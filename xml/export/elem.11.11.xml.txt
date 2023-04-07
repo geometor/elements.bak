@@ -1,0 +1,16 @@
+Enunciation:
+
+
+Proof:
+Let  be the given elevated point, and the plane of reference the given plane; thus it is required to draw from the point  a straight line perpendicular to the plane of reference.
+Let any straight line  be drawn, at random, in the plane of reference, and let  be drawn from the point  perpendicular to . [elem.1.12]
+If then  is also perpendicular to the plane of reference, that which was enjoined will have been done.
+But, if not, let  be drawn from the point  at right angles to  and in the plane of reference, [elem.1.11] let  be drawn from  perpendicular to , [elem.1.12] and let  be drawn through the point  parallel to . [elem.1.31]
+Now, since  is at right angles to each of the straight lines , , therefore  is also at right angles to the plane through , . [elem.11.4]
+And  is parallel to it; but, if two straight lines be parallel, and one of them be at right angles to any plane, the remaining one will also be at right angles to the same plane; [elem.11.8] therefore  is also at right angles to the plane through , .
+Therefore  is also at right angles to all the straight lines which meet it and are in the plane through , . [elem.11.def.3]
+But  meets it and is in the plane through , ; therefore  is at right angles to , so that  is also at right angles to .
+But  is also at right angles to ; therefore  is at right angles to each of the straight lines , .
+But, if a straight line be set up at right angles to two straight lines which cut one another, at the point of section, it will also be at right angles to the plane through them; [elem.11.4] therefore  is at right angles to the plane through , .
+But the plane through ,  is the plane of reference; therefore  is at right angles to the plane of reference.
+Therefore from the given elevated point  the straight line  has been drawn perpendicular to the plane of reference. Q. E. F.

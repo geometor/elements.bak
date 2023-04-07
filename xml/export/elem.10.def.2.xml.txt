@@ -1,0 +1,4 @@
+Enunciation:
+Straight lines are  when the squares on them are measured by the same area, and  when the squares on them cannot possibly have any area as a common measure.
+
+Proof:

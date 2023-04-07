@@ -1,0 +1,15 @@
+Enunciation:
+`If two magnitudes be equimultiples of two magnitudes`, `and any magnitudes subtracted from them be equimultiples of the same`, `the remainders also are either equal to the same or equimultiples of them`.
+
+Proof:
+For let two magnitudes `AB`, `CD` be equimultiples of two magnitudes `E`, `F`, and let `AG`, `CH` subtracted from them be equimultiples of the same two `E`, `F`; `GB`, `HD`, are either equal to `E`, `F` or equimultiples of them.
+For, first, let `GB` be equal to `E`; I say that `HD` is also equal to `F`.
+For let `CK` be made equal to `F`.
+Since `AG` is the same multiple of `E` that `CH` is of `F`, while `GB` is equal to `E` and `KC` to `F`, therefore `AB` is the same multiple of `E` that `KH` is of `F`. [elem.5.2]
+But, by hypothesis, `AB` is the same multiple of `E` that `CD` is of `F`; therefore `KH` is the same multiple of `F` that `CD` is of `F`.
+Since then each of the magnitudes `KH`, `CD` is the same multiple of `F`,
+Let `CH` be subtracted from each; therefore the remainder `KC` is equal to the remainder `HD`.
+But `F` is equal to `KC`; therefore `HD` is also equal to `F`.
+Hence, if `GB` is equal to `E`, `HD` is also equal to `F`.
+Similarly we can prove that, even if `GB` be a multiple of `E`, `HD` is also the same multiple of `F`.
+Therefore etc. Q. E. D.

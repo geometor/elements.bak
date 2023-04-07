@@ -1,0 +1,9 @@
+Enunciation:
+.
+
+Proof:
+Let  be the side of the sum of two medial areas, and  commensurable with ; it is to be proved that  is also the side of the sum of two medial areas.
+For, since  is the side of the sum of two medial areas, ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and furthermore the sum of the squares on ,  incommensurable with the rectangle , . [elem.10.41]
+Let the same construction be made as before.
+We can then prove similarly that ,  are also incommensurable in square, the sum of the squares on ,  is commensurable with the sum of the squares on , , and the rectangle ,  with the rectangle , ; so that the sum of the squares on ,  is also medial, the rectangle ,  is medial, and moreover the sum of the squares on ,  is incommensurable with the rectangle , .
+Therefore  is the side of the sum of two medial areas. Q. E. D.

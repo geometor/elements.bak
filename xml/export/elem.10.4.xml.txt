@@ -1,0 +1,24 @@
+Enunciation:
+, .
+
+Proof:
+Let , ,  be the three given commensurable magnitudes; thus it is required to find the greatest common measure of , , .
+Let the greatest common measure of the two magnitudes ,  be taken, and let it be ; [elem.10.3] then  either measures , or does not measure it.
+First, let it measure it.
+Since then  measures , while it also measures , , therefore  is a common measure of , , .
+And it is manifest that it is also the greatest; for a greater magnitude than the magnitude  does not measure , .
+Next, let  not measure .
+I say first that ,  are commensurable.
+For, since , ,  are commensurable, some magnitude will measure them, and this will of course measure ,  also; so that it will also measure the greatest common measure of , , namely . [elem.10.3.p.1]
+But it also measures ; so that the said magnitude will measure , ; therefore ,  are commensurable.
+Now let their greatest common measure be taken, and let it be . [elem.10.3]
+Since then  measures , while  measures , , therefore  will also measure , .
+But it measures  also; therefore  measures , , ; therefore  is a common measure of , , .
+I say next that it is also the greatest.
+For, if possible, let there be some magnitude  greater than , and let it measure , , .
+Now, since  measures , , , it will also measure , , and will measure the greatest common measure of , . [elem.10.3.p.1]
+But the greatest common measure of ,  is ; therefore  measures .
+But it measures  also; therefore  measures , ; therefore  will also measure the greatest common measure of , . [elem.10.3.p.1]
+But that is ; therefore  will measure , the greater the less: which is impossible.
+Therefore no magnitude greater than the magnitude  will measure , , ; therefore  is the greatest common measure of , ,  if  do not measure , and, if it measure it,  is itself the greatest common measure.
+Therefore the greatest common measure of the three given commensurable magnitudes has been found.

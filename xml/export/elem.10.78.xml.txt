@@ -1,0 +1,21 @@
+Enunciation:
+
+
+Proof:
+For from the straight line  let there be subtracted the straight line  incommensurable in square with  and fulfilling the given conditions; [elem.10.35]  is the irrational straight line called .
+For let a rational straight line  be set out, to  let there be applied  equal to the squares on , , producing  as breadth, and let  equal to twice the rectangle ,  be subtracted.
+Therefore the remainder  is equal to the square on , [elem.2.7] so that  is the 
+ of .
+Now, since the sum of the squares on ,  is medial and is equal to , therefore  is medial.
+And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
+Again, since twice the rectangle ,  is medial and is equal to , therefore  is medial.
+And it is applied to the rational straight line , producing  as breadth; therefore  is also rational and incommensurable in length with . [elem.10.22]
+And, since the squares on ,  are incommensurable with twice the rectangle , , therefore  is also incommensurable with .
+But, as  is to , so also is  to ; [elem.6.1] therefore  is incommensurable with . [elem.10.11]
+And both are rational; therefore ,  are rational straight lines commensurable in square only.
+Therefore  is an apotome. [elem.10.73]
+And  is rational; but the rectangle contained by a rational straight line and an apotome is irrational, [deduction from elem.10.20] and its 
+ is irrational.
+And  is the 
+ of ; therefore  is irrational.
+And let it be called . Q. E. D.

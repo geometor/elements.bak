@@ -1,0 +1,17 @@
+Enunciation:
+,
+
+Proof:
+For let the straight line  be cut in extreme and mean ratio at the point , and let  be the greater segment; let the straight line  be produced in a straight line with , and let  be made half of ; I say that the square on  is five times the square on .
+For let the squares ,  be described on , , and let the figure in  be drawn; let  be carried through to .
+Now, since  has been cut in extreme and mean ratio at , therefore the rectangle ,  is equal to the square on . [elem.6.def.3, elem.6.17]
+And  is the rectangle , , and  the square on ; therefore  is equal to .
+And, since  is double of , while  is equal to , and  to , therefore  is also double of .
+But, as  is to , so is  to ; [elem.6.1] therefore  is double of .
+But ,  are also double of .
+Therefore  is equal to , .
+But  was also proved equal to ; therefore the whole square  is equal to the gnomon .
+And, since  is double of , the square on  is quadruple of the square on , that is,  is quadruple of .
+But  is equal to the gnomon ; therefore the gnomon  is also quadruple of ; therefore the whole  is five times .
+And  is the square on , and  the square on ; therefore the square on  is five times the square on .
+Therefore etc. Q. E. D.

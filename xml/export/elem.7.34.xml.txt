@@ -1,0 +1,33 @@
+Enunciation:
+
+
+Proof:
+Let ,  be the two given numbers; thus it is required to find the least number which they measure.
+Now ,  are either prime to one another or not.
+First, let ,  be prime to one another, and let  by multiplying  make ; therefore also  by multiplying  has made . [elem.7.16]
+Therefore ,  measure
+I say next that it is also the least number they measure.
+For, if not, ,  will measure some number which is less than .
+Let them measure .
+Then, as many times as  measures , so many units let there be in , and, as many times as  measures , so many units let there be in ; therefore  by multiplying  has made , and  by multiplying  has made ; [elem.7.def.15] therefore the product of ,  is equal to the product of , .
+Therefore, as  is to , so is 
+       . [elem.7.19]
+But ,  are prime, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore  measures , as consequent consequent.
+And, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]
+But  measures ; therefore  also measures , the greater the less: which is impossible.
+Therefore ,  do not measure any number less than ; therefore  is the least that is measured by , .
+Next, let ,  not be prime to one another, and let , , the least numbers of those which have the same ratio with , , be taken; [elem.7.33] therefore the product of ,  is equal to the product of , . [elem.7.19]
+And let  by multiplying  make ; therefore also  by multiplying  has made ; therefore ,  measure .
+I say next that it is also the least number that they measure.
+For, if not, ,  will measure some number which is less than .
+Let them measure .
+And, as many times as  measures , so many units let there be in , and, as many times as  measures , so many units let there be in .
+Therefore  by multiplying  has made , and  by multiplying  has made .
+Therefore the product of ,  is equal to the product of , ; therefore, as  is to , so is  to . [elem.7.19]
+But, as  is to , so is  to .
+Therefore also, as  is to , so is  to .
+But ,  are least, and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore  measures .
+And, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]
+But  measures ; therefore  also measures , the greater the less: which is impossible.
+Therefore ,  will not measure any number which is less than .
+Therefore  is the least that is measured by , . Q. E. D.

@@ -1,0 +1,18 @@
+Enunciation:
+
+
+Proof:
+For let there be equal pyramids which have the triangular bases ,  and vertices the points , ; I say that in the pyramids ,  the bases are reciprocally proportional to the heights, that is, as the base  is to the base , so is the height of the pyramid  to the height of the pyramid .
+For let the parallelepipedal solids ,  be completed.
+Now, since the pyramid  is equal to the pyramid , and the solid  is six times the pyramid , and the solid  six times the pyramid , therefore the solid  is equal to the solid .
+But in equal parallelepipedal solids the bases are reciprocally proportional to the heights; [elem.11.34] therefore, as the base  is to the base , so is the height of the solid  to the height of the solid .
+But, as the base  is to , so is the triangle  to the triangle . [elem.1.34]
+Therefore also, as the triangle  is to the triangle , so is the height of the solid  to the height of the solid . [elem.5.11]
+But the height of the solid  is the same with the height of the pyramid , and the height of the solid  is the same with the height of the pyramid , therefore, as the base  is to the base , so is the height of the pyramid  to the height of the pyramid .
+Therefore in the pyramids ,  the bases are reciprocally proportional to the heights.
+Next, in the pyramids ,  let the bases be reciprocally proportional to the heights; that is, as the base  is to the base , so let the height of the pyramid  be to the height of the pyramid ; I say that the pyramid  is equal to the pyramid .
+For, with the same construction, since, as the base  is to the base , so is the height of the pyramid  to the height of the pyramid , while, as the base  is to the base , so is the parallelogram  to the parallelogram , therefore also, as the parallelogram  is to the parallelogram , so is the height of the pyramid  to the height of the pyramid . [elem.5.11]
+But the height of the pyramid  is the same with the height of the parallelepiped , and the height of the pyramid  is the same with the height of the parallelepiped ; therefore, as the base  is to the base , so is the height of the parallelepiped  to the height of the parallelepiped .
+But those parallelepipedal solids in which the bases are reciprocally proportional to the heights are equal; [elem.11.34] therefore the parallelepipedal solid  is equal to the parallelepipedal solid .
+And the pyramid  is a sixth part of , and the pyramid  a sixth part of the parallelepiped ;  is equal to the pyramid .
+Therefore etc Q. E. D.

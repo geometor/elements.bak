@@ -1,0 +1,12 @@
+Enunciation:
+
+
+Proof:
+For let the two numbers ,  be prime to the two numbers , ; both to each, and let  by multiplying  make , and let  by multiplying  make ; I say that ,  are prime to one another.
+For, since each of the numbers ,  is prime to , therefore the product of ,  will also be prime to . [elem.7.24]
+But the product of ,  is ; therefore ,  are prime to one another.
+For the same reason ,  are also prime to one another.
+Therefore each of the numbers ,  is prime to .
+Therefore the product of ,  will also be prime to . [elem.7.24]
+But the product of ,  is .
+Therefore ,  are prime to one another. Q. E. D.

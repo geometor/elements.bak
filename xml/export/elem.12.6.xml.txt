@@ -1,0 +1,17 @@
+Enunciation:
+
+
+Proof:
+Let there be pyramids of the same height of which the polygons ,  are the bases and the points ,  the vertices; I say that, as the base  is to the base , so is the pyramid  to the pyramid .
+For let , , ,  be joined.
+Since then ,  are two pyramids which have triangular bases and equal height, they are to one another as the bases; [elem.12.5] therefore, as the base  is to the base , so is the pyramid  to the pyramid .
+And, , as the base  is to the base , so is the pyramid  to the pyramid . [elem.5.18]
+But also, as the base  is to the base , so is the pyramid  to the pyramid . [elem.12.5]
+Therefore, , as the base  is to the base , so is the pyramid  to the pyramid . [elem.5.22]
+And again , as the base  is to the base , so is the pyramid  to the pyramid . [elem.5.18]
+Similarly also it can be proved that, as the base  is to the base , so is the pyramid  to the pyramid .
+And, since ,  are two pyramids which have triangular bases and equal height, therefore, as the base  is to the base , so is the pyramid  to the pyramid . [elem.12.5]
+But, as the base  is to the base , so was the pyramid  to the pyramid .
+Therefore also, , as the base  is to the base , so is the pyramid  to the pyramid . [elem.5.22]
+But further, as the base  is to the base , so also was the pyramid  to the pyramid .
+Therefore also, , as the base  is to the base , so is the pyramid  to the pyramid . [elem.5.22] Q. E. D.

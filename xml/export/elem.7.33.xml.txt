@@ -1,0 +1,26 @@
+Enunciation:
+
+
+Proof:
+Let , ,  be the given numbers, as many as we please; thus it is required to find the least of , , .
+, ,  are either prime to one another or not.
+Now, if , ,  are prime to one elem.7.21]
+But, if not, let  the greatest common measure of , ,  be taken, [elem.7.3]  measures the numbers , , 
+       , ,  respectively.
+Therefore the numbers , ,  measure the numbers , ,  respectively according to the units in . [elem.7.16]
+Therefore , ,  measure , ,  the same number of , ,  are in the same ratio with , , . [elem.7.def.20]
+I say next that they are the least that are in that ratio.
+For, if , ,  are not the least of those which have the same ratio with , , , , ,  which are in the same ratio with , , .
+Let them be , , ; therefore  measures  the same number of times that the numbers ,  measure the numbers ,  respectively.
+Now, as many times as  measures , so many units let there be in ; therefore the numbers ,  also measure the numbers ,  respectively according to the units in .
+And, since  measures  according to the units in ,  also measures  according to the units in . [elem.7.16]
+For the same reason  also measures the numbers ,  according to the units in the numbers ,  respectively;
+Therefore  measures , , .
+Now, since  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]
+For the same reason also  by multiplying  has made .
+Therefore the product of ,  is equal to the product of , .
+Therefore, as  is to , so is  to . [elem.7.19]
+But  is greater than ; therefore  is also greater than .
+And it measures , , :  is the greatest common measure of , , .
+Therefore there cannot be any numbers less than , ,  which are in the same ratio with , , .
+Therefore , ,  are the least of those which have the , , . Q. E. D.

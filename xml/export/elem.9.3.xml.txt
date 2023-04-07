@@ -1,0 +1,18 @@
+Enunciation:
+
+
+Proof:
+For let the cube number  by multiplying itself make ; I say that  is cube.
+For let , the side of , be taken, and let  by multiplying itself make .
+It is then manifest that  by multiplying  has made .
+Now, since  by multiplying itself has made , therefore  measures  according to the units in itself.
+But further the unit also measures  according to the units in it; therefore, as the unit is to , so is  to . [elem.7.def.20]
+Again, since  by multiplying  has made , therefore  measures  according to the units in .
+But the unit also measures  according to the units in it; therefore, as the unit is to , so is  to .
+But, as the unit is to , so is  to ; therefore also, as the unit is to , so is  to , and  to .
+Therefore between the unit and the number  two mean proportional numbers ,  have fallen in continued proportion.
+Again, since  by multiplying itself has made , therefore  measures  according to the units in itself.
+But the unit also measures  according to the units in it; therefore, as the unit is to , so is  to . [elem.7.def.20]
+But between the unit and  two mean proportional numbers have fallen; therefore two mean proportional numbers will also fall between , . [elem.8.8]
+But, if two mean proportional numbers fall between two numbers, and the first be cube, the second will also be cube. [elem.8.23]
+And  is cube; therefore  is also cube. Q. E. D.

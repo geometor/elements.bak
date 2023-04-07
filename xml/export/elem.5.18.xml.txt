@@ -1,0 +1,18 @@
+Enunciation:
+`If magnitudes be proportional`
+       , `they will also be proportional`
+       .
+
+Proof:
+Let `AE`, `EB`, `CF`, `FD` be magnitudes proportional , so that, as `AE` is to `EB`, so is `CF` to `FD`; , that is, as `AB` is to `BE`, so is `CD` to `FD`.
+For, if `CD` be not to `DF` as `AB` to `BE`, then, as `AB` is to `BE`, so will `CD` be either to some magnitude less than `DF` or to a greater.
+First, let it be in that ratio to a less magnitude `DG`.
+Then, since, as `AB` is to `BE`, so is `CD` to `DG`, they are magnitudes proportional ;
+Therefore, as `AE` is to `EB`, so is `CG` to `GD`.
+But also, by hypothesis,
+Therefore also, as `CG` is to `GD`, so is `CF` to `FD`. [elem.5.11]
+But the first `CG` is greater than the third `CF`;
+But it is also less: which is impossible.
+Therefore, as `AB` is to `BE`, so is not `CD` to a less magnitude than `FD`.
+Similarly we can prove that neither is it in that ratio to a greater;
+Therefore etc. Q. E. D.

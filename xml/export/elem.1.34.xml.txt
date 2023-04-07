@@ -1,0 +1,14 @@
+Enunciation:
+In parallelogrammic areas the opposite sides and angles are equal to one another, and the diameter bisects the areas.
+
+Proof:
+Let `ACDB` be a parallelogrammic area, and `BC` its diameter; `ACDB` are equal to one another, and the diameter `BC` bisects it.
+For, since `AB` is parallel to `CD`, and the straight line `BC` has fallen
+Again, since `AC` is parallel to `BD`, and `BC`has fallen upon them,
+Therefore `ABC`, `DCB` are two triangles having the two angles `ABC`, `BCA` equal to the two angles `DCB`, `CBD` respectively, and one side equal to one side, namely that `BC`;  and further the angle `BAC` is equal to the angle `CDB`.
+And, since the angle `ABC` is equal to the angle `BCD`, 
+        `BAC` was also proved equal to the angle `CDB`.
+Therefore in parallelogrammic areas the opposite sides and angles are equal to one another.
+I say, next, that the diameter also bisects the areas.
+For, since `AB` is equal to `CD`, `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB` respectively;
+Therefore the diameter `BC` bisects the parallelogram `ACDB`.

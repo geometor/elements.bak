@@ -1,0 +1,4 @@
+Enunciation:
+A  is a line which lies evenly with the points on itself.
+
+Proof:

@@ -1,0 +1,11 @@
+Enunciation:
+Parallelograms which are on the same base and in the same parallels are equal to one another.
+
+Proof:
+Let `ABCD`, `EBCF` be parallelograms on the same base `BC` and in the same parallels `AF`, `BC`; `ABCD` is equal to the parallelogram `EBCF`.
+For, since `ABCD` is a parallelogram,
+For the same reason also  and `DE` is common;
+But `AB` is also equal to `DC`; [elem.1.34] therefore the two sides `EA`, `AB` are equal to the two sides `FD`, `DC` respectively,
+Let `DGE` be subtracted from each; therefore the trapezium `ABGD` which remains is equal to the trapezium `EGCF` which remains. [elem.1.c.n.3]
+Let the triangle `GBC` be added to each; therefore the whole parallelogram `ABCD` is equal to the whole parallelogram `EBCF`. [elem.1.c.n.2]
+Therefore etc.

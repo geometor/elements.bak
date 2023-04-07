@@ -1,0 +1,13 @@
+Enunciation:
+
+
+Proof:
+For let any straight line  be at right angles to each of the planes , ; I say that the planes are parallel.
+For, if not, they will meet when produced.
+Let them meet; they will then make, as common section, a straight line. [elem.11.3]
+Let them make ; let a point  be taken at random on , and let ,  be joined.
+Now, since  is at right angles to the plane , therefore  is also at right angles to  which is a straight line in the plane  produced; [elem.11.def.3] therefore the angle  is right.
+For the same reason the angle  is also right.
+Thus, in the triangle , the two angles ,  are equal to two right angles: which is impossible. [elem.1.17]
+Therefore the planes ,  will not meet when produced; therefore the planes ,  are parallel. [elem.11.def.8]
+Therefore planes to which the same straight line is at right angles are parallel. Q. E. D.

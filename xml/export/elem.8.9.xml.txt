@@ -1,0 +1,19 @@
+Enunciation:
+
+
+Proof:
+Let ,  be two numbers prime to one another, and let ,  fall between them in continued proportion, and let the unit  be set out; I say that, as many numbers as fall between ,  in continued,  and the unit in continued proportion.
+For let two numbers , , the least that are in the ratio of , , , , be taken, three numbers , ,  with the same property, and others more by one continually, until their multitude is equal to the multitude of , , , . [elem.8.2]
+Let them be taken, and let them be , , , .
+It is now manifest that  by multiplying itself has made  and by multiplying  has made , while  by multiplying itself has made  and by multiplying  has made . [elem.8.2.p.1]
+And, since , , ,  are the least of those which have the same ratio with , , and , , ,  are also the least of those which have the same ratio with , , [elem.8.1] while the multitude of the numbers , , ,  is equal to the multitude of the numbers , , , , therefore , , ,  are equal to , , ,  respectively; therefore  is equal to , and  to .
+Now, since  by multiplying itself has made , therefore  measures  according to the units in .
+But the unit  also measures  according to the units in it; therefore the unit  measures the number  the same number of times as  measures .
+Therefore, as the unit  is to the number , so is  to . [elem.7.def.20]
+Again, since  by multiplying  has made , therefore  measures  according to the units in .
+But the unit  also measures the number  according to the units in it; therefore the unit  measures the number  the same number of times as  measures .
+Therefore, as the unit  is to the number , so is  to .
+But it was also proved that, as the unit  is to the number , so is  to ; therefore also, as the unit  is to the number , so is  to , and  to .
+But  is equal to ; therefore, as the unit  is to the number , so is  to , and  to .
+For the same reason also, as the unit  is to the number , so is  to  and  to .
+Therefore, as many numbers as have fallen between ,  in continued proportion, so many numbers also have fallen between each of the numbers ,  and the unit  in continued proportion. Q. E. D.

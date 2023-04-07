@@ -1,0 +1,37 @@
+Enunciation:
+, ,
+
+Proof:
+Let the angles , ,  be the three given plane angles, and let two of these, taken together in any manner, be greater than the remaining one, while, further, the three are less than four right angles; thus it is required to construct a solid angle out of angles equal to the angles , , .
+Let , , , , ,  be cut off equal to one another, and let , ,  be joined; it is therefore possible to construct a triangle out of straight lines equal to , , . [elem.11.22]
+Let  be so constructed that  is equal to ,  to , and further  to , let the circle  be described about the triangle , let its centre be taken, and let it be ; let , ,  be joined; I say that  is greater than .
+For, if not,  is either equal to , or less.
+First, let it be equal.
+Then, since  is equal to , while  is equal to , and  to , the two sides ,  are equal to the two sides ,  respectively; and, by hypothesis, the base  is equal to the base ; therefore the angle  is equal to the angle . [elem.1.8]
+For the same reason the angle  is also equal to the angle , and further the angle  to the angle ; , ,  are equal to the three angles , , .
+But the three angles , ,  are equal to four right angles; therefore the angles , ,  are equal to four right angles.
+But they are also, by hypothesis, less than four right angles: which is absurd.
+Therefore  is not equal to .
+I say next that neither is  less than .
+For, if possible, let it be so, and let  be made equal to , and  equal to , and let  be joined.
+Then, since  is equal to ,  is also equal to , so that the remainder  is equal to .
+Therefore  is parallel to , [elem.6.2] and  is equiangular with ; [elem.1.29] therefore, as  is to , so is  to ; [elem.6.4] and alternately, as  is to , so is  to . [elem.5.16]
+But  is greater than ; therefore  is also greater than .
+But  was made equal to ; therefore  is also greater than .
+Since, then, the two sides ,  are equal to the two sides , , and the base  is greater than the base , therefore the angle  is greater than the angle . [elem.1.25]
+Similarly we can prove that the angle  is also greater than the angle , and the angle  greater than the angle .
+Therefore the three angles , ,  are greater than the three angles , , .
+But, by hypothesis, the angles , ,  are less than four right angles; therefore the angles , ,  are much less than four right angles.
+But they are also equal to four right angles: which is absurd.
+Therefore  is not less than .
+And it was proved that neither is it equal; therefore  is greater than .
+Let then  be set up from the point  at right angles to the plane of the circle , [elem.11.12] and let the square on  be equal to that area by which the square on  is greater than the square on ; [Lemma] let , ,  be joined.
+Then, since  is at right angles to the plane of the circle , therefore  is also at right angles to each of the straight lines , , .
+And, since  is equal to , while  is common and at right angles, therefore the base  is equal to the base . [elem.1.4]
+For the same reason  is also equal to each of the straight lines , ; therefore the three straight lines , ,  are equal to one another.
+Next, since by hypothesis the square on  is equal to that area by which the square on  is greater than the square on , therefore the square on  is equal to the squares on , .
+But the square on  is equal to the squares on , , for the angle  is right; [elem.1.47] therefore the square on  is equal to the square on ; therefore  is equal to .
+But each of the straight lines , , , ,  is equal to , while each of the straight lines ,  is equal to ; therefore each of the straight lines , , , , ,  is equal to each of the straight lines , , .
+And, since the two sides ,  are equal to the two sides , , and the base  is by hypothesis equal to the base , therefore the angle  is equal to the angle . [elem.1.8]
+For the same reason the angle  is also equal to the angle , and the angle  to the angle .
+Therefore, out of the three plane angles , , , which are equal to the three given angles , , , the solid angle at  has been constructed, which is contained by the angles , , . Q. E. F.

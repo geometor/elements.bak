@@ -1,0 +1,11 @@
+Enunciation:
+.
+
+Proof:
+Let  be an apotome, and  an annex to it; therefore ,  are rational straight lines commensurable in square only. [elem.10.73]
+I say that no other rational straight line can be annexed to  which is commensurable with the whole in square only.
+For, if possible, let  be so annexed; therefore ,  are also rational straight lines commensurable in square only. [elem.10.73]
+Now, since the excess of the squares on ,  over twice the rectangle ,  is also the excess of the squares on ,  over twice the rectangle , , for both exceed by the same, the square on , [elem.2.7] ,  over the squares on ,  is the excess of twice the rectangle ,  over twice the rectangle , .
+But the squares on ,  exceed the squares on ,  by a rational area, for both are rational; therefore twice the rectangle ,  also exceeds twice the rectangle ,  by a rational area: which is impossible, for both are medial [elem.10.21], and a medial area does not exceed a medial by a rational area. [elem.10.26]
+Therefore no other rational straight line can be annexed to  which is commensurable with the whole in square only.
+Therefore only one rational straight line can be annexed to an apotome which is commensurable with the whole in square only. Q. E. D.

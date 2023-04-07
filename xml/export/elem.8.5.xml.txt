@@ -1,0 +1,13 @@
+Enunciation:
+
+
+Proof:
+Let ,  be plane numbers, and let the numbers ,  be the sides of , and ,  of ;  has to  the ratio compounded of the ratios of the sides.
+For, the ratios being given which  has to  and  to , let the least numbers , ,  that are continuously  : ,  :  be taken, so that,  and, as  is to , so is  to . [elem.8.4]
+And let  by multiplying  make .
+Now, since  by multiplying  has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
+Again, since  by multiplying  has made , and further by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
+But it was also proved that,  therefore, ,
+But  has to  the ratio compounded of the ratios of the  also has to  the ratio compounded of the ratios of the sides. Q. E. D.

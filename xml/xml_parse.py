@@ -146,6 +146,24 @@ def get_text_with_emph(element):
     return "".join(text_parts).strip()
 
 
+def extract_texts(json_file_path, output_file_path):
+    with open(json_file_path, 'r') as json_file:
+        json_data = json.load(json_file)
+
+    with open(output_file_path, "w") as f:
+        enunciation = json_data.get("enunciation", "")
+        f.write(f"Enunciation:\n{enunciation}\n\n")
+
+        f.write("Proof:\n")
+        for step in json_data.get("proof", []):
+            f.write(step["text"] + "\n")
+
+def process_json_file(input_file):
+    input_path = Path(input_file)
+    output_path = input_path.with_suffix('.txt')
+    extract_texts(input_path, output_path)
+
+
 def convert_xml_to_json(folder='.'):
     files = glob.glob(os.path.join(folder, f'*.xml'))
 
@@ -161,9 +179,14 @@ def convert_xml_to_json(folder='.'):
         parsed_data = parse_element(file_contents)
 
         print(parsed_data)
-        with open(file_path + '.json', "w") as outfile:
+        #  output_path = input_path.with_suffix('.txt')
+        json_file_path = f'{file_path}.json'
+        with open(json_file_path, "w") as outfile:
             json.dump(parsed_data, outfile, indent=4)
 
+        txt_file_path = f'{file_path}.txt'
+        extract_texts(json_file_path, txt_file_path)
+        
         #  if i > max:
             #  break
         #  else:

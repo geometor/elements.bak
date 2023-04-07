@@ -1,0 +1,7 @@
+Enunciation:
+
+
+Proof:
+For let as many even numbers as we please, , , , , be added together; I say that the whole  is even.
+For, since each of the numbers , , ,  is even, it has a half part; [elem.7.def.6] so that the whole  also has a half part.
+But an even number is that which is divisible into two equal parts; [.] therefore  is even. Q. E. D.

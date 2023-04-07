@@ -1,0 +1,12 @@
+Enunciation:
+If two triangles have the two sides equal to two sides respectively, and have also the base equal to the base, they will also have the angles equal which are contained by the equal straight lines.
+
+Proof:
+Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the two sides `DE`, `DF` respectively, namely `AB` to `DE`, and `AC` to `DF`; and let them have the base `BC` equal `EF`;
+I say that the angle `BAC` is also equal to the angle `EDF`.
+For, if the triangle `ABC` be applied to the triangle `DEF`, and if the point `B` be placed on `E` and the straight line `BC` on `EF`,
+Then, `BC` coinciding with `EF`, 
+        `BC` coincides with the base `EF`, and the sides `BA`, `AC` do not coincide with `ED`, `DF` but fall beside them as `EG`, `GF`,
+Therefore it is not possible that, if the base `BC` be applied to the base `EF`, the sides `BA`, `AC` should not coincide with `ED`, `DF`; 
+        `BAC` will also coincide with the angle `EDF`, and will be equal to it.
+If therefore etc.

@@ -1,0 +1,16 @@
+Enunciation:
+.
+
+Proof:
+Let  be medial and  rational, and let a rectangular area  equal to the square on  be applied to , producing  as breadth; I say that  is rational and incommensurable in length with .
+For, since  is medial, the square on it is equal to a rectangular area contained by rational straight lines commensurable in square only. [elem.10.21]
+Let the square on it be equal to .
+But the square on it is also equal to ; therefore  is equal to .
+But it is also equiangular with it; and in equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional; [elem.6.14] therefore, proportionally, as  is to , so is  to .
+Therefore also, as the square on  is to the square on , so is the square on  to the square on . [elem.6.22]
+But the square on  is commensurable with the square on , for each of these straight lines is rational; therefore the square on  is also commensurable with the square on . [elem.10.11]
+But the square on  is rational; therefore the square on  is also rational; [elem.10.def.4] therefore  is rational.
+And, since  is incommensurable in length with , for they are commensurable in square only, and, as  is to , so is the square on  to the rectangle , , [Lemma] therefore the square on  is incommensurable with the rectangle , . [elem.10.11]
+But the square on  is commensurable with the square on , for the straight lines are rational in square; and the rectangle ,  is commensurable with the rectangle , , for they are equal to the square on ; therefore the square on  is also incommensurable with the rectangle , . [elem.10.13]
+But, as the square on  is to the rectangle , , so is  to ; [Lemma] therefore  is incommensurable in length with . [elem.10.11]
+Therefore  is rational and incommensurable in length with . Q. E. D.

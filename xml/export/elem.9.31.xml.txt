@@ -1,0 +1,13 @@
+Enunciation:
+
+
+Proof:
+For let the odd number  be prime to any number , and let  be double of ; I say that  is prime to .
+For, if they are not prime to one another, some number will measure them.
+Let a number measure them, and let it be .
+Now  is odd; therefore  is also odd.
+And since  which is odd measures , and  is even, therefore [] will measure the half of  also. [elem.9.30]
+But  is half of ; therefore  measures .
+But it also measures ; therefore  measures ,  which are prime to one another: which is impossible.
+Therefore  cannot but be prime to .
+Therefore ,  are prime to one another. Q. E. D.

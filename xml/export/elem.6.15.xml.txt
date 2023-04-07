@@ -1,0 +1,16 @@
+Enunciation:
+`In equal triangles which have one angle equal to one angle the sides about the equal angles are reciprocally proportional; and those triangles which have one angle equal to one angle`, `and in which the sides about the equal angles are reciprocally proportional`, `are equal`.
+
+Proof:
+Let `ABC`, `ADE` be equal triangles having one angle equal to one angle, namely the angle `BAC` to the angle `DAE`; I say that in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional, that is to say, that,
+For let them be placed so that `CA` is in a straight line with `AD`; therefore `EA` is also in a straight line with `AB`. [elem.1.14]
+Let `BD` be joined.
+Since then the triangle `ABC` is equal to the triangle `ADE`, and `BAD` is another area, therefore, as the triangle `CAB` is to the triangle `BAD`, so is the triangle `EAD` to the triangle `BAD`. [elem.5.7]
+But, as `CAB` is to `BAD`, so is `CA` to `AD`, [elem.6.1] and, as `EAD` is to `BAD`, so is `EA` to `AB`. [`id`.]
+Therefore also, as `CA` is to `AD`, so is `EA` to `AB`. [elem.5.11]
+Therefore in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional.
+Next, let the sides of the triangles `ABC`, `ADE` be reciprocally proportional, that is to say, let `EA` be to `AB` as `CA` to `AD`; I say that the triangle `ABC` is equal to the triangle `ADE`.
+For, if `BD` be again joined, since, as `CA` is to `AD`, so is `EA` to `AB`, while, as `CA` is to `AD`, so is the triangle `ABC` to the triangle `BAD`, and, as `EA` is to `AB`, so is the triangle `EAD` to the triangle `BAD`, [elem.6.1] therefore, as the triangle `ABC` is to the triangle `BAD`, so is the triangle `EAD` to the triangle `BAD`. [elem.5.11]
+Therefore each of the triangles `ABC`, `EAD` has the same ratio to `BAD`.
+Therefore the triangle `ABC` is equal to the triangle `EAD`. [elem.5.9]
+Therefore etc. Q. E. D.
