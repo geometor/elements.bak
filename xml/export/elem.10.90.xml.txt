@@ -9,7 +9,7 @@ But the square on  is rational; therefore the square on  is also rational; there
 And, since  has not to  the ratio which a square number has to a square number, therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]
 Again, since, as  is to , so is the square on  to the square on , therefore the square on  is commensurable with the square on . [elem.10.6]
 But the square on  is rational; therefore the square on  is also rational; therefore  is also rational.
-And, since  has not to  the ratio which a square number has to a square number,  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]
+And, since  has not to  the ratio which a square number has to a square number, therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]
 And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]
 I say next that it is also a sixth apotome.
 For since, as  is to , so is the square on  to the square on , and, as  is to , so is the square on  to the square on , therefore, , as  is to , so is the square on  to the square on . [elem.5.22]

@@ -2,7 +2,7 @@ Enunciation:
 `To a given straight line to apply a parallelogram equal to a given rectilineal figure and deficient by a parallelogrammic figure similar to a given one : thus the given rectilineal figure must not be greater than the parallelogram described on the half of the straight line and similar to the defect`.
 
 Proof:
-Let `AB` be the given straight line, `C` the given rectilineal figure to which the figure to be applied to `AB` is required to be equal, not being greater than the parallelogram described on the half of `AB` and similar to the defect, and `D` the parallelogram to which the defect is required to be similar; `AB` a parallelogram equal to the given rectilineal figure `C` and deficient by a parallelogrammic figure which is similar to `D`.
+Let `AB` be the given straight line, `C` the given rectilineal figure to which the figure to be applied to `AB` is required to be equal, not being greater than the parallelogram described on the half of `AB` and similar to the defect, and `D` the parallelogram to which the defect is required to be similar; thus it is required to apply to the given straight line `AB` a parallelogram equal to the given rectilineal figure `C` and deficient by a parallelogrammic figure which is similar to `D`.
 Let `AB` be bisected at the point `E`, and on `EB` let `EBFG` be described similar and similarly situated to `D`; [elem.6.18] let the parallelogram `AG` be completed.
 If then `AG` is equal to `C`, that which was enjoined will have been done;
 But, if not, let `HE` be greater than `C`.

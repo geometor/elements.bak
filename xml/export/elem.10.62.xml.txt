@@ -2,7 +2,7 @@ Enunciation:
 .
 
 Proof:
-Let  be a second bimedial straight line divided into its medials at , so that  is the greater segment; let  be any rational straight line, and to  let there be applied the parallelogram  equal to the square on  and producing  as its breadth;  is a third binomial straight line.
+Let  be a second bimedial straight line divided into its medials at , so that  is the greater segment; let  be any rational straight line, and to  let there be applied the parallelogram  equal to the square on  and producing  as its breadth;  I say that  is a third binomial straight line.
 Let the same construction be made as before shown.
 Then, since  is a second bimedial divided at , therefore ,  are medial straight lines commensurable in square only and containing a medial rectangle, [elem.10.38] so that the sum of the squares on ,  is also medial. [elem.10.15 elem.10.23.p.1]
 And it is equal to ; therefore  is also medial.

@@ -4,7 +4,7 @@ Enunciation:
 Proof:
 For let `DE` be drawn parallel to `BC`, one of the sides of the triangle `ABC`; I say that, as `BD` is to `DA`, so is `CE` to `EA`.
 For let `BE`, `CD` be joined.
-Therefore the triangle `BDE` is equal to `CDE`; for they are on the same base `DE` and in the same parallels `DE`, `BC`. [elem.1.38]
+Therefore the triangle `BDE` is equal to  the triangle `CDE`; for they are on the same base `DE` and in the same parallels `DE`, `BC`. [elem.1.38]
 And the triangle `ADE` is another area.
 But equals have the same ratio to the same; [elem.5.7] therefore, as the triangle `BDE` is to the triangle `ADE`, so is the triangle `CDE` to the triangle `ADE`.
 But, as the triangle `BDE` is to `ADE`, so is `BD` to `DA`; for, being under the same height, the perpendicular drawn from `E` to `AB`, they are to one another as their bases. [elem.6.1]

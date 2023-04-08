@@ -29,7 +29,7 @@
             "emphs": []
         },
         {
-            "text": "And, since the straight line  has fallen on the parallels , , ,  are equal to two right angles. [elem.1.29]",
+            "text": "And, since the straight line  has fallen on the parallels , , therefore the angles ,  are equal to two right angles. [elem.1.29]",
             "refs": [
                 "elem.1.29"
             ],
@@ -85,7 +85,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore  is set up at right angles to the two straight lines ,  which cut one another, from the point of section at ;  is also at right angles to the plane through , . [elem.11.4]",
+            "text": "Therefore  is set up at right angles to the two straight lines ,  which cut one another, from the point of section at ; so that  is also at right angles to the plane through , . [elem.11.4]",
             "refs": [
                 "elem.11.4"
             ],

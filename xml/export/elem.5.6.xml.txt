@@ -2,7 +2,7 @@ Enunciation:
 `If two magnitudes be equimultiples of two magnitudes`, `and any magnitudes subtracted from them be equimultiples of the same`, `the remainders also are either equal to the same or equimultiples of them`.
 
 Proof:
-For let two magnitudes `AB`, `CD` be equimultiples of two magnitudes `E`, `F`, and let `AG`, `CH` subtracted from them be equimultiples of the same two `E`, `F`; `GB`, `HD`, are either equal to `E`, `F` or equimultiples of them.
+For let two magnitudes `AB`, `CD` be equimultiples of two magnitudes `E`, `F`, and let `AG`, `CH` subtracted from them be equimultiples of the same two `E`, `F`;  I say that the remainders also, `GB`, `HD`, are either equal to `E`, `F` or equimultiples of them.
 For, first, let `GB` be equal to `E`; I say that `HD` is also equal to `F`.
 For let `CK` be made equal to `F`.
 Since `AG` is the same multiple of `E` that `CH` is of `F`, while `GB` is equal to `E` and `KC` to `F`, therefore `AB` is the same multiple of `E` that `KH` is of `F`. [elem.5.2]

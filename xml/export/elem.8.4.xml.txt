@@ -2,37 +2,37 @@ Enunciation:
 
 
 Proof:
-Let the given ratios in least numbers be that of  to ,  to , and that of  to ; thus it is required to find numbers in continued proportion which are the least that are in the ratio of  to , in the ratio of  to , and in the ratio of  to .
+Let the given ratios in least numbers be that of  to , that of  to , and that of  to ; thus it is required to find numbers in continued proportion which are the least that are in the ratio of  to , in the ratio of  to , and in the ratio of  to .
 Let , the least number measured by , , be taken. [elem.7.34]
 And, as many times as  measures , so many times also let  measure , and, as many times as  measures , so many times also let  measure .
 Now  either measures or does not measure .
 First, let it measure it.
 And, as many times as  measures , so many times let  measure  also.
-Now, since  measures  the same number of times that  measures ,  is to , so is  to . [elem.7.def.20 elem.7.13]
-For the same reason also,  and further, as  is to , so is  to ; therefore , , ,  are continuously proportional in the  to , in the ratio of  to , and in the ratio of  to .
+Now, since  measures  the same number of times that  measures , therefore, as  is to , so is  to . [elem.7.def.20 elem.7.13]
+For the same reason also,  and further, as  is to , so is  to ; therefore , , ,  are continuously proportional in the ratio of  to , in the ratio of  to , and in the ratio of  to .
 I say next that they are also the least that have this property.
-For, if , , ,  are not the least numbers continuously  to , of  to , and of  to , let them be , , , .
-Then since, as  is to , so is  to , while ,  are least, and the least numbers measure those which have the same  measures . [elem.7.20]
+For, if , , ,  are not the least numbers continuously proportional in the ratios of  to , of  to , and of  to , let them be , , , .
+Then since, as  is to , so is  to , while ,  are least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; therefore  measures . [elem.7.20]
 For the same reason  also measures ; therefore ,  measure ; therefore the least number measured by ,  will also measure . [elem.7.35]
-But  is the least number measured by , ;  measures , the greater the less: which is impossible.
+But  is the least number measured by , ; therefore  measures , the greater the less: which is impossible.
 Therefore there will be no numbers less than , , ,  which are continuously in the ratio of  to , of  to , and of  to .
 Next, let  not measure .
 Let , the least number measured by , , be taken.
 And, as many times as  measures , so many times let ,  measure ,  respectively, and, as many times as  measures , so many times let 
-        also.
+       measure  also.
 Since  measures  the same number of times that  measures , therefore, as  is to , so is  to . [elem.7.13 elem.7.def.20]
-But, as  is to , so is  to ;  is to , so is  to .
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
 For the same reason also,
-Again, since  measures  the same number of times that  measures ,  is to , so is  to ; [elem.7.13 elem.7.def.20] therefore , , ,  are continuously proportional in the ratios of  to , of  to , and of  to .
+Again, since  measures  the same number of times that  measures , therefore, as  is to , so is  to ; [elem.7.13 elem.7.def.20] therefore , , ,  are continuously proportional in the ratios of  to , of  to , and of  to .
 I say next that they are also the least that are in the ratios  : ,  : ,  : .
 For, if not, there will be some numbers less than , , ,  continuously proportional in the ratios  : ,  : ,  : .
 Let them be , , , .
-Now since, as  is to , so is  to , ,  are least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, [elem.7.20] therefore  measures .
+Now since, as  is to , so is  to , while ,  are least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, [elem.7.20] therefore  measures .
 For the same reason  also measures ; therefore ,  measure .
 Therefore the least number measured by ,  will also measure . [elem.7.35]
-But  is the least number measured by , ;  measures .
+But  is the least number measured by , ; therefore  measures .
 And, as  is to , so is  to : [elem.7.13] therefore  also measures .
 But  also measures ; therefore ,  measure .
 Therefore the least number measured by ,  will also measure . [elem.7.35]
 But  is the least number measured by , ; therefore  measures , the greater the less: which is impossible.
-Therefore there will not be any numbers less than , , ,  continuously proportional in the ratios of  to , of  to , and of  to ; , , ,  are the least numbers continuously proportional in the ratios  : ,  : ,  : . Q. E. D.
+Therefore there will not be any numbers less than , , ,  continuously proportional in the ratios of  to , of  to , and of  to ; therefore , , ,  are the least numbers continuously proportional in the ratios  : ,  : ,  : . Q. E. D.

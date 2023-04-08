@@ -5,7 +5,7 @@
     "enunciation": "`If there be two straight lines`, `and one of them be cut into any number of segments whatever`, `the rectangle contained by the two straight lines is equal to the rectangles contained by the uncut straight line and each of the segments`.",
     "proof": [
         {
-            "text": "Let `A`, `BC` be two straight lines, and let `BC` be cut at random at the points `D`, `E`; I say that the rectangle contained by `A`, `BC` is equal to the rectangle contained by `A`, `BD`, that contained by `A`, `DE` and `A`, `EC`.",
+            "text": "Let `A`, `BC` be two straight lines, and let `BC` be cut at random at the points `D`, `E`; I say that the rectangle contained by `A`, `BC` is equal to the rectangle contained by `A`, `BD`, that contained by `A`, `DE` and that contained by `A`, `EC`.",
             "refs": [],
             "emphs": [
                 "A",
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "text": "For let `BF` be drawn from `B` at right angles to `BC`; [elem.1.11] let `BG` be made equal to `A`, [elem.1.3] through `G` let `GH` be drawn `BC`, [elem.1.31] and through `D`, `E`, `C` let `DK`, `EL`, `CH` be drawn parallel to `BG`.",
+            "text": "For let `BF` be drawn from `B` at right angles to `BC`; [elem.1.11] let `BG` be made equal to `A`, [elem.1.3] through `G` let `GH` be drawn parallel to `BC`, [elem.1.31] and through `D`, `E`, `C` let `DK`, `EL`, `CH` be drawn parallel to `BG`.",
             "refs": [
                 "elem.1.11",
                 "elem.1.3",

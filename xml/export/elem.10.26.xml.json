@@ -5,7 +5,7 @@
     "enunciation": ".",
     "proof": [
         {
-            "text": "For, if possible, let the medial area  exceed the medial area  by the rational area ,  be set out; to  let there be applied the rectangular parallelogram  equal to , producing  as breadth, and let the rectangle  equal to  be subtracted; therefore the remainder  is equal to the remainder .",
+            "text": "For, if possible, let the medial area  exceed the medial area  by the rational area ,  and let a rational straight line  be set out; to  let there be applied the rectangular parallelogram  equal to , producing  as breadth, and let the rectangle  equal to  be subtracted; therefore the remainder  is equal to the remainder .",
             "refs": [],
             "emphs": []
         },
@@ -27,7 +27,7 @@
             "emphs": []
         },
         {
-            "text": "And, since [ is rational and is equal to , therefore]  is [also] rational; and it is applied to the rational straight line ;  is rational and commensurable in length with . [elem.10.20]",
+            "text": "And, since [ is rational and is equal to , therefore]  is [also] rational; and it is applied to the rational straight line ; therefore  is rational and commensurable in length with . [elem.10.20]",
             "refs": [
                 "elem.10.20"
             ],

@@ -2,7 +2,7 @@ Enunciation:
 `If two triangles have one angle equal to one angle`, `the sides about other angles proportional`, `and the remaining angles either both less or both not less than a right angle`, `the triangles will be equiangular and will have those angles equal`, `the sides about which are proportional`.
 
 Proof:
-Let `ABC`, `DEF` be two triangles having one angle equal to one angle, the angle `BAC` to the angle `EDF`, the sides about other angles `ABC`, `DEF` proportional, so that, as `AB` is to `BC`, so is `DE` to `EF`, and, first, each of the remaining angles at `C`, `F` less than a right angle; `ABC` is equiangular with the triangle `DEF`, the angle `ABC` will be equal to the angle `DEF`, and the remaining angle, namely the angle at `C`, equal to the remaining angle, the angle at `F`.
+Let `ABC`, `DEF` be two triangles having one angle equal to one angle, the angle `BAC` to the angle `EDF`, the sides about other angles `ABC`, `DEF` proportional, so that, as `AB` is to `BC`, so is `DE` to `EF`, and, first, each of the remaining angles at `C`, `F` less than a right angle;  I say that the triangle `ABC` is equiangular with the triangle `DEF`, the angle `ABC` will be equal to the angle `DEF`, and the remaining angle, namely the angle at `C`, equal to the remaining angle, the angle at `F`.
 For, if the angle `ABC` is unequal to the angle `DEF`, one of them is greater.
 Let the angle `ABC` be greater; and on the straight line `AB`, and at the point `B` on it, let the angle `ABG` be constructed equal to the angle `DEF`. [elem.1.23]
 Then, since the angle `A` is equal to `D`, and the angle `ABG` to the angle `DEF`, therefore the remaining angle `AGB` is equal to the remaining angle `DFE`. [elem.1.32]

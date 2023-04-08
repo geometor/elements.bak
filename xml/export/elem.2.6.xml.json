@@ -24,7 +24,7 @@
             ]
         },
         {
-            "text": "For let the square `CEFD` be described on `CD`, [elem.1.46] and let `DE` be joined; through the point `B` let `BG` be drawn parallel to either `EC` or `DF`, `H` let `KM` be drawn parallel to either `AB` or `EF`, and further through `A` let `AK` be drawn parallel to either `CL` or `DM`. [elem.1.31]  But `CH` is equal to `HF`. [elem.1.43]",
+            "text": "For let the square `CEFD` be described on `CD`, [elem.1.46] and let `DE` be joined; through the point `B` let `BG` be drawn parallel to either `EC` or `DF`, through the point `H` let `KM` be drawn parallel to either `AB` or `EF`, and further through `A` let `AK` be drawn parallel to either `CL` or `DM`. [elem.1.31] \n        But `CH` is equal to `HF`. [elem.1.43]",
             "refs": [
                 "elem.1.46",
                 "elem.1.31",

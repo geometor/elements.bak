@@ -2,8 +2,9 @@
       <head>PROPOSITION 24.</head>
       <p><hi rend="ital">If a solid be contained by parallel planes</hi>, <hi rend="ital">the opposite planes in it are equal and parallelogrammic.</hi>
       </p>
-      <p>For let the solid <hi rend="ital">CDHG</hi> be contained by the parallel planes <hi rend="ital">AC</hi>, <hi rend="ital">GF</hi>, <hi rend="ital">AH</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">BF</hi>, <hi rend="ital">AE</hi>; I say that the opposite planes in it are equal and parallelogrammic. </p>
-      <p>For, since the two parallel planes <hi rend="ital">BG</hi>, <hi rend="ital">CE</hi> are cut by the plane <hi rend="ital">AC</hi>, their common sections are parallel. [<ref target="elem.11.16" targOrder="U">XI. 16</ref>] </p>
+      <p>For let the solid <hi rend="ital">CDHG</hi> be contained by the parallel planes <hi rend="ital">AC</hi>, <hi rend="ital">GF</hi>, <hi rend="ital">AH</hi>, <hi rend="ital">DF</hi>, <hi rend="ital">BF</hi>, <hi rend="ital">AE</hi>; I say that the opposite planes in it are equal and parallelogrammic. <figure/>
+      </p>
+      <p>For, since the two parallel planes <hi rend="ital">BG</hi>, <hi rend="ital">CE</hi> are cut by the plane <hi rend="ital">AC</hi>, their common sections are parallel. [<ref target="elem.11.16" targOrder="U">XI. 16</ref>] <pb n="324"/></p>
       <p>Therefore <hi rend="ital">AB</hi> is parallel to <hi rend="ital">DC</hi>. </p>
       <p>Again, since the two parallel planes <hi rend="ital">BF</hi>, <hi rend="ital">AE</hi> are cut by the plane <hi rend="ital">AC</hi>, their common sections are parallel. [<ref target="elem.11.16" targOrder="U">XI. 16</ref>] </p>
       <p>Therefore <hi rend="ital">BC</hi> is parallel to <hi rend="ital">AD</hi>. </p>

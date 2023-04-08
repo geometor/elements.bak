@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let there be set out two medial straight lines ,  commensurable in square only, containing a medial rectangle, and such that the square on  is greater than the square on  by the square on a straight line incommensurable with ; [elem.10.32
-, .]  be described on , and let the rest of the construction be as above.
+, .] let the semicircle  be described on , and let the rest of the construction be as above.
 Then, since  is incommensurable in length with , [elem.10.18
 ]  is also incommensurable in square with . [elem.10.11
 ]

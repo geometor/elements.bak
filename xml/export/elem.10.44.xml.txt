@@ -9,7 +9,7 @@ For, if possible, let it be divided at  also, so that  is not the same with , bu
 Now let a rational straight line  be set out, let there be applied to  the rectangular parallelogram  equal to the square on , and let  equal to the squares on ,  be subtracted; therefore the remainder  is equal to twice the rectangle , . [elem.2.4
 ]
 Again, let there be subtracted , equal to the squares on , , which were proved less than the squares on ,  [elem.10.41.l.1
-];  is also equal to twice the rectangle , .
+]; therefore the remainder  is also equal to twice the rectangle , .
 Now, since the squares on ,  are medial, therefore  is medial.
 And it is applied to the rational straight line ; therefore  is rational and incommensurable in length with . [elem.10.22
 ]

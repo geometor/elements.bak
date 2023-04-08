@@ -2,8 +2,9 @@
       <head>PROPOSITION 28.</head>
       <p><hi rend="ital">To find medial straight lines commensurable in square only which contain a medial rectangle</hi>. </p>
       <p>Let the rational straight lines <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> commensurable in square only be set out; let <hi rend="ital">D</hi> be taken a mean proportional between <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, [<ref target="elem.6.13" targOrder="U">VI. 13</ref>] and let it be contrived that, <hi rend="center">as <hi rend="ital">B</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">D</hi> to <hi rend="ital">E</hi>. [<ref target="elem.6.12" targOrder="U">VI. 12</ref>]</hi>
-       </p>
-      <p>Since <hi rend="ital">A</hi>, <hi rend="ital">B</hi> are rational straight lines commensurable in square only, therefore the rectangle <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, that is, the square on <hi rend="ital">D</hi> [<ref target="elem.6.17" targOrder="U">VI. 17</ref>], is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
+       <figure/>
+      </p>
+      <p>Since <hi rend="ital">A</hi>, <hi rend="ital">B</hi> are rational straight lines commensurable in square only, therefore the rectangle <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, that is, the square on <hi rend="ital">D</hi> [<ref target="elem.6.17" targOrder="U">VI. 17</ref>], is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] <pb n="62"/></p>
       <p>Therefore <hi rend="ital">D</hi> is medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
       <p>And since <hi rend="ital">B</hi>, <hi rend="ital">C</hi> are commensurable in square only, and, as <hi rend="ital">B</hi> is to <hi rend="ital">C</hi>, so is <hi rend="ital">D</hi> to <hi rend="ital">E</hi>, therefore <hi rend="ital">D</hi>, <hi rend="ital">E</hi> are also commensurable in square only. [<ref target="elem.10.11" targOrder="U">X. 11</ref>] </p>
       <p>But <hi rend="ital">D</hi> is medial; therefore <hi rend="ital">E</hi> is also medial. [<ref target="elem.10.23" targOrder="U">X. 23</ref>, addition] </p>
@@ -18,7 +19,8 @@
        <head>LEMMA I.</head>
        <p/>
        <p><hi rend="ital">To find two square numbers such that their sum is also square</hi>. </p>
-       <p>Let two numbers <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> be set out, and let them be either both even or both odd. </p>
+       <p>Let two numbers <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> be set out, and let them be either both even or both odd. <figure/>
+       </p>
        <p>Then since, whether an even number is subtracted from an even number, or an odd number from an odd number, the remainder is even, [<ref target="elem.9.24 elem.9.26" targOrder="U">IX. 24, 26</ref>] therefore the remainder <hi rend="ital">AC</hi> is even. </p>
        <p>Let <hi rend="ital">AC</hi> be bisected at <hi rend="ital">D</hi>. </p>
        <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> also be either similar plane numbers, or square numbers, which are themselves also similar plane numbers. </p>
@@ -31,7 +33,8 @@
       <div4 id="elem.10.28.l.2" n="2" type="lemma">
        <head>LEMMA 2.</head>
        <p><hi rend="ital">To find two square numbers such that their sum is not square</hi>. </p>
-       <p>For let the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, as we said, be square, and <hi rend="ital">CA</hi> even, and let <hi rend="ital">CA</hi> be bisected by <hi rend="ital">D</hi>. </p>
+       <p>For let the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, as we said, be square, and <hi rend="ital">CA</hi> even, and let <hi rend="ital">CA</hi> be bisected by <hi rend="ital">D</hi>. <figure/>
+       </p>
        <p>It is then manifest that the square product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CD</hi> is equal to the square on <hi rend="ital">BD</hi>. [See <ref target="elem.10.28.l.1" targOrder="U">Lemma 1</ref>] </p>
        <p>Let the unit <hi rend="ital">DE</hi> be subtracted; therefore the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> is less than the square on <hi rend="ital">BD</hi>. </p>
        <p>I say then that the square product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> will not be square. </p>
@@ -39,7 +42,7 @@
        <p>First, if possible, let the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> be equal to the square on <hi rend="ital">BE</hi>, and let <hi rend="ital">GA</hi> be double of the unit <hi rend="ital">DE</hi>. </p>
        <p>Since then the whole <hi rend="ital">AC</hi> is double of the whole <hi rend="ital">CD</hi>, and in them <hi rend="ital">AG</hi> is double of <hi rend="ital">DE</hi>, therefore the remainder <hi rend="ital">GC</hi> is also double of the remainder <hi rend="ital">EC</hi>; therefore <hi rend="ital">GC</hi> is bisected by <hi rend="ital">E</hi>. </p>
        <p>Therefore the product of <hi rend="ital">GB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> is equal to the square on <hi rend="ital">BE</hi>. [<ref target="elem.2.6" targOrder="U">II. 6</ref>] </p>
-       <p>But the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> is also, by hypothesis, equal to the square on <hi rend="ital">BE</hi>; <hi rend="ital">GB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> is equal to the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi>. </p>
+       <p>But the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> is also, by hypothesis, equal to the square on <hi rend="ital">BE</hi>; <pb n="65"/>therefore the product of <hi rend="ital">GB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> is equal to the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi>. </p>
        <p>And, if the common square on <hi rend="ital">CE</hi> be subtracted, it follows that <hi rend="ital">AB</hi> is equal to <hi rend="ital">GB</hi>: which is absurd. </p>
        <p>Therefore the product of <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> together with the square on <hi rend="ital">CE</hi> is not equal to the square on <hi rend="ital">BE</hi>. </p>
        <p>I say next that neither is it less than the square on <hi rend="ital">BE</hi>. </p>

@@ -4,7 +4,7 @@ Enunciation:
 Proof:
 Let `ABC` be a right-angled triangle having the angle `BAC` right; I say that the figure on `BC` is equal to the similar and similarly described figures on `BA`, `AC`.
 Let `AD` be drawn perpendicular.
-Then since, in the right-angled triangle `ABC`, `AD` has `A` perpendicular to the base `BC`, the triangles `ABD`, `ADC` adjoining the perpendicular are similar both to the whole `ABC` and to one another. [elem.6.8]
+Then since, in the right-angled triangle `ABC`, `AD` has been drawn from the right angle at `A` perpendicular to the base `BC`, the triangles `ABD`, `ADC` adjoining the perpendicular are similar both to the whole `ABC` and to one another. [elem.6.8]
 And, since `ABC` is similar to `ABD`, therefore, as `CB` is to `BA`, so is `AB` to `BD`. [elem.6.def.1]
 And, since three straight lines are proportional, as the first is to the third, so is the figure on the first to the similar and similarly described figure on the second. [elem.6.19.p.1]
 Therefore, as `CB` is to `BD`, so is the figure on `CB` to the similar and similarly described figure on `BA`.

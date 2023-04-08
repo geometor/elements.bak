@@ -9,7 +9,7 @@ First, let it be equal.
 Now the cylinder  is also equal to the cylinder .
 But cones and cylinders which are of the same height are to one another as their bases; [elem.12.11] therefore the base  is also equal to the base .
 Hence also, reciprocally, as the base  is to the base , so is the height  to the height .
-Next, let the height  not be equal to , but let  be greater; from the height  let  be cut off equal to , through the point  let the cylinder  be cut by the plane  parallel to the planes of the circles , ,  be conceived erected from the circle  as base and with height .
+Next, let the height  not be equal to , but let  be greater; from the height  let  be cut off equal to , through the point  let the cylinder  be cut by the plane  parallel to the planes of the circles , , and let the cylinder  be conceived erected from the circle  as base and with height .
 Now, since the cylinder  is equal to the cylinder , therefore, as the cylinder  is to the cylinder , so is the cylinder  to the cylinder . [elem.5.7]
 But, as the cylinder  is to the cylinder , so is the base  to the base , for the cylinders ,  are of the same height; [elem.12.11] and, as the cylinder  is to the cylinder , so is the height  to the height , for the cylinder  has been cut by a plane which is parallel to its opposite planes. [elem.12.13]
 Therefore also, as the base  is to the base , so is the height  to the height . [elem.5.11]

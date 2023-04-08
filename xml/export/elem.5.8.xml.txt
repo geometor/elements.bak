@@ -22,7 +22,7 @@ And `N` is a multiple of `D`, while `FH`, `K` are other, chance, equimultiples o
 Again, let `AE` be greater than `EB`.
 Then the less, `EB`, if multiplied, will sometime be greater than `D`. [elem.5.def.4]
 Let it be multiplied, and let `GH` be a multiple of `EB` and greater than `D`; and, whatever multiple `GH` is of `EB`, let `FG` be made the same multiple of `AE`, and `K`
-       `C`.
+        of `C`.
 Then we can prove similarly that `FH`, `K` are equimultiples of `AB`, `C`; and, similarly, let `N` be taken a multiple of `D` but the first that is greater than `FG`, so that `FG` is again not less than `M`.
 But `GH` is greater than `D`; therefore the whole `FH` is in excess of `D`, `M`, that is, of `N`.
 Now `K` is not in excess of `N`, inasmuch as `FG` also, which is greater than `GH`, that is, than `K`, is not in excess of `N`.

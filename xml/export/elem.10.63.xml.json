@@ -5,7 +5,7 @@
     "enunciation": ".",
     "proof": [
         {
-            "text": "Let  be a major straight line divided at , so that  is greater than ; let  be a rational straight line,  let there be applied the parallelogram  equal to the square on  and producing  as its breadth; I say that  is a fourth binomial straight line.",
+            "text": "Let  be a major straight line divided at , so that  is greater than ; let  be a rational straight line, and to  let there be applied the parallelogram  equal to the square on  and producing  as its breadth; I say that  is a fourth binomial straight line.",
             "refs": [],
             "emphs": []
         },
@@ -62,7 +62,7 @@
             "emphs": []
         },
         {
-            "text": "But, if there be two unequal straight lines, and to the greater there be applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divide it into incommensurable parts, then the elem.10.18] therefore the square on  is greater than the square on  by the square on a straight line incommensurable with .",
+            "text": "But, if there be two unequal straight lines, and to the greater there be applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divide it into incommensurable parts, then the square on the greater will be greater than the square on the less by the square on a straight line incommensurable in length with the greater; [elem.10.18] therefore the square on  is greater than the square on  by the square on a straight line incommensurable with .",
             "refs": [
                 "elem.10.18"
             ],

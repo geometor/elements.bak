@@ -28,7 +28,7 @@
             "emphs": []
         },
         {
-            "text": "But the angle `CAB` is equal to the angle `BDC`, for they are in the same segment `BADC`; [elem.3.21] and the angle `ACB` is equal to the angle `ADB`, for they are in the same segment `ADCB`; therefore the whole angle `ADC` is equal to the angles `BAC`, `ACB`.",
+            "text": "But the angle `CAB` is equal to the angle `BDC`, for they are in the same segment `BADC`; [elem.3.21] and the angle `ACB` is equal to the angle \n       `ADB`, for they are in the same segment `ADCB`; therefore the whole angle `ADC` is equal to the angles `BAC`, `ACB`.",
             "refs": [
                 "elem.3.21"
             ],

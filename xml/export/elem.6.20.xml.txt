@@ -3,28 +3,28 @@ Enunciation:
        `side`.
 
 Proof:
-Let `ABCDE`, `FGHKL` be similar polygons, and let `AB` correspond to `FG`; I say that the polygons `ABCDE`, `FGHKL` are divided into similar triangles, and into triangles equal in multitude and in `ABCDE` has to the polygon `FGHKL` a ratio duplicate of that which `AB` has to `FG`.
+Let `ABCDE`, `FGHKL` be similar polygons, and let `AB` correspond to `FG`; I say that the polygons `ABCDE`, `FGHKL` are divided into similar triangles, and into triangles equal in multitude and in the same ratio as the wholes, and the polygon `ABCDE` has to the polygon `FGHKL` a ratio duplicate of that which `AB` has to `FG`.
 Let `BE`, `EC`, `GL`, `LH` be joined.
 Now, since the polygon `ABCDE` is similar to the polygon `FGHKL`, the angle `BAE` is equal to the angle `GFL`;
-Since then `ABE`, `FGL` are two triangles having one angle equal to one angle and the sides about the equal angles `ABE` is equiangular with the triangle `FGL`; [elem.6.6]  therefore the angle `ABE` is equal to the angle `FGL`.
+Since then `ABE`, `FGL` are two triangles having one angle equal to one angle and the sides about the equal angles proportional, therefore the triangle `ABE` is equiangular with the triangle `FGL`; [elem.6.6]  therefore the angle `ABE` is equal to the angle `FGL`.
 But the whole angle `ABC` is also equal to the whole angle `FGH` because of the similarity of the polygons; therefore the remaining angle `EBC` is equal to the angle `LGH`.
-And, since, because of the similarity of the triangles `ABE`, `FGL`,  and moreover also, because of the similarity of the polygons,  therefore, , as `EB` is to `BC`, so is `LG` to `GH`; [elem.5.22] `EBC`, `LGH` are proportional; therefore the triangle `EBC` is equiangular with the triangle `LGH`, [elem.6.6]
+And, since, because of the similarity of the triangles `ABE`, `FGL`,  and moreover also, because of the similarity of the polygons,  therefore, , as `EB` is to `BC`, so is `LG` to `GH`; [elem.5.22] that is, the sides about the equal angles `EBC`, `LGH` are proportional; therefore the triangle `EBC` is equiangular with the triangle `LGH`, [elem.6.6]
 For the same reason the triangle `ECD` is also similar to the triangle `LHK`.
-Therefore the similar polygons `ABCDE`, `FGHKL` have been divided into similar triangles, and into triangles equal in
+Therefore the similar polygons `ABCDE`, `FGHKL` have been divided into similar triangles, and into triangles equal in multitude.
 I say that they are also in the same ratio as the wholes, that is, in such manner that the triangles are proportional, and `ABE`, `EBC`, `ECD` are antecedents, while `FGL`, `LGH`, `LHK` are their consequents, and that the polygon `ABCDE`
-       `FGHKL` a ratio duplicate of that which the corresponding side has to the corresponding side, that is `AB` to `FG`.
+       has to the polygon `FGHKL` a ratio duplicate of that which the corresponding side has to the corresponding side, that is `AB` to `FG`.
 For let `AC`, `FH` be joined.
-Then since, because of the similarity of the polygons, `ABC` is equal to the angle `FGH`, and, as `AB` is to `BC`, so is `FG` to `GH`,
-And, since the angle `BAM` is equal to the angle `GFN`, and the angle `ABM` is also equal to the angle `FGN`, `AMB` is also equal to the remaining angle `FNG`; [elem.1.32] therefore the triangle `ABM` is equiangular with the triangle `FGN`.
+Then since, because of the similarity of the polygons, the angle `ABC` is equal to the angle `FGH`, and, as `AB` is to `BC`, so is `FG` to `GH`,
+And, since the angle `BAM` is equal to the angle `GFN`, and the angle `ABM` is also equal to the angle `FGN`, therefore the remaining angle `AMB` is also equal to the remaining angle `FNG`; [elem.1.32] therefore the triangle `ABM` is equiangular with the triangle `FGN`.
 Similarly we can prove that the triangle `BMC` is also equiangular with the triangle `GNH`.
-Therefore, proportionally, as `AM` is to `MB`, so is `FN` to `NG`, `BM` is to `MC`, so is `GN` to `NH`; so that, in addition, ,
-But, as `AM` is to `MC`, so is the triangle `ABM` to `MBC`, and `AME` to `EMC`; for they are to one another as their elem.6.1]
+Therefore, proportionally, as `AM` is to `MB`, so is `FN` to `NG`, and, as `BM` is to `MC`, so is `GN` to `NH`; so that, in addition, ,
+But, as `AM` is to `MC`, so is the triangle `ABM` to `MBC`, and `AME` to `EMC`; for they are to one another as their bases. [elem.6.1]
 Therefore also, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.5.12] therefore, as the triangle `AMB` is to `BMC`, so is `ABE` to `CBE`.
 But, as `AMB` is to `BMC`, so is `AM` to `MC`; therefore also, as `AM` is to `MC`, so is the triangle `ABE` to the triangle `EBC`.
 For the same reason also, as `FN` is to `NH`, so is the triangle `FGL` to the triangle `GLH`.
-And, as `AM` is to `MC`, so is `FN` to `NH`; therefore also, as the triangle `ABE` is to the triangle `BEC`, so is the triangle `FGL` to the triangle `GLH`; and, alternately, as the triangle `ABE` is to the triangle `FGL`, `BEC` to the triangle `GLH`.
+And, as `AM` is to `MC`, so is `FN` to `NH`; therefore also, as the triangle `ABE` is to the triangle `BEC`, so is the triangle `FGL` to the triangle `GLH`; and, alternately, as the triangle `ABE` is to the triangle `FGL`, so is the triangle `BEC` to the triangle `GLH`.
 Similarly we can prove, if `BD`, `GK` be joined, that, as the triangle `BEC` is to the triangle `LGH`, so also is the triangle `ECD` to the triangle `LHK`.
-And since, as the triangle `ABE` is to the triangle `FGL`, `EBC` to `LGH`, and further `ECD` to `LHK`, therefore also, as one of the antecedents is to one of the consequents so are all the antecedents to all the consequents; [elem.5.12 therefore, as the triangle `ABE` is to the triangle `FGL`, so is the polygon `ABCDE` to the polygon `FGHKL`.
+And since, as the triangle `ABE` is to the triangle `FGL`, so is `EBC` to `LGH`, and further `ECD` to `LHK`, therefore also, as one of the antecedents is to one of the consequents so are all the antecedents to all the consequents; [elem.5.12 therefore, as the triangle `ABE` is to the triangle `FGL`, so is the polygon `ABCDE` to the polygon `FGHKL`.
 But the triangle `ABE` has to the triangle `FGL` a ratio duplicate of that which the corresponding side `AB` has to the corresponding side `FG`; for similar triangles are in the duplicate ratio of the corresponding sides. [elem.6.19]
 Therefore the polygon `ABCDE` also has to the polygon `FGHKL` a ratio duplicate of that which the corresponding side `AB` has to the corresponding side `FG`.
 Therefore etc.

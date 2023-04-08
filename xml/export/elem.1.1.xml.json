@@ -12,14 +12,14 @@
             ]
         },
         {
-            "text": "Thus it is required to construct`AB`.",
+            "text": "Thus it is required to construct an equilateral triangle on the straight line `AB`.",
             "refs": [],
             "emphs": [
                 "AB"
             ]
         },
         {
-            "text": "With centre `A` and distance `AB` let the circle `BCD` be described; [elem.1.post.3] `B` and distance `BA` let the circle `ACE` be described; [elem.1.post.3] and from the point `C`, in which the circles cut one another, to the points `A`, `B` let the straight lines `CA`, `CB` be joined. [elem.1.post.1]",
+            "text": "With centre `A` and distance `AB` let the circle `BCD` be described; [elem.1.post.3] again, with centre `B` and distance `BA` let the circle `ACE` be described; [elem.1.post.3] and from the point `C`, in which the circles cut one another, to the points `A`, `B` let the straight lines `CA`, `CB` be joined. [elem.1.post.1]",
             "refs": [
                 "elem.1.post.3",
                 "elem.1.post.3",
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "text": "But `CA` was also proved equal to `AB`; `CA`, `CB` is equal to `AB`.",
+            "text": "But `CA` was also proved equal to `AB`; therefore each of the straight lines `CA`, `CB` is equal to `AB`.",
             "refs": [],
             "emphs": [
                 "CA",
@@ -74,7 +74,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore the three straight lines `CA`, `AB`, `BC` are",
+            "text": "Therefore the three straight lines `CA`, `AB`, `BC` are equal to one another.",
             "refs": [],
             "emphs": [
                 "CA",

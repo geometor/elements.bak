@@ -23,7 +23,7 @@
             ]
         },
         {
-            "text": "Now, if the angle `CBA` is equal to `ABD`,",
+            "text": "Now, if the angle `CBA` is equal to the angle `ABD`,",
             "refs": [],
             "emphs": [
                 "CBA",
@@ -60,7 +60,7 @@
             ]
         },
         {
-            "text": "But the angles `CBE`, `EBD` were also proved equal to the same three angles; \n        `CBE`, `EBD` are two right angles;",
+            "text": "But the angles `CBE`, `EBD` were also proved equal to the same three angles; \n        But the angles `CBE`, `EBD` are two right angles;",
             "refs": [],
             "emphs": [
                 "CBE",

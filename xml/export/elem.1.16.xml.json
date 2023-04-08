@@ -23,7 +23,7 @@
             ]
         },
         {
-            "text": "Let `AC` be bisected at `E` [elem.1.10], and let `BE` be joined and produced `F`;",
+            "text": "Let `AC` be bisected at `E` [elem.1.10], and let `BE` be joined and produced in a straight line to `F`;",
             "refs": [
                 "elem.1.10"
             ],
@@ -50,7 +50,7 @@
             ]
         },
         {
-            "text": "Then, since `AE` is equal to `EC`, `BE` to `EF`,",
+            "text": "Then, since `AE` is equal to `EC`, and `BE` to `EF`,",
             "refs": [],
             "emphs": [
                 "AE",

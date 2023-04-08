@@ -2,7 +2,7 @@ Enunciation:
 
 
 Proof:
-Let ,  be two numbers prime to one another, and let ,  fall between them in continued proportion, and let the unit  be set out; I say that, as many numbers as fall between ,  in continued,  and the unit in continued proportion.
+Let ,  be two numbers prime to one another, and let ,  fall between them in continued proportion, and let the unit  be set out; I say that, as many numbers as fall between ,  in continued proportion, so many will also fall between either of the numbers ,  and the unit in continued proportion.
 For let two numbers , , the least that are in the ratio of , , , , be taken, three numbers , ,  with the same property, and others more by one continually, until their multitude is equal to the multitude of , , , . [elem.8.2]
 Let them be taken, and let them be , , , .
 It is now manifest that  by multiplying itself has made  and by multiplying  has made , while  by multiplying itself has made  and by multiplying  has made . [elem.8.2.p.1]

@@ -6,7 +6,7 @@ Let the parallelepipedal solids , , of the same height, be on equal bases , .
 I say that the solid  is equal to the solid .
 First, let the sides which stand up, , , , , , , , , be at right angles to the bases , ; let the straight line  be produced in a straight line with ; on the straight line , and at the point  on it, let the angle  be constructed equal to the angle , [elem.1.23] let  be made equal to , and  equal to , and let the base  and the solid  be completed.
 Now, since the two sides ,  are equal to the two sides , , and they contain equal angles, therefore the parallelogram  is equal and similar to the parallelogram .
-Since again  is equal to , and  to , and they contain right angles,  is equal and similar to the parallelogram .
+Since again  is equal to , and  to , and they contain right angles, therefore the parallelogram  is equal and similar to the parallelogram .
 For the same reason  is also equal and similar to ; therefore three parallelograms of the solid  are equal and similar to three parallelograms of the solid .
 But the former three are equal and similar to the three opposite, and the latter three to the three opposite; [elem.11.24] therefore the whole parallelepipedal solid  is equal to the whole parallelepipedal solid . [elem.11.def.10]
 Let ,  be drawn through and meet one another at , let  be drawn through  parallel to , let  be produced to , and let the solids ,  be completed.

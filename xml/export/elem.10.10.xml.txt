@@ -3,8 +3,8 @@ Enunciation:
 
 Proof:
 Let  be the assigned straight line; thus it is required to find two straight lines incommensurable, the one in length only, and the other in square also, with .
-Let two numbers ,  be set out which have not to one 
-       elem.10.6.p.1] therefore the square on  is commensurable with the square on . [elem.10.6]
+Let two numbers ,  be set out which have not to one another the ratio which a square number has to a square number, that is, which are not similar plane numbers; and let it be contrived that, 
+        —for we have learnt how to do this— [elem.10.6.p.1] therefore the square on  is commensurable with the square on . [elem.10.6]
 And, since  has not to  the ratio which a square number has to a square number, therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]
 Let  be taken a mean proportional between , ; therefore, as  is to , so is the square on  to the square on . [elem.5.def.9]
 But  is incommensurable in length with ; therefore the square on  is also incommensurable with the square on ; [elem.10.11] therefore  is incommensurable in square with .

@@ -5,7 +5,7 @@ Proof:
 Let two numbers ,  be set out such that the sum of them  has to  the ratio which a square number has to a square number, but has not to  the ratio which a square number has to a square number; let a rational straight line  be set out, and let  be commensurable in length with ; therefore  is rational.
 Let it be contrived then that, as the number  is to , so also is the square on  to the square on ; [elem.10.6.p.1] therefore the square on  is commensurable with the square on . [elem.10.6]
 Therefore  is also rational.
-Now, since the number  has not to  the ratio which a square number has to a square number, neither has the  to the square on  the ratio which a square number has to a square number.
+Now, since the number  has not to  the ratio which a square number has to a square number, neither has the square on  to the square on  the ratio which a square number has to a square number.
 Therefore  is incommensurable in length with ; [elem.10.9] therefore ,  are rational straight lines commensurable in square only; therefore  is binomial. [elem.10.36]
 It is next to be proved that it is also a second binomial straight line.
 For since, inversely, as the number  is to , so is the square on  to the square on , while  is greater than , therefore the square on  is greater than the square on .

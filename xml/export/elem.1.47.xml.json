@@ -22,7 +22,7 @@
             ]
         },
         {
-            "text": "For let there be described on `BC` the square `BDEC`, `BA`, `AC` the squares `GB`, `HC`; [elem.1.46] through `A` let `AL` be drawn parallel to either `BD` or `CE`, and let `AD`, `FC` be joined.",
+            "text": "For let there be described on `BC` the square `BDEC`, and on `BA`, `AC` the squares `GB`, `HC`; [elem.1.46] through `A` let `AL` be drawn parallel to either `BD` or `CE`, and let `AD`, `FC` be joined.",
             "refs": [
                 "elem.1.46"
             ],
@@ -131,7 +131,7 @@
             ]
         },
         {
-            "text": "Therefore the square on the side `BC` is equal to the `BA`, `AC`.",
+            "text": "Therefore the square on the side `BC` is equal to the squares on the sides `BA`, `AC`.",
             "refs": [],
             "emphs": [
                 "BC",

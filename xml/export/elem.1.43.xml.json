@@ -5,7 +5,7 @@
     "enunciation": "In any parallelogram the complements of the parallelograms about the diameter are equal to one another.",
     "proof": [
         {
-            "text": "Let `ABCD` be a parallelogram, and `AC` its diameter; and about `AC` let `EH`, `FG` be parallelograms, and `BK`, `KD`",
+            "text": "Let `ABCD` be a parallelogram, and `AC` its diameter; and about `AC` let `EH`, `FG` be parallelograms, and `BK`, `KD`\n        the so-called complements;",
             "refs": [],
             "emphs": [
                 "ABCD",
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "text": "Again, since `EH` is a parallelogram, and `AK` is its diameter,",
+            "text": "Again, since `EH` is a parallelogram, and `AK` is its diameter, \n        \n        For the same reason",
             "refs": [],
             "emphs": [
                 "EH",
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "Now, since the triangle `AEK` is equal to the triangle `AHK`, \n        `AEK` together with `KGC` is equal to the triangle `AHK` together with `KFC`. [elem.1.c.n.2]",
+            "text": "Now, since the triangle `AEK` is equal to the triangle `AHK`, \n        the triangle `AEK` together with `KGC` is equal to the triangle `AHK` together with `KFC`. [elem.1.c.n.2]",
             "refs": [
                 "elem.1.c.n.2"
             ],
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "text": "And the whole triangle `ABC` is also equal to the whole `ADC`; therefore the complement `BK` which remains is equal to the `KD` which remains. [elem.1.c.n.3]",
+            "text": "And the whole triangle `ABC` is also equal to the whole `ADC`; therefore the complement `BK` which remains is equal to the complement `KD` which remains. [elem.1.c.n.3]",
             "refs": [
                 "elem.1.c.n.3"
             ],

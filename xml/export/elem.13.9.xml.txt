@@ -4,7 +4,7 @@ Enunciation:
 Proof:
 Let  be a circle; of the figures inscribed in the circle  let  be the side of a decagon,  that of a hexagon, and let them be in a straight line; I say that the whole straight line  has been cut in extreme and mean ratio, and  is its greater segment.
 For let the centre of the circle, the point , be taken, let , ,  be joined, and let  be carried through to .
-Since  is the side of an equilateral decagon,  is five times the circumference ; therefore the circumference  is quadruple of .
+Since  is the side of an equilateral decagon, therefore the circumference  is five times the circumference ; therefore the circumference  is quadruple of .
 But, as the circumference  is to , so is the angle  to the angle ; [elem.6.33] therefore the angle  is quadruple of the angle .
 And, since the angle  is equal to the angle , [elem.1.5] therefore the angle  is double of the angle . [elem.1.32]
 And, since the straight line  is equal to , for each of them is equal to the side of the hexagon inscribed in the circle , [elem.4.15.p.1] the angle  is also equal to the angle ; [elem.1.5] therefore the angle  is double of the angle . [elem.1.32]

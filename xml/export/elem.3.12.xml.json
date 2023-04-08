@@ -5,7 +5,7 @@
     "enunciation": "`If two circles touch one another externally`, `the straight line joining their centres will pass through the point of contact`.",
     "proof": [
         {
-            "text": "For let the two circles `ABC`, `ADE` touch one another `A`, and let the centre `F` of `ABC`, and the centre `G` of `ADE`, be taken; `F` to `G` will pass through the point of contact at `A`.",
+            "text": "For let the two circles `ABC`, `ADE` touch one another externally at the point `A`, and let the centre `F` of `ABC`, and the centre `G` of `ADE`, be taken; I say that the straight line joined from `F` to `G` will pass through the point of contact at `A`.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "text": "For suppose it does not, `FCDG`, and let `AF`, `AG` be joined.",
+            "text": "For suppose it does not, but, if possible, let it pass as `FCDG`, and let `AF`, `AG` be joined.",
             "refs": [],
             "emphs": [
                 "FCDG",

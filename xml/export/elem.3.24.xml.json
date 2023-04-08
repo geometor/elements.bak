@@ -5,7 +5,7 @@
     "enunciation": "`Similar segments of circles on equal straight lines are equal to one another`.",
     "proof": [
         {
-            "text": "For let `AEB`, `CFD` be similar segments of circles on equal straight lines `AB`, `CD`; `AEB` is equal to the segment `CFD`.",
+            "text": "For let `AEB`, `CFD` be similar segments of circles on equal straight lines `AB`, `CD`; I say that the segment `AEB` is equal to the segment `CFD`.",
             "refs": [],
             "emphs": [
                 "AEB",
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "text": "For, if the straight line `AB` coincide with `CD` but the segment `AEB` do not coincide with `CFD`, it will either fall with it, or outside it; `CGD`, and a circle cuts a circle at more points than two : which is impossible. [elem.3.10]",
+            "text": "For, if the straight line `AB` coincide with `CD` but the segment `AEB` do not coincide with `CFD`, it will either fall with it, or outside it; or it will fall awry, as `CGD`, and a circle cuts a circle at more points than two : which is impossible. [elem.3.10]",
             "refs": [
                 "elem.3.10"
             ],

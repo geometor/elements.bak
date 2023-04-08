@@ -1,7 +1,8 @@
 <div3 id="elem.6.27" n="27" type="proposition">
+      <pb n="257"/>
       <head>PROPOSITION 27.</head>
       <p><emph>Of all the parallelograms applied to the same straight line and deficient by parallelogrammic figures similar and similarly situated to that described on the half of the straight line</emph>, <emph>that parallelogram is greatest which is applied to the half of the straight line and is similar to the defect</emph>. </p>
-      <p>Let <emph>AB</emph> be a straight line and let it be bisected at <emph>C</emph>; let there be applied to the straight line <emph>AB</emph> the parallelogram <emph>AD</emph> deficient by the parallelogrammic figure <emph>DB</emph> described on the half of <emph>AB</emph>, that is, <emph>CB</emph>; <emph>AB</emph> and deficient by parallelogrammic figures similar and similarly situated to <emph>DB</emph>, <emph>AD</emph> is greatest. </p>
+      <p>Let <emph>AB</emph> be a straight line and let it be bisected at <emph>C</emph>; let there be applied to the straight line <emph>AB</emph> the parallelogram <emph>AD</emph> deficient by the parallelogrammic figure <emph>DB</emph> described on the half of <emph>AB</emph>, that is, <emph>CB</emph>; <figure/> I say that, of all the parallelograms applied to <emph>AB</emph> and deficient by parallelogrammic figures similar and similarly situated to <emph>DB</emph>, <emph>AD</emph> is greatest. </p>
       <p>For let there be applied to the straight line <emph>AB</emph> the parallelogram <emph>AF</emph> deficient by the parallelogrammic figure <emph>FB</emph> similar and similarly situated to <emph>DB</emph>; I say that <emph>AD</emph> is greater than <emph>AF</emph>. </p>
       <p>For, since the parallelogram <emph>DB</emph> is similar to the parallelogram <emph>FB</emph>, <hi rend="center">they are about the same diameter. [<ref target="elem.6.26" targOrder="U">VI. 26</ref>]</hi>
       </p>

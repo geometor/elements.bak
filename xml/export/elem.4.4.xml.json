@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "Let the angles `ABC`, `ACB`\n       `BD`, `CD` [elem.1.9], and let these meet one another at the point `D`; from `D` let `DE`, `DF`, `DG` be drawn perpendicular to the straight `AB`, `BC`, `CA`.",
+            "text": "Let the angles `ABC`, `ACB`\n       be bisected by the straight lines `BD`, `CD` [elem.1.9], and let these meet one another at the point `D`; from `D` let `DE`, `DF`, `DG` be drawn perpendicular to the straight lines `AB`, `BC`, `CA`.",
             "refs": [
                 "elem.1.9"
             ],
@@ -51,7 +51,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore the three straight lines `DE`, `DF`, `DG` are equal",
+            "text": "Therefore the three straight lines `DE`, `DF`, `DG` are equal to one another;",
             "refs": [],
             "emphs": [
                 "DE",

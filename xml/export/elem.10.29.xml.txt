@@ -2,7 +2,7 @@ Enunciation:
 .
 
 Proof:
-For let there be set out any rational straight line , and two square numbers ,  such that their difference  is not square; [elem.10.28.l.1] let there be described on  the semicircle ,
+For let there be set out any rational straight line , and two square numbers ,  such that their difference  is not square; [elem.10.28.l.1] let there be described on  the semicircle , and let it be contrived that,
 Let  be joined.
 Since, as the square on  is to the square on , so is  to , therefore the square on  has to the square on  the ratio which the number  has to the number ; therefore the square on  is commensurable with the square on . [elem.10.6]
 But the square on  is rational; [elem.10.def.4] therefore the square on  is also rational; [] therefore  is also rational.

@@ -1,7 +1,8 @@
 <div3 id="elem.3.29" n="29" type="proposition">
       <head>PROPOSITION 29.</head>
       <p><emph>In equal circles equal circumferences are subtended by equal straight lines</emph>. </p>
-      <p>Let <emph>ABC</emph>, <emph>DEF</emph> be equal circles, and in them let equal circumferences <emph>BGC</emph>, <emph>EHF</emph> be cut off; and let the straight lines <emph>BC</emph>, <emph>EF</emph> be joined; I say that <emph>BC</emph> is equal to <emph>EF</emph>. </p>
+      <p>Let <emph>ABC</emph>, <emph>DEF</emph> be equal circles, and in them let equal circumferences <emph>BGC</emph>, <emph>EHF</emph> be cut off; and let the straight lines <emph>BC</emph>, <emph>EF</emph> be joined; I say that <emph>BC</emph> is equal to <emph>EF</emph>. <figure/>
+      </p>
       <p>For let the centres of the circles be taken, and let them be <emph>K</emph>, <emph>L</emph>; let <emph>BK</emph>, <emph>KC</emph>, <emph>EL</emph>, <emph>LF</emph> be joined. </p>
       <p>Now, since the circumference <emph>BGC</emph> is equal to the circumference <emph>EHF</emph>, <hi rend="center">the angle <emph>BKC</emph> is also equal to the angle <emph>ELF</emph>. [<ref target="elem.3.27" targOrder="U">III. 27</ref>]</hi>
       </p>

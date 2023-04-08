@@ -5,7 +5,7 @@
     "enunciation": "To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.",
     "proof": [
         {
-            "text": "Let `AB` be the given infinite straight line, and `C` the given point which is not on it; `AB`, from the given point `C` which is not on it, a perpendicular straight line.",
+            "text": "Let `AB` be the given infinite straight line, and `C` the given point which is not on it; thus it is required to draw to the given infinite straight line `AB`, from the given point `C` which is not on it, a perpendicular straight line.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "text": "For let a point `D` be taken `AB`, and with centre `C` and distance `CD` let the circle `EFG` be described; [elem.1.post.3]",
+            "text": "For let a point `D` be taken at random on the other side of the straight line `AB`, and with centre `C` and distance `CD` let the circle `EFG` be described; [elem.1.post.3]",
             "refs": [
                 "elem.1.post.3"
             ],
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is elem.1.def.10]",
+            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is called a perpendicular to that on which it stands. [elem.1.def.10]",
             "refs": [
                 "elem.1.def.10"
             ],

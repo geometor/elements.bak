@@ -2,8 +2,9 @@
       <head>PROPOSITION 42.</head>
       <p>A binomial straight line is divided into its terms at one point only.</p>
       <p>Let <hi rend="ital">AB</hi> be a binomial straight line divided into its terms at <hi rend="ital">C</hi>; therefore <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are rational straight lines commensurable in square only. [<ref target="elem.10.36" targOrder="U">X. 36</ref>
-] </p>
-      <p>I say that <hi rend="ital">AB</hi> is not divided at another point into two rational straight lines commensurable in square only. </p>
+] <figure/>
+      </p>
+      <p>I say that <hi rend="ital">AB</hi> is not divided at another point into two rational straight lines commensurable in square only. <pb n="93"/></p>
       <p>For, if possible, let it be divided at <hi rend="ital">D</hi> also, so that <hi rend="ital">AD</hi>, <hi rend="ital">DB</hi> are also rational straight lines commensurable in square only. </p>
       <p>It is then manifest that <hi rend="ital">AC</hi> is not the same with <hi rend="ital">DB</hi>. </p>
       <p>For, if possible, let it be so. </p>

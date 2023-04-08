@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let a rational straight line  be set out, let three numbers , ,  be set out which have not to one another the ratio which a square number has to a square number, but let  have to  the ratio which a square number has to a square number.
-Let it be contrived that, as  is to , so is the square on  to the square on ,  is to , so is the square on  to the square on . [elem.10.6.p.1]
+Let it be contrived that, as  is to , so is the square on  to the square on , and, as  is to , so is the square on  to the square on . [elem.10.6.p.1]
 Since then, as  is to , so is the square on  to the square on , therefore the square on  is commensurable with the square on . [elem.10.6]
 But the square on  is rational; therefore the square on  is also rational; therefore  is rational.
 And, since  has not to  the ratio which a square number has to a square number, therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]

@@ -87,7 +87,7 @@
             "emphs": []
         },
         {
-            "text": "And, since  has been drawn parallel to , one of the sides of the triangle ,  is equiangular to the triangle , [elem.1.29] and they have their sides proportional; therefore the triangle  is similar to the triangle . [elem.6.def.1]",
+            "text": "And, since  has been drawn parallel to , one of the sides of the triangle , the triangle  is equiangular to the triangle , [elem.1.29] and they have their sides proportional; therefore the triangle  is similar to the triangle . [elem.6.def.1]",
             "refs": [
                 "elem.1.29",
                 "elem.6.def.1"
@@ -144,7 +144,7 @@
             "emphs": []
         },
         {
-            "text": "And it is manifest that each of the prisms, namely that in which the parallelogram  is the base and the straight line  is its opposite, and that in which the triangle  is the base and the triangle  its opposite, is greater than each of the pyramids of which the triangles ,  are the bases and the points ,  the vertices, , , the prism in which the parallelogram  is the base and the straight line  its opposite is greater than the pyramid of which the triangle  is the base and the point  the vertex.",
+            "text": "And it is manifest that each of the prisms, namely that in which the parallelogram  is the base and the straight line  is its opposite, and that in which the triangle  is the base and the triangle  its opposite, is greater than each of the pyramids of which the triangles ,  are the bases and the points ,  the vertices, inasmuch as, if we join the straight lines , , the prism in which the parallelogram  is the base and the straight line  its opposite is greater than the pyramid of which the triangle  is the base and the point  the vertex.",
             "refs": [],
             "emphs": []
         },

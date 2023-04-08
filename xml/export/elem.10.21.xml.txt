@@ -2,7 +2,7 @@ Enunciation:
 
 
 Proof:
-For let the rectangle  be contained by the rational straight lines ,  commensurable in square only;  is irrational, and the side of the square equal to it is irrational; and let the latter be called
+For let the rectangle  be contained by the rational straight lines ,  commensurable in square only; I say that  is irrational, and the side of the square equal to it is irrational; and let the latter be called
 For on  let the square  be described; therefore  is rational. [elem.10.def.4]
 And, since  is incommensurable in length with , for by hypothesis they are commensurable in square only, while  is equal to , therefore  is also incommensurable in length with .
 And, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable with . [elem.10.11]

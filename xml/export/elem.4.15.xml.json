@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "Let the diameter `AD` of the circle `ABCDEF` be drawn; let the centre `G` of the circle be taken, and with centre `D` and distance `DG` let the circle `EGCH` be described; `EG`, `CG` be joined and carried through to the points `B`, `F`, and let `AB`, `BC`, `CD`, `DE`, `EF`, `FA` be joined.",
+            "text": "Let the diameter `AD` of the circle `ABCDEF` be drawn; let the centre `G` of the circle be taken, and with centre `D` and distance `DG` let the circle `EGCH` be described;  let `EG`, `CG` be joined and carried through to the points `B`, `F`, and let `AB`, `BC`, `CD`, `DE`, `EF`, `FA` be joined.",
             "refs": [],
             "emphs": [
                 "AD",
@@ -148,7 +148,7 @@
             "emphs": []
         },
         {
-            "text": "For, since the circumference `FA` is equal to the circumference `ED`, \n       `FED` stands on the circumference `FABCD`, and the angle `AFE` on the circumference `EDCBA`;",
+            "text": "For, since the circumference `FA` is equal to the circumference `ED`, \n       and the angle `FED` stands on the circumference `FABCD`, and the angle `AFE` on the circumference `EDCBA`;",
             "refs": [],
             "emphs": [
                 "FA",

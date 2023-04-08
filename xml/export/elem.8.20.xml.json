@@ -4,7 +4,7 @@
     "type": "proposition",
     "proof": [
         {
-            "text": "For let one mean proportional number  fall between the two numbers , ; ,  are similar plane numbers.",
+            "text": "For let one mean proportional number  fall between the two numbers , ; I say that ,  are similar plane numbers.",
             "refs": [],
             "emphs": []
         },
@@ -22,14 +22,14 @@
             "emphs": []
         },
         {
-            "text": "Again, since ,  are the least of the numbers which have , , therefore  measures  the same number of times that  measures . [elem.7.20]",
+            "text": "Again, since ,  are the least of the numbers which have the same ratio with , , therefore  measures  the same number of times that  measures . [elem.7.20]",
             "refs": [
                 "elem.7.20"
             ],
             "emphs": []
         },
         {
-            "text": "As many times, then, as  measures , so many units let there be in ;  measures  according to the units in ; therefore  by multiplying  has made .",
+            "text": "As many times, then, as  measures , so many units let there be in ; therefore  measures  according to the units in ; therefore  by multiplying  has made .",
             "refs": [],
             "emphs": []
         },
@@ -56,7 +56,7 @@
             "emphs": []
         },
         {
-            "text": "Again, <*> since  by multiplying ,  has made ,  respectively,  is to , so is  to . [elem.7.17]",
+            "text": "Again, <*> since  by multiplying ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
@@ -75,7 +75,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore ,  are similar plane numbers; for their sides",
+            "text": "Therefore ,  are similar plane numbers; for their sides are proportional. Q. E. D.",
             "refs": [],
             "emphs": []
         }

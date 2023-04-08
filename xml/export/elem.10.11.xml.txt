@@ -2,7 +2,7 @@ Enunciation:
 .
 
 Proof:
-Let , , ,  be four magnitudes in proportion, so that, as  is to , so is  to , and let  be commensurable with ;  will also be commensurable with .
+Let , , ,  be four magnitudes in proportion, so that, as  is to , so is  to , and let  be commensurable with ;  I say that  will also be commensurable with .
 For, since  is commensurable with , therefore  has to  the ratio which a number has to a number. [elem.10.5]
 And, as  is to , so is  to ; therefore  also has to  the ratio which a number has to a number; therefore  is commensurable with . [elem.10.6]
 Next, let  be incommensurable with ; I say that  will also be incommensurable with .

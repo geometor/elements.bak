@@ -2,7 +2,7 @@
     "id": "elem.1.26",
     "n": 26,
     "type": "proposition",
-    "enunciation": "If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, or that subtending one of the equal angles, they will also have the remaining sides equal to",
+    "enunciation": "If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, or that subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides and the remaining angle to the remaining angle.",
     "proof": [
         {
             "text": "Let `ABC`, `DEF` be two triangles having the two angles `ABC`, `BCA` equal to the two angles `DEF`, `EFD` respectively, namely the angle `ABC` to the angle `DEF`, and the angle `BCA` to the angle `EFD`; and let them also have one side equal to one side, first that adjoining the equal angles, namely `BC` to `EF`;",
@@ -87,7 +87,7 @@
             ]
         },
         {
-            "text": "I say again that the remaining sides will be equal to the remaining sides, namely `AC` to `DF` and `BC` to `EF`, and `BAC` is equal to the remaining angle `EDF`.",
+            "text": "I say again that the remaining sides will be equal to the remaining sides, namely `AC` to `DF` and `BC` to `EF`, and further the remaining angle `BAC` is equal to the remaining angle `EDF`.",
             "refs": [],
             "emphs": [
                 "AC",
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "text": "Then, since `BH` is equal to `EF`, and `AB` to `DE`, the two sides `AB`, `BH` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the triangle `ABH` is equal to the triangle `DEF`, elem.1.4]",
+            "text": "Then, since `BH` is equal to `EF`, and `AB` to `DE`, the two sides `AB`, `BH` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the triangle `ABH` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
@@ -135,7 +135,7 @@
             ]
         },
         {
-            "text": "But the angle `EFD` is equal to the angle `BCA`; therefore, in the triangle `AHC`, the exterior angle `BHA` is `BCA`:",
+            "text": "But the angle `EFD` is equal to the angle `BCA`; therefore, in the triangle `AHC`, the exterior angle `BHA` is equal to the interior and opposite angle `BCA`:",
             "refs": [],
             "emphs": [
                 "EFD",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "text": "But `AB` is also equal to `DE`; `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the remaining angle `BAC` equal to the remaining angle `EDF`. [elem.1.4]",
+            "text": "But `AB` is also equal to `DE`; therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the remaining angle `BAC` equal to the remaining angle `EDF`. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],

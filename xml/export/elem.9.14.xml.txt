@@ -2,7 +2,7 @@ Enunciation:
 
 
 Proof:
-For let the number  be the least that is measured by the prime numbers , , ;  will not be measured by any other prime number except , , .
+For let the number  be the least that is measured by the prime numbers , , ; I say that  will not be measured by any other prime number except , , .
 For, if possible, let it be measured by the prime number , and let  not be the same with any one of the numbers , , .
 Now, since  measures , let it measure it according to ;
 And  is measured by the prime numbers , , .

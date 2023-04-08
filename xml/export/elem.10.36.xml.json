@@ -5,19 +5,19 @@
     "enunciation": ".",
     "proof": [
         {
-            "text": "For let two rational straight lines ,  commensurable is irrational.",
+            "text": "For let two rational straight lines ,  commensurable in square only be added together;  I say that the whole  is irrational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  is incommensurable in length with \u2014  is to , so is the rectangle ,  to the square on , therefore the rectangle ,  is incommensurable with the square on . [elem.10.11\n]",
+            "text": "For, since  is incommensurable in length with \u2014 for they are commensurable in square only\u2014 and, as  is to , so is the rectangle ,  to the square on , therefore the rectangle ,  is incommensurable with the square on . [elem.10.11\n]",
             "refs": [
                 "elem.10.11"
             ],
             "emphs": []
         },
         {
-            "text": "But twice the rectangle ,  is commensurable with the rectangle ,  [elem.10.6\n], and the squares on ,  are commensurable with the square on \u2014for ,  are rational straight lines commensurable in square only\u2014 [elem.10.15\n] therefore twice the rectangle ,  is incommensurable , . [elem.10.13\n]",
+            "text": "But twice the rectangle ,  is commensurable with the rectangle ,  [elem.10.6\n], and the squares on ,  are commensurable with the square on \u2014for ,  are rational straight lines commensurable in square only\u2014 [elem.10.15\n] therefore twice the rectangle ,  is incommensurable with the squares on , . [elem.10.13\n]",
             "refs": [
                 "elem.10.6",
                 "elem.10.15",
@@ -34,7 +34,7 @@
             "emphs": []
         },
         {
-            "text": "But the sum of the squares on ,  is rational;  is irrational, so that  is also irrational. [elem.10.def.4\n]",
+            "text": "But the sum of the squares on ,  is rational; therefore the square on  is irrational, so that  is also irrational. [elem.10.def.4\n]",
             "refs": [
                 "elem.10.def.4"
             ],

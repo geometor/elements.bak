@@ -5,7 +5,7 @@
     "enunciation": "`If two magnitudes be equimultiples of two magnitudes`, `and any magnitudes subtracted from them be equimultiples of the same`, `the remainders also are either equal to the same or equimultiples of them`.",
     "proof": [
         {
-            "text": "For let two magnitudes `AB`, `CD` be equimultiples of two magnitudes `E`, `F`, and let `AG`, `CH` subtracted from them be equimultiples of the same two `E`, `F`; `GB`, `HD`, are either equal to `E`, `F` or equimultiples of them.",
+            "text": "For let two magnitudes `AB`, `CD` be equimultiples of two magnitudes `E`, `F`, and let `AG`, `CH` subtracted from them be equimultiples of the same two `E`, `F`;  I say that the remainders also, `GB`, `HD`, are either equal to `E`, `F` or equimultiples of them.",
             "refs": [],
             "emphs": [
                 "AB",

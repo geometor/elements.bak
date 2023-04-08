@@ -104,7 +104,7 @@
             ]
         },
         {
-            "text": "But, if the angle `ABD` be less than the angle `BAD`, and if we construct, on the straight line `BA` and at the point `A` on it, an angle equal to the angle `ABD`, the centre will fall on `DB` within the segment `ABC`, and the segment `ABC` will clearly be greater than a semicircle.",
+            "text": "But, if the angle `ABD` be less than the angle `BAD`, and if we construct, on the straight line `BA` and at the point `A` on it, an angle equal to the angle `ABD`, the centre will fall on `DB` within the segment `ABC`, and the segment \n       `ABC` will clearly be greater than a semicircle.",
             "refs": [],
             "emphs": [
                 "ABD",

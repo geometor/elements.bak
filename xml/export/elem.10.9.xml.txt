@@ -10,7 +10,7 @@ Next, as the square on  is to the square on , so let the square on  be to the sq
 For since, as the square on  is to the square on , so is the square on  to the square on , while the ratio of the square on  to the square on  is duplicate of the ratio of  to , and the ratio of the square on  to the square on  is duplicate of the ratio of  to , therefore also, as  is to , so is  to .
 Therefore  has to  the ratio which the number  has to the number ; therefore  is commensurable in length with . [elem.10.6]
 Next, let  be incommensurable in length with ; I say that the square on  has not to the square on  the ratio which a square number has to a square number.
-For, if the square on  has to the square on  the ratio  will be commensurable with .
+For, if the square on  has to the square on  the ratio which a square number has to a square number,  will be commensurable with .
 But it is not; therefore the square on  has not to the square on  the ratio which a square number has to a square number.
 Again, let the square on  not have to the square on  the ratio which a square number has to a square number; I say that  is incommensurable in length with .
 For, if  is commensurable with , the square on  will have to the square on  the ratio which a square number has to a square number.

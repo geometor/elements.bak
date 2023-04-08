@@ -6,7 +6,7 @@ Let the diameter  of the given sphere be set out, and let it be cut at  so that 
 It is then required to comprehend it in the given sphere, and to prove that the square on the diameter of the sphere is triple of the square on the side of the cube.
 For let ,  be joined.
 Then, since the angle  is right, because  is also at right angles to the plane  and of course to the straight line  also, [elem.11.def.3] therefore the semicircle described on  will also pass through the point .
-Again, since  is at right angles to each of the straight lines , ,  is also at right angles to the plane ; hence also, if we join ,  will be at right angles to ;  will also pass through .
+Again, since  is at right angles to each of the straight lines , ,  is also at right angles to the plane ; hence also, if we join ,  will be at right angles to ; and for this reason again the semicircle described on  will also pass through .
 Similarly it will also pass through the remaining angular points of the cube.
 If then,  remaining fixed, the semicircle be carried round and restored to the same position from which it began to be moved, the cube will be comprehended in a sphere.
 I say next that it is also comprehended in the given sphere.

@@ -4,14 +4,14 @@ Enunciation:
 Proof:
 Let two spheres be conceived about the same centre ; thus it is required to inscribe in the greater sphere a polyhedral solid which does not touch the lesser sphere at its surface.
 Let the spheres be cut by any plane through the centre; then the sections will be circles, inasmuch as the sphere was produced by the diameter remaining fixed and the semicircle being carried round it; [elem.11.def.14] hence, in whatever position we conceive the semicircle to be, the plane carried through it will produce a circle on the circumference of the sphere.
-And it is manifest that this circle is the greatest possible,
+And it is manifest that this circle is the greatest possible, inasmuch as the diameter of the sphere, which is of course the diameter both of the semicircle and of the circle, is greater than all the straight lines drawn across in the circle or the sphere.
 Let then  be the circle in the greater sphere, and  the circle in the lesser sphere; let two diameters in them, , , be drawn at right angles to one another; then, given the two circles ,  about the same centre, let there be inscribed in the greater circle  an equilateral polygon with an even number of sides which does not touch the lesser circle , let , , 
         be its sides in the quadrant . let  be joined and carried through to , let  be set up from the point  at right angles to the plane of the circle , and let it meet the surface of the sphere at , and through  and each of the straight lines ,  let planes be carried; they will then make greatest circles on the surface of the sphere, for the reason stated.
 Let them make such, and in them let ,  be the semicircles on , .
 Now, since  is at right angles to the plane of the circle , therefore all the planes through  are also at right angles to the plane of the circle ; [elem.11.18] hence the semicircles ,  are also at right angles to the plane of the circle .
 And, since the semicircles , ,  are equal, for they are on the equal diameters , , therefore the quadrants , ,  are also equal to one another.
 Therefore there are as many straight lines in the quadrants ,  equal to the straight lines , , ,  as there are sides of the polygon in the quadrant .
-Let them be inscribed, and let them be , , ,  and , , , , let , ,  be joined, ,  let perpendiculars be drawn to the plane of the circle ; [elem.11.11] these will fall on , , the common sections of the planes, inasmuch as the planes of ,  are also at right angles to the plane of the circle . [cf. elem.11.def.4]
+Let them be inscribed, and let them be , , ,  and , , , , let , ,  be joined, and from ,  let perpendiculars be drawn to the plane of the circle ; [elem.11.11] these will fall on , , the common sections of the planes, inasmuch as the planes of ,  are also at right angles to the plane of the circle . [cf. elem.11.def.4]
 Let them so fall, and let them be , , and let  be joined.
 Now since, in the equal semicircles , , equal straight lines ,  have been cut off, and the perpendiculars ,  have been drawn, therefore  is equal to , and  to . [elem.3.27, elem.1.26]
 But the whole  is also equal to the whole ; therefore the remainder  is also equal to the remainder ; therefore, as  is to , so is  to ; therefore  is parallel to . [elem.6.2]
@@ -41,7 +41,7 @@ Then, since  is less than double of , and, as  is to , so is the rectangle ,  to
 And, if  be joined, the rectangle ,  is equal to the square on , and the rectangle ,  equal to the square on ; [elem.3.31, elem.6.8 elem.6.8.p.1] therefore the square on  is less than double of the square on .
 But the square on  is greater than double of the square on ; therefore the square on  is greater than the square on .
 And, since  is equal to , the square on  is equal to the square on .
-And the squares on ,  are equal to the square on , and the squares on ,  equal to the square on ; [elem.1.47] therefore the squares on ,  are equal to the squares on , ,  is greater than the square on ; therefore the remainder, the square on , is less than the square on .
+And the squares on ,  are equal to the square on , and the squares on ,  equal to the square on ; [elem.1.47] therefore the squares on ,  are equal to the squares on , , and of these the square on  is greater than the square on ; therefore the remainder, the square on , is less than the square on .
 Therefore  is greater than ; therefore  is much greater than .
 And  is the perpendicular on one base of the polyhedron, and  on the surface of the lesser sphere; hence the polyhedron will not touch the lesser sphere on its surface.
 Therefore, given two spheres about the same centre, a polyhedral solid has been inscribed in the greater sphere which does not touch the lesser sphere at its surface. Q. E. F.

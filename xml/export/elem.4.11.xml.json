@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "Let the isosceles triangle `FGH` be set out having each of the angles at `G`, `H` double of the angle at `F`; [elem.4.10] `ABCDE` the triangle `ACD` equiangular with the triangle `FGH`, so that the angle `CAD` is equal to the angle at `F` and the angles at `G`, `H` respectively equal to the angles `ACD`, `CDA`; [elem.4.2] therefore each of the angles `ACD`, `CDA` is also double of the angle `CAD`.",
+            "text": "Let the isosceles triangle `FGH` be set out having each of the angles at `G`, `H` double of the angle at `F`; [elem.4.10]  let there be inscribed in the circle `ABCDE` the triangle `ACD` equiangular with the triangle `FGH`, so that the angle `CAD` is equal to the angle at `F` and the angles at `G`, `H` respectively equal to the angles `ACD`, `CDA`; [elem.4.2] therefore each of the angles `ACD`, `CDA` is also double of the angle `CAD`.",
             "refs": [
                 "elem.4.10",
                 "elem.4.2"
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "text": "Then, since each of the angles `ACD`, `CDA` is double of the angle `CAD`, and they have been bisected by the straight lines `CE`, `DB`, `DAC`, `ACE`, `ECD`, `CDB`, `BDA` are equal to one another.",
+            "text": "Then, since each of the angles `ACD`, `CDA` is double of the angle `CAD`, and they have been bisected by the straight lines `CE`, `DB`, therefore the five angles `DAC`, `ACE`, `ECD`, `CDB`, `BDA` are equal to one another.",
             "refs": [],
             "emphs": [
                 "ACD",

@@ -4,7 +4,7 @@ If two straight lines cut one another, they make the vertical angles equal to on
 Proof:
 For let the straight lines `AB`, `CD` cut one another at the point `E`;
 I say that the angle `AEC` is equal to the angle `DEB`,
-For, since the straight line `AE` stands `CD`, making the angles `CEA`, `AED`,
+For, since the straight line `AE` stands on the straight line `CD`, making the angles `CEA`, `AED`,
 Again, since the straight line `DE` stands on the straight line `AB`, making the angles `AED`, `DEB`,
 But the angles `CEA`, `AED` were also proved equal to two right angles;
 Similarly it can be proved that the angles `CEB`, `DEA` are also equal.

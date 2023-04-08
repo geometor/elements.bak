@@ -31,7 +31,7 @@
             ]
         },
         {
-            "text": "it is greater than the interior and opposite angle `ABC`. [elem.1.16]  therefore the angles `ACD`, `ACB` are greater than the angles `ABC`, `BCA`. `ACD`, `ACB` are equal to two right angles. [elem.1.13]",
+            "text": "it is greater than the interior and opposite angle `ABC`. [elem.1.16]  therefore the angles `ACD`, `ACB` are greater than the angles `ABC`, `BCA`.  But the angles `ACD`, `ACB` are equal to two right angles. [elem.1.13]",
             "refs": [
                 "elem.1.16",
                 "elem.1.13"

@@ -3,7 +3,8 @@
       <p>
        <hi rend="ital">Prime numbers are more than any assigned multitude of prime numbers.</hi>
       </p>
-      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the assigned prime numbers; I say that there are more prime numbers than <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
+      <p>Let <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be the assigned prime numbers; I say that there are more prime numbers than <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. <figure/>
+      </p>
       <p>For let the least number measured by <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi> be taken, and let it be <hi rend="ital">DE</hi>; let the unit <hi rend="ital">DF</hi> be added to <hi rend="ital">DE</hi>. </p>
       <p>Then <hi rend="ital">EF</hi> is either prime or not. </p>
       <p>First, let it be prime; then the prime numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">EF</hi> have been found which are more than <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
@@ -16,6 +17,6 @@
       <p>Therefore <hi rend="ital">G</hi>, being a number, will measure the remainder, the unit <hi rend="ital">DF</hi>: which is absurd. </p>
       <p>Therefore <hi rend="ital">G</hi> is not the same with any one of the numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. </p>
       <p>And by hypothesis it is prime. </p>
-      <p>Therefore the prime numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">G</hi> have been found which are more than the assigned multitude of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. Q. E. D.</p>
+      <p>Therefore the prime numbers <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>, <hi rend="ital">G</hi> have been found which are more than the assigned multitude of <hi rend="ital">A</hi>, <hi rend="ital">B</hi>, <hi rend="ital">C</hi>. Q. E. D.<pb n="413"/></p>
      </div3>
      

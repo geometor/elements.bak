@@ -7,5 +7,5 @@ For, since `AB` is the same multiple of `E` that `CD` is of `F`, as many magnitu
 Let `AB` be divided into the magnitudes `AG`, `GB` equal to `E`, and `CD` into `CH`, `HD` equal to `F`; then the multitude of the magnitudes `AG`, `GB` will be equal to the multitude of the magnitudes `CH`, `HD`.
 Now, since `AG` is equal to `E`, and `CH` to `F`, therefore `AG` is equal to `E`, and `AG`, `CH` to `E`, `F`.
 For the same reason
-`GB` is equal to `E`, and `GB`, `HD` to `E`, `F`; therefore, as many magnitudes as there are in `AB` equal to `E`, so many also are there in `AB`, `CD` equal to `E`, `F`; `AB` is of `E`, that multiple will `AB`, `CD` also be of `E`, `F`.
+`GB` is equal to `E`, and `GB`, `HD` to `E`, `F`; therefore, as many magnitudes as there are in `AB` equal to `E`, so many also are there in `AB`, `CD` equal to `E`, `F`; therefore, whatever multiple `AB` is of `E`, that multiple will `AB`, `CD` also be of `E`, `F`.
 Therefore etc. Q. E. D.

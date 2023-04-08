@@ -1,7 +1,8 @@
 <div3 id="elem.5.8" n="8" type="proposition">
       <head>PROPOSITION 8.</head>
-      <p><emph>Of unequal magnitudes</emph>, <emph>the greater has to the same a greater ratio than the less has</emph>; <emph>and the same has to the less a greater ratio than it has to the greater</emph>. </p>
-      <p>Let <emph>AB</emph>, <emph>C</emph> be unequal magnitudes, and let <emph>AB</emph> be greater; let <emph>D</emph> be another, chance, magnitude; I say that <emph>AB</emph> has to <emph>D</emph> a greater ratio than <emph>C</emph> has to <emph>D</emph>, and <emph>D</emph> has to <emph>C</emph> a greater ratio than it has to <emph>AB</emph>. </p>
+      <p><emph>Of unequal magnitudes</emph>, <emph>the greater has to the same a greater ratio than the less has</emph>; <emph>and the same has to the less a greater ratio than it has to the greater</emph>. <pb n="150"/></p>
+      <p>Let <emph>AB</emph>, <emph>C</emph> be unequal magnitudes, and let <emph>AB</emph> be greater; let <emph>D</emph> be another, chance, magnitude; I say that <emph>AB</emph> has to <emph>D</emph> a greater ratio than <emph>C</emph> has to <emph>D</emph>, and <emph>D</emph> has to <emph>C</emph> a greater ratio than it has to <emph>AB</emph>. <figure/>
+      </p>
       <p>For, since <emph>AB</emph> is greater than <emph>C</emph>, let <emph>BE</emph> be made equal to <emph>C</emph>; then the less of the magnitudes <emph>AE</emph>, <emph>EB</emph>, if multiplied, will sometime be greater than <emph>D</emph>. [<ref target="elem.5.def.4" targOrder="U">V. Def. 4</ref>] </p>
       <p>[<title>Case</title> I.] </p>
       <p>First, let <emph>AE</emph> be less than <emph>EB</emph>; let <emph>AE</emph> be multiplied, and let <emph>FG</emph> be a multiple of it which is greater than <emph>D</emph>; then, whatever multiple <emph>FG</emph> is of <emph>AE</emph>, let <emph>GH</emph> be made the same multiple of <emph>EB</emph> and <emph>K</emph> of <emph>C</emph>; and let <emph>L</emph> be taken double of <emph>D</emph>, <emph>M</emph> triple of it, and successive multiples increasing by one, until what is taken is a multiple of <emph>D</emph> and the first that is greater than <emph>K</emph>. Let it be taken, and let it be <emph>N</emph> which is quadruple of <emph>D</emph> and the first multiple of it that is greather than <emph>K</emph>. </p>
@@ -10,7 +11,7 @@
       <p>But <emph>FG</emph> is the same multiple of <emph>AE</emph> that <emph>K</emph> is of <emph>C</emph>; <hi rend="center">therefore <emph>FH</emph> is the same multiple of <emph>AB</emph> that <emph>K</emph> is of <emph>C</emph>; therefore <emph>FH</emph>, <emph>K</emph> are equimultiples of <emph>AB</emph>, <emph>C</emph>.</hi>
       </p>
       <p>Again, since <emph>GH</emph> is the same multiple of <emph>EB</emph> that <emph>K</emph> is of <emph>C</emph>, and <emph>EB</emph> is equal to <emph>C</emph>, <hi rend="center">therefore <emph>GH</emph> is equal to <emph>K</emph>.</hi>
-       </p>
+       <pb n="151"/></p>
       <p>But <emph>K</emph> is not less than <emph>M</emph>; <hi rend="center">therefore neither is <emph>GH</emph> less than <emph>M</emph>.</hi>
       </p>
       <p>And <emph>FG</emph> is greater than <emph>D</emph>; therefore the whole <emph>FH</emph> is greater than <emph>D</emph>, <emph>M</emph> together. </p>
@@ -26,8 +27,8 @@
       <p>Again, let <emph>AE</emph> be greater than <emph>EB</emph>. </p>
       <p>Then the less, <emph>EB</emph>, if multiplied, will sometime be greater than <emph>D</emph>. [<ref target="elem.5.def.4" targOrder="U">V. Def. 4</ref>] </p>
       <p>Let it be multiplied, and let <emph>GH</emph> be a multiple of <emph>EB</emph> and greater than <emph>D</emph>; and, whatever multiple <emph>GH</emph> is of <emph>EB</emph>, let <emph>FG</emph> be made the same multiple of <emph>AE</emph>, and <emph>K</emph>
-       <emph>C</emph>. </p>
-      <p>Then we can prove similarly that <emph>FH</emph>, <emph>K</emph> are equimultiples of <emph>AB</emph>, <emph>C</emph>; and, similarly, let <emph>N</emph> be taken a multiple of <emph>D</emph> but the first that is greater than <emph>FG</emph>, so that <emph>FG</emph> is again not less than <emph>M</emph>. </p>
+       <figure/> of <emph>C</emph>. </p>
+      <p>Then we can prove similarly that <emph>FH</emph>, <emph>K</emph> are equimultiples of <emph>AB</emph>, <emph>C</emph>; and, similarly, let <emph>N</emph> be taken a multiple of <emph>D</emph> but the first that is greater than <emph>FG</emph>, so that <emph>FG</emph> is again not less than <emph>M</emph>. <pb n="152"/></p>
       <p>But <emph>GH</emph> is greater than <emph>D</emph>; therefore the whole <emph>FH</emph> is in excess of <emph>D</emph>, <emph>M</emph>, that is, of <emph>N</emph>. </p>
       <p>Now <emph>K</emph> is not in excess of <emph>N</emph>, inasmuch as <emph>FG</emph> also, which is greater than <emph>GH</emph>, that is, than <emph>K</emph>, is not in excess of <emph>N</emph>. </p>
       <p>And in the same manner, by following the above argument, we complete the demonstration. </p>

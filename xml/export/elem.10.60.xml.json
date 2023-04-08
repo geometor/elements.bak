@@ -25,7 +25,7 @@
             "emphs": []
         },
         {
-            "text": "Now, since  is a binomial divided into its terms at , ,  are rational straight lines commensurable in square only; [elem.10.36] therefore the squares on ,  are rational and commensurable with one another, so that the sum of the squares on ,  is also rational. [elem.10.15]",
+            "text": "Now, since  is a binomial divided into its terms at , therefore ,  are rational straight lines commensurable in square only; [elem.10.36] therefore the squares on ,  are rational and commensurable with one another, so that the sum of the squares on ,  is also rational. [elem.10.15]",
             "refs": [
                 "elem.10.36",
                 "elem.10.15"

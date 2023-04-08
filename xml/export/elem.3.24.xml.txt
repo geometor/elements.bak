@@ -2,8 +2,8 @@ Enunciation:
 `Similar segments of circles on equal straight lines are equal to one another`.
 
 Proof:
-For let `AEB`, `CFD` be similar segments of circles on equal straight lines `AB`, `CD`; `AEB` is equal to the segment `CFD`.
+For let `AEB`, `CFD` be similar segments of circles on equal straight lines `AB`, `CD`; I say that the segment `AEB` is equal to the segment `CFD`.
 For, if the segment `AEB` be applied to `CFD`, and if the point `A` be placed on `C` and the straight line `AB` on `CD`,
-For, if the straight line `AB` coincide with `CD` but the segment `AEB` do not coincide with `CFD`, it will either fall with it, or outside it; `CGD`, and a circle cuts a circle at more points than two : which is impossible. [elem.3.10]
+For, if the straight line `AB` coincide with `CD` but the segment `AEB` do not coincide with `CFD`, it will either fall with it, or outside it; or it will fall awry, as `CGD`, and a circle cuts a circle at more points than two : which is impossible. [elem.3.10]
 Therefore, if the straight line `AB` be applied to `CD`, the segment `AEB` will not fail to coincide with `CFD` also;
 Therefore etc. Q. E. D.

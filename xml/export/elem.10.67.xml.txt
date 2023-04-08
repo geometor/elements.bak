@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let  be bimedial, and let  be commensurable in length with ; I say that  is bimedial and the same in order with .
-For, since  is bimedial, let it be divided into its medials at ; ,  are medial straight lines commensurable in square only. [elem.10.37 elem.10.38]
+For, since  is bimedial, let it be divided into its medials at ; therefore ,  are medial straight lines commensurable in square only. [elem.10.37 elem.10.38]
 And let it be contrived that, as  is to , so is  to ; therefore also the remainder  is to the remainder  as  is to . [elem.5.19]
 But  is commensurable in length with ; therefore ,  are also commensurable with ,  respectively. [elem.10.11]
 But ,  are medial; therefore ,  are also medial. [elem.10.23]

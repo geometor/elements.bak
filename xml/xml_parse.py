@@ -43,7 +43,7 @@ def create_files_from_xml(xml_file_path):
 
             del div3.attrib['org']
             del div3.attrib['sample']
-            remove_child_elements(div3)
+            #  remove_child_elements(div3)
 
             for div4 in div3.findall('div4'):
                 del div4.attrib['org']

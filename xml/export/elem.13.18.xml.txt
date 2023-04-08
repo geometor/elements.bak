@@ -45,7 +45,7 @@ But  is equal to ; therefore  is greater than .
 Therefore , which is a side of the icosahedron, is by far greater than  which is a side of the dodecahedron. Q. E. D.
 I say next that , ,
 For a solid angle cannot be constructed with two triangles, or indeed planes.
-With three triangles the angle of the pyramid is constructed, with four the angle of the octahedron, and with five the angle of the icosahedron; but a solid angle cannot be formed by six equilateral and equiangular triangles placed together at one point, elem.11.21]
+With three triangles the angle of the pyramid is constructed, with four the angle of the octahedron, and with five the angle of the icosahedron; but a solid angle cannot be formed by six equilateral and equiangular triangles placed together at one point, for, the angle of the equilateral triangle being two-thirds of a right angle, the six will be equal to four right angles: which is impossible, for any solid angle is contained by angles less than four right angles. [elem.11.21]
 For the same reason, neither can a solid angle be constructed by more than six plane angles.
 By three squares the angle of the cube is contained, but by four it is impossible for a solid angle to be contained, for they will again be four right angles.
 By three equilateral and equiangular pentagons the angle of the dodecahedron is contained; but by four such it is impossible for any solid angle to be contained, for, the angle of the equilateral pentagon being a right angle and a fifth, the four angles will be greater than four right angles: which is impossible.

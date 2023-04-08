@@ -5,7 +5,7 @@
     "enunciation": "`If from a parallelogram there be taken away a parallelogram similar and similarly situated to the whole and having a common angle with it`, `it is about the same diameter with the whole`",
     "proof": [
         {
-            "text": "For from the parallelogram `ABCD` let there be taken away the parallelogram `AF` similar and similarly situated to `ABCD`, and having the angle `DAB` common with it; `ABCD` is about the same diameter with `AF`.",
+            "text": "For from the parallelogram `ABCD` let there be taken away the parallelogram `AF` similar and similarly situated to `ABCD`, and having the angle `DAB` common with it;  I say that `ABCD` is about the same diameter with `AF`.",
             "refs": [],
             "emphs": [
                 "ABCD",

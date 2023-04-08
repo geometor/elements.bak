@@ -2,9 +2,9 @@ Enunciation:
 .
 
 Proof:
-Let  be the side of the sum of two medial areas, divided at , let  be a rational straight line, and let there be applied to  the parallelogram  equal to the square on , producing  as its breadth;  is a sixth binomial straight line.
+Let  be the side of the sum of two medial areas, divided at , let  be a rational straight line, and let there be applied to  the parallelogram  equal to the square on , producing  as its breadth; I say that  is a sixth binomial straight line.
 For let the same construction be made as before.
-Then, since  is the side of the sum of two medial areas, divided at , therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and moreover the sum of the squares on them incommensurable with the rectangle contained by them, [elem.10.41] ,  is medial.
+Then, since  is the side of the sum of two medial areas, divided at , therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and moreover the sum of the squares on them incommensurable with the rectangle contained by them, [elem.10.41]  so that, in accordance with what was before proved, each of the rectangles ,  is medial.
 And they are applied to the rational straight line ; therefore each of the straight lines ,  is rational and incommensurable in length with . [elem.10.22]
 And, since the sum of the squares on ,  is incommensurable with twice the rectangle , , therefore  is incommensurable with .
 Therefore  is also incommensurable with ; [elem.6.1, elem.10.11] therefore ,  are rational straight lines commensurable in square only; therefore  is binomial. [elem.10.36]

@@ -3,7 +3,7 @@ A straight line falling on parallel straight lines makes the alternate angles eq
 
 Proof:
 For let the straight line `EF` fall on the parallel straight lines `AB`, `CD`;
-I say that it makes the alternate angles `AGH`, `GHD` equal, the exterior angle `EGB` equal to the interior and opposite angle `GHD`, and the interior angles on the same `BGH`, `GHD`, equal to two right angles.
+I say that it makes the alternate angles `AGH`, `GHD` equal, the exterior angle `EGB` equal to the interior and opposite angle `GHD`, and the interior angles on the same side, namely `BGH`, `GHD`, equal to two right angles.
 For, if the angle `AGH` is unequal to the angle `GHD`, one of them is greater.
 Let the angle `AGH` be greater.
 Let the angle `BGH` be added to each; therefore the angles `AGH`, `BGH` are greater than the angles `BGH`, `GHD`.

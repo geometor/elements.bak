@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let `ABCDEF` be the given circle; thus it is required to inscribe an equilateral and equiangular hexagon in the circle `ABCDEF`.
-Let the diameter `AD` of the circle `ABCDEF` be drawn; let the centre `G` of the circle be taken, and with centre `D` and distance `DG` let the circle `EGCH` be described; `EG`, `CG` be joined and carried through to the points `B`, `F`, and let `AB`, `BC`, `CD`, `DE`, `EF`, `FA` be joined.
+Let the diameter `AD` of the circle `ABCDEF` be drawn; let the centre `G` of the circle be taken, and with centre `D` and distance `DG` let the circle `EGCH` be described;  let `EG`, `CG` be joined and carried through to the points `B`, `F`, and let `AB`, `BC`, `CD`, `DE`, `EF`, `FA` be joined.
 I say that the hexagon `ABCDEF` is equilateral and equiangular.
 For, since the point `G` is the centre of the circle `ABCDEF`,
 Again, since the point `D` is the centre of the circle `GCH`,
@@ -17,7 +17,7 @@ But equal angles stand on equal circumferences; [elem.3.26] therefore the six ci
 And equal circumferences are subtended by equal straight lines; [elem.3.29]
 I say next that it is also equiangular.
 For, since the circumference `FA` is equal to the circumference `ED`, 
-       `FED` stands on the circumference `FABCD`, and the angle `AFE` on the circumference `EDCBA`;
+       and the angle `FED` stands on the circumference `FABCD`, and the angle `AFE` on the circumference `EDCBA`;
 Similarly it can be proved that the remaining angles of the hexagon `ABCDEF` are also severally equal to each of the angles `AFE`, `FED`;
 But it was also proved equilateral; and it has been inscribed in the circle `ABCDEF`.
 Therefore in the given circle an equilateral and equiangular hexagon has been inscribed. Q. E. F.

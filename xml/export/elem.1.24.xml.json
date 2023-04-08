@@ -31,7 +31,7 @@
             ]
         },
         {
-            "text": "For, since the angle `BAC` is greater than the angle `EDF`, let there be constructed, on the straight line `DE`, and at the point `D` on it, the angle `EDG`\n        `BAC`; [elem.1.23] let `DG` be made equal to either of the two straight lines `AC`, `DF`, and let `EG`, `FG` be joined.",
+            "text": "For, since the angle `BAC` is greater than the angle `EDF`, let there be constructed, on the straight line `DE`, and at the point `D` on it, the angle `EDG`\n        equal to the angle `BAC`; [elem.1.23] let `DG` be made equal to either of the two straight lines `AC`, `DF`, and let `EG`, `FG` be joined.",
             "refs": [
                 "elem.1.23"
             ],
@@ -50,7 +50,7 @@
             ]
         },
         {
-            "text": "Then, since `AB` is equal to `DE`, and `AC` to `DG`, `BA`, `AC` are equal to the two sides `ED`, `DG`, respectively;",
+            "text": "Then, since `AB` is equal to `DE`, and `AC` to `DG`, the two sides `BA`, `AC` are equal to the two sides `ED`, `DG`, respectively;",
             "refs": [],
             "emphs": [
                 "AB",
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "text": "And, since `EFG` is a triangle having the angle `EFG`\n        `EGF`,",
+            "text": "And, since `EFG` is a triangle having the angle `EFG`\n        greater than the angle `EGF`,",
             "refs": [],
             "emphs": [
                 "EFG",

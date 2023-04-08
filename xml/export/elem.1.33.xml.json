@@ -5,7 +5,7 @@
     "enunciation": "The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are themselves also equal and parallel.",
     "proof": [
         {
-            "text": "Let `AB`, `CD` be equal and parallel, and let the straight `AC`, `BD` join them (at the extremities which are) in the same directions (respectively); `AC`, `BD` are also equal and parallel.",
+            "text": "Let `AB`, `CD` be equal and parallel, and let the straight  lines `AC`, `BD` join them (at the extremities which are) in the same directions (respectively); I say that `AC`, `BD` are also equal and parallel.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "text": "Then, since `AB` is parallel to `CD`, `BC` has fallen upon them,",
+            "text": "Then, since `AB` is parallel to `CD`,  and `BC` has fallen upon them,",
             "refs": [],
             "emphs": [
                 "AB",

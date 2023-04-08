@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "Let `AC` be drawn at right angles to the straight line `AB` from the point `A` on it [elem.1.11], and let `AD` be made equal to `AB`; through the point `D` let `DE` be drawn `AB`, and through the point `B` let `BE` be drawn parallel to `AD`. [elem.1.31]",
+            "text": "Let `AC` be drawn at right angles to the straight line `AB` from the point `A` on it [elem.1.11], and let `AD` be made equal to `AB`; through the point `D` let `DE` be drawn parallel to `AB`, and through the point `B` let `BE` be drawn parallel to `AD`. [elem.1.31]",
             "refs": [
                 "elem.1.11",
                 "elem.1.31"
@@ -70,7 +70,7 @@
             ]
         },
         {
-            "text": "And in parallelogrammic areas the opposite sides and elem.1.34]",
+            "text": "And in parallelogrammic areas the opposite sides and angles are equal to one another; [elem.1.34]",
             "refs": [
                 "elem.1.34"
             ],

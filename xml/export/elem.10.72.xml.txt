@@ -20,7 +20,7 @@ But  is rational; and, if an area be contained by a rational straight line and t
  of , that is, of , is a second bimedial.
 Next, let the square on  be greater than the square on  by the square on a straight line incommensurable in length with .
 Now each of the straight lines ,  is incommensurable in length with ; therefore  is a sixth binomial. [elem.10.def.2.6]
-But, if an area be contained by a rational straight line and 
+But, if an area be contained by a rational straight line and the sixth binomial, the 
  of the area is the side of the sum of two medial areas; [elem.10.59] so that the 
  of the area  is also the side of the sum of two medial areas.
 Therefore etc. Q. E. D.

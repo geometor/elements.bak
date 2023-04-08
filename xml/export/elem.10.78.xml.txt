@@ -2,7 +2,7 @@ Enunciation:
 
 
 Proof:
-For from the straight line  let there be subtracted the straight line  incommensurable in square with  and fulfilling the given conditions; [elem.10.35]  is the irrational straight line called .
+For from the straight line  let there be subtracted the straight line  incommensurable in square with  and fulfilling the given conditions; [elem.10.35]  I say that the remainder  is the irrational straight line called .
 For let a rational straight line  be set out, to  let there be applied  equal to the squares on , , producing  as breadth, and let  equal to twice the rectangle ,  be subtracted.
 Therefore the remainder  is equal to the square on , [elem.2.7] so that  is the 
  of .

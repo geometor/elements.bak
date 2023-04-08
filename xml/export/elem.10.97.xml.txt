@@ -20,6 +20,6 @@ For, since the rectangle ,  is a mean proportional between the squares on , , an
 But, as  is to , so is  to , and, as  is to , so is  to ; [elem.6.1] therefore the rectangle ,  is equal to the square on  [elem.6.17], that is, to the fourth part of the square on .
 And, since the square on  is commensurable with the square on ,  is also commensurable with .
 But, as  is to , so is  to ; [elem.6.1] therefore  is commensurable with . [elem.10.11]
-Since then ,  are two unequal straight lines,  there has been applied the rectangle ,  equal to the fourth part of the square on  and deficient by a square figure, while  is commensurable with , therefore the square on  is greater than the square on  by the square on a straight line commensurable in length with . [elem.10.17]
+Since then ,  are two unequal straight lines, and to  there has been applied the rectangle ,  equal to the fourth part of the square on  and deficient by a square figure, while  is commensurable with , therefore the square on  is greater than the square on  by the square on a straight line commensurable in length with . [elem.10.17]
 And  is commensurable in length with the rational straight line  set out; therefore  is a first apotome. [elem.10.def.3.1]
 Therefore etc. Q. E. D.

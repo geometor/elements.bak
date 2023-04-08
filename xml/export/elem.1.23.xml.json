@@ -23,7 +23,7 @@
             ]
         },
         {
-            "text": "On the straight lines `CD`, `CE` respectively let the points `D`, `E` be taken at random; let `DE` be joined, and out of three straight lines which are equal to the three `CD`, `DE`, `CE` let the triangle `AFG` be constructed in such a way that `CD` is equal to `AF`, `CE` to `AG`, and further `DE` to `FG`.",
+            "text": "On the straight lines `CD`, `CE` respectively let the points `D`, `E` be taken at random; let `DE` be joined, and out of three straight lines which are equal to the three straight lines `CD`, `DE`, `CE` let the triangle `AFG` be constructed in such a way that `CD` is equal to `AF`, `CE` to `AG`, and further `DE` to `FG`.",
             "refs": [],
             "emphs": [
                 "CD",

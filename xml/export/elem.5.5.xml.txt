@@ -8,8 +8,8 @@ Then, since `AE` is the same multiple of `CF` that `EB` is of `GC`, therefore `A
 But, by the assumption, `AE` is the same multiple of `CF` that `AB` is of `CD`.
 Therefore `AB` is the same multiple of each of the magnitudes `GF`, `CD`;
 Let `CF` be subtracted from each; therefore the remainder `GC` is equal to the remainder `FD`.
-And, since `AE` is the same multiple of `CF` that `EB` is of `GC`, and `GC` is equal to `DF`, `AE` is the same multiple of `CF` that `EB` is of `FD`.
+And, since `AE` is the same multiple of `CF` that `EB` is of `GC`, and `GC` is equal to `DF`, therefore `AE` is the same multiple of `CF` that `EB` is of `FD`.
 But, by hypothesis,
 `AE` is the same multiple of `CF` that `AB` is of `CD`; therefore `EB` is the same multiple of `FD` that `AB` is of `CD`.
-That is, the remainder `EB` will be the same multiple of `FD` that the whole `AB` is of the whole `CD`.
+That is, the remainder `EB` will be the same multiple of the remainder `FD` that the whole `AB` is of the whole `CD`.
 Therefore etc. Q. E. D.

@@ -73,7 +73,7 @@
             ]
         },
         {
-            "text": "And, since `AE` is the same multiple of `CF` that `EB` is of `GC`, and `GC` is equal to `DF`, `AE` is the same multiple of `CF` that `EB` is of `FD`.",
+            "text": "And, since `AE` is the same multiple of `CF` that `EB` is of `GC`, and `GC` is equal to `DF`, therefore `AE` is the same multiple of `CF` that `EB` is of `FD`.",
             "refs": [],
             "emphs": [
                 "AE",
@@ -108,7 +108,7 @@
             ]
         },
         {
-            "text": "That is, the remainder `EB` will be the same multiple of `FD` that the whole `AB` is of the whole `CD`.",
+            "text": "That is, the remainder `EB` will be the same multiple of the remainder `FD` that the whole `AB` is of the whole `CD`.",
             "refs": [],
             "emphs": [
                 "EB",

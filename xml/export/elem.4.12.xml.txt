@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let `ABCDE` be the given circle; thus it is required to circumscribe an equilateral and equiangular pentagon about the circle `ABCDE`.
-Let `A`, `B`, `C`, `D`, `E` be conceived to be the angular points of the inscribed pentagon, so that the circumferences `AB`, `BC`, `CD`, `DE`, `EA` are equal; [elem.4.11] `A`, `B`, `C`, `D`, `E` let `GH`, `HK`, `KL`, `LM`, `MG` be drawn touching the circle; [elem.3.16.p.1] let the centre `F` of the circle `ABCDE` be taken [elem.3.1], and let `FB`, `FK`, `FC`, `FL`, `FD` be joined.
+Let `A`, `B`, `C`, `D`, `E` be conceived to be the angular points of the inscribed pentagon, so that the circumferences `AB`, `BC`, `CD`, `DE`, `EA` are equal; [elem.4.11]  through `A`, `B`, `C`, `D`, `E` let `GH`, `HK`, `KL`, `LM`, `MG` be drawn touching the circle; [elem.3.16.p.1] let the centre `F` of the circle `ABCDE` be taken [elem.3.1], and let `FB`, `FK`, `FC`, `FL`, `FD` be joined.
 Then, since the straight line `KL` touches the circle `ABCDE` at `C`, and `FC` has been joined from the centre `F` to the point of contact at `C`,
 For the same reason
 And, since the angle `FCK` is right, therefore the square on `FK` is equal to the squares on `FC`, `CK`.

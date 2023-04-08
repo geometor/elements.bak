@@ -5,7 +5,7 @@
     "enunciation": "Parallelograms which are on equal bases and in the same parallels are equal to one another.",
     "proof": [
         {
-            "text": "Let `ABCD`, `EFGH` be parallelograms which are on equal bases `BC`, `FG` and in the same parallels `AH`, `BG`; `ABCD` is equal to `EFGH`.",
+            "text": "Let `ABCD`, `EFGH` be parallelograms which are on equal bases `BC`, `FG` and in the same parallels `AH`, `BG`;  I say that the parallelogram `ABCD` is equal to `EFGH`.",
             "refs": [],
             "emphs": [
                 "ABCD",

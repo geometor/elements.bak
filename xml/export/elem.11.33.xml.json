@@ -14,7 +14,7 @@
             "emphs": []
         },
         {
-            "text": "Now, since the two sides ,  are equal to the two sides , , while the angle  is also equal to the angle , inasmuch as the angle  is also equal to the angle  because of the similarity of the solids , ,  is equal <and similar> to the parallelogram .",
+            "text": "Now, since the two sides ,  are equal to the two sides , , while the angle  is also equal to the angle , inasmuch as the angle  is also equal to the angle  because of the similarity of the solids , , therefore the parallelogram  is equal <and similar> to the parallelogram .",
             "refs": [],
             "emphs": []
         },
@@ -63,7 +63,7 @@
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is the parallelogram  to , and the straight line  to  [elem.6.1];  has also to  the ratio triplicate of that which  has to .",
+            "text": "But, as  is to , so is the parallelogram  to , and the straight line  to  [elem.6.1]; hence the solid  has also to  the ratio triplicate of that which  has to .",
             "refs": [
                 "elem.6.1"
             ],

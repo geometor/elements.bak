@@ -4,17 +4,17 @@
        <p>If two straight lines cut one another, they make the vertical angles equal to one another.</p>
       </div4>
       <div4 type="Proof">
-       <p>For let the straight lines <emph>AB</emph>, <emph>CD</emph> cut one another at the point <emph>E</emph>; </p>
+       <p>For let the straight lines <emph>AB</emph>, <emph>CD</emph> cut one another at the point <emph>E</emph>; <lb n="5"/></p>
        <p>I say that the angle <emph>AEC</emph> is equal to the angle <emph>DEB</emph>, <hi rend="center">and the angle <emph>CEB</emph> to the angle <emph>AED</emph>.</hi>
-        </p>
-       <p>For, since the straight line <emph>AE</emph> stands <emph>CD</emph>, making the angles <emph>CEA</emph>, <emph>AED</emph>, <hi rend="center">the angles <emph>CEA</emph>, <emph>AED</emph> are equal to two right angles [<ref target="elem.1.13" targOrder="U">I. 13</ref>]</hi>
-        </p>
+        <figure/></p>
+       <p>For, since the straight line <emph>AE</emph> stands <lb n="10"/>on the straight line <emph>CD</emph>, making the angles <emph>CEA</emph>, <emph>AED</emph>, <hi rend="center">the angles <emph>CEA</emph>, <emph>AED</emph> are equal to two right angles [<ref target="elem.1.13" targOrder="U">I. 13</ref>]</hi>
+        <pb n="278"/></p>
        <p>Again, since the straight line <emph>DE</emph> stands on the straight line <emph>AB</emph>, making the angles <emph>AED</emph>, <emph>DEB</emph>, <hi rend="center">the angles <emph>AED</emph>, <emph>DEB</emph> are equal to two right angles. [<ref target="elem.1.13" targOrder="U">I. 13</ref>]</hi>
-        </p>
+        <lb n="15"/></p>
        <p>But the angles <emph>CEA</emph>, <emph>AED</emph> were also proved equal to two right angles; <hi rend="center">therefore the angles <emph>CEA</emph>, <emph>AED</emph> are equal to the angles <emph>AED</emph>
-         <emph>DEB</emph>. [<ref target="elem.1.post.4" targOrder="U">Post. 4</ref> and <ref target="elem.1.c.n.1" targOrder="U">C. N. 1</ref>] Let the angle <emph>AED</emph> be subtracted from each; <emph>CEA</emph> is equal to the remaining angle <emph>BED</emph>. [<ref target="elem.1.c.n.3" targOrder="U">C. N. 3</ref>]</hi></p>
+         <emph>DEB</emph>. [<ref target="elem.1.post.4" targOrder="U">Post. 4</ref> and <ref target="elem.1.c.n.1" targOrder="U">C. N. 1</ref>] Let the angle <emph>AED</emph> be subtracted from each; <lb n="20"/>therefore the remaining angle <emph>CEA</emph> is equal to the remaining angle <emph>BED</emph>. [<ref target="elem.1.c.n.3" targOrder="U">C. N. 3</ref>]</hi></p>
        <p>Similarly it can be proved that the angles <emph>CEB</emph>, <emph>DEA</emph> are also equal.</p>
-       <p>Therefore etc. Q. E. D. </p>
+       <p>Therefore etc. Q. E. D. <lb n="25"/></p>
       </div4>
       <div4 id="elem.1.15.p.1" type="porism">
        <head>Porism.</head>

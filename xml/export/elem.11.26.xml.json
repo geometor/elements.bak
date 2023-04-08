@@ -10,7 +10,7 @@
             "emphs": []
         },
         {
-            "text": "For let a point  be taken at random on , let  be drawn from  perpendicular to the plane through , , and let it meet the plane at , [elem.11.11] let  be joined, let there be constructed on the straight line  and at the point  on it the angle  equal to the angle , and the angle  equal to the angle , [elem.1.23] let  be made equal to ,  be set up from the point  at right angles to the plane through , , [elem.11.12] let  be made equal to , and let  be joined; I say that the solid angle at , contained by the angles , ,  is equal to the solid angle at  contained by the angles , , .",
+            "text": "For let a point  be taken at random on , let  be drawn from  perpendicular to the plane through , , and let it meet the plane at , [elem.11.11] let  be joined, let there be constructed on the straight line  and at the point  on it the angle  equal to the angle , and the angle  equal to the angle , [elem.1.23] let  be made equal to , let  be set up from the point  at right angles to the plane through , , [elem.11.12] let  be made equal to , and let  be joined; I say that the solid angle at , contained by the angles , ,  is equal to the solid angle at  contained by the angles , , .",
             "refs": [
                 "elem.11.11",
                 "elem.1.23",

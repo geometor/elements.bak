@@ -5,7 +5,7 @@
     "enunciation": "`A circle does not touch a circle at more points than one`, `whether it touch it internally or externally`.",
     "proof": [
         {
-            "text": "For, if possible, let the circle `ABDC` touch the circle `EBFD`, first internally, at more `D`, `B`.",
+            "text": "For, if possible, let the circle `ABDC` touch the circle `EBFD`, first internally, at more points than one, namely `D`, `B`.",
             "refs": [],
             "emphs": [
                 "ABDC",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "text": "Therefore the straight line `G` to `H` will fall on `B`, `D`. [elem.3.11]",
+            "text": "Therefore the straight line \n       joined from `G` to `H` will fall on `B`, `D`. [elem.3.11]",
             "refs": [
                 "elem.3.11"
             ],

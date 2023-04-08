@@ -5,7 +5,7 @@
     "enunciation": ".",
     "proof": [
         {
-            "text": "Let  be a rational straight line, let  be a binomial, and let  be its greater term; let the rectangle ,  be equal to the square on ;  is an apotome the terms of which are commensurable with , , and in the same ratio, and further  will have the same order as .",
+            "text": "Let  be a rational straight line, let  be a binomial, and let  be its greater term; let the rectangle ,  be equal to the square on ;  I say that  is an apotome the terms of which are commensurable with , , and in the same ratio, and further  will have the same order as .",
             "refs": [],
             "emphs": []
         },
@@ -132,7 +132,7 @@
             "emphs": []
         },
         {
-            "text": "And, if  is commensurable with the rational straight line set out, so also is ; if  is so commensurable, so also is ; ,  is so commensurable, neither of the straight lines ,  is so; so that  is an apotome, the terms of which ,  are commensurable with the terms ,  of the binomial straight line and in the same ratio, and it has the same order as . Q. E. D.",
+            "text": "And, if  is commensurable with the rational straight line set out, so also is ; if  is so commensurable, so also is ; but, if neither of the straight lines ,  is so commensurable, neither of the straight lines ,  is so; so that  is an apotome, the terms of which ,  are commensurable with the terms ,  of the binomial straight line and in the same ratio, and it has the same order as . Q. E. D.",
             "refs": [],
             "emphs": []
         }

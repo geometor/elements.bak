@@ -2,8 +2,9 @@ Enunciation:
 .
 
 Proof:
-For let two medial straight lines ,  commensurable in square only and containing a rational rectangle be added together;  is irrational.
-For, since  is incommensurable in length with , therefore the squares on ,  are also incommensurable with twice the rectangle , ; [cf. elem.10.36], the squares on ,  together with twice the rectangle , , that is, the square on  [elem.2.4], is incommensurable with the rectangle , . [elem.10.16
+For let two medial straight lines ,  commensurable in square only and containing a rational rectangle be added together;  I say that the whole  is irrational.
+For, since  is incommensurable in length with , therefore the squares on ,  are also incommensurable with twice the rectangle , ; [cf. elem.10.36]
+and, , the squares on ,  together with twice the rectangle , , that is, the square on  [elem.2.4], is incommensurable with the rectangle , . [elem.10.16
 ]
 But the rectangle ,  is rational, for, by hypothesis, ,  are straight lines containing a rational rectangle; therefore the square on  is irrational; therefore  is irrational. [elem.10.def.4
 ]

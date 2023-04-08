@@ -12,7 +12,7 @@ But `CK` is equal to `RN`, for they are complements of the parallelogram `CP`; [
 Again, since `CB` is equal to `BD`, while `BD` is equal to `BK`, that is `CG`, and `CB` is equal to `GK`, that is `GQ`,
 And, since `CG` is equal to `GQ`, and `QR` to `RP`,
 But `MQ` is equal to `QL`, for they are complements of the parallelogram `ML`; [elem.1.43]  therefore the four areas `AG`, `MQ`, `QL`, `RF` are equal to one another.  But the four areas `CK`, `KD`, `GR`, `RN` were proved to be quadruple of `CK`;
-Now, since `AK` is the rectangle `AB`, `BD`, for `BK` is equal to `BD`, `AB`, `BD` is quadruple of `AK`.
+Now, since `AK` is the rectangle `AB`, `BD`, for `BK` is equal to `BD`, therefore four times the rectangle `AB`, `BD` is quadruple of `AK`.
 But the gnomon `STU` was also proved to be quadruple of `AK`;
 Let `OH`, which is equal to the square on `AC`, be added to each;
 But the gnomon `STU` and `OH` are the whole square `AEFD`,  therefore four times the rectangle `AB`, `BD` together with the square on `AC` is equal to the square on `AD`

@@ -19,5 +19,5 @@ Therefore also, as  is to , so is  to , and  to ; therefore , , , and , , ,  are
 I say next that they are the least numbers that are so.
 For, since ,  are the least of those which have the same ratio with them, and the least of those which have the same ratio are prime to one another, [elem.7.22] therefore ,  are prime to one another.
 And the numbers ,  by multiplying themselves respectively have made the numbers , , and by multiplying the numbers ,  respectively have made the numbers , ; therefore ,  and ,  are prime to one another respectively. [elem.7.27]
-But, if there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, elem.8.1]
+But, if there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, they are the least of those which have the same ratio with them. [elem.8.1]
 Therefore , ,  and , , ,  are the least of those which have the same ratio with , . Q. E. D.

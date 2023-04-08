@@ -2,7 +2,7 @@ Enunciation:
 
 
 Proof:
-Let there be similar and similarly situated pyramids of , , are the bases and the points ,  the vertices; I say that the pyramid  has to the pyramid  the ratio triplicate of that which  has to .
+Let there be similar and similarly situated pyramids of which the triangles , , are the bases and the points ,  the vertices; I say that the pyramid  has to the pyramid  the ratio triplicate of that which  has to .
 For let the parallelepipedal solids ,  be completed.
 Now, since the pyramid  is similar to the pyramid , therefore the angle  is equal to the angle , the angle  to the angle , and the angle  to the angle ; and, as  is to , so is  to , and  to .
 And since, as  is to , so is  to , and the sides are proportional about equal angles, therefore the parallelogram  is similar to the parallelogram .

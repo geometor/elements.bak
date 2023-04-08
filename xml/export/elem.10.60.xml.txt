@@ -6,7 +6,7 @@ Let  be a binomial straight line divided into its terms at , so that  is the gre
 For let there be applied to  the rectangle  equal to the square on , and  equal to the square on ; therefore the remainder, twice the rectangle , , is equal to .
 Let  be bisected at , and let  be drawn parallel [to  or ].
 Therefore each of the rectangles ,  is equal to once the rectangle , .
-Now, since  is a binomial divided into its terms at , ,  are rational straight lines commensurable in square only; [elem.10.36] therefore the squares on ,  are rational and commensurable with one another, so that the sum of the squares on ,  is also rational. [elem.10.15]
+Now, since  is a binomial divided into its terms at , therefore ,  are rational straight lines commensurable in square only; [elem.10.36] therefore the squares on ,  are rational and commensurable with one another, so that the sum of the squares on ,  is also rational. [elem.10.15]
 And it is equal to ; therefore  is rational.
 And it is applied to the rational straight line ; therefore  is rational and commensurable in length with . [elem.10.20]
 Again, since ,  are rational straight lines commensurable in square only, therefore twice the rectangle , , that is , is medial. [elem.10.21]

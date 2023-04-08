@@ -6,6 +6,6 @@ Let ,  be two numbers prime to one another, and let any number  measure ; I say 
 For, if ,  are not prime to one another, some number will measure , .
 Let a number measure them, and let it be .
 Since  measures , and  measures , therefore  also measures .
-But it also measures ;  measures ,  which are prime to one another: which is impossible. [elem.7.def.12]
+But it also measures ; therefore  measures ,  which are prime to one another: which is impossible. [elem.7.def.12]
 Therefore no number will measure the numbers , .
 Therefore ,  are prime to one another. Q. E. D.

@@ -2,10 +2,10 @@
       <head>PROPOSITION 15.</head>
       <p><emph>In a given circle to inscribe an equilateral and equiangular hexagon</emph>. </p>
       <p>Let <emph>ABCDEF</emph> be the given circle; thus it is required to inscribe an equilateral and equiangular hexagon in the circle <emph>ABCDEF</emph>. </p>
-      <p>Let the diameter <emph>AD</emph> of the circle <emph>ABCDEF</emph> be drawn; let the centre <emph>G</emph> of the circle be taken, and with centre <emph>D</emph> and distance <emph>DG</emph> let the circle <emph>EGCH</emph> be described; <emph>EG</emph>, <emph>CG</emph> be joined and carried through to the points <emph>B</emph>, <emph>F</emph>, and let <emph>AB</emph>, <emph>BC</emph>, <emph>CD</emph>, <emph>DE</emph>, <emph>EF</emph>, <emph>FA</emph> be joined. </p>
+      <p>Let the diameter <emph>AD</emph> of the circle <emph>ABCDEF</emph> be drawn; let the centre <emph>G</emph> of the circle be taken, and with centre <emph>D</emph> and distance <emph>DG</emph> let the circle <emph>EGCH</emph> be described; <figure/> let <emph>EG</emph>, <emph>CG</emph> be joined and carried through to the points <emph>B</emph>, <emph>F</emph>, and let <emph>AB</emph>, <emph>BC</emph>, <emph>CD</emph>, <emph>DE</emph>, <emph>EF</emph>, <emph>FA</emph> be joined. </p>
       <p>I say that the hexagon <emph>ABCDEF</emph> is equilateral and equiangular. </p>
       <p>For, since the point <emph>G</emph> is the centre of the circle <emph>ABCDEF</emph>, <hi rend="center"><emph>GE</emph> is equal to <emph>GD</emph>.</hi>
-       </p>
+       <pb n="108"/></p>
       <p>Again, since the point <emph>D</emph> is the centre of the circle <emph>GCH</emph>, <hi rend="center"><emph>DE</emph> is equal to <emph>DG</emph>.</hi>
       </p>
       <p>But <emph>GE</emph> was proved equal to <emph>GD</emph>; <hi rend="center">therefore <emph>GE</emph> is also equal to <emph>ED</emph>; therefore the triangle <emph>EGD</emph> is equilateral;</hi> and therefore its three angles <emph>EGD</emph>, <emph>GDE</emph>, <emph>DEG</emph> are equal to one another, inasmuch as, in isosceles triangles, the angles at the base are equal to one another. [<ref target="elem.1.5" targOrder="U">I. 5</ref>] </p>
@@ -20,7 +20,7 @@
       </p>
       <p>I say next that it is also equiangular. </p>
       <p>For, since the circumference <emph>FA</emph> is equal to the circumference <emph>ED</emph>, <hi rend="center">let the circumference <emph>ABCD</emph> be added to each; therefore the whole <emph>FABCD</emph> is equal to the whole <emph>EDCBA</emph>;</hi>
-       <emph>FED</emph> stands on the circumference <emph>FABCD</emph>, and the angle <emph>AFE</emph> on the circumference <emph>EDCBA</emph>; <hi rend="center">therefore the angle <emph>AFE</emph> is equal to the angle <emph>DEF</emph>. [<ref target="elem.3.27" targOrder="U">III. 27</ref>]</hi>
+       <pb n="109"/>and the angle <emph>FED</emph> stands on the circumference <emph>FABCD</emph>, and the angle <emph>AFE</emph> on the circumference <emph>EDCBA</emph>; <hi rend="center">therefore the angle <emph>AFE</emph> is equal to the angle <emph>DEF</emph>. [<ref target="elem.3.27" targOrder="U">III. 27</ref>]</hi>
       </p>
       <p>Similarly it can be proved that the remaining angles of the hexagon <emph>ABCDEF</emph> are also severally equal to each of the angles <emph>AFE</emph>, <emph>FED</emph>; <hi rend="center">therefore the hexagon <emph>ABCDEF</emph> is equiangular.</hi>
       </p>

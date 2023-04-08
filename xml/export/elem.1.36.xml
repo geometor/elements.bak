@@ -4,7 +4,7 @@
        <p>Parallelograms which are on equal bases and in the same parallels are equal to one another.</p>
       </div4>
       <div4 type="Proof">
-       <p>Let <emph>ABCD</emph>, <emph>EFGH</emph> be parallelograms which are on equal bases <emph>BC</emph>, <emph>FG</emph> and in the same parallels <emph>AH</emph>, <emph>BG</emph>; <emph>ABCD</emph> is equal to <emph>EFGH</emph>.</p>
+       <p>Let <emph>ABCD</emph>, <emph>EFGH</emph> be parallelograms which are on equal bases <emph>BC</emph>, <emph>FG</emph> and in the same parallels <emph>AH</emph>, <emph>BG</emph>; <figure/> I say that the parallelogram <emph>ABCD</emph> is equal to <emph>EFGH</emph>.</p>
        <p>For let <emph>BE</emph>, <emph>CH</emph> be joined.</p>
        <p>Then, since <emph>BC</emph> is equal to <emph>FG</emph> while <emph>FG</emph> is equal to <emph>EH</emph>, <hi rend="center"><emph>BC</emph> is also equal to <emph>EH</emph>. [<ref target="elem.1.c.n.1" targOrder="U">C.N. 1</ref>]</hi></p>
        <p>But they are also parallel.</p>

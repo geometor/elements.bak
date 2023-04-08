@@ -4,10 +4,10 @@ If a straight line set up on a straight line make angles, it will make either tw
 Proof:
 For let any straight line `AB` set up on the straight line `CD` make the angles `CBA`, `ABD`;
 I say that the angles `CBA`, `ABD` are either two right angles or equal to two right angles.
-Now, if the angle `CBA` is equal to `ABD`,
+Now, if the angle `CBA` is equal to the angle `ABD`,
 But, if not, let `BE` be drawn from the point `B` at right angles to `CD`; [elem.1.11]
 Then, since the angle `CBE` is equal to the two angles `CBA`, `ABE`,
 Again, since the angle `DBA` is equal to the two angles `DBE`, `EBA`,
 But the angles `CBE`, `EBD` were also proved equal to the same three angles; 
-        `CBE`, `EBD` are two right angles;
+        But the angles `CBE`, `EBD` are two right angles;
 Therefore etc.

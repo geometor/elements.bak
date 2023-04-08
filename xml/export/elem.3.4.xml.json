@@ -5,7 +5,7 @@
     "enunciation": "`If in a circle two straight lines cut one another which are not through the centre`, `they do not bisect one another`.",
     "proof": [
         {
-            "text": "Let `ABCD` be a circle, and in it let the two straight lines `AC`, `BD`, which are not through the centre, cut one another at `E`;",
+            "text": "Let `ABCD` be a circle, and in it let the two straight lines `AC`, `BD`, which are not through the centre, cut one another at `E`;  I say that they do not bisect one another.",
             "refs": [],
             "emphs": [
                 "ABCD",

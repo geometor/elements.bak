@@ -2,7 +2,7 @@
     "id": "elem.1.21",
     "n": 21,
     "type": "proposition",
-    "enunciation": "If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle, the straight lines so constructed will be less than the remaining two sides of the triangle, but will contain a greater",
+    "enunciation": "If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle, the straight lines so constructed will be less than the remaining two sides of the triangle, but will contain a greater angle.",
     "proof": [
         {
             "text": "On `BC`, one of the sides of the triangle `ABC`, from its extremities `B`, `C`, let the two straight lines `BD`, `DC` be constructed meeting within the triangle;",
@@ -17,7 +17,7 @@
             ]
         },
         {
-            "text": "I say that `BD`, `DC` are less than the remaining two sides `BA`, `AC`, but contain an angle `BDC` greater than the angle `BAC`.",
+            "text": "I say that `BD`, `DC` are less than the remaining two sides of the triangle `BA`, `AC`, but contain an angle `BDC` greater than the angle `BAC`.",
             "refs": [],
             "emphs": [
                 "BD",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "text": "Then, since in any triangle two sides are greater than the remaining elem.1.20]",
+            "text": "Then, since in any triangle two sides are greater than the remaining one, [elem.1.20]",
             "refs": [
                 "elem.1.20"
             ],

@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "Let `A`, `B`, `C`, `D`, `E` be conceived to be the angular points of the inscribed pentagon, so that the circumferences `AB`, `BC`, `CD`, `DE`, `EA` are equal; [elem.4.11] `A`, `B`, `C`, `D`, `E` let `GH`, `HK`, `KL`, `LM`, `MG` be drawn touching the circle; [elem.3.16.p.1] let the centre `F` of the circle `ABCDE` be taken [elem.3.1], and let `FB`, `FK`, `FC`, `FL`, `FD` be joined.",
+            "text": "Let `A`, `B`, `C`, `D`, `E` be conceived to be the angular points of the inscribed pentagon, so that the circumferences `AB`, `BC`, `CD`, `DE`, `EA` are equal; [elem.4.11]  through `A`, `B`, `C`, `D`, `E` let `GH`, `HK`, `KL`, `LM`, `MG` be drawn touching the circle; [elem.3.16.p.1] let the centre `F` of the circle `ABCDE` be taken [elem.3.1], and let `FB`, `FK`, `FC`, `FL`, `FD` be joined.",
             "refs": [
                 "elem.4.11",
                 "elem.3.16.p.1",

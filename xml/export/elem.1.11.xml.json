@@ -21,7 +21,7 @@
             ]
         },
         {
-            "text": "Let a point `D` be taken at random on `AC`; `CE` be made equal to `CD`; [elem.1.3] on `DE` let the equilateral triangle `FDE` be constructed, [elem.1.1] and let `FC` be joined;",
+            "text": "Let a point `D` be taken at random on `AC`; let `CE` be made equal to `CD`; [elem.1.3] on `DE` let the equilateral triangle `FDE` be constructed, [elem.1.1] and let `FC` be joined;",
             "refs": [
                 "elem.1.3",
                 "elem.1.1"
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "text": "I say that the straight line `FC` has been drawn at right `AB` from `C` the given point on it.",
+            "text": "I say that the straight line `FC` has been drawn at right angles to the given straight line `AB` from `C` the given point on it.",
             "refs": [],
             "emphs": [
                 "FC",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "But, when a straight line set up on a straight line makes elem.1.def.10]",
+            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10]",
             "refs": [
                 "elem.1.def.10"
             ],

@@ -12,4 +12,4 @@ But  is medial; therefore  is also medial. [elem.10.23, addition]
 And, since, as  is to , so is  to , while the square on  is greater than the square on  by the square on a straight line commensurable with , therefore also the square on  will be greater than the square on  by the square on a straight line commensurable with .[elem.10.14]
 I say next that the rectangle ,  is also medial.
 For, since the rectangle ,  is equal to the rectangle , , while the rectangle ,  is medial, [elem.10.21] therefore the rectangle ,  is also medial.
-Therefore two medial straight lines , , commensurable in square only, and containing a medial rectangle, have been found such that the square on the greater is greater than the
+Therefore two medial straight lines , , commensurable in square only, and containing a medial rectangle, have been found such that the square on the greater is greater than the square on the less by the square on a straight line commensurable with the greater.

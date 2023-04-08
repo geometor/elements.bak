@@ -5,7 +5,7 @@
     "enunciation": "`In a circle the angle at the centre is double of the angle at the circumference`, `when the angles have the same circumference as base`.",
     "proof": [
         {
-            "text": "Let `ABC` be a circle, let the angle `BEC` be an angle `BAC` an angle at the circumference, and let them have the same circumference `BC` as base; I say that the angle `BEC` is double of `BAC`.",
+            "text": "Let `ABC` be a circle, let the angle `BEC` be an angle at its centre, and the angle `BAC` an angle at the circumference, and let them have the same circumference `BC` as base; I say that the angle `BEC` is double of the angle `BAC`.",
             "refs": [],
             "emphs": [
                 "ABC",

@@ -5,7 +5,7 @@
     "enunciation": "`If a first magnitude have to a second the same ratio as a third has to a fourth`, `and also a fifth have to the second the same ratio as a sixth to the fourth`, `the first and fifth added together will have to the second the same ratio as the third and sixth have to the fourth`.",
     "proof": [
         {
-            "text": "Let a first magnitude `AB` have to a second `C` the same ratio as a third `DE` has to a fourth `F`; and let also a fifth `BG` have to `C` the same ratio as a sixth `EH` has to the fourth `F`; I say that the first and fifth added together, `AG`, will have to the second `C` the same ratio as the third and sixth, `DH`, has to the fourth `F`.",
+            "text": "Let a first magnitude `AB` have to a second `C` the same ratio as a third `DE` has to a fourth `F`; and let also a fifth `BG` have to  the second `C` the same ratio as a sixth `EH` has to the fourth `F`; I say that the first and fifth added together, `AG`, will have to the second `C` the same ratio as the third and sixth, `DH`, has to the fourth `F`.",
             "refs": [],
             "emphs": [
                 "AB",

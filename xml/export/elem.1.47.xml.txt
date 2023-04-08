@@ -4,7 +4,7 @@ In right-angled triangles the square on the side subtending the right angle is e
 Proof:
 Let `ABC` be a right-angled triangle having the angle `BAC` right;
 I say that the square on `BC` is equal to the squares on `BA`, `AC`.
-For let there be described on `BC` the square `BDEC`, `BA`, `AC` the squares `GB`, `HC`; [elem.1.46] through `A` let `AL` be drawn parallel to either `BD` or `CE`, and let `AD`, `FC` be joined.
+For let there be described on `BC` the square `BDEC`, and on `BA`, `AC` the squares `GB`, `HC`; [elem.1.46] through `A` let `AL` be drawn parallel to either `BD` or `CE`, and let `AD`, `FC` be joined.
 Then, since each of the angles `BAC`, `BAG` is right, it follows that with a straight line `BA`, and at the point `A` on it, the two straight lines `AC`, `AG` not lying on the same side make the adjacent angles equal to two right angles;
 For the same reason
 And, since the angle `DBC` is equal to the angle `FBA`: for each is right: let the angle `ABC` be added to each;
@@ -14,5 +14,5 @@ And the square `GB` is double of the triangle `FBC`, for they again have the sam
 [But the doubles of equals are equal to one another.]
 Similarly, if `AE`, `BK` be joined, the parallelogram `CL` can also be proved equal to the square `HC`;
 And the square `BDEC` is described on `BC`,
-Therefore the square on the side `BC` is equal to the `BA`, `AC`.
+Therefore the square on the side `BC` is equal to the squares on the sides `BA`, `AC`.
 Therefore etc.

@@ -2,13 +2,14 @@
       <head>PROPOSITION 7.</head>
       <p><emph>About a given circle to circumscribe a square</emph>. </p>
       <p>Let <emph>ABCD</emph> be the given circle; thus it is required to circumscribe a square about the circle <emph>ABCD</emph>. </p>
-      <p>Let two diameters <emph>AC</emph>, <emph>BD</emph> of the circle <emph>ABCD</emph> be drawn at right angles to one another, and through the points <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, <emph>D</emph> let <emph>FG</emph>, <emph>GH</emph>, <emph>HK</emph>, <emph>KF</emph> be drawn touching the circle <emph>ABCD</emph>. [<ref target="elem.3.16.p.1" targOrder="U">III. 16, Por.</ref>] </p>
+      <p>Let two diameters <emph>AC</emph>, <emph>BD</emph> of the circle <emph>ABCD</emph> be drawn at right angles to one another, and through the points <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, <emph>D</emph> let <emph>FG</emph>, <emph>GH</emph>, <emph>HK</emph>, <emph>KF</emph> be drawn touching the circle <emph>ABCD</emph>. [<ref target="elem.3.16.p.1" targOrder="U">III. 16, Por.</ref>] <figure/>
+      </p>
       <p>Then, since <emph>FG</emph> touches the circle <emph>ABCD</emph>, and <emph>EA</emph> has been joined from the centre <emph>E</emph> to the point of contact at <emph>A</emph>, <hi rend="center">therefore the angles at <emph>A</emph> are right. [<ref target="elem.3.18" targOrder="U">III. 18</ref>]</hi>
       </p>
       <p>For the same reason <hi rend="center">the angles at the points <emph>B</emph>, <emph>C</emph>, <emph>D</emph> are also right.</hi>
       </p>
       <p>Now, since the angle <emph>AEB</emph> is right, and the angle <emph>EBG</emph> is also right, <hi rend="center">therefore <emph>GH</emph> is parailel to <emph>AC</emph>. [<ref target="elem.1.28" targOrder="U">I. 28</ref>]</hi>
-       </p>
+       <pb n="93"/></p>
       <p>For the same reason <hi rend="center"><emph>AC</emph> is also parallel to <emph>FK</emph>, so that <emph>GH</emph> is also parallel to <emph>FK</emph>. [<ref target="elem.1.30" targOrder="U">I. 30</ref>]</hi>
       </p>
       <p>Similarly we can prove that <hi rend="center">each of the straight lines <emph>GF</emph>, <emph>HK</emph> is parallel to <emph>BED</emph>.</hi>

@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "With centre `G` and distance one of the straight lines `GB`, `GF` let the semicircle `BHF` be described; let `DE` be produced `H`, and let `GH` be joined.",
+            "text": "With centre `G` and distance one of the straight lines `GB`, `GF` let the semicircle `BHF` be described; let `DE` be produced to `H`, and let `GH` be joined.",
             "refs": [],
             "emphs": [
                 "G",
@@ -87,7 +87,7 @@
             ]
         },
         {
-            "text": "But the squares on `HE`, `EG` are equal to the square on `GH`; [elem.1.47] `BE`, `EF` together with the square on `GE` is equal to the squares on `HE`, `EG`.",
+            "text": "But the squares on `HE`, `EG` are equal to the square on `GH`; [elem.1.47] therefore the rectangle `BE`, `EF` together with the square on `GE` is equal to the squares on `HE`, `EG`.",
             "refs": [
                 "elem.1.47"
             ],
@@ -129,7 +129,7 @@
             ]
         },
         {
-            "text": "Therefore the rectilineal figure `A` is also equal to the square `EH`.",
+            "text": "Therefore the rectilineal figure `A` is also equal to the square which can be described on `EH`.",
             "refs": [],
             "emphs": [
                 "A",

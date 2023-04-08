@@ -15,7 +15,7 @@ Again, since `HK` is the same multiple of `EB` that `MN` is of `FD`,
 And, since, as `AB` is to `BE`, so is `CD` to `DF`, and of `AB`, `CD` equimultiples `GK`, `LN` have been taken, and of `EB`, `FD` equimultiples `HO`, `MP`, therefore, if `GK` is in excess of `HO`, `LN` is also in excess of `MP`, if equal, equal, and if less, less.
 Let `GK` be in excess of `HO`; then, if `HK` be subtracted from each,
 But we saw that, if `GK` was in excess of `HO`, `LN` was also in excess of `MP`; 
-       `MN` be subtracted from each,  so that, if `GH` is in excess of `KO`, `LM` is also in excess of `NP`.
+       and, if `MN` be subtracted from each,  so that, if `GH` is in excess of `KO`, `LM` is also in excess of `NP`.
 Similarly we can prove that, if `GH` be equal to `KO`, `LM` will also be equal to `NP`, and if less, less.
 And `GH`, `LM` are equimultiples of `AE`, `CF`, while `KO`, `NP` are other, chance, equimultiples of `EB`, `FD`;
 Therefore etc. Q. E. D.

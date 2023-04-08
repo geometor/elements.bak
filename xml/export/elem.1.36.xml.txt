@@ -2,7 +2,7 @@ Enunciation:
 Parallelograms which are on equal bases and in the same parallels are equal to one another.
 
 Proof:
-Let `ABCD`, `EFGH` be parallelograms which are on equal bases `BC`, `FG` and in the same parallels `AH`, `BG`; `ABCD` is equal to `EFGH`.
+Let `ABCD`, `EFGH` be parallelograms which are on equal bases `BC`, `FG` and in the same parallels `AH`, `BG`;  I say that the parallelogram `ABCD` is equal to `EFGH`.
 For let `BE`, `CH` be joined.
 Then, since `BC` is equal to `FG` while `FG` is equal to `EH`,
 But they are also parallel.

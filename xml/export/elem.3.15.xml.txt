@@ -4,7 +4,7 @@ Enunciation:
 Proof:
 Let `ABCD` be a circle, let `AD` be its diameter and `E` the centre; and let `BC` be nearer to the diameter `AD`, and `FG` more remote; I say that `AD` is greatest and `BC` greater than `FG`.
 For from the centre `E` let `EH`, `EK`
-       `BC`, `FG`.
+        be drawn perpendicular to `BC`, `FG`.
 Then, since `BC` is nearer to the centre and `FG` more remote, `EK` is greater than `EH`. [elem.3.def.5]
 Let `EL` be made equal to `EH`, through `L` let `LM` be drawn at right angles to `EK` and carried through to `N`, and let `ME`, `EN`, `FE`, `EG` be joined.
 Then, since `EH` is equal to `EL`,

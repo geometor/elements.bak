@@ -2,8 +2,8 @@ Enunciation:
 .
 
 Proof:
-Let  be binomial, and let  be commensurable in length with ;  is binomial and the same in order with .
-For, since  is binomial, let it be divided into its terms at , and let  be the greater term; ,  are rational straight lines commensurable in square only. [elem.10.36]
+Let  be binomial, and let  be commensurable in length with ;  I say that  is binomial and the same in order with .
+For, since  is binomial, let it be divided into its terms at , and let  be the greater term; therefore ,  are rational straight lines commensurable in square only. [elem.10.36]
 Let it be contrived that, as  is to , so is  to ; [elem.6.12] therefore also the remainder  is to the remainder  as  is to . [elem.5.19]
 But  is commensurable in length with ; therefore  is also commensurable with , and  with . [elem.10.11]
 And ,  are rational; therefore ,  are also rational.

@@ -32,7 +32,7 @@
             ]
         },
         {
-            "text": "Let `AE` be drawn at right angles to `DA`, let `AB` be `F`, let `FG` be drawn from the point `F` at right angles to `AB`, and let `GB` be joined.",
+            "text": "Let `AE` be drawn at right angles to `DA`, let `AB` be bisected at `F`, let `FG` be drawn from the point `F` at right angles to `AB`, and let `GB` be joined.",
             "refs": [],
             "emphs": [
                 "AE",
@@ -115,7 +115,7 @@
             ]
         },
         {
-            "text": "Next let the angle at `C` be right; `AB` a segment of a circle admitting an angle equal to the right angle at `C`.",
+            "text": "Next let the angle at `C` be right;  and let it be again required to describe on `AB` a segment of a circle admitting an angle equal to the right angle at `C`.",
             "refs": [],
             "emphs": [
                 "C",
@@ -124,7 +124,7 @@
             ]
         },
         {
-            "text": "Let the angle `BAD` be constructed equal to the right angle at `C`, as is the case in the second figure; `AB` be bisected at `F`, and with centre `F` and distance either `FA` or `FB` let the circle `AEB` be described.",
+            "text": "Let the angle `BAD` be constructed equal to the right angle at `C`, as is the case in the second figure; let `AB` be bisected at `F`, and with centre `F` and distance either `FA` or `FB` let the circle `AEB` be described.",
             "refs": [],
             "emphs": [
                 "BAD",
@@ -184,7 +184,7 @@
             ]
         },
         {
-            "text": "Next, let the angle at `C` be obtuse; `AB`, and at the point `A`, let the angle `BAD` be constructed equal to it, as is the case in the third figure; let `AE` be drawn at right angles to `AD`, let `AB` be again bisected at `F`, let `FG` be drawn at right angles to `AB`, and let `GB` be joined.",
+            "text": "Next, let the angle at `C` be obtuse;  and on the straight line `AB`, and at the point `A`, let the angle `BAD` be constructed equal to it, as is the case in the third figure; let `AE` be drawn at right angles to `AD`, let `AB` be again bisected at `F`, let `FG` be drawn at right angles to `AB`, and let `GB` be joined.",
             "refs": [],
             "emphs": [
                 "C",

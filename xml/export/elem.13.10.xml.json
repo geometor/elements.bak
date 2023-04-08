@@ -15,7 +15,7 @@
             "emphs": []
         },
         {
-            "text": "For let the centre of the circle, the point , be taken, let  be joined and carried through to the point , let  be joined, let  be drawn from  perpendicular to  and be carried through to , ,  be joined, let  be again drawn from  perpendicular to , and be carried through to , and let  be joined.",
+            "text": "For let the centre of the circle, the point , be taken, let  be joined and carried through to the point , let  be joined, let  be drawn from  perpendicular to  and be carried through to , let ,  be joined, let  be again drawn from  perpendicular to , and be carried through to , and let  be joined.",
             "refs": [],
             "emphs": []
         },
@@ -134,7 +134,7 @@
             "emphs": []
         },
         {
-            "text": "But the rectangle ,  was also proved equal to the square on ; ,  together with the rectangle , , that is, the square on  [elem.2.2], is equal to the square on  together with the square on .",
+            "text": "But the rectangle ,  was also proved equal to the square on ; therefore the rectangle ,  together with the rectangle , , that is, the square on  [elem.2.2], is equal to the square on  together with the square on .",
             "refs": [
                 "elem.2.2"
             ],

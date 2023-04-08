@@ -13,7 +13,7 @@ For the same reason  is also rational and incommensurable in length with .
 And, since the sum of the squares on ,  is incommensurable with twice the rectangle , , therefore  is also incommensurable with , so that  is also incommensurable with . [elem.6.1
 , elem.10.11
 ]
-And they are rational; ,  are rational straight lines commensurable in square only; therefore  is a binomial straight line divided at . [elem.10.36
+And they are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is a binomial straight line divided at . [elem.10.36
 ]
 Similarly we can prove that it is also divided at
 And  is not the same with ; therefore a binomial has been divided at different points: which is absurd. [elem.10.42

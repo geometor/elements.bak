@@ -41,7 +41,7 @@
             ]
         },
         {
-            "text": "Then, since the circumferences `BC`, `CK`, `KL` are equal to one another, the angles `BGC`, `CGK`, `KGL` are also equal to one another; [elem.3.27] `BL` is of `BC`, that multiple also is the angle `BGL` of the angle `BGC`.",
+            "text": "Then, since the circumferences `BC`, `CK`, `KL` are equal to one another, the angles `BGC`, `CGK`, `KGL` are also equal to one another; [elem.3.27] therefore, whatever multiple the circumference `BL` is of `BC`, that multiple also is the angle `BGL` of the angle `BGC`.",
             "refs": [
                 "elem.3.27"
             ],

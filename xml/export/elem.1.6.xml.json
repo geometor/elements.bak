@@ -47,7 +47,7 @@
             ]
         },
         {
-            "text": "Then, since `DB` is equal to `AC`, and `BC` is common, \n        `DBC` is equal to the angle `ACB`;",
+            "text": "Then, since `DB` is equal to `AC`, and `BC` is common, \n        and the angle `DBC` is equal to the angle `ACB`;",
             "refs": [],
             "emphs": [
                 "DB",

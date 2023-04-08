@@ -1,8 +1,9 @@
 <div3 id="elem.10.61" n="61" type="propositions 48&#x2014;84">
       <head>PROPOSITION 61.</head>
       <p><hi rend="ital">The square on the first bimedial straight line applied to a rational straight line produces as breadth the second binomial</hi>. </p>
-      <p>Let <hi rend="ital">AB</hi> be a first bimedial straight line divided into its medials at <hi rend="ital">C</hi>, of which medials <hi rend="ital">AC</hi> is the greater; let a rational straight line <hi rend="ital">DE</hi> be set out, and let there be applied to <hi rend="ital">DE</hi> the parallelogram <hi rend="ital">DF</hi> equal to the square on <hi rend="ital">AB</hi>, producing <hi rend="ital">DG</hi> as its breadth; I say that <hi rend="ital">DG</hi> is a second binominal straight line. </p>
-      <p>For let the same construction as before be made. </p>
+      <p>Let <hi rend="ital">AB</hi> be a first bimedial straight line divided into its medials at <hi rend="ital">C</hi>, of which medials <hi rend="ital">AC</hi> is the greater; let a rational straight line <hi rend="ital">DE</hi> be set out, and let there be applied to <hi rend="ital">DE</hi> the parallelogram <hi rend="ital">DF</hi> equal to the square on <hi rend="ital">AB</hi>, producing <hi rend="ital">DG</hi> as its breadth; I say that <hi rend="ital">DG</hi> is a second binominal straight line. <figure/>
+      </p>
+      <p>For let the same construction as before be made. <pb n="136"/></p>
       <p>Then, since <hi rend="ital">AB</hi> is a first bimedial divided at <hi rend="ital">C</hi>, therefore <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are medial straight lines commensurable in square only, and containing a rational rectangle, [<ref target="elem.10.37" targOrder="U">X. 37</ref>] so that the squares on <hi rend="ital">AC</hi>, <hi rend="ital">CB</hi> are also medial. [<ref target="elem.10.21" targOrder="U">X. 21</ref>] </p>
       <p>Therefore <hi rend="ital">DL</hi> is medial. [<ref target="elem.10.15 elem.10.23.p.1" targOrder="U">X. 15 and 23, Por.</ref>] </p>
       <p>And it has been applied to the rational straight line <hi rend="ital">DE</hi>; therefore <hi rend="ital">MD</hi> is rational and incommensurable in length with <hi rend="ital">DE</hi>. [<ref target="elem.10.22" targOrder="U">X. 22</ref>] </p>

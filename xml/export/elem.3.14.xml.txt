@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let `ABDC` be a circle, and let `AB`, `CD` be equal straight lines in it; I say that `AB`, `CD` are equally distant from the centre.
-For let the centre of the circle `ABDC` be taken [elem.3.1], `E`; from `E` let `EF`, `EG` be drawn perpendicular to `AB`, `CD`, and let `AE`, `EC` be joined.
+For let the centre of the circle `ABDC` be taken [elem.3.1], and let it be `E`; from `E` let `EF`, `EG` be drawn perpendicular to `AB`, `CD`, and let `AE`, `EC` be joined.
 Then, since a straight line `EF` through the centre cuts a straight line `AB` not through the centre at right angles, it also bisects it. [elem.3.3]
 For the same reason  and `AB` is equal to `CD`;
 And, since `AE` is equal to `EC`,  But the squares on `AF`, `EF` are equal to the square on `AE`, for the angle at `F` is right; and the squares on `EG`, `GC` are equal to the square on `EC`, for the angle at `G` is right; [elem.1.47]  of which the square on `AF` is equal to the square on `CG`, for `AF` is equal to `CG`;

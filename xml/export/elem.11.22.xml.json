@@ -5,7 +5,7 @@
     "enunciation": ", , , ,",
     "proof": [
         {
-            "text": "Let there be three plane angles , , , of  and, further, the angles ,  greater than the angle ; let the straight lines , , , , ,  be equal, and let , ,  be joined; I say that it is possible to construct a triangle out of straight lines equal to , , , that is, that any two of the straight lines , ,  are greater than the remaining one.",
+            "text": "Let there be three plane angles , , , of which two, taken together in any manner, are greater than the remaining one, namely  and, further, the angles ,  greater than the angle ; let the straight lines , , , , ,  be equal, and let , ,  be joined; I say that it is possible to construct a triangle out of straight lines equal to , , , that is, that any two of the straight lines , ,  are greater than the remaining one.",
             "refs": [],
             "emphs": []
         },
@@ -27,7 +27,7 @@
             "emphs": []
         },
         {
-            "text": "And, since the angles ,  are greater than the angle ,  is equal to the angle , therefore the angle  is greater than the angle .",
+            "text": "And, since the angles ,  are greater than the angle , while the angle  is equal to the angle , therefore the angle  is greater than the angle .",
             "refs": [],
             "emphs": []
         },

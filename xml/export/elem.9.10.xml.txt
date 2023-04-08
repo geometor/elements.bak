@@ -2,7 +2,7 @@ Enunciation:
 
 
 Proof:
-Let there be as many numbers as we please, , , , , , , beginning from an unit and in continued proportion, and let , the number after the unit, not be square;
+Let there be as many numbers as we please, , , , , , , beginning from an unit and in continued proportion, and let , the number after the unit, not be square; I say that neither will any other be square except the third from the unit <and those which leave out one>.
 For, if possible, let  be square.
 But  is also square; [elem.9.8] [therefore ,  have to one another the ratio which a square number has to a square number].
 And, as  is to , so is  to ; therefore ,  have to one another the ratio which a square number has to a square number; [so that ,  are similar plane numbers]. [elem.8.26, converse]

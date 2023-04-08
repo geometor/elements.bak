@@ -9,7 +9,7 @@ Then, since `AC` is equal to `CE`,
 And, since the angle at `C` is right,
 And they are equal;
 For the same reason
-And, since the angle `GEF` is half a right angle, `EGF` is right, for it is equal to the interior and opposite angle `ECB`, [elem.1.29]
+And, since the angle `GEF` is half a right angle, and the angle `EGF` is right, for it is equal to the interior and opposite angle `ECB`, [elem.1.29]
 Again, since the angle at `B` is half a right angle, and the angle `FDB` is right, for it is again equal to the interior and opposite angle `ECB`, [elem.1.29]
 Now, since `AC` is equal to `CE`,
 But the square on `EA` is equal to the squares on `AC`, `CE`, for the angle `ACE` is right; [elem.1.47]

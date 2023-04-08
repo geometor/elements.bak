@@ -146,7 +146,7 @@
             "emphs": []
         },
         {
-            "text": "And it is manifest that, when the centre of the circle falls within the triangle, the angle `BAC`, being in a segment greater than the semicircle, is less than a right angle; `BC`, the angle `BAC`, being in a semicircle, is right; and when the centre of the circle falls outside the triangle, the angle `BAC`, being in a segment less than the semicircle, is greater than a right angle. [elem.3.31]",
+            "text": "And it is manifest that, when the centre of the circle falls within the triangle, the angle `BAC`, being in a segment greater than the semicircle, is less than a right angle; when the centre falls on the straight line `BC`, the angle `BAC`, being in a semicircle, is right; and when the centre of the circle falls outside the triangle, the angle `BAC`, being in a segment less than the semicircle, is greater than a right angle. [elem.3.31]",
             "refs": [
                 "elem.3.31"
             ],

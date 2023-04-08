@@ -4,7 +4,7 @@ Enunciation:
 Proof:
 Let  be a circle, and let the equilateral pentagon  be inscribed in the circle .
 I say that the square on the side of the pentagon  is equal to the squares on the side of the hexagon and on that of the decagon inscribed in the circle .
-For let the centre of the circle, the point , be taken, let  be joined and carried through to the point , let  be joined, let  be drawn from  perpendicular to  and be carried through to , ,  be joined, let  be again drawn from  perpendicular to , and be carried through to , and let  be joined.
+For let the centre of the circle, the point , be taken, let  be joined and carried through to the point , let  be joined, let  be drawn from  perpendicular to  and be carried through to , let ,  be joined, let  be again drawn from  perpendicular to , and be carried through to , and let  be joined.
 Since the circumference  is equal to the circumference , and in them  is equal to , therefore the remainder, the circumference , is equal to the remainder .
 But  belongs to a pentagon; therefore  belongs to a decagon.
 And, since  is equal to , and  is perpendicular, therefore the angle  is also equal to the angle . [elem.1.5, elem.1.26]
@@ -24,6 +24,6 @@ But the angle  is equal to the angle ; therefore the angle  is also equal to the
 And the angle at  is common to the two triangles  and .
 Therefore the remaining angle  is equal to the remaining angle ; [elem.1.32] therefore the triangle  is equiangular with the triangle .
 Therefore, proportionally, as the straight line  is to , so is  to ; [elem.6.4] therefore the rectangle ,  is equal to the square on . [elem.6.17]
-But the rectangle ,  was also proved equal to the square on ; ,  together with the rectangle , , that is, the square on  [elem.2.2], is equal to the square on  together with the square on .
+But the rectangle ,  was also proved equal to the square on ; therefore the rectangle ,  together with the rectangle , , that is, the square on  [elem.2.2], is equal to the square on  together with the square on .
 And  is a side of the pentagon,  of the hexagon [elem.4.15.p.1], and  of the decagon.
 Therefore etc. Q. E. D.

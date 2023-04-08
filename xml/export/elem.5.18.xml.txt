@@ -4,7 +4,7 @@ Enunciation:
        .
 
 Proof:
-Let `AE`, `EB`, `CF`, `FD` be magnitudes proportional , so that, as `AE` is to `EB`, so is `CF` to `FD`; , that is, as `AB` is to `BE`, so is `CD` to `FD`.
+Let `AE`, `EB`, `CF`, `FD` be magnitudes proportional , so that, as `AE` is to `EB`, so is `CF` to `FD`;  I say that they will also be proportional , that is, as `AB` is to `BE`, so is `CD` to `FD`.
 For, if `CD` be not to `DF` as `AB` to `BE`, then, as `AB` is to `BE`, so will `CD` be either to some magnitude less than `DF` or to a greater.
 First, let it be in that ratio to a less magnitude `DG`.
 Then, since, as `AB` is to `BE`, so is `CD` to `DG`, they are magnitudes proportional ;

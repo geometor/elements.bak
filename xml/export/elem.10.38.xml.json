@@ -5,7 +5,7 @@
     "enunciation": ".",
     "proof": [
         {
-            "text": "For let two medial straight lines ,  commensurable in square only and containing a medial rectangle be added together;  is irrational.",
+            "text": "For let two medial straight lines ,  commensurable in square only and containing a medial rectangle be added together;  I say that  is irrational.",
             "refs": [],
             "emphs": []
         },
@@ -17,7 +17,7 @@
             "emphs": []
         },
         {
-            "text": "Then, since the square on  is equal to the squares on ,  and twice the rectangle , , [elem.2.4\n] let , equal to the squares on , , be applied to ;  is equal to twice the rectangle , .",
+            "text": "Then, since the square on  is equal to the squares on ,  and twice the rectangle , , [elem.2.4\n] let , equal to the squares on , , be applied to ; therefore the remainder  is equal to twice the rectangle , .",
             "refs": [
                 "elem.2.4"
             ],
@@ -34,7 +34,7 @@
             "emphs": []
         },
         {
-            "text": "And  is equal to the squares on , ,  is equal to twice the rectangle , ; therefore each of the rectangle ,  is medial.",
+            "text": "And  is equal to the squares on , , while  is equal to twice the rectangle , ; therefore each of the rectangle ,  is medial.",
             "refs": [],
             "emphs": []
         },
@@ -61,7 +61,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore the sum of the squares on ,  is incommensurable, . [elem.10.13\n]",
+            "text": "Therefore the sum of the squares on ,  is incommensurable with twice the rectangle , . [elem.10.13\n]",
             "refs": [
                 "elem.10.13"
             ],
@@ -88,7 +88,7 @@
             "emphs": []
         },
         {
-            "text": "But  is rational; and the rectangle contained by an irrational and a rational elem.10.20\n] therefore the area  is irrational, and the side of the square equal to it is irrational. [elem.10.def.4\n]",
+            "text": "But  is rational; and the rectangle contained by an irrational and a rational straight line is irrational; [cf. elem.10.20\n] therefore the area  is irrational, and the side of the square equal to it is irrational. [elem.10.def.4\n]",
             "refs": [
                 "elem.10.20",
                 "elem.10.def.4"

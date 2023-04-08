@@ -3,13 +3,13 @@ Enunciation:
 
 Proof:
 Let `ABC` be a circle, and in it let a straight line `CD`
-       `AB` not through the centre at the point `F`;
+       through the centre bisect a straight line `AB` not through the centre at the point `F`;  I say that it also cuts it at right angles.
 For let the centre of the circle `ABC`
-       `E`; let `EA`, `EB` be joined.
+       be taken, and let it be `E`; let `EA`, `EB` be joined.
 Then, since `AF` is equal to `FB`, and `FE` is common,
 But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10]
 Therefore `CD`, which is through the centre, and bisects `AB` which is not through the centre, also cuts it at right angles.
-Again, let `CD` cut `AB` at right angles; `AF` is equal to `FB`.
+Again, let `CD` cut `AB` at right angles; I say that it also bisects it. that is, that `AF` is equal to `FB`.
 For, with the same construction,  the angle `EAF` is also equal to the angle `EBF`. [elem.1.5]
-But the right angle `AFE` is equal to the right angle `BFE`, `EAF`, `EBF` are two triangles having two angles equal to two angles and one side equal to one side, namely `EF`, which is common to them, and subtends one of the equal angles;
+But the right angle `AFE` is equal to the right angle `BFE`, therefore `EAF`, `EBF` are two triangles having two angles equal to two angles and one side equal to one side, namely `EF`, which is common to them, and subtends one of the equal angles;
 Therefore etc. Q. E. D.

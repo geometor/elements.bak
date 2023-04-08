@@ -3,10 +3,10 @@ Enunciation:
 
 Proof:
 .
-Let , , ,  be four straight lines in proportion, so that, as  is to , so is  to ; and let the square on  be greater than the square on  by the square on , and  be greater than the square on  by the square on ; I say that, if  is commensurable with ,  is also commensurable with , and, if  is incommensurable with ,  is .
+Let , , ,  be four straight lines in proportion, so that, as  is to , so is  to ; and let the square on  be greater than the square on  by the square on , and let the square on  be greater than the square on  by the square on ; I say that, if  is commensurable with ,  is also commensurable with , and, if  is incommensurable with ,  is also incommensurable with .
 For since, as  is to , so is  to , therefore also, as the square on  is to the square on , so is the square on  to the square on . [elem.6.22]
-But the squares on ,  are equal to the square on , ,  are equal to the square on .
-Therefore, as the squares on ,  are to the square on , so are the squares on ,  to the square on ; therefore, , as the square on  is to the square on , so is the square on  to the square on ; [elem.5.17]  is to , so is  to ; [elem.6.22] therefore, inversely, as  is to , so is  to .
+But the squares on ,  are equal to the square on , and the squares on ,  are equal to the square on .
+Therefore, as the squares on ,  are to the square on , so are the squares on ,  to the square on ; therefore, , as the square on  is to the square on , so is the square on  to the square on ; [elem.5.17] therefore also, as  is to , so is  to ; [elem.6.22] therefore, inversely, as  is to , so is  to .
 But, as  is to , so also is  to ; therefore, , as  is to , so is  to . [elem.5.22]
-Therefore, if  is commensurable with ,  is also commensurable, and, if  is incommensurable with ,  is also incommensurable with . [elem.10.11]
+Therefore, if  is commensurable with ,  is also commensurable with , and, if  is incommensurable with ,  is also incommensurable with . [elem.10.11]
 Therefore etc.

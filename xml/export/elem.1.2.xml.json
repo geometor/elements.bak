@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "Thus it is required to place at the point `A` (as an extremity) `BC`.",
+            "text": "Thus it is required to place at the point `A` (as an extremity) a straight line equal to the given straight line `BC`.",
             "refs": [],
             "emphs": [
                 "A",
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "text": "Let the straight lines `AE`, `BF` be produced in a straight line with `DA`, `DB`; [elem.1.post.2] with centre `B` and distance `BC` let the `CGH` be described; [elem.1.post.3] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [elem.1.post.3]",
+            "text": "Let the straight lines `AE`, `BF` be produced in a straight line with `DA`, `DB`; [elem.1.post.2] with centre `B` and distance `BC` let the circle `CGH` be described; [elem.1.post.3] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [elem.1.post.3]",
             "refs": [
                 "elem.1.post.2",
                 "elem.1.post.3",

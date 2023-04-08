@@ -1,15 +1,16 @@
 <div3 id="elem.1.14" n="14" type="proposition">
       <head>Proposition 14.</head>
       <div4 type="Enunc">
-       <p>If with any straight line, and at a point on it, two straight lines not lying on the same side make the adjacent angles equal to two right angles, the two straight lines will be in a straight line with one another. </p>
+       <p>If with any straight line, and at a point on it, two straight lines not lying on the same side make the adjacent angles equal to two right angles, the two straight lines will be in a straight line with one another. <lb n="5"/></p>
       </div4>
       <div4 type="Proof">
        <p>For with any straight line <emph>AB</emph>, and at the point <emph>B</emph> on it, let the two straight lines <emph>BC</emph>, <emph>BD</emph> not lying on the same side make the adjacent angles <emph>ABC</emph>, <emph>ABD</emph> equal to two right angles;</p>
-       <p>I say that <emph>BD</emph> is in a straight line with <emph>CB</emph>. </p>
+       <p>I say that <emph>BD</emph> is in a straight line with <emph>CB</emph>. <lb n="10"/></p>
        <p>For, if <emph>BD</emph> is not in a straight line with <emph>BC</emph>, let <emph>BE</emph> be in a straight line with <emph>CB</emph>.</p>
-       <p>Then, since the straight line <emph>AB</emph> stands on the straight line <emph>CBE</emph>, <hi rend="center">the angles <emph>ABC</emph>, <emph>ABE</emph> are equal to two right angles. [<ref target="elem.1.13" targOrder="U">I. 13</ref>]</hi> But the angles <emph>ABC</emph>, <emph>ABD</emph> are also equal to two right angles; <hi rend="center">therefore the angles <emph>CBA</emph>, <emph>ABE</emph> are equal to the angles <emph>CBA</emph>, <emph>ABD</emph>. [<ref target="elem.1.post.4" targOrder="U">Post. 4</ref> and <ref target="elem.1.c.n.1" targOrder="U">C.N. 1</ref>]</hi></p>
-       <p>Let the angle <emph>CBA</emph> be subtracted from each; <emph>ABE</emph> is equal to the remaining angle <emph>ABD</emph>, [<ref target="elem.1.c.n.3" targOrder="U">C.N. 3</ref>] <hi rend="center">the less to the greater: which is impossible. Therefore <emph>BE</emph> is not in a straight line with <emph>CB</emph>.</hi></p>
-       <p>Similarly we can prove that neither is any other straight <emph>BD</emph>. <hi rend="center">Therefore <emph>CB</emph> is in a straight line with <emph>BD</emph>.</hi></p>
+       <p>Then, since the straight line <emph>AB</emph> stands on the straight line <emph>CBE</emph>, <figure/>
+        <lb n="15"/><hi rend="center">the angles <emph>ABC</emph>, <emph>ABE</emph> are equal to two right angles. [<ref target="elem.1.13" targOrder="U">I. 13</ref>]</hi> But the angles <emph>ABC</emph>, <emph>ABD</emph> are also equal to two right angles; <hi rend="center">therefore the angles <emph>CBA</emph>, <emph>ABE</emph> are equal to the angles <emph>CBA</emph>, <emph>ABD</emph>. [<ref target="elem.1.post.4" targOrder="U">Post. 4</ref> and <ref target="elem.1.c.n.1" targOrder="U">C.N. 1</ref>]</hi></p>
+       <p>Let the angle <emph>CBA</emph> be subtracted from each; <lb n="20"/>therefore the remaining angle <emph>ABE</emph> is equal to the remaining angle <emph>ABD</emph>, [<ref target="elem.1.c.n.3" targOrder="U">C.N. 3</ref>] <hi rend="center">the less to the greater: which is impossible. Therefore <emph>BE</emph> is not in a straight line with <emph>CB</emph>.</hi></p>
+       <p>Similarly we can prove that neither is any other straight <lb n="25"/>line except <emph>BD</emph>. <pb n="277"/><hi rend="center">Therefore <emph>CB</emph> is in a straight line with <emph>BD</emph>.</hi></p>
        <p>Therefore etc.</p>
       </div4>
       <div4 type="QED">

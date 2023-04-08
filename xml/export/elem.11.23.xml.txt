@@ -8,7 +8,7 @@ Let  be so constructed that  is equal to ,  to , and further  to , let the circl
 For, if not,  is either equal to , or less.
 First, let it be equal.
 Then, since  is equal to , while  is equal to , and  to , the two sides ,  are equal to the two sides ,  respectively; and, by hypothesis, the base  is equal to the base ; therefore the angle  is equal to the angle . [elem.1.8]
-For the same reason the angle  is also equal to the angle , and further the angle  to the angle ; , ,  are equal to the three angles , , .
+For the same reason the angle  is also equal to the angle , and further the angle  to the angle ; therefore the three angles , ,  are equal to the three angles , , .
 But the three angles , ,  are equal to four right angles; therefore the angles , ,  are equal to four right angles.
 But they are also, by hypothesis, less than four right angles: which is absurd.
 Therefore  is not equal to .

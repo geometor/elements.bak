@@ -4,7 +4,7 @@
     "type": "proposition",
     "proof": [
         {
-            "text": "Let , ,  be the given numbers, as many as we please; thus it is required to find the least of , , .",
+            "text": "Let , ,  be the given numbers, as many as we please; thus it is required to find the least of those which have the same ratio with , , .",
             "refs": [],
             "emphs": []
         },
@@ -14,14 +14,14 @@
             "emphs": []
         },
         {
-            "text": "Now, if , ,  are prime to one elem.7.21]",
+            "text": "Now, if , ,  are prime to one another, they are the least of those which have the same ratio with them. [elem.7.21]",
             "refs": [
                 "elem.7.21"
             ],
             "emphs": []
         },
         {
-            "text": "But, if not, let  the greatest common measure of , ,  be taken, [elem.7.3]  measures the numbers , , \n       , ,  respectively.",
+            "text": "But, if not, let  the greatest common measure of , ,  be taken, [elem.7.3] and, as many times as  measures the numbers , , \n       respectively, so many units let there be in the numbers , ,  respectively.",
             "refs": [
                 "elem.7.3"
             ],
@@ -35,7 +35,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore , ,  measure , ,  the same number of , ,  are in the same ratio with , , . [elem.7.def.20]",
+            "text": "Therefore , ,  measure , ,  the same number of times; therefore , ,  are in the same ratio with , , . [elem.7.def.20]",
             "refs": [
                 "elem.7.def.20"
             ],
@@ -47,7 +47,7 @@
             "emphs": []
         },
         {
-            "text": "For, if , ,  are not the least of those which have the same ratio with , , , , ,  which are in the same ratio with , , .",
+            "text": "For, if , ,  are not the least of those which have the same ratio with , , , there will be numbers less than , ,  which are in the same ratio with , , .",
             "refs": [],
             "emphs": []
         },
@@ -62,7 +62,7 @@
             "emphs": []
         },
         {
-            "text": "And, since  measures  according to the units in ,  also measures  according to the units in . [elem.7.16]",
+            "text": "And, since  measures  according to the units in , therefore  also measures  according to the units in . [elem.7.16]",
             "refs": [
                 "elem.7.16"
             ],
@@ -108,7 +108,7 @@
             "emphs": []
         },
         {
-            "text": "And it measures , , :  is the greatest common measure of , , .",
+            "text": "And it measures , , : which is impossible, for by hypothesis  is the greatest common measure of , , .",
             "refs": [],
             "emphs": []
         },
@@ -118,7 +118,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore , ,  are the least of those which have the , , . Q. E. D.",
+            "text": "Therefore , ,  are the least of those which have the same ratio with , , . Q. E. D.",
             "refs": [],
             "emphs": []
         }

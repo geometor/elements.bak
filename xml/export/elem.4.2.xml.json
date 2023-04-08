@@ -15,7 +15,7 @@
             ]
         },
         {
-            "text": "Let `GH` be drawn touching the circle `ABC` at `A` [elem.3.16.p.1]; `AH`, and at the point `A` on it, let the angle `HAC` be constructed equal to the angle `DEF`, and on the straight line `AG`, and at the point `A` on it, let the angle `GAB` be constructed equal to the angle `DFE`; [elem.1.23] let `BC` be joined.",
+            "text": "Let `GH` be drawn touching the circle `ABC` at `A` [elem.3.16.p.1]; on the straight line `AH`, and at the point `A` on it, let the angle `HAC` be constructed equal to the angle `DEF`, and on the straight line `AG`, and at the point `A` on it, let the angle `GAB` be constructed equal to the angle `DFE`; [elem.1.23] let `BC` be joined.",
             "refs": [
                 "elem.3.16.p.1",
                 "elem.1.23"

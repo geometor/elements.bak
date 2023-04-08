@@ -4,7 +4,7 @@
     "type": "propositions i\u201447",
     "proof": [
         {
-            "text": "Let there be set out two medial straight lines , , commensurable in square only, such that the rectangle which they contain is rational, and the square on  is greater than the square on  by the square on a straight line incommensurable with ; [elem.10.31, .]  be described on , let  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, namely the rectangle , ; [elem.6.28] therefore  is incommensurable in length with . [elem.10.18]",
+            "text": "Let there be set out two medial straight lines , , commensurable in square only, such that the rectangle which they contain is rational, and the square on  is greater than the square on  by the square on a straight line incommensurable with ; [elem.10.31, .]  let the semicircle  be described on , let  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, namely the rectangle , ; [elem.6.28] therefore  is incommensurable in length with . [elem.10.18]",
             "refs": [
                 "elem.10.31",
                 "elem.6.28",

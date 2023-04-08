@@ -8,5 +8,5 @@ For, if `AB` is unequal to `AC`, one of them is greater.
 Let `AB` be greater; and from `AB` the greater let `DB` be cut off equal to `AC` the less;
 let `DC` be joined.
 Then, since `DB` is equal to `AC`, and `BC` is common, 
-        `DBC` is equal to the angle `ACB`;
+        and the angle `DBC` is equal to the angle `ACB`;
 Therefore etc.

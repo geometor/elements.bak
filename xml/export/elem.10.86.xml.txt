@@ -14,7 +14,7 @@ For let the square on  be that by which the square on  is greater than the squar
 Since then, as the square on  is to the square on , so is the number  to the number , therefore, , as the square on  is to the square on , so is  to . [elem.5.19.p.1]
 And each of the numbers ,  is square; therefore the square on  has to the square on  the ratio which a square number has to a square number; therefore  is commensurable in length with . [elem.10.9]
 And the square on  is greater than the square on  by the square on ; therefore the square on  is greater than the square on 
-       .
+       by the square on a straight line commensurable in length with .
 And , the annex, is commensurable with the rational straight line  set out.
 Therefore  is a second apotome. [elem.10.def.3.2]
 Therefore the second apotome  has been found. Q. E. D.

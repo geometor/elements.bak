@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let `AB`, `BC` be the two given straight lines; thus it is required to find a mean proportional to `AB`, `BC`.
-Let them be placed in a straight line, and let the semicircle `ADC` be described on `AC`; `BD` be drawn from the point `B` at right angles to the straight line `AC`, and let `AD`, `DC` be joined.
+Let them be placed in a straight line, and let the semicircle `ADC` be described on `AC`;  let `BD` be drawn from the point `B` at right angles to the straight line `AC`, and let `AD`, `DC` be joined.
 Since the angle `ADC` is an angle in a semicircle, it is right. [elem.3.31]
 And, since, in the right-angled triangle `ADC`, `DB` has been drawn from the right angle perpendicular to the base, therefore `DB` is a mean proportional between the segments of the base, `AB`, `BC`. [elem.6.8.p.1]
 Therefore to the two given straight lines `AB`, `BC` a mean proportional `DB` has been found. Q. E. F.

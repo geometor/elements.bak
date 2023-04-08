@@ -2,7 +2,8 @@ Enunciation:
 .
 
 Proof:
-Let as many numbers as we please, , , , , in continued proportion be the least of those which have the same ratio with them; ,  are prime to one another.
+Let as many numbers as we please, , , , , in continued proportion be the least of those which have the same ratio with them; 
+       I say that the extremes of them ,  are prime to one another.
 For let two numbers , , the least that are in the ratio of , , , , be taken, [elem.7.33] then three others , ,  with the same property; and others, more by one continually, [elem.8.2] until the multitude taken becomes equal to the multitude of the numbers , , , .
 Let them be taken, and let them be , , , .
 Now, since ,  are the least of those which have the same ratio with them, they are prime to one another. [elem.7.22]

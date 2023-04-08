@@ -5,7 +5,7 @@
     "enunciation": "`Equiangular parallelograms have to one another the ratio compounded of the ratios of their sides`.",
     "proof": [
         {
-            "text": "Let `AC`, `CF` be equiangular parallelograms having the angle `BCD` equal to the angle `ECG`; `AC` has to the parallelogram `CF` the ratio compounded of the ratios of the sides.",
+            "text": "Let `AC`, `CF` be equiangular parallelograms having the angle `BCD` equal to the angle `ECG`; I say that the parallelogram `AC` has to the parallelogram `CF` the ratio compounded of the ratios of the sides.",
             "refs": [],
             "emphs": [
                 "AC",
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "text": "Then the ratios of `K` to `L` and of `L` to `M` are the same `BC` to `CG` and of `DC` to `CE`.",
+            "text": "Then the ratios of `K` to `L` and of `L` to `M` are the same as the ratios of the sides, namely of `BC` to `CG` and of `DC` to `CE`.",
             "refs": [],
             "emphs": [
                 "K",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "But the ratio of `K` to `M` is compounded of the ratio of `K` to `L` and of that of `L` to `M`; so that `K` has also to `M` the ratio compounded of the ratios",
+            "text": "But the ratio of `K` to `M` is compounded of the ratio of `K` to `L` and of that of `L` to `M`; so that `K` has also to `M` the ratio compounded of the ratios of the sides.",
             "refs": [],
             "emphs": [
                 "K",
@@ -109,7 +109,7 @@
             ]
         },
         {
-            "text": "Since then it was proved that, as `K` is to `L`, so is the parallelogram `AC` to the parallelogram `CH`, and, as `L` is to `M`, so is the parallelogram `CH` to the parallelogram `CF`, therefore, , as `K` is to `M`, so is `AC` to the parallelogram`CF`.",
+            "text": "Since then it was proved that, as `K` is to `L`, so is the parallelogram `AC` to the parallelogram `CH`, and, as `L` is to `M`, so is the parallelogram `CH` to the parallelogram `CF`, therefore, , as `K` is to `M`, so is `AC` to the parallelogram\n       `CF`.",
             "refs": [],
             "emphs": [
                 "K",

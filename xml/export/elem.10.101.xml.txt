@@ -16,7 +16,7 @@ But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length 
 And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]
 I say next that it is also a fifth apotome.
 For we can prove similarly that the rectangle ,  is equal to the square on , that is, to the fourth part of the square on .
-And, since the square on  is incommensurable with the square on ,  is equal to , and the square on  to , therefore  is incommensurable with .
+And, since the square on  is incommensurable with the square on , while the square on  is equal to , and the square on  to , therefore  is incommensurable with .
 But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]
 Since then ,  are two unequal straight lines, and a parallelogram equal to the fourth part of the square on  and deficient by a square figure has been applied to , and divides it into incommensurable parts, therefore the square on  is greater than the square on  by the square on a straight line incommensurable with . [elem.10.18]
 And the annex  is commensurable with the rational straight line  set out; therefore  is a fifth apotome. [elem.10.def.3.5] Q. E. D.

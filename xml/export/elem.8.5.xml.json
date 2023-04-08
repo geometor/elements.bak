@@ -4,12 +4,12 @@
     "type": "proposition",
     "proof": [
         {
-            "text": "Let ,  be plane numbers, and let the numbers ,  be the sides of , and ,  of ;  has to  the ratio compounded of the ratios of the sides.",
+            "text": "Let ,  be plane numbers, and let the numbers ,  be the sides of , and ,  of ; I say that  has to  the ratio compounded of the ratios of the sides.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, the ratios being given which  has to  and  to , let the least numbers , ,  that are continuously  : ,  :  be taken, so that,  and, as  is to , so is  to . [elem.8.4]",
+            "text": "For, the ratios being given which  has to  and  to , let the least numbers , ,  that are continuously in the ratios  : ,  :  be taken, so that,  and, as  is to , so is  to . [elem.8.4]",
             "refs": [
                 "elem.8.4"
             ],
@@ -50,7 +50,7 @@
             "emphs": []
         },
         {
-            "text": "But  has to  the ratio compounded of the ratios of the  also has to  the ratio compounded of the ratios of the sides. Q. E. D.",
+            "text": "But  has to  the ratio compounded of the ratios of the sides; therefore  also has to  the ratio compounded of the ratios of the sides. Q. E. D.",
             "refs": [],
             "emphs": []
         }

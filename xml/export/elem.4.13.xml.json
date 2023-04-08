@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "For let the angles `BCD`, `CDE` be bisected by the straight lines `CF`, `DF` respectively; and from the point `F`, at `CF`, `DF` meet one another, let the straight lines `FB`, `FA`, `FE` be joined.",
+            "text": "For let the angles `BCD`, `CDE` be bisected by the straight lines `CF`, `DF` respectively; and from the point `F`, at which the straight lines `CF`, `DF` meet one another, let the straight lines `FB`, `FA`, `FE` be joined.",
             "refs": [],
             "emphs": [
                 "BCD",
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "text": "Then, since `BC` is equal to `CD`, and `CF` common, the two sides `BC`, `CF` are equal to the two sides `DC`, `CF`; `BCF` is equal to the angle `DCF`;  and the triangle `BCF` is equal to the triangle `DCF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend. [elem.1.4]",
+            "text": "Then, since `BC` is equal to `CD`, and `CF` common, the two sides `BC`, `CF` are equal to the two sides `DC`, `CF`;  and the angle `BCF` is equal to the angle `DCF`;  and the triangle `BCF` is equal to the triangle `DCF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
@@ -116,7 +116,7 @@
             ]
         },
         {
-            "text": "Similarly it can be proved that each of the straight lines `FL`, `FM`, `FG` is also equal to each of the straight lines `FH`, `FK`; `FG`, `FH`, `FK`, `FL`, `FM` are equal to one another.",
+            "text": "Similarly it can be proved that each of the straight lines `FL`, `FM`, `FG` is also equal to each of the straight lines `FH`, `FK`; therefore the five straight lines `FG`, `FH`, `FK`, `FL`, `FM` are equal to one another.",
             "refs": [],
             "emphs": [
                 "FL",

@@ -2,11 +2,11 @@ Enunciation:
 , , , ,
 
 Proof:
-Let there be three plane angles , , , of  and, further, the angles ,  greater than the angle ; let the straight lines , , , , ,  be equal, and let , ,  be joined; I say that it is possible to construct a triangle out of straight lines equal to , , , that is, that any two of the straight lines , ,  are greater than the remaining one.
+Let there be three plane angles , , , of which two, taken together in any manner, are greater than the remaining one, namely  and, further, the angles ,  greater than the angle ; let the straight lines , , , , ,  be equal, and let , ,  be joined; I say that it is possible to construct a triangle out of straight lines equal to , , , that is, that any two of the straight lines , ,  are greater than the remaining one.
 Now, if the angles , ,  are equal to one another, it is manifest that, , ,  being equal also, it is possible to construct a triangle out of straight lines equal to , , .
 But, if not, let them be unequal, and on the straight line , and at the point  on it, let the angle  be constructed equal to the angle ; let  be made equal to one of the straight lines , , , , , , and let ,  be joined.
 Now, since the two sides ,  are equal to the two sides , , and the angle at  is equal to the angle , therefore the base  is equal to the base . [elem.1.4]
-And, since the angles ,  are greater than the angle ,  is equal to the angle , therefore the angle  is greater than the angle .
+And, since the angles ,  are greater than the angle , while the angle  is equal to the angle , therefore the angle  is greater than the angle .
 And, since the two sides ,  are equal to the two sides , , and the angle  is greater than the angle , therefore the base  is greater than the base . [elem.1.24]
 But ,  are greater than .
 Therefore ,  are much greater than .

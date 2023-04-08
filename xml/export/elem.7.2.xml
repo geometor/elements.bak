@@ -5,7 +5,8 @@
       </p>
       <p>Let <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> be the two given numbers not prime to one another. </p>
       <p>Thus it is required to find the greatest common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
-      <p>If now <hi rend="ital">CD</hi> measures <hi rend="ital">AB</hi>—and it also measures itself—<hi rend="ital">CD</hi> is a common measure of <hi rend="ital">CD</hi>, <hi rend="ital">AB</hi>. </p>
+      <p>If now <hi rend="ital">CD</hi> measures <hi rend="ital">AB</hi>—and it also measures itself—<hi rend="ital">CD</hi> is a common measure of <hi rend="ital">CD</hi>, <hi rend="ital">AB</hi>. <figure/>
+      </p>
       <p>And it is manifest that it is also the greatest; for no greater number than <hi rend="ital">CD</hi> will measure <hi rend="ital">CD</hi>. </p>
       <p>But, if <hi rend="ital">CD</hi> does not measure <hi rend="ital">AB</hi>, then, the less of the numbers <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> being continually subtracted from the greater, some number will be left which will measure the one before it. </p>
       <p>For an unit will not be left; otherwise <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> will be prime to one another [<ref target="elem.7.1" targOrder="U">VII. 1</ref>], which is contrary to the hypothesis. </p>
@@ -16,7 +17,7 @@
       <p>But <hi rend="ital">CD</hi> measures <hi rend="ital">BE</hi>; therefore <hi rend="ital">CF</hi> also measures <hi rend="ital">BE</hi>. </p>
       <p>But it also measures <hi rend="ital">EA</hi>; therefore it will also measure the whole <hi rend="ital">BA</hi>. </p>
       <p>But it also measures <hi rend="ital">CD</hi>; therefore <hi rend="ital">CF</hi> measures <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
-      <p>Therefore <hi rend="ital">CF</hi> is a common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
+      <p>Therefore <hi rend="ital">CF</hi> is a common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. <pb n="299"/></p>
       <p>I say next that it is also the greatest. </p>
       <p>For, if <hi rend="ital">CF</hi> is not the greatest common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>, some number which is greater than <hi rend="ital">CF</hi> will measure the numbers <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
       <p>Let such a number measure them, and let it be <hi rend="ital">G</hi>. </p>

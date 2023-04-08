@@ -5,7 +5,7 @@
     "enunciation": "To construct, in a given rectilineal angle, a parallelogram equal to a given rectilineal figure.",
     "proof": [
         {
-            "text": "Let `ABCD` be the given rectilineal figure and `E` the given rectilineal angle; `E`, a parallelogram equal to the rectilineal figure `ABCD`.",
+            "text": "Let `ABCD` be the given rectilineal figure and `E` the given rectilineal angle; thus it is required to construct, in the given angle `E`, a parallelogram equal to the rectilineal figure `ABCD`.",
             "refs": [],
             "emphs": [
                 "ABCD",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "text": "Let `DB` be joined, and let the parallelogram `FH` be constructed equal to the triangle `ABD`, in the angle `HKF` which is equal to `E`; [elem.1.42] `GM` equal to the triangle `DBC` be applied to the straight line `GH`, in the angle `GHM` which is equal to `E`. [elem.1.44]",
+            "text": "Let `DB` be joined, and let the parallelogram `FH` be constructed equal to the triangle `ABD`, in the angle `HKF` which is equal to `E`; [elem.1.42] let the parallelogram `GM` equal to the triangle `DBC` be applied to the straight line `GH`, in the angle `GHM` which is equal to `E`. [elem.1.44]",
             "refs": [
                 "elem.1.42",
                 "elem.1.44"
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "text": "But the angles `FKH`, `KHG` are equal to two right angles; [elem.1.29] `KHG`, `GHM` are also equal to two right angles.",
+            "text": "But the angles `FKH`, `KHG` are equal to two right angles; [elem.1.29] therefore the angles `KHG`, `GHM` are also equal to two right angles.",
             "refs": [
                 "elem.1.29"
             ],
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "text": "Let the angle `HGL` be added to each; `MHG`, `HGL` are equal to the angles `HGF`, `HGL`. [elem.1.c.n.2]",
+            "text": "Let the angle `HGL` be added to each; therefore the angles `MHG`, `HGL` are equal to the angles `HGF`, `HGL`. [elem.1.c.n.2]",
             "refs": [
                 "elem.1.c.n.2"
             ],
@@ -115,7 +115,7 @@
             ]
         },
         {
-            "text": "And, since `FK` is equal and parallel to `HG`, [elem.1.34] \n        `KF` is also equal and parallel to `ML`; [elem.1.c.n.1;elem.1.30] and the straight lines `KM`, `FL` join them (at their extremities); `KM`, `FL` are also equal and parallel. [elem.1.33]",
+            "text": "And, since `FK` is equal and parallel to `HG`, [elem.1.34] \n        `KF` is also equal and parallel to `ML`; [elem.1.c.n.1;elem.1.30] and the straight lines `KM`, `FL` join them (at their extremities); therefore `KM`, `FL` are also equal and parallel. [elem.1.33]",
             "refs": [
                 "elem.1.34",
                 "elem.1.c.n.1",
@@ -134,7 +134,7 @@
             ]
         },
         {
-            "text": "And, since the triangle `ABD` is equal to the parallelogram `FH`, \n        `ABCD` is equal to the whole parallelogram `KFLM`.",
+            "text": "And, since the triangle `ABD` is equal to the parallelogram `FH`, \n        the whole rectilineal figure `ABCD` is equal to the whole parallelogram `KFLM`.",
             "refs": [],
             "emphs": [
                 "ABD",

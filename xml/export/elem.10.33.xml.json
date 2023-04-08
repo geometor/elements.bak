@@ -5,7 +5,7 @@
     "enunciation": ".",
     "proof": [
         {
-            "text": "Let there be set out two rational straight lines ,  commensurable in square only and such that the square on the greater  is greater than the square on the less  by the square on a straight line incommensurable with , [elem.10.30]  be bisected at , let there be applied to  a parallelogram equal to the square on either of the straight lines ,  and deficient by a square figure, and let it be the rectangle , ; [elem.6.28] let the semicircle  be described on , let  be drawn at right angles to , and let ,  be joined.",
+            "text": "Let there be set out two rational straight lines ,  commensurable in square only and such that the square on the greater  is greater than the square on the less  by the square on a straight line incommensurable with , [elem.10.30] \n       let  be bisected at , let there be applied to  a parallelogram equal to the square on either of the straight lines ,  and deficient by a square figure, and let it be the rectangle , ; [elem.6.28] let the semicircle  be described on , let  be drawn at right angles to , and let ,  be joined.",
             "refs": [
                 "elem.10.30",
                 "elem.6.28"

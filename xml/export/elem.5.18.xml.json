@@ -5,7 +5,7 @@
     "enunciation": "`If magnitudes be proportional`\n       , `they will also be proportional`\n       .",
     "proof": [
         {
-            "text": "Let `AE`, `EB`, `CF`, `FD` be magnitudes proportional , so that, as `AE` is to `EB`, so is `CF` to `FD`; , that is, as `AB` is to `BE`, so is `CD` to `FD`.",
+            "text": "Let `AE`, `EB`, `CF`, `FD` be magnitudes proportional , so that, as `AE` is to `EB`, so is `CF` to `FD`;  I say that they will also be proportional , that is, as `AB` is to `BE`, so is `CD` to `FD`.",
             "refs": [],
             "emphs": [
                 "AE",

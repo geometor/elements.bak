@@ -18,7 +18,7 @@
             ]
         },
         {
-            "text": "For let `CE` be drawn through `C` parallel to `DA`, and let `BA`\n       `E`.",
+            "text": "For let `CE` be drawn through `C` parallel to `DA`, and let `BA`\n        be carried through and meet it at `E`.",
             "refs": [],
             "emphs": [
                 "CE",
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "text": "For, with the same construction, since, as `BD` is to `DC`, so is `BA` to `AC`, `BD` is to `DC`, so is `BA` to `AE` : for `AD` has been drawn parallel to `EC`, one of the sides of the triangle `BCE`: [elem.6.2] therefore also, as `BA` is to `AC`, so is `BA` to `AE`. [elem.5.11]",
+            "text": "For, with the same construction, since, as `BD` is to `DC`, so is `BA` to `AC`, and also, as `BD` is to `DC`, so is `BA` to `AE` : for `AD` has been drawn parallel to `EC`, one of the sides of the triangle `BCE`: [elem.6.2] therefore also, as `BA` is to `AC`, so is `BA` to `AE`. [elem.5.11]",
             "refs": [
                 "elem.6.2",
                 "elem.5.11"

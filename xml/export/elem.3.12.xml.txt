@@ -2,8 +2,8 @@ Enunciation:
 `If two circles touch one another externally`, `the straight line joining their centres will pass through the point of contact`.
 
 Proof:
-For let the two circles `ABC`, `ADE` touch one another `A`, and let the centre `F` of `ABC`, and the centre `G` of `ADE`, be taken; `F` to `G` will pass through the point of contact at `A`.
-For suppose it does not, `FCDG`, and let `AF`, `AG` be joined.
+For let the two circles `ABC`, `ADE` touch one another externally at the point `A`, and let the centre `F` of `ABC`, and the centre `G` of `ADE`, be taken; I say that the straight line joined from `F` to `G` will pass through the point of contact at `A`.
+For suppose it does not, but, if possible, let it pass as `FCDG`, and let `AF`, `AG` be joined.
 Then, since the point `F` is the centre of the circle `ABC`,
 Again, since the point `G` is the centre of the circle `ADE`,
 But `FA` was also proved equal to `FC`;  but it is also less [elem.1.20]: which is impossible.

@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 Let  be medial, and let  be commensurable with ; I say that  is also medial.
-For let a rational straight line  be set out,  let the rectangular area  equal to the square on  be applied, producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
+For let a rational straight line  be set out,  and to  let the rectangular area  equal to the square on  be applied, producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
 And let the rectangular area  equal to the square on  be applied to , producing  as breadth.
 Since then  is commensurable with , the square on  is also commensurable with the square on .
 But  is equal to the square on , and  is equal to the square on ; therefore  is commensurable with .

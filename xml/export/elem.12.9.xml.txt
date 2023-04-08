@@ -14,5 +14,5 @@ Next, in the pyramids ,  let the bases be reciprocally proportional to the heigh
 For, with the same construction, since, as the base  is to the base , so is the height of the pyramid  to the height of the pyramid , while, as the base  is to the base , so is the parallelogram  to the parallelogram , therefore also, as the parallelogram  is to the parallelogram , so is the height of the pyramid  to the height of the pyramid . [elem.5.11]
 But the height of the pyramid  is the same with the height of the parallelepiped , and the height of the pyramid  is the same with the height of the parallelepiped ; therefore, as the base  is to the base , so is the height of the parallelepiped  to the height of the parallelepiped .
 But those parallelepipedal solids in which the bases are reciprocally proportional to the heights are equal; [elem.11.34] therefore the parallelepipedal solid  is equal to the parallelepipedal solid .
-And the pyramid  is a sixth part of , and the pyramid  a sixth part of the parallelepiped ;  is equal to the pyramid .
+And the pyramid  is a sixth part of , and the pyramid  a sixth part of the parallelepiped ; therefore the pyramid  is equal to the pyramid .
 Therefore etc Q. E. D.

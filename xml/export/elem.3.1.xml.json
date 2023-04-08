@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "Let a straight line `AB` be drawn `D`; from `D` let `DC` be drawn at right angles to `AB` and let it be drawn through to `E`; let `CE` be bisected at `F`; `F` is the centre of the circle `ABC`.",
+            "text": "Let a straight line `AB` be drawn through it at random, and let it be bisected at the point `D`; from `D` let `DC` be drawn at right angles to `AB` and let it be drawn through to `E`; let `CE` be bisected at `F`; I say that `F` is the centre of the circle `ABC`.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "text": "Then, since `AD` is equal to `DB`, and `DG` is common,  and the base `GA` is equal to the base `GB`, for they are",
+            "text": "Then, since `AD` is equal to `DB`, and `DG` is common,  and the base `GA` is equal to the base `GB`, for they are radii;",
             "refs": [],
             "emphs": [
                 "AD",

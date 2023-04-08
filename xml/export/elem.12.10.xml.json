@@ -26,7 +26,7 @@
             "emphs": []
         },
         {
-            "text": "Then the prism so set up is greater than the half of the cylinder,  [elem.4.7], the square inscribed in the circle  is half of that circumscribed about it, and the solids set up from them are parallelepipedal prisms of equal height, while parallelepipedal solids which are of the same height are to one another as their bases; [elem.11.32] therefore also the prism set up on the square  is half of the prism set up from the square circumscribed about the circle ; [cf. elem.11.28, or elem.12.6 elem.12.7.p.1] and the cylinder is less than the prism set up from the square circumscribed about the circle ; therefore the prism set up from the square  and of equal height with the cylinder is greater than the half of the cylinder.",
+            "text": "Then the prism so set up is greater than the half of the cylinder, inasmuch as, if we also circumscribe a square about the circle  [elem.4.7], the square inscribed in the circle  is half of that circumscribed about it, and the solids set up from them are parallelepipedal prisms of equal height, while parallelepipedal solids which are of the same height are to one another as their bases; [elem.11.32] therefore also the prism set up on the square  is half of the prism set up from the square circumscribed about the circle ; [cf. elem.11.28, or elem.12.6 elem.12.7.p.1] and the cylinder is less than the prism set up from the square circumscribed about the circle ; therefore the prism set up from the square  and of equal height with the cylinder is greater than the half of the cylinder.",
             "refs": [
                 "elem.4.7",
                 "elem.11.32",
@@ -48,7 +48,7 @@
             "emphs": []
         },
         {
-            "text": "Thus, bisecting the circumferences that are left, joining elem.10.1]",
+            "text": "Thus, bisecting the circumferences that are left, joining straight lines, setting up on each of the triangles prisms of equal height with the cylinder, and doing this continually, we shall leave some segments of the cylinder which will be less than the excess by which the cylinder exceeds the triple of the cone. [elem.10.1]",
             "refs": [
                 "elem.10.1"
             ],
@@ -92,7 +92,7 @@
             "emphs": []
         },
         {
-            "text": "Now let there be set up from the square  a pyramid having the same vertex with the cone; therefore the pyramid so set up is greater than the half part of the cone, seeing that, as we proved before, if we circumscribe a square  will be half of the square circumscribed about the circle, and if we set up from the squares parallelepipedal solids of equal height with the cone, which are also called prisms, the solid set up from the square  will be half of that set up from the square circumscribed about the circle; for they are to one another as their bases. [elem.11.32]",
+            "text": "Now let there be set up from the square  a pyramid having the same vertex with the cone; therefore the pyramid so set up is greater than the half part of the cone, seeing that, as we proved before, if we circumscribe a square about the circle, the square  will be half of the square circumscribed about the circle, and if we set up from the squares parallelepipedal solids of equal height with the cone, which are also called prisms, the solid set up from the square  will be half of that set up from the square circumscribed about the circle; for they are to one another as their bases. [elem.11.32]",
             "refs": [
                 "elem.11.32"
             ],
@@ -131,7 +131,7 @@
             "emphs": []
         },
         {
-            "text": "Let such be left, and let them be the segments on , , , , , , , ;  is the base and the vertex the same with that of the cone, is greater than a third part of the cylinder.",
+            "text": "Let such be left, and let them be the segments on , , , , , , , ; therefore the remainder, the pyramid of which the polygon  is the base and the vertex the same with that of the cone, is greater than a third part of the cylinder.",
             "refs": [],
             "emphs": []
         },

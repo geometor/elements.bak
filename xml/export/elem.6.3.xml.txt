@@ -4,7 +4,7 @@ Enunciation:
 Proof:
 Let `ABC` be a triangle, and let the angle `BAC` be bisected by the straight line `AD`; I say that, as `BD` is to `CD`, so is `BA` to `AC`.
 For let `CE` be drawn through `C` parallel to `DA`, and let `BA`
-       `E`.
+        be carried through and meet it at `E`.
 Then, since the straight line `AC` falls upon the parallels `AD`, `EC`,
 But the angle `CAD` is by hypothesis equal to the angle `BAD`; therefore the angle `BAD` is also equal to the angle `ACE`.
 Again, since the straight line `BAE` falls upon the parallels `AD`, `EC`,
@@ -12,7 +12,7 @@ But the angle `ACE` was also proved equal to the angle `BAD`;
 And, since `AD` has been drawn parallel to `EC`, one of the sides of the triangle `BCE`, therefore, proportionally, as `BD` is to `DC`, so is `BA` to `AE`.
 But `AE` is equal to `AC`; [elem.6.2] therefore, as `BD` is to `DC`, so is `BA` to `AC`.
 Again, let `BA` be to `AC` as `BD` to `DC`, and let `AD` be joined; I say that the angle `BAC` has been bisected by the straight line .
-For, with the same construction, since, as `BD` is to `DC`, so is `BA` to `AC`, `BD` is to `DC`, so is `BA` to `AE` : for `AD` has been drawn parallel to `EC`, one of the sides of the triangle `BCE`: [elem.6.2] therefore also, as `BA` is to `AC`, so is `BA` to `AE`. [elem.5.11]
+For, with the same construction, since, as `BD` is to `DC`, so is `BA` to `AC`, and also, as `BD` is to `DC`, so is `BA` to `AE` : for `AD` has been drawn parallel to `EC`, one of the sides of the triangle `BCE`: [elem.6.2] therefore also, as `BA` is to `AC`, so is `BA` to `AE`. [elem.5.11]
 Therefore `AC` is equal to `AE`, [elem.5.9] so that the angle `AEC` is also equal to the angle `ACE`. [elem.1.5]
 But the angle `AEC` is equal to the exterior angle `BAD`, [elem.1.29] and the angle `ACE` is equal to the alternate angle `CAD`; [`id`.]
 Therefore the angle `BAC` has been bisected by the straight line `AD`.

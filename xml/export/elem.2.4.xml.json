@@ -5,7 +5,7 @@
     "enunciation": "`If a straight line be cut at random`, `the square on the whole is equal to the squares on the segments and twice the rectangle contained by the segments`.",
     "proof": [
         {
-            "text": "For let the straight line `AB` be cut at random at `C`; `AB` is equal to the squares on `AC`, `CB` and twice the rectangle contained by `AC`, `CB`.",
+            "text": "For let the straight line `AB` be cut at random at `C`; I say that the square on `AB` is equal to the squares on `AC`, `CB` and twice the rectangle contained by `AC`, `CB`.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -18,7 +18,7 @@
             ]
         },
         {
-            "text": "For let the square `ADEB` be described on `AB`, [elem.1.46] `BD` be joined; through `C` let `CF` be drawn parallel to either `AD` or `EB`, and through `G` let `HK` be drawn parallel to either `AB` or `DE`. [elem.1.31]",
+            "text": "For let the square `ADEB` be described on `AB`, [elem.1.46] let `BD` be joined; through `C` let `CF` be drawn parallel to either `AD` or `EB`, and through `G` let `HK` be drawn parallel to either `AB` or `DE`. [elem.1.31]",
             "refs": [
                 "elem.1.46",
                 "elem.1.31"
@@ -160,7 +160,7 @@
             ]
         },
         {
-            "text": "But `HF`, `CK`, `AG`, `GE` are the whole `ADEB`, `AB`.",
+            "text": "But `HF`, `CK`, `AG`, `GE` are the whole `ADEB`, which is the square on `AB`.",
             "refs": [],
             "emphs": [
                 "HF",

@@ -17,7 +17,7 @@
             "emphs": []
         },
         {
-            "text": "And it is manifest that this circle is the greatest possible,",
+            "text": "And it is manifest that this circle is the greatest possible, inasmuch as the diameter of the sphere, which is of course the diameter both of the semicircle and of the circle, is greater than all the straight lines drawn across in the circle or the sphere.",
             "refs": [],
             "emphs": []
         },
@@ -49,7 +49,7 @@
             "emphs": []
         },
         {
-            "text": "Let them be inscribed, and let them be , , ,  and , , , , let , ,  be joined, ,  let perpendiculars be drawn to the plane of the circle ; [elem.11.11] these will fall on , , the common sections of the planes, inasmuch as the planes of ,  are also at right angles to the plane of the circle . [cf. elem.11.def.4]",
+            "text": "Let them be inscribed, and let them be , , ,  and , , , , let , ,  be joined, and from ,  let perpendiculars be drawn to the plane of the circle ; [elem.11.11] these will fall on , , the common sections of the planes, inasmuch as the planes of ,  are also at right angles to the plane of the circle . [cf. elem.11.def.4]",
             "refs": [
                 "elem.11.11",
                 "elem.11.def.4"
@@ -226,7 +226,7 @@
             "emphs": []
         },
         {
-            "text": "And the squares on ,  are equal to the square on , and the squares on ,  equal to the square on ; [elem.1.47] therefore the squares on ,  are equal to the squares on , ,  is greater than the square on ; therefore the remainder, the square on , is less than the square on .",
+            "text": "And the squares on ,  are equal to the square on , and the squares on ,  equal to the square on ; [elem.1.47] therefore the squares on ,  are equal to the squares on , , and of these the square on  is greater than the square on ; therefore the remainder, the square on , is less than the square on .",
             "refs": [
                 "elem.1.47"
             ],

@@ -2,7 +2,7 @@ Enunciation:
 .
 
 Proof:
-Let  be an apotome, and let  be commensurable in length with ;  is also an apotome and the same in order with .
+Let  be an apotome, and let  be commensurable in length with ;  I say that  is also an apotome and the same in order with .
 For, since  is an apotome, let  be the annex to it; therefore ,  are rational straight lines commensurable in square only. [elem.10.73]
 Let it be contrived that the ratio of  to  is the same as the ratio of  to ; [elem.6.12] therefore also, as one is to one, so are all to all; [elem.5.12] therefore also, as the whole  is to the whole , so is  to .
 But  is commensurable in length with .

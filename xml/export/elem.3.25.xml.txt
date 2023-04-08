@@ -12,5 +12,6 @@ Therefore the circle drawn with centre `E` and distance one of the straight line
 Therefore, given a segment of a circle, the complete circle has been described.
 And it is manifest that the segment `ABC` is less than a semicircle, because the centre `E` happens to be outside it.
 Similarly, even if the angle `ABD` be equal to the angle `BAD`, `AD` being equal to each of the two `BD`, `DC`,
-But, if the angle `ABD` be less than the angle `BAD`, and if we construct, on the straight line `BA` and at the point `A` on it, an angle equal to the angle `ABD`, the centre will fall on `DB` within the segment `ABC`, and the segment `ABC` will clearly be greater than a semicircle.
+But, if the angle `ABD` be less than the angle `BAD`, and if we construct, on the straight line `BA` and at the point `A` on it, an angle equal to the angle `ABD`, the centre will fall on `DB` within the segment `ABC`, and the segment 
+       `ABC` will clearly be greater than a semicircle.
 Therefore, given a segment of a circle, the complete circle has been described. Q. E. F.
