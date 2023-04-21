@@ -1,0 +1,3 @@
+'''
+EuclidBot responses module.
+'''

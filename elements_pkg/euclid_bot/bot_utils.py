@@ -1,0 +1,3 @@
+'''
+EuclidBot utilities module.
+'''
