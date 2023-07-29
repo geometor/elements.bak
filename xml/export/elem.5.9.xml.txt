@@ -3,7 +3,7 @@ Enunciation:
 
 Proof:
 For let each of the magnitudes `A`, `B` have the same ratio to `C`; I say that `A` is equal to `B`.
-For, otherwise, each of the magnitudes `A`, `B` would not have had the same ratio to `C`; [elem.5.8] but it has;
+For, otherwise, each of the magnitudes `A`, `B` would not have had the same ratio to `C`; [elem.5.8] but it has; > therefore `A` is equal to `B`.
 Again, let `C` have the same ratio to each of the magnitudes `A`, `B`; I say that `A` is equal to `B`.
-For, otherwise, `C` would not have had the same ratio to each of the magnitudes `A`, `B`; [elem.5.8] but it has;
+For, otherwise, `C` would not have had the same ratio to each of the magnitudes `A`, `B`; [elem.5.8] but it has; > therefore `A` is equal to `B`.
 Therefore etc. Q. E. D.

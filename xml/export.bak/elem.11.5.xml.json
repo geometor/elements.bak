@@ -1,0 +1,74 @@
+{
+    "id": "elem.11.5",
+    "n": 5,
+    "type": "proposition",
+    "enunciation": ", ,",
+    "proof": [
+        {
+            "text": "For let a straight line  be set up at right angles to the three straight lines , , , at their point of meeting at ; I say that , ,  are in one plane.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For suppose they are not, but, if possible, let ,  be in the plane of reference and  in one more elevated; let the plane through ,  be produced; it will thus make, as common section in the plane of reference, a straight line. [elem.11.3]",
+            "refs": [
+                "elem.11.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let it make .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the three straight lines , ,  are in one plane, namely that drawn through , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is at right angles to each of the straight lines , , therefore  is also at right angles to the plane through , . [elem.11.4]",
+            "refs": [
+                "elem.11.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the plane through ,  is the plane of reference; therefore  is at right angles to the plane of reference.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Thus  will also make right angles with all the straight lines which meet it and are in the plane of reference. [elem.11.def.3]",
+            "refs": [
+                "elem.11.def.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  which is in the plane of reference meets it; therefore the angle  is right.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, by hypothesis, the angle  is also right; therefore the angle  is equal to the angle .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And they are in one plane: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the straight line  is not in a more elevated plane; therefore the three straight lines , ,  are in one plane.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, if a straight line be set up at right angles to three straight lines, at their point of meeting, the three straight lines are in one plane. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

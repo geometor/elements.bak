@@ -1,8 +1,8 @@
 Enunciation:
-
+> To set up a straight line at right angles to a given plane from a given point in it.
 
 Proof:
-Let the plane of reference be the given plane, and  the point in it; thus it is required to set up from the point  a straight line at right angles to the plane of reference.
-Let any elevated point  be conceived, from  let  be drawn perpendicular to the plane of reference, [elem.11.11] and through the point  let  be drawn parallel to . [elem.1.31]
-Then, since ,  are two parallel straight lines, while one of them, , is at right angles to the plane of reference, therefore the remaining one, , is also at right angles to the plane of reference. [elem.11.8]
-Therefore  has been set up at right angles to the given plane from the point  in it.
+Let the plane of reference be the given plane, and > A the point in it; thus it is required to set up from the point > A a straight line at right angles to the plane of reference.
+Let any elevated point > B be conceived, from > B let > BC be drawn perpendicular to the plane of reference, [elem.11.11] and through the point > A let > AD be drawn parallel to > BC. [elem.1.31]
+Then, since > AD, > CB are two parallel straight lines, while one of them, > BC, is at right angles to the plane of reference, therefore the remaining one, > AD, is also at right angles to the plane of reference. [elem.11.8]
+Therefore > AD has been set up at right angles to the given plane from the point > A in it.

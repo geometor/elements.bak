@@ -2,26 +2,27 @@
     "id": "elem.11.11",
     "n": 11,
     "type": "proposition",
+    "enunciation": "> From a given elevated point to draw a straight line perpendicular to a given plane.",
     "proof": [
         {
-            "text": "Let  be the given elevated point, and the plane of reference the given plane; thus it is required to draw from the point  a straight line perpendicular to the plane of reference.",
+            "text": "Let > A be the given elevated point, and the plane of reference the given plane; thus it is required to draw from the point > A a straight line perpendicular to the plane of reference.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let any straight line  be drawn, at random, in the plane of reference, and let  be drawn from the point  perpendicular to . [elem.1.12]",
+            "text": "Let any straight line > BC be drawn, at random, in the plane of reference, and let > AD be drawn from the point > A perpendicular to > BC. [elem.1.12]",
             "refs": [
                 "elem.1.12"
             ],
             "emphs": []
         },
         {
-            "text": "If then  is also perpendicular to the plane of reference, that which was enjoined will have been done.",
+            "text": "If then > AD is also perpendicular to the plane of reference, that which was enjoined will have been done.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, if not, let  be drawn from the point  at right angles to  and in the plane of reference, [elem.1.11] let  be drawn from  perpendicular to , [elem.1.12] and let  be drawn through the point  parallel to . [elem.1.31]",
+            "text": "But, if not, let > DE be drawn from the point > D at right angles to > BC and in the plane of reference, [elem.1.11] let > AF be drawn from > A perpendicular to > DE, [elem.1.12] and let > GH be drawn through the point > F parallel to > BC. [elem.1.31]",
             "refs": [
                 "elem.1.11",
                 "elem.1.12",
@@ -30,50 +31,50 @@
             "emphs": []
         },
         {
-            "text": "Now, since  is at right angles to each of the straight lines , , therefore  is also at right angles to the plane through , . [elem.11.4]",
+            "text": "Now, since > BC is at right angles to each of the straight lines > DA, > DE, therefore > BC is also at right angles to the plane through > ED, > DA. [elem.11.4]",
             "refs": [
                 "elem.11.4"
             ],
             "emphs": []
         },
         {
-            "text": "And  is parallel to it; but, if two straight lines be parallel, and one of them be at right angles to any plane, the remaining one will also be at right angles to the same plane; [elem.11.8] therefore  is also at right angles to the plane through , .",
+            "text": "And > GH is parallel to it; but, if two straight lines be parallel, and one of them be at right angles to any plane, the remaining one will also be at right angles to the same plane; [elem.11.8] therefore > GH is also at right angles to the plane through > ED, > DA.",
             "refs": [
                 "elem.11.8"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is also at right angles to all the straight lines which meet it and are in the plane through , . [elem.11.def.3]",
+            "text": "Therefore > GH is also at right angles to all the straight lines which meet it and are in the plane through > ED, > DA. [elem.11.def.3]",
             "refs": [
                 "elem.11.def.3"
             ],
             "emphs": []
         },
         {
-            "text": "But  meets it and is in the plane through , ; therefore  is at right angles to , so that  is also at right angles to .",
+            "text": "But > AF meets it and is in the plane through > ED, > DA; therefore > GH is at right angles to > FA, so that > FA is also at right angles to > GH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is also at right angles to ; therefore  is at right angles to each of the straight lines , .",
+            "text": "But > AF is also at right angles to > DE; therefore > AF is at right angles to each of the straight lines > GH, > DE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, if a straight line be set up at right angles to two straight lines which cut one another, at the point of section, it will also be at right angles to the plane through them; [elem.11.4] therefore  is at right angles to the plane through , .",
+            "text": "But, if a straight line be set up at right angles to two straight lines which cut one another, at the point of section, it will also be at right angles to the plane through them; [elem.11.4] therefore > FA is at right angles to the plane through > ED, > GH.",
             "refs": [
                 "elem.11.4"
             ],
             "emphs": []
         },
         {
-            "text": "But the plane through ,  is the plane of reference; therefore  is at right angles to the plane of reference.",
+            "text": "But the plane through > ED, > GH is the plane of reference; therefore > AF is at right angles to the plane of reference.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore from the given elevated point  the straight line  has been drawn perpendicular to the plane of reference. Q. E. F.",
+            "text": "Therefore from the given elevated point > A the straight line > AF has been drawn perpendicular to the plane of reference. Q. E. F.",
             "refs": [],
             "emphs": []
         }

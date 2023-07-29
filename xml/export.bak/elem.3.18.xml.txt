@@ -1,0 +1,11 @@
+Enunciation:
+`If a straight line touch a circle`, `and a straight line be joined from the centre to the point of contact`, `the straight line so joined will be perpendicular to the tangent`.
+
+Proof:
+For let a straight line `DE` touch the circle `ABC` at the point `C`, let the centre `F` of the circle `ABC` be taken, and let `FC` be joined from `F` to `C`; I say that `FC` is perpendicular to `DE`.
+For, if not, let `FG` be drawn from `F` perpendicular to `DE`.
+Then, since the angle `FGC` is right,  and the greater angle is subtended by the greater side; [elem.1.19]
+But `FC` is equal to `FB`;
+Therefore `FG` is not perpendicular to `DE`.
+Similarly we can prove that neither is any other straight line except `FC`;
+Therefore etc. Q. E. D.

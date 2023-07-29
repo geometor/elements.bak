@@ -1,0 +1,18 @@
+Enunciation:
+
+
+Proof:
+Let there be as many numbers as we please, , , , , , , beginning from an unit and in continued proportion, and let , the number after the unit, be square; I say that all the rest will also be square.
+Now it has been proved that , the third from the unit, is square, as are also all those which leave out one; [elem.9.8] I say that all the rest are also square.
+For, since , ,  are in continued proportion, and  is square, therefore  is also square. [elem.8.22]
+Again, since , ,  are in continued proportion, and  is square,  is also square. [elem.8.22]
+Similarly we can prove that all the rest are also square.
+Next, let  be cube; I say that all the rest are also cube.
+Now it has been proved that , the fourth from the unit, is cube, as also are all those which leave out two; [elem.9.8] I say that all the rest are also cube.
+For, since, as the unit is to , so is  to , therefore the unit measures  the same number of times as  measures .
+But the unit measures  according to the units in it; therefore  also measures  according to the units in itself; therefore  by multiplying itself has made .
+And  is cube.
+But, if a cube number by multiplying itself make some number, the product is cube. [elem.9.3]
+Therefore  is also cube.
+And, since the four numbers , , ,  are in continued proportion, and  is cube,  also is cube. [elem.8.23]
+For the same reason  is also cube, and similarly all the rest are cube. Q. E. D.

@@ -30,7 +30,7 @@
             ]
         },
         {
-            "text": "Then, since the point `F` is the centre of the circle `ABC`,",
+            "text": "Then, since the point `F` is the centre of the circle `ABC`, > `FA` is equal to `FC`.",
             "refs": [],
             "emphs": [
                 "F",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "text": "Again, since the point `G` is the centre of the circle `ADE`,",
+            "text": "Again, since the point `G` is the centre of the circle `ADE`, > `GA` is equal to `GD`.",
             "refs": [],
             "emphs": [
                 "G",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "text": "But `FA` was also proved equal to `FC`;  but it is also less [elem.1.20]: which is impossible.",
+            "text": "But `FA` was also proved equal to `FC`; > therefore `FA`, `AG` are equal to `FC`, `GD`, so that the whole `FG` is greater than `FA`, `AG`; but it is also less [elem.1.20]: which is impossible.",
             "refs": [
                 "elem.1.20"
             ],
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "text": "Therefore the straight line joined from `F` to `G` will not fail to pass through the point of contact at `A`;",
+            "text": "Therefore the straight line joined from `F` to `G` will not fail to pass through the point of contact at `A`; > therefore it will pass through it.",
             "refs": [],
             "emphs": [
                 "F",

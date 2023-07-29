@@ -2,41 +2,41 @@
     "id": "elem.10.19",
     "n": 19,
     "type": "propositions i\u201447",
-    "enunciation": ".",
+    "enunciation": "> The rectangle contained by rational straight lines commensurable in length is rational.",
     "proof": [
         {
-            "text": "For let the rectangle  be contained by the rational straight lines ,  commensurable in length; I say that  is rational.",
+            "text": "For let the rectangle > AC be contained by the rational straight lines > AB, > BC commensurable in length; I say that > AC is rational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For on  let the square  be described; therefore  is rational. [elem.10.def.4]",
+            "text": "For on > AB let the square > AD be described; therefore > AD is rational. [elem.10.def.4]",
             "refs": [
                 "elem.10.def.4"
             ],
             "emphs": []
         },
         {
-            "text": "And, since  is commensurable in length with , while  is equal to , therefore  is commensurable in length with .",
+            "text": "And, since > AB is commensurable in length with > BC, while > AB is equal to > BD, therefore > BD is commensurable in length with > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, as  is to , so is  to . [elem.6.1]",
+            "text": "And, as > BD is to > BC, so is > DA to > AC. [elem.6.1]",
             "refs": [
                 "elem.6.1"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is commensurable with . [elem.10.11]",
+            "text": "Therefore > DA is commensurable with > AC. [elem.10.11]",
             "refs": [
                 "elem.10.11"
             ],
             "emphs": []
         },
         {
-            "text": "But  is rational; therefore  is also rational. [elem.10.def.4]",
+            "text": "But > DA is rational; therefore > AC is also rational. [elem.10.def.4]",
             "refs": [
                 "elem.10.def.4"
             ],

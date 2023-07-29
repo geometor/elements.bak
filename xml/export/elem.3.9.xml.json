@@ -36,7 +36,7 @@
             ]
         },
         {
-            "text": "Then, since `AE` is equal to `EB`, and `ED` is common,  and the base `DA` is equal to the base `DB`;",
+            "text": "Then, since `AE` is equal to `EB`, and `ED` is common, > the two sides `AE`, `ED` are equal to the two sides `BE`, `ED`; and the base `DA` is equal to the base `DB`; > therefore the angle `AED` is equal to the angle `BED`. [elem.1.8]",
             "refs": [],
             "emphs": [
                 "AE",
@@ -59,19 +59,19 @@
             ]
         },
         {
-            "text": "And since, if in a circle a straight line cut a straight line into two equal parts and at right angles, the centre of the circle is on the cutting straight line, [elem.3.1.p.1]",
+            "text": "And since, if in a circle a straight line cut a straight line into two equal parts and at right angles, the centre of the circle is on the cutting straight line, [elem.3.1.p.1] > the centre of the circle is on `GK`.",
             "refs": [
                 "elem.3.1.p.1"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason",
+            "text": "For the same reason > the centre of the circle `ABC` is also on `HL`.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And the straight lines `GK`, `HL` have no other point common but the point `D`;",
+            "text": "And the straight lines `GK`, `HL` have no other point common but the point `D`; > therefore the point `D` is the centre of the circle `ABC`.",
             "refs": [],
             "emphs": [
                 "GK",

@@ -2,57 +2,58 @@
     "id": "elem.10.78",
     "n": 78,
     "type": "propositions 48\u201484",
+    "enunciation": "> If from a straight line there be subtracted a straight line which is incommensurable in square with the whole and which with the whole makes the sum of the squares on them medial, twice the rectangle contained by them medial, and further the squares on them incommensurable with twice the rectangle contained by them, the remainder is irrational; and let it be called\n       > that which produces with a medial area a medial whole.",
     "proof": [
         {
-            "text": "For from the straight line  let there be subtracted the straight line  incommensurable in square with  and fulfilling the given conditions; [elem.10.35]  I say that the remainder  is the irrational straight line called .",
+            "text": "For from the straight line > AB let there be subtracted the straight line > BC incommensurable in square with > AB and fulfilling the given conditions; [elem.10.35]  I say that the remainder > AC is the irrational straight line called > that which produces with a medial area a medial whole.",
             "refs": [
                 "elem.10.35"
             ],
             "emphs": []
         },
         {
-            "text": "For let a rational straight line  be set out, to  let there be applied  equal to the squares on , , producing  as breadth, and let  equal to twice the rectangle ,  be subtracted.",
+            "text": "For let a rational straight line > DI be set out, to > DI let there be applied > DE equal to the squares on > AB, > BC, producing > DG as breadth, and let > DH equal to twice the rectangle > AB, > BC be subtracted.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the remainder  is equal to the square on , [elem.2.7] so that  is the \n of .",
+            "text": "Therefore the remainder > FE is equal to the square on > AC, [elem.2.7] so that > AC is the \n of > FE.",
             "refs": [
                 "elem.2.7"
             ],
             "emphs": []
         },
         {
-            "text": "Now, since the sum of the squares on ,  is medial and is equal to , therefore  is medial.",
+            "text": "Now, since the sum of the squares on > AB, > BC is medial and is equal to > DE, therefore > DE is medial.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]",
+            "text": "And it is applied to the rational straight line > DI, producing > DG as breadth; therefore > DG is rational and incommensurable in length with > DI. [elem.10.22]",
             "refs": [
                 "elem.10.22"
             ],
             "emphs": []
         },
         {
-            "text": "Again, since twice the rectangle ,  is medial and is equal to , therefore  is medial.",
+            "text": "Again, since twice the rectangle > AB, > BC is medial and is equal to > DH, therefore > DH is medial.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And it is applied to the rational straight line , producing  as breadth; therefore  is also rational and incommensurable in length with . [elem.10.22]",
+            "text": "And it is applied to the rational straight line > DI, producing > DF as breadth; therefore > DF is also rational and incommensurable in length with > DI. [elem.10.22]",
             "refs": [
                 "elem.10.22"
             ],
             "emphs": []
         },
         {
-            "text": "And, since the squares on ,  are incommensurable with twice the rectangle , , therefore  is also incommensurable with .",
+            "text": "And, since the squares on > AB, > BC are incommensurable with twice the rectangle > AB, > BC, therefore > DE is also incommensurable with > DH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so also is  to ; [elem.6.1] therefore  is incommensurable with . [elem.10.11]",
+            "text": "But, as > DE is to > DH, so also is > DG to > DF; [elem.6.1] therefore > DG is incommensurable with > DF. [elem.10.11]",
             "refs": [
                 "elem.6.1",
                 "elem.10.11"
@@ -60,31 +61,31 @@
             "emphs": []
         },
         {
-            "text": "And both are rational; therefore ,  are rational straight lines commensurable in square only.",
+            "text": "And both are rational; therefore > GD, > DF are rational straight lines commensurable in square only.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is an apotome. [elem.10.73]",
+            "text": "Therefore > FG is an apotome. [elem.10.73]",
             "refs": [
                 "elem.10.73"
             ],
             "emphs": []
         },
         {
-            "text": "And  is rational; but the rectangle contained by a rational straight line and an apotome is irrational, [deduction from elem.10.20] and its \n is irrational.",
+            "text": "And > FH is rational; but the rectangle contained by a rational straight line and an apotome is irrational, [deduction from elem.10.20] and its \n is irrational.",
             "refs": [
                 "elem.10.20"
             ],
             "emphs": []
         },
         {
-            "text": "And  is the \n of ; therefore  is irrational.",
+            "text": "And > AC is the \n of > FE; therefore > AC is irrational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And let it be called . Q. E. D.",
+            "text": "And let it be called > that which produces with a medial area a medial whole. Q. E. D.",
             "refs": [],
             "emphs": []
         }

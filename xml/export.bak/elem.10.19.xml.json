@@ -1,0 +1,51 @@
+{
+    "id": "elem.10.19",
+    "n": 19,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let the rectangle  be contained by the rational straight lines ,  commensurable in length; I say that  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For on  let the square  be described; therefore  is rational. [elem.10.def.4]",
+            "refs": [
+                "elem.10.def.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is commensurable in length with , while  is equal to , therefore  is commensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to . [elem.6.1]",
+            "refs": [
+                "elem.6.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is commensurable with . [elem.10.11]",
+            "refs": [
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is rational; therefore  is also rational. [elem.10.def.4]",
+            "refs": [
+                "elem.10.def.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

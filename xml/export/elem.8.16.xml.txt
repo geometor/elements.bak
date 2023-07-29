@@ -1,10 +1,10 @@
 Enunciation:
-
+> If a square number do not measure a square number, neither will the side measure the side; and, if the side do not measure the side, neither will the square measure the square.
 
 Proof:
-Let ,  be square numbers, and let ,  be their sides; and let  not measure ; I say that neither does  measure .
-For, if  measures ,  will also measure . [elem.8.14]
-But  does not measure ; therefore neither will  measure .
-Again, let  not measure ; I say that neither will  measure .
-For, if  measures ,  will also measure . [elem.8.14]
-But  does not measure ; therefore neither will  measure . Q. E. D.
+Let > A, > B be square numbers, and let > C, > D be their sides; and let > A not measure > B; I say that neither does > C measure > D.
+For, if > C measures > D, > A will also measure > B. [elem.8.14]
+But > A does not measure > B; therefore neither will > C measure > D.
+Again, let > C not measure > D; I say that neither will > A measure > B.
+For, if > A measures > B, > C will also measure > D. [elem.8.14]
+But > C does not measure > D; therefore neither will > A measure > B. Q. E. D.

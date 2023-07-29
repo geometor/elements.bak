@@ -1,0 +1,17 @@
+Enunciation:
+`Given a segment of a circle`, `to describe the complete circle of which it is a segment`.
+
+Proof:
+Let `ABC` be the given segment of a circle; thus it is required to describe the complete circle belonging to the segment `ABC`, that is, of which it is a segment.
+For let `AC` be bisected at `D`, let `DB` be drawn from the point `D` at right angles to `AC`, and let `AB`. be joined;
+First let it be greater; and on the straight line `BA`, and at the point `A` on it, let the angle `BAE` be constructed equal to the angle `ABD`; let `DB` be drawn through to `E`, and let `EC` be joined.
+Then, since the angle `ABE` is equal to the angle `BAE`,
+And, since `AD` is equal to `DC`, and `DE` is common,  and the angle `ADE` is equal to the angle `CDE`, for each is right;
+But `AE` was proved equal to `BE`;  therefore the three straight lines `AE`, `EB`, `EC` are equal to one another.
+Therefore the circle drawn with centre `E` and distance one of the straight lines `AE`, `EB`, `EC` will also pass through the remaining points and will have been completed. [elem.3.9]
+Therefore, given a segment of a circle, the complete circle has been described.
+And it is manifest that the segment `ABC` is less than a semicircle, because the centre `E` happens to be outside it.
+Similarly, even if the angle `ABD` be equal to the angle `BAD`, `AD` being equal to each of the two `BD`, `DC`,
+But, if the angle `ABD` be less than the angle `BAD`, and if we construct, on the straight line `BA` and at the point `A` on it, an angle equal to the angle `ABD`, the centre will fall on `DB` within the segment `ABC`, and the segment 
+       `ABC` will clearly be greater than a semicircle.
+Therefore, given a segment of a circle, the complete circle has been described. Q. E. F.

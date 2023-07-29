@@ -1,4 +1,4 @@
 Enunciation:
-A rectilineal figure is said to be  when each angle of the inscribed figure lies on the circumference of the circle.
+A rectilineal figure is said to be > inscribed in a circle when each angle of the inscribed figure lies on the circumference of the circle.
 
 Proof:

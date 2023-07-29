@@ -1,0 +1,14 @@
+Enunciation:
+
+
+Proof:
+Let there be as many numbers as we please, , , , , , in continued proportion, and let  not measure ; I say that neither will any other measure any other.
+Now it is manifest that , , , ,  do not measure one another in order; for  does not even measure .
+I say, then, that neither will any other measure any other.
+For, if possible, let  measure .
+And, however many , ,  are, let as many numbers , , , the least of those which have the same ratio with , , , be taken. [elem.7.33]
+Now, since , ,  are in the same ratio with , , , and the multitude of the numbers , ,  is equal to the multitude of the numbers , , , therefore, , as  is to , so is  to . [elem.7.14]
+And since, as  is to , so is  to , while  does not measure , therefore neither does  measure ; [elem.7.def.20] therefore  is not an unit, for the unit measures any number.
+Now ,  are prime to one another. [elem.8.3]
+And, as  is to , so is  to ; therefore neither does  measure .
+Similarly we can prove that neither will any other measure any other. Q. E. D.

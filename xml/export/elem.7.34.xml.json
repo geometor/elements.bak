@@ -2,26 +2,27 @@
     "id": "elem.7.34",
     "n": 34,
     "type": "proposition",
+    "enunciation": "> Given two numbers, to find the least number which they measure.",
     "proof": [
         {
-            "text": "Let ,  be the two given numbers; thus it is required to find the least number which they measure.",
+            "text": "Let > A, > B be the two given numbers; thus it is required to find the least number which they measure.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now ,  are either prime to one another or not.",
+            "text": "Now > A, > B are either prime to one another or not.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "First, let ,  be prime to one another, and let  by multiplying  make ; therefore also  by multiplying  has made . [elem.7.16]",
+            "text": "First, let > A, > B be prime to one another, and let > A by multiplying > B make > C; therefore also > B by multiplying > A has made > C. [elem.7.16]",
             "refs": [
                 "elem.7.16"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore ,  measure",
+            "text": "Therefore > A, > B measure > C",
             "refs": [],
             "emphs": []
         },
@@ -31,31 +32,31 @@
             "emphs": []
         },
         {
-            "text": "For, if not, ,  will measure some number which is less than .",
+            "text": "For, if not, > A, > B will measure some number which is less than > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let them measure .",
+            "text": "Let them measure > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then, as many times as  measures , so many units let there be in , and, as many times as  measures , so many units let there be in ; therefore  by multiplying  has made , and  by multiplying  has made ; [elem.7.def.15] therefore the product of ,  is equal to the product of , .",
+            "text": "Then, as many times as > A measures > D, so many units let there be in > E, and, as many times as > B measures > D, so many units let there be in > F; therefore > A by multiplying > E has made > D, and > B by multiplying > F has made > D; [elem.7.def.15] therefore the product of > A, > E is equal to the product of > B, > F.",
             "refs": [
                 "elem.7.def.15"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is \n       . [elem.7.19]",
+            "text": "Therefore, as > A is to > B, so is > F\n       > E. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore  measures , as consequent consequent.",
+            "text": "But > A, > B are prime, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore > B measures > E, as consequent consequent.",
             "refs": [
                 "elem.7.21",
                 "elem.7.20"
@@ -63,24 +64,24 @@
             "emphs": []
         },
         {
-            "text": "And, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "And, since > A by multiplying > B, > E has made > C, > D, therefore, as > B is to > E, so is > C to > D. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "But  measures ; therefore  also measures , the greater the less: which is impossible.",
+            "text": "But > B measures > E; therefore > C also measures > D, the greater the less: which is impossible.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  do not measure any number less than ; therefore  is the least that is measured by , .",
+            "text": "Therefore > A, > B do not measure any number less than > C; therefore > C is the least that is measured by > A, > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Next, let ,  not be prime to one another, and let , , the least numbers of those which have the same ratio with , , be taken; [elem.7.33] therefore the product of ,  is equal to the product of , . [elem.7.19]",
+            "text": "Next, let > A, > B not be prime to one another, and let > F, > E, the least numbers of those which have the same ratio with > A, > B, be taken; [elem.7.33] therefore the product of > A, > E is equal to the product of > B, > F. [elem.7.19]",
             "refs": [
                 "elem.7.33",
                 "elem.7.19"
@@ -88,7 +89,7 @@
             "emphs": []
         },
         {
-            "text": "And let  by multiplying  make ; therefore also  by multiplying  has made ; therefore ,  measure .",
+            "text": "And let > A by multiplying > E make > C; therefore also > B by multiplying > F has made > C; therefore > A, > B measure > C.",
             "refs": [],
             "emphs": []
         },
@@ -98,68 +99,68 @@
             "emphs": []
         },
         {
-            "text": "For, if not, ,  will measure some number which is less than .",
+            "text": "For, if not, > A, > B will measure some number which is less than > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let them measure .",
+            "text": "Let them measure > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, as many times as  measures , so many units let there be in , and, as many times as  measures , so many units let there be in .",
+            "text": "And, as many times as > A measures > D, so many units let there be in > G, and, as many times as > B measures > D, so many units let there be in > H.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  by multiplying  has made , and  by multiplying  has made .",
+            "text": "Therefore > A by multiplying > G has made > D, and > B by multiplying > H has made > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the product of ,  is equal to the product of , ; therefore, as  is to , so is  to . [elem.7.19]",
+            "text": "Therefore the product of > A, > G is equal to the product of > B, > H; therefore, as > A is to > B, so is > H to > G. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to .",
+            "text": "But, as > A is to > B, so is > F to > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore also, as  is to , so is  to .",
+            "text": "Therefore also, as > F is to > E, so is > H to > G.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But ,  are least, and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore  measures .",
+            "text": "But > F, > E are least, and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore > E measures > G.",
             "refs": [
                 "elem.7.20"
             ],
             "emphs": []
         },
         {
-            "text": "And, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "And, since > A by multiplying > E, > G has made > C, > D, therefore, as > E is to > G, so is > C to > D. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "But  measures ; therefore  also measures , the greater the less: which is impossible.",
+            "text": "But > E measures > G; therefore > C also measures > D, the greater the less: which is impossible.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  will not measure any number which is less than .",
+            "text": "Therefore > A, > B will not measure any number which is less than > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is the least that is measured by , . Q. E. D.",
+            "text": "Therefore > C is the least that is measured by > A, > B. Q. E. D.",
             "refs": [],
             "emphs": []
         }

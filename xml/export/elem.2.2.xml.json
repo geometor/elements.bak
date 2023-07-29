@@ -50,7 +50,7 @@
             ]
         },
         {
-            "text": "`AF` is the rectangle contained by `BA`, `AC`, for it is contained by `DA`, `AC`, and `AD` is equal to `AB`;",
+            "text": "`AF` is the rectangle contained by `BA`, `AC`, for it is contained by `DA`, `AC`, and `AD` is equal to `AB`; > and `CE` is the rectangle `AB`, `BC`, for `BE` is equal to `AB`.",
             "refs": [],
             "emphs": [
                 "AF",

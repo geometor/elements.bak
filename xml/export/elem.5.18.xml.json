@@ -44,7 +44,7 @@
             ]
         },
         {
-            "text": "Then, since, as `AB` is to `BE`, so is `CD` to `DG`, they are magnitudes proportional ;",
+            "text": "Then, since, as `AB` is to `BE`, so is `CD` to `DG`, they are magnitudes proportional ; > so that they will also be proportional . [elem.5.17]",
             "refs": [],
             "emphs": [
                 "AB",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "text": "But also, by hypothesis,",
+            "text": "But also, by hypothesis, > as `AE` is to `EB`, so is `CF` to `FD`.",
             "refs": [],
             "emphs": []
         },
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "text": "But the first `CG` is greater than the third `CF`;",
+            "text": "But the first `CG` is greater than the third `CF`; > therefore the second `GD` is also greater than the fourth `FD`. [elem.5.14]",
             "refs": [],
             "emphs": [
                 "CG",
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that neither is it in that ratio to a greater;",
+            "text": "Similarly we can prove that neither is it in that ratio to a greater; > it is therefore in that ratio to `FD` itself.",
             "refs": [],
             "emphs": []
         },

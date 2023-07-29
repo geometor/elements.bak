@@ -1,0 +1,15 @@
+Enunciation:
+.
+
+Proof:
+Let two numbers ,  be set out such that  has not to either of them the ratio which a square number has to a square number; let any rational straight line  be set out, and let  be commensurable with ; therefore  is rational.
+Let it be contrived that, as  is to , so is the square on  to the square on . [elem.10.6.p.1]
+But  has not to  the ratio which a square number has to a square number; therefore neither has the square on  to the square on  the ratio which a square number has to a square number.
+Therefore ,  are rational straight lines commensurable in square only; [elem.10.9] therefore  is binomial. [elem.10.36]
+I say next that it is also a fifth binomial straight line.
+For since, as  is to , so is the square on  to the square on , inversely, as  is to , so is the square on  to the square on ; therefore the square on  is greater than the square on .
+Let then the squares on ,  be equal to the square on ; therefore, , as the number  is to , so is the square on  to the square on . [elem.5.19.p.1]
+But  has not to  the ratio which a square number has to a square number; therefore neither has the square on  to the square on  the ratio which a square number has to a square number.
+Therefore  is incommensurable in length with ; [elem.10.9] so that the square on  is greater than the square on  by the square on a straight line incommensurable with .
+And ,  are rational straight lines commensurable in square only, and the lesser term  is commensurable in length with the rational straight line  set out.
+Therefore  is a fifth binomial straight line. Q. E. D.

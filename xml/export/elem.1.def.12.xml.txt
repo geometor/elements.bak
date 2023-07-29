@@ -1,4 +1,4 @@
 Enunciation:
-An  is an angle less than a right angle.
+An <term>acute angle</term> is an angle less than a right angle.
 
 Proof:

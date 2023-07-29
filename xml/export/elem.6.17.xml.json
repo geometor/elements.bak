@@ -124,7 +124,7 @@
             ]
         },
         {
-            "text": "But `B` is equal to `D`;",
+            "text": "But `B` is equal to `D`; > therefore, as `A` is to `B`, so is `B` to `C`.",
             "refs": [],
             "emphs": [
                 "B",

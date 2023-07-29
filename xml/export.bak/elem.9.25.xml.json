@@ -1,0 +1,33 @@
+{
+    "id": "elem.9.25",
+    "n": 25,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For from the even number  let the odd number  be subtracted; I say that the remainder  is odd.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the unit  be subtracted from ; therefore  is even. [elem.7.def.7]",
+            "refs": [
+                "elem.7.def.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is also even; therefore the remainder  is also even. [elem.9.24]",
+            "refs": [
+                "elem.9.24"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is an unit; therefore  is odd. [elem.7.def.7] Q. E. D.",
+            "refs": [
+                "elem.7.def.7"
+            ],
+            "emphs": []
+        }
+    ]
+}

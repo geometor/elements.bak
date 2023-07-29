@@ -30,7 +30,7 @@
             ]
         },
         {
-            "text": "Then, since `DA` is equal to `DB`,  And, since one side `AEB` of the triangle `DAE` is produced,",
+            "text": "Then, since `DA` is equal to `DB`, > the angle `DAE` is also equal to the angle `DBE`. [elem.1.5] And, since one side `AEB` of the triangle `DAE` is produced, > the angle `DEB` is greater than the angle `DAE`. [elem.1.16]",
             "refs": [],
             "emphs": [
                 "DA",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "text": "But the angle `DAE` is equal to the angle `DBE`;  And the greater angle is subtended by the greater side; [elem.1.19]",
+            "text": "But the angle `DAE` is equal to the angle `DBE`; > therefore the angle `DEB` is greater than the angle `DBE`. And the greater angle is subtended by the greater side; [elem.1.19] > therefore `DB` is greater than `DE`. But `DB` is equal to `DF`;\n       > therefore `DF` is greater than `DE`,\n       > the less than the greater : which is impossible.",
             "refs": [
                 "elem.1.19"
             ],
@@ -58,7 +58,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that neither will it fall on the circumference itself;",
+            "text": "Similarly we can prove that neither will it fall on the circumference itself; > therefore it will fall within.",
             "refs": [],
             "emphs": []
         },

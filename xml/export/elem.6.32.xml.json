@@ -40,7 +40,7 @@
             ]
         },
         {
-            "text": "For the same reason  so that the angle `BAC` is equal to the angle `CDE`.",
+            "text": "For the same reason > the angle `CDE` is also equal to the angle `ACD`; so that the angle `BAC` is equal to the angle `CDE`.",
             "refs": [],
             "emphs": [
                 "BAC",
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "text": "And, since `ABC`, `DCE` are two triangles having one angle, the angle at `A`, equal to one angle, the angle at `D`,  so that, as `BA` is to `AC`, so is `CD` to `DE`,",
+            "text": "And, since `ABC`, `DCE` are two triangles having one angle, the angle at `A`, equal to one angle, the angle at `D`, > and the sides about the equal angles proportional, so that, as `BA` is to `AC`, so is `CD` to `DE`, > therefore the triangle `ABC` is equiangular with the triangle `DCE`; [elem.6.6] therefore the angle `ABC` is equal to the angle `DCE`.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "text": "But the angle `ACD` was also proved equal to the angle `BAC`;",
+            "text": "But the angle `ACD` was also proved equal to the angle `BAC`; > therefore the whole angle `ACE` is equal to the two angles `ABC`, `BAC`.",
             "refs": [],
             "emphs": [
                 "ACD",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "text": "But the angles `BAC`, `ABC`, `ACB` are equal to two right angles; [elem.1.32]",
+            "text": "But the angles `BAC`, `ABC`, `ACB` are equal to two right angles; [elem.1.32] > therefore the angles `ACE`, `ACB` are also equal to two right angles.",
             "refs": [
                 "elem.1.32"
             ],
@@ -93,7 +93,7 @@
             ]
         },
         {
-            "text": "Therefore with a straight line `AC`, and at the point `C` on it, the two straight lines `BC`, `CE` not lying on the same side make the adjacent angles `ACE`, `ACB` equal to two right angles;",
+            "text": "Therefore with a straight line `AC`, and at the point `C` on it, the two straight lines `BC`, `CE` not lying on the same side make the adjacent angles `ACE`, `ACB` equal to two right angles; > therefore `BC` is in a straight line with `CE`. [elem.1.14]",
             "refs": [],
             "emphs": [
                 "AC",

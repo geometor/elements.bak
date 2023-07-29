@@ -1,0 +1,76 @@
+{
+    "id": "elem.1.43",
+    "n": 43,
+    "type": "proposition",
+    "enunciation": "In any parallelogram the complements of the parallelograms about the diameter are equal to one another.",
+    "proof": [
+        {
+            "text": "Let `ABCD` be a parallelogram, and `AC` its diameter; and about `AC` let `EH`, `FG` be parallelograms, and `BK`, `KD`\n        the so-called complements;",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "AC",
+                "AC",
+                "EH",
+                "FG",
+                "BK",
+                "KD"
+            ]
+        },
+        {
+            "text": "I say that the complement `BK` is equal to the complement `KD`.",
+            "refs": [],
+            "emphs": [
+                "BK",
+                "KD"
+            ]
+        },
+        {
+            "text": "For, since `ABCD` is a parallelogram, and `AC` its diameter,",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "AC"
+            ]
+        },
+        {
+            "text": "Again, since `EH` is a parallelogram, and `AK` is its diameter, \n        \n        For the same reason",
+            "refs": [],
+            "emphs": [
+                "EH",
+                "AK"
+            ]
+        },
+        {
+            "text": "Now, since the triangle `AEK` is equal to the triangle `AHK`, \n        the triangle `AEK` together with `KGC` is equal to the triangle `AHK` together with `KFC`. [elem.1.c.n.2]",
+            "refs": [
+                "elem.1.c.n.2"
+            ],
+            "emphs": [
+                "AEK",
+                "AHK",
+                "AEK",
+                "KGC",
+                "AHK",
+                "KFC"
+            ]
+        },
+        {
+            "text": "And the whole triangle `ABC` is also equal to the whole `ADC`; therefore the complement `BK` which remains is equal to the complement `KD` which remains. [elem.1.c.n.3]",
+            "refs": [
+                "elem.1.c.n.3"
+            ],
+            "emphs": [
+                "ABC",
+                "ADC",
+                "BK",
+                "KD"
+            ]
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

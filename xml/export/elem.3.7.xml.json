@@ -36,14 +36,14 @@
             ]
         },
         {
-            "text": "Then, since in any triangle two sides are greater than the remaining one, [elem.1.20]",
+            "text": "Then, since in any triangle two sides are greater than the remaining one, [elem.1.20] > `EB`, `EF` are greater than `BF`.",
             "refs": [
                 "elem.1.20"
             ],
             "emphs": []
         },
         {
-            "text": "But `AE` is equal to `BE`;",
+            "text": "But `AE` is equal to `BE`; > therefore `AF` is greater than `BF`.",
             "refs": [],
             "emphs": [
                 "AE",
@@ -76,12 +76,12 @@
             ]
         },
         {
-            "text": "For the same reason",
+            "text": "For the same reason > `CF` is also greater than `FG`.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since `GF`, `FE` are greater than `EG`, and `EG` is equal to `ED`,",
+            "text": "Again, since `GF`, `FE` are greater than `EG`, and `EG` is equal to `ED`, > `GF`, `FE` are greater than `ED`.",
             "refs": [],
             "emphs": [
                 "GF",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "text": "Let `EF` be subtracted from each;",
+            "text": "Let `EF` be subtracted from each; > therefore the remainder `GF` is greater than the remainder `FD`.",
             "refs": [],
             "emphs": [
                 "EF"
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "text": "Then, since `GE` is equal to `EH`, and `EF` is common,",
+            "text": "Then, since `GE` is equal to `EH`, and `EF` is common, > the two sides `GE`, `EF` are equal to the two sides `HE`, `EF`; and the angle `GEF` is equal to the angle `HEF`;\n       > therefore the base `FG` is equal to the base `FH`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "GE",
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "text": "Then, since `FK` is equal to `FG`, and `FH` to `FG`,",
+            "text": "Then, since `FK` is equal to `FG`, and `FH` to `FG`, > `FK` is also equal to `FH`, the nearer to the straight line through the centre being thus equal to the more remote: which is impossible.",
             "refs": [],
             "emphs": [
                 "FK",
@@ -167,7 +167,7 @@
             ]
         },
         {
-            "text": "Therefore another straight line equal to `GF` will not fall from the point `F` upon the circle;",
+            "text": "Therefore another straight line equal to `GF` will not fall from the point `F` upon the circle; > therefore only one straight line will so fall.",
             "refs": [],
             "emphs": [
                 "GF",

@@ -2,50 +2,51 @@
     "id": "elem.7.30",
     "n": 30,
     "type": "proposition",
+    "enunciation": "> If two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers.",
     "proof": [
         {
-            "text": "For let the two numbers ,  by multiplying one another make , and let any prime number  measure ; I say that  measures one of the numbers , .",
+            "text": "For let the two numbers > A, > B by multiplying one another make > C, and let any prime number > D measure > C; I say that > D measures one of the numbers > A, > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let it not measure .",
+            "text": "For let it not measure > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now  is prime; therefore ,  are prime to one another. [elem.7.29]",
+            "text": "Now > D is prime; therefore > A, > D are prime to one another. [elem.7.29]",
             "refs": [
                 "elem.7.29"
             ],
             "emphs": []
         },
         {
-            "text": "And, as many times as  measures , so many units let there be in .",
+            "text": "And, as many times as > D measures > C, so many units let there be in > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]",
+            "text": "Since then > D measures > C according to the units in > E, therefore > D by multiplying > E has made > C. [elem.7.def.15]",
             "refs": [
                 "elem.7.def.15"
             ],
             "emphs": []
         },
         {
-            "text": "Further,  by multiplying  has also made ; therefore the product of ,  is equal to the product of , .",
+            "text": "Further, > A by multiplying > B has also made > C; therefore the product of > D, > E is equal to the product of > A, > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is  to . [elem.7.19]",
+            "text": "Therefore, as > D is to > A, so is > B to > E. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "But ,  are prime to one another, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore  measures .",
+            "text": "But > D, > A are prime to one another, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore > D measures > B.",
             "refs": [
                 "elem.7.21",
                 "elem.7.20"
@@ -53,12 +54,12 @@
             "emphs": []
         },
         {
-            "text": "Similarly we can also show that, if  do not measure , it will measure .",
+            "text": "Similarly we can also show that, if > D do not measure > B, it will measure > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  measures one of the numbers , . Q. E. D.",
+            "text": "Therefore > D measures one of the numbers > A, > B. Q. E. D.",
             "refs": [],
             "emphs": []
         }

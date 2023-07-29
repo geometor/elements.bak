@@ -2,19 +2,20 @@
     "id": "elem.7.20",
     "n": 20,
     "type": "proposition",
+    "enunciation": "> The least numbers of those which have the same ratio with them measure those which have the same ratio the same number of times, the greater the greater and the less the less.",
     "proof": [
         {
-            "text": "For let ,  be the least numbers of those which have the same ratio with , ; I say that  measures  the same number of times that  measures .",
+            "text": "For let > CD, > EF be the least numbers of those which have the same ratio with > A, > B; I say that > CD measures > A the same number of times that > EF measures > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now  is not parts of .",
+            "text": "Now > CD is not parts of > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let it be so; therefore  is also the same parts of  that  is of . [elem.7.13 and elem.7.def.20]",
+            "text": "For, if possible, let it be so; therefore > EF is also the same parts of > B that > CD is of > A. [elem.7.13 and elem.7.def.20]",
             "refs": [
                 "elem.7.13",
                 "elem.7.def.20"
@@ -22,17 +23,17 @@
             "emphs": []
         },
         {
-            "text": "Therefore, as many parts of  as there are in , so many parts of  are there also in .",
+            "text": "Therefore, as many parts of > A as there are in > CD, so many parts of > B are there also in > EF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  be divided into the parts of , namely , , and  into the parts of , namely , ; thus the multitude of ,  will be equal to the multitude of , .",
+            "text": "Let > CD be divided into the parts of > A, namely > CG, > GD, and > EF into the parts of > B, namely > EH, > HF; thus the multitude of > CG, > GD will be equal to the multitude of > EH, > HF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since the numbers ,  are equal to one another, and the numbers ,  are also equal to one another, while the multitude of ,  is equal to the multitude of , , therefore, as  is to , so is  to .",
+            "text": "Now, since the numbers > CG, > GD are equal to one another, and the numbers > EH, > HF are also equal to one another, while the multitude of > CG, > GD is equal to the multitude of > EH, > HF, therefore, as > CG is to > EH, so is > GD to > HF.",
             "refs": [],
             "emphs": []
         },
@@ -44,24 +45,24 @@
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is  to .",
+            "text": "Therefore, as > CG is to > EH, so is > CD to > EF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are in the same ratio with , , being less than they: which is impossible, for by hypothesis ,  are the least numbers of those which have the same ratio with them.",
+            "text": "Therefore > CG, > EH are in the same ratio with > CD, > EF, being less than they: which is impossible, for by hypothesis > CD, > EF are the least numbers of those which have the same ratio with them.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is not parts of ; therefore it is a part of it. [elem.7.4]",
+            "text": "Therefore > CD is not parts of > A; therefore it is a part of it. [elem.7.4]",
             "refs": [
                 "elem.7.4"
             ],
             "emphs": []
         },
         {
-            "text": "And  is the same part of  that  is of ; [elem.7.13 and elem.7.def.20] therefore  measures  the same number of times that  measures . Q. E. D.",
+            "text": "And > EF is the same part of > B that > CD is of > A; [elem.7.13 and elem.7.def.20] therefore > CD measures > A the same number of times that > EF measures > B. Q. E. D.",
             "refs": [
                 "elem.7.13",
                 "elem.7.def.20"

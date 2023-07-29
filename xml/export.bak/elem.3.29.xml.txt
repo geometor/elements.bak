@@ -1,0 +1,9 @@
+Enunciation:
+`In equal circles equal circumferences are subtended by equal straight lines`.
+
+Proof:
+Let `ABC`, `DEF` be equal circles, and in them let equal circumferences `BGC`, `EHF` be cut off; and let the straight lines `BC`, `EF` be joined; I say that `BC` is equal to `EF`.
+For let the centres of the circles be taken, and let them be `K`, `L`; let `BK`, `KC`, `EL`, `LF` be joined.
+Now, since the circumference `BGC` is equal to the circumference `EHF`,
+And, since the circles `ABC`, `DEF` are equal,
+Therefore etc.

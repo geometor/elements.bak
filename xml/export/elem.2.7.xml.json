@@ -34,7 +34,7 @@
             ]
         },
         {
-            "text": "Then, since `AG` is equal to `GE`, [elem.1.43] let `CF` be added to each;",
+            "text": "Then, since `AG` is equal to `GE`, [elem.1.43] let `CF` be added to each; > therefore the whole `AF` is equal to the whole `CE`.",
             "refs": [
                 "elem.1.43"
             ],
@@ -96,7 +96,7 @@
             ]
         },
         {
-            "text": "But the gnomon `KLM` and the squares `BG`, `GD` are the whole `ADEB` and `CF`,  therefore the squares on `AB`, `BC` are equal to twice the rectangle contained by `AB`, `BC` together with the square on `AC`.",
+            "text": "But the gnomon `KLM` and the squares `BG`, `GD` are the whole `ADEB` and `CF`, > which are squares described on `AB`, `BC`; therefore the squares on `AB`, `BC` are equal to twice the rectangle contained by `AB`, `BC` together with the square on `AC`.",
             "refs": [],
             "emphs": [
                 "KLM",

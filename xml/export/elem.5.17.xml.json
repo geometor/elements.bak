@@ -111,7 +111,7 @@
             ]
         },
         {
-            "text": "Again, since `HK` is the same multiple of `EB` that `MN` is of `FD`,",
+            "text": "Again, since `HK` is the same multiple of `EB` that `MN` is of `FD`, > and `KO` is also the same multiple of `EB` that `NP` is of `FD`, therefore the sum `HO` is also the same multiple of `EB` that `MP` is of `FD`. [elem.5.2]",
             "refs": [],
             "emphs": [
                 "HK",
@@ -143,7 +143,7 @@
             ]
         },
         {
-            "text": "Let `GK` be in excess of `HO`; then, if `HK` be subtracted from each,",
+            "text": "Let `GK` be in excess of `HO`; then, if `HK` be subtracted from each, > `GH` is also in excess of `KO`.",
             "refs": [],
             "emphs": [
                 "GK",
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "text": "But we saw that, if `GK` was in excess of `HO`, `LN` was also in excess of `MP`; \n       and, if `MN` be subtracted from each,  so that, if `GH` is in excess of `KO`, `LM` is also in excess of `NP`.",
+            "text": "But we saw that, if `GK` was in excess of `HO`, `LN` was also in excess of `MP`; > therefore `LN` is also in excess of `MP`,\n       and, if `MN` be subtracted from each, > `LM` is also in excess of `NP`; so that, if `GH` is in excess of `KO`, `LM` is also in excess of `NP`.",
             "refs": [],
             "emphs": [
                 "GK",
@@ -177,7 +177,7 @@
             ]
         },
         {
-            "text": "And `GH`, `LM` are equimultiples of `AE`, `CF`, while `KO`, `NP` are other, chance, equimultiples of `EB`, `FD`;",
+            "text": "And `GH`, `LM` are equimultiples of `AE`, `CF`, while `KO`, `NP` are other, chance, equimultiples of `EB`, `FD`; > therefore, as `AE` is to `EB`, so is `CF` to `FD`.",
             "refs": [],
             "emphs": [
                 "GH",

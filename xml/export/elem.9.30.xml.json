@@ -2,14 +2,15 @@
     "id": "elem.9.30",
     "n": 30,
     "type": "proposition",
+    "enunciation": "> If an odd number measure an even number, it will also measure the half of it.",
     "proof": [
         {
-            "text": "For let the odd number  measure the even number ; I say that it will also measure the half of it.",
+            "text": "For let the odd number > A measure the even number > B; I say that it will also measure the half of it.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  measures , let it measure it according to ; I say that  is not odd.",
+            "text": "For, since > A measures > B, let it measure it according to > C; I say that > C is not odd.",
             "refs": [],
             "emphs": []
         },
@@ -19,29 +20,29 @@
             "emphs": []
         },
         {
-            "text": "Then, since  measures  according to , therefore  by multiplying  has made .",
+            "text": "Then, since > A measures > B according to > C, therefore > A by multiplying > C has made > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is made up of odd numbers the multitude of which is odd.",
+            "text": "Therefore > B is made up of odd numbers the multitude of which is odd.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is odd: [elem.9.23] which is absurd, for by hypothesis it is even.",
+            "text": "Therefore > B is odd: [elem.9.23] which is absurd, for by hypothesis it is even.",
             "refs": [
                 "elem.9.23"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is not odd; therefore  is even.",
+            "text": "Therefore > C is not odd; therefore > C is even.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Thus  measures  an even number of times.",
+            "text": "Thus > A measures > B an even number of times.",
             "refs": [],
             "emphs": []
         },

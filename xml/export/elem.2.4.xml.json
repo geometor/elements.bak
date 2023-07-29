@@ -51,7 +51,7 @@
             ]
         },
         {
-            "text": "But the angle `ADB` is equal to the angle `ABD`,  therefore the angle `CGB` is also equal to the angle `GBC`, so that the side `BC` is also equal to the side `CG`. [elem.1.6]",
+            "text": "But the angle `ADB` is equal to the angle `ABD`, > since the side `BA` is also equal to `AD`; [elem.1.5] therefore the angle `CGB` is also equal to the angle `GBC`, so that the side `BC` is also equal to the side `CG`. [elem.1.6]",
             "refs": [
                 "elem.1.6"
             ],
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "text": "But `CB` is equal to `GK`, and `CG` to `KB`; [elem.1.34]",
+            "text": "But `CB` is equal to `GK`, and `CG` to `KB`; [elem.1.34] > therefore `GK` is also equal to `KB`; therefore `CGKB` is equilateral.",
             "refs": [
                 "elem.1.34"
             ],
@@ -82,7 +82,7 @@
             "emphs": []
         },
         {
-            "text": "For, since `CG` is parallel to `BK`,",
+            "text": "For, since `CG` is parallel to `BK`, > the angles `KBC`, `GCB` are equal to two right angles. [elem.1.29]",
             "refs": [],
             "emphs": [
                 "CG",
@@ -90,21 +90,21 @@
             ]
         },
         {
-            "text": "But the angle `KBC` is right;",
+            "text": "But the angle `KBC` is right; > therefore the angle `BCG` is also right, so that the opposite angles `CGK`, `GKB` are also right. [elem.1.34]",
             "refs": [],
             "emphs": [
                 "KBC"
             ]
         },
         {
-            "text": "Therefore `CGKB` is right-angled; and it was also proved equilateral;",
+            "text": "Therefore `CGKB` is right-angled; and it was also proved equilateral; > therefore it is a square;  and it is described on `CB`.",
             "refs": [],
             "emphs": [
                 "CGKB"
             ]
         },
         {
-            "text": "For the same reason",
+            "text": "For the same reason > `HF` is also a square; and it is described on `HG`, that is `AC`. [elem.1.34]",
             "refs": [],
             "emphs": []
         },
@@ -119,7 +119,7 @@
             ]
         },
         {
-            "text": "Now, since `AG` is equal to `GE`, and `AG` is the rectangle `AC`, `CB`, for `GC` is equal to `CB`,",
+            "text": "Now, since `AG` is equal to `GE`, and `AG` is the rectangle `AC`, `CB`, for `GC` is equal to `CB`, > therefore `GE` is also equal to the rectangle `AC`, `CB`.",
             "refs": [],
             "emphs": [
                 "AG",

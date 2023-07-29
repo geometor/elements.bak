@@ -1,9 +1,9 @@
 Enunciation:
-
+> If as many odd numbers as we please be added together, and their multitude be odd, the whole will also be odd.
 
 Proof:
-For let as many odd numbers as we please, , , , the multitude of which is odd, be added together; I say that the whole  is also odd.
-Let the unit  be subtracted from ; therefore the remainder  is even. [elem.7.def.7]
-But  is also even; [elem.9.22] therefore the whole  is also even. [elem.9.21]
-And  is an unit.
-Therefore  is odd. [elem.7.def.7] Q. E. D.
+For let as many odd numbers as we please, > AB, > BC, > CD, the multitude of which is odd, be added together; I say that the whole > AD is also odd.
+Let the unit > DE be subtracted from > CD; therefore the remainder > CE is even. [elem.7.def.7]
+But > CA is also even; [elem.9.22] therefore the whole > AE is also even. [elem.9.21]
+And > DE is an unit.
+Therefore > AD is odd. [elem.7.def.7] Q. E. D.

@@ -17,7 +17,7 @@
             ]
         },
         {
-            "text": "Then, since the segment `ACB` is similar to the segment `ADB`, and similar segments of circles are those which admit equal angles, [elem.3.def.11]",
+            "text": "Then, since the segment `ACB` is similar to the segment `ADB`, and similar segments of circles are those which admit equal angles, [elem.3.def.11] > the angle `ACB` is equal to the angle `ADB`, the exterior to the interior: which is impossible. [elem.1.16]",
             "refs": [
                 "elem.3.def.11"
             ],

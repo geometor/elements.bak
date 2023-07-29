@@ -2,44 +2,25 @@
     "id": "elem.7.31",
     "n": 31,
     "type": "proposition",
+    "enunciation": "> Any composite number is measured by some prime number.",
     "proof": [
         {
-            "text": "Let  be a composite number; I say that  is measured by some prime number.",
+            "text": "Let > A be a composite number; I say that > A is measured by some prime number.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  is composite, some number will measure it.",
+            "text": "For, since > A is composite, some number will measure it.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let a number measure it, and let it be .",
+            "text": "Let a number measure it, and let it be > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, if  is prime, what was enjoined will have been done.",
-            "refs": [],
-            "emphs": []
-        },
-        {
-            "text": "But if it is composite, some number will measure it.",
-            "refs": [],
-            "emphs": []
-        },
-        {
-            "text": "Let a number measure it, and let it be .",
-            "refs": [],
-            "emphs": []
-        },
-        {
-            "text": "Then, since  measures , and  measures , therefore  also measures .",
-            "refs": [],
-            "emphs": []
-        },
-        {
-            "text": "And, if  is prime, what was enjoined will have been done.",
+            "text": "Now, if > B is prime, what was enjoined will have been done.",
             "refs": [],
             "emphs": []
         },
@@ -49,17 +30,37 @@
             "emphs": []
         },
         {
-            "text": "Thus, if the investigation be continued in this way, some prime number will be found which will measure the number before it, which will also measure .",
+            "text": "Let a number measure it, and let it be > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if it is not found, an infinite series of numbers will measure the number , each of which is less than the other: which is impossible in numbers.",
+            "text": "Then, since > C measures > B, and > B measures > A, therefore > C also measures > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore some prime number will be found which will measure the one before it, which will also measure .",
+            "text": "And, if > C is prime, what was enjoined will have been done.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But if it is composite, some number will measure it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Thus, if the investigation be continued in this way, some prime number will be found which will measure the number before it, which will also measure > A.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if it is not found, an infinite series of numbers will measure the number > A, each of which is less than the other: which is impossible in numbers.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore some prime number will be found which will measure the one before it, which will also measure > A.",
             "refs": [],
             "emphs": []
         },

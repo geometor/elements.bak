@@ -1,0 +1,9 @@
+Enunciation:
+
+
+Proof:
+For let the two numbers ,  be prime to one another; I say that  is not to any other number as  is to .
+For, if possible, as  is to , so let  be to .
+Now ,  are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore  measures  as antecedent antecedent.
+But it also measures itself; therefore  measures ,  which are prime to one another: which is absurd.
+Therefore  will not be to , as  is to . Q. E. D.

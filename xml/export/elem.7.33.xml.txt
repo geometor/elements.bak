@@ -1,26 +1,26 @@
 Enunciation:
-
+> Given as many numbers as we please, to find the least of those which have the same ratio with them.
 
 Proof:
-Let , ,  be the given numbers, as many as we please; thus it is required to find the least of those which have the same ratio with , , .
-, ,  are either prime to one another or not.
-Now, if , ,  are prime to one another, they are the least of those which have the same ratio with them. [elem.7.21]
-But, if not, let  the greatest common measure of , ,  be taken, [elem.7.3] and, as many times as  measures the numbers , , 
-       respectively, so many units let there be in the numbers , ,  respectively.
-Therefore the numbers , ,  measure the numbers , ,  respectively according to the units in . [elem.7.16]
-Therefore , ,  measure , ,  the same number of times; therefore , ,  are in the same ratio with , , . [elem.7.def.20]
+Let > A, > B, > C be the given numbers, as many as we please; thus it is required to find the least of those which have the same ratio with > A, > B, > C.
+> A, > B, > C are either prime to one another or not.
+Now, if > A, > B, > C are prime to one another, they are the least of those which have the same ratio with them. [elem.7.21]
+But, if not, let > D the greatest common measure of > A, > B, > C be taken, [elem.7.3] and, as many times as > D measures the numbers > A, > B, > C
+       respectively, so many units let there be in the numbers > E, > F, > G respectively.
+Therefore the numbers > E, > F, > G measure the numbers > A, > B, > C respectively according to the units in > D. [elem.7.16]
+Therefore > E, > F, > G measure > A, > B, > C the same number of times; therefore > E, > F, > G are in the same ratio with > A, > B, > C. [elem.7.def.20]
 I say next that they are the least that are in that ratio.
-For, if , ,  are not the least of those which have the same ratio with , , , there will be numbers less than , ,  which are in the same ratio with , , .
-Let them be , , ; therefore  measures  the same number of times that the numbers ,  measure the numbers ,  respectively.
-Now, as many times as  measures , so many units let there be in ; therefore the numbers ,  also measure the numbers ,  respectively according to the units in .
-And, since  measures  according to the units in , therefore  also measures  according to the units in . [elem.7.16]
-For the same reason  also measures the numbers ,  according to the units in the numbers ,  respectively;
-Therefore  measures , , .
-Now, since  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]
-For the same reason also  by multiplying  has made .
-Therefore the product of ,  is equal to the product of , .
-Therefore, as  is to , so is  to . [elem.7.19]
-But  is greater than ; therefore  is also greater than .
-And it measures , , : which is impossible, for by hypothesis  is the greatest common measure of , , .
-Therefore there cannot be any numbers less than , ,  which are in the same ratio with , , .
-Therefore , ,  are the least of those which have the same ratio with , , . Q. E. D.
+For, if > E, > F, > G are not the least of those which have the same ratio with > A, > B, > C, there will be numbers less than > E, > F, > G which are in the same ratio with > A, > B, > C.
+Let them be > H, > K, > L; therefore > H measures > A the same number of times that the numbers > K, > L measure the numbers > B, > C respectively.
+Now, as many times as > H measures > A, so many units let there be in > M; therefore the numbers > K, > L also measure the numbers > B, > C respectively according to the units in > M.
+And, since > H measures > A according to the units in > M, therefore > M also measures > A according to the units in > H. [elem.7.16]
+For the same reason > M also measures the numbers > B, > C according to the units in the numbers > K, > L respectively;
+Therefore > M measures > A, > B, > C.
+Now, since > H measures > A according to the units in > M, therefore > H by multiplying > M has made > A. [elem.7.def.15]
+For the same reason also > E by multiplying > D has made > A.
+Therefore the product of > E, > D is equal to the product of > H, > M.
+Therefore, as > E is to > H, so is > M to > D. [elem.7.19]
+But > E is greater than > H; therefore > M is also greater than > D.
+And it measures > A, > B, > C: which is impossible, for by hypothesis > D is the greatest common measure of > A, > B, > C.
+Therefore there cannot be any numbers less than > E, > F, > G which are in the same ratio with > A, > B, > C.
+Therefore > E, > F, > G are the least of those which have the same ratio with > A, > B, > C. Q. E. D.

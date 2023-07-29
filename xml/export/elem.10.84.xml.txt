@@ -1,21 +1,21 @@
 Enunciation:
-.
+> To a straight line which produces with a medial area a medial whole only one straight line can be annexed which is incommensurable in square with the whole straight line and which with the whole straight line makes the sum of the squares on them medial and twice the rectangle contained by them both medial and also incommensurable with the sum of the squares on them.
 
 Proof:
-Let  be the straight line which produces with a medial area a medial whole, and  an annex to it; therefore ,  are straight lines incommensurable in square which fulfil the aforesaid conditions. [elem.10.78]
-I say that no other straight line can be annexed to  which fulfils the aforesaid conditions.
-For, if possible, let  be so annexed, so that ,  are also straight lines incommensurable in square which make the squares on ,  added together medial, twice the rectangle ,  medial, and also the squares on ,  incommensurable with twice the rectangle , . [elem.10.78]
-Let a rational straight line  be set out, let  equal to the squares on ,  be applied to , producing  as breadth, and let  equal to twice the rectangle ,  be applied to , producing  as breadth; therefore the remainder, the square on  [elem.2.7], is equal to ; therefore  is the 
- of .
-Again, let  equal to the squares on ,  be applied to , producing  as breadth.
-But the square on  is also equal to ; therefore the remainder, twice the rectangle ,  [elem.2.7], is equal to .
-Now, since the sum of the squares on ,  is medial and is equal to , therefore  is also medial.
-And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
-Again, since twice the rectangle ,  is medial and is equal to , therefore  is also medial.
-And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
-And, since the squares on ,  are incommensurable with twice the rectangle , ,  is also incommensurable with ; therefore  is also incommensurable in length with . [elem.6.1, elem.10.11]
-And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome, and  an annex to it. [elem.10.73]
-Similarly we can prove that  is again an apotome and  an annex to it.
+Let > AB be the straight line which produces with a medial area a medial whole, and > BC an annex to it; therefore > AC, > CB are straight lines incommensurable in square which fulfil the aforesaid conditions. [elem.10.78]
+I say that no other straight line can be annexed to > AB which fulfils the aforesaid conditions.
+For, if possible, let > BD be so annexed, so that > AD, > DB are also straight lines incommensurable in square which make the squares on > AD, > DB added together medial, twice the rectangle > AD, > DB medial, and also the squares on > AD, > DB incommensurable with twice the rectangle > AD, > DB. [elem.10.78]
+Let a rational straight line > EF be set out, let > EG equal to the squares on > AC, > CB be applied to > EF, producing > EM as breadth, and let > HG equal to twice the rectangle > AC, > CB be applied to > EF, producing > HM as breadth; therefore the remainder, the square on > AB [elem.2.7], is equal to > EL; therefore > AB is the 
+ of > EL.
+Again, let > EI equal to the squares on > AD, > DB be applied to > EF, producing > EN as breadth.
+But the square on > AB is also equal to > EL; therefore the remainder, twice the rectangle > AD, > DB [elem.2.7], is equal to > HI.
+Now, since the sum of the squares on > AC, > CB is medial and is equal to > EG, therefore > EG is also medial.
+And it is applied to the rational straight line > EF, producing > EM as breadth; therefore > EM is rational and incommensurable in length with > EF. [elem.10.22]
+Again, since twice the rectangle > AC, > CB is medial and is equal to > HG, therefore > HG is also medial.
+And it is applied to the rational straight line > EF, producing > HM as breadth; therefore > HM is rational and incommensurable in length with > EF. [elem.10.22]
+And, since the squares on > AC, > CB are incommensurable with twice the rectangle > AC, > CB, > EG is also incommensurable with > HG; therefore > EM is also incommensurable in length with > MH. [elem.6.1, elem.10.11]
+And both are rational; therefore > EM, > MH are rational straight lines commensurable in square only; therefore > EH is an apotome, and > HM an annex to it. [elem.10.73]
+Similarly we can prove that > EH is again an apotome and > HN an annex to it.
 Therefore to an apotome different rational straight lines are annexed which are commensurable with the wholes in square only: which was proved impossible. [elem.10.79]
-Therefore no other straight line can be so annexed to .
-Therefore to  only one straight line can be annexed which is incommensurable in square with the whole and which with the whole makes the squares on them added together medial, twice the rectangle contained by them medial, and also the squares on them incommensurable with twice the rectangle contained by them. Q. E. D.
+Therefore no other straight line can be so annexed to > AB.
+Therefore to > AB only one straight line can be annexed which is incommensurable in square with the whole and which with the whole makes the squares on them added together medial, twice the rectangle contained by them medial, and also the squares on them incommensurable with twice the rectangle contained by them. Q. E. D.

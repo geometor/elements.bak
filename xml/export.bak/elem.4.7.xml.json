@@ -1,0 +1,138 @@
+{
+    "id": "elem.4.7",
+    "n": 7,
+    "type": "proposition",
+    "enunciation": "`About a given circle to circumscribe a square`.",
+    "proof": [
+        {
+            "text": "Let `ABCD` be the given circle; thus it is required to circumscribe a square about the circle `ABCD`.",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "ABCD"
+            ]
+        },
+        {
+            "text": "Let two diameters `AC`, `BD` of the circle `ABCD` be drawn at right angles to one another, and through the points `A`, `B`, `C`, `D` let `FG`, `GH`, `HK`, `KF` be drawn touching the circle `ABCD`. [elem.3.16.p.1]",
+            "refs": [
+                "elem.3.16.p.1"
+            ],
+            "emphs": [
+                "AC",
+                "BD",
+                "ABCD",
+                "A",
+                "B",
+                "C",
+                "D",
+                "FG",
+                "GH",
+                "HK",
+                "KF",
+                "ABCD"
+            ]
+        },
+        {
+            "text": "Then, since `FG` touches the circle `ABCD`, and `EA` has been joined from the centre `E` to the point of contact at `A`,",
+            "refs": [],
+            "emphs": [
+                "FG",
+                "ABCD",
+                "EA",
+                "E",
+                "A"
+            ]
+        },
+        {
+            "text": "For the same reason",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the angle `AEB` is right, and the angle `EBG` is also right,",
+            "refs": [],
+            "emphs": [
+                "AEB",
+                "EBG"
+            ]
+        },
+        {
+            "text": "For the same reason",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore `GK`, `GC`, `AK`, `FB`, `BK` are parallelograms; therefore `GF` is equal to `HK`, and `GH` to `FK`. [elem.1.34]",
+            "refs": [
+                "elem.1.34"
+            ],
+            "emphs": [
+                "GK",
+                "GC",
+                "AK",
+                "FB",
+                "BK",
+                "GF",
+                "HK",
+                "GH",
+                "FK"
+            ]
+        },
+        {
+            "text": "And, since `AC` is equal to `BD`, and `AC` is also equal to each of the straight lines `GH`, `FK`,",
+            "refs": [],
+            "emphs": [
+                "AC",
+                "BD",
+                "AC",
+                "GH",
+                "FK"
+            ]
+        },
+        {
+            "text": "I say next that it is also right-angled.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since `GBEA` is a parallelogram, and the angle `AEB` is right, therefore the angle `AGB` is also right. [elem.1.34]",
+            "refs": [
+                "elem.1.34"
+            ],
+            "emphs": [
+                "GBEA",
+                "AEB",
+                "AGB"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore `FGHK` is right-angled.",
+            "refs": [],
+            "emphs": [
+                "FGHK"
+            ]
+        },
+        {
+            "text": "But it was also proved equilateral;  and it has been circumscribed about the circle `ABCD`.",
+            "refs": [],
+            "emphs": [
+                "ABCD"
+            ]
+        },
+        {
+            "text": "Therefore about the given circle a square has been circumscribed. Q. E. F.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -49,7 +49,7 @@
             ]
         },
         {
-            "text": "Then, since `AM` is equal to `EM`, let `MD` be added to each;",
+            "text": "Then, since `AM` is equal to `EM`, let `MD` be added to each; > therefore `AD` is equal to `EM`, `MD`.",
             "refs": [],
             "emphs": [
                 "AM",
@@ -58,7 +58,7 @@
             ]
         },
         {
-            "text": "But `EM`, `MD` are greater than `ED`; [elem.1.20]",
+            "text": "But `EM`, `MD` are greater than `ED`; [elem.1.20] > therefore `AD` is also greater than `ED`.",
             "refs": [
                 "elem.1.20"
             ],
@@ -69,7 +69,7 @@
             ]
         },
         {
-            "text": "Again, since `ME` is equal to `MF`,  therefore `EM`, `MD` are equal to `FM`, `MD`;",
+            "text": "Again, since `ME` is equal to `MF`, > and `MD` is common, therefore `EM`, `MD` are equal to `FM`, `MD`; > and the angle `EMD` is greater than the angle `FMD`;\n       > therefore the base `ED` is greater than the base `FD`. [elem.1.24]",
             "refs": [],
             "emphs": [
                 "ME",
@@ -94,7 +94,7 @@
             ]
         },
         {
-            "text": "Next, since `MK`, `KD` are greater than `MD`, [elem.1.20] and `MG` is equal to `MK`, therefore the remainder `KD` is greater than the remainder `GD`,",
+            "text": "Next, since `MK`, `KD` are greater than `MD`, [elem.1.20] and `MG` is equal to `MK`, therefore the remainder `KD` is greater than the remainder `GD`, > so that `GD` is less than `KD`.",
             "refs": [
                 "elem.1.20"
             ],
@@ -109,7 +109,7 @@
             ]
         },
         {
-            "text": "And, since on `MD`, one of the sides of the triangle `MLD`, two straight lines `MK`, `KD` were constructed meeting within the triangle, therefore `MK`, `KD` are less than `ML`, `LD`; [elem.1.21] and `MK` is equal to `ML`;",
+            "text": "And, since on `MD`, one of the sides of the triangle `MLD`, two straight lines `MK`, `KD` were constructed meeting within the triangle, therefore `MK`, `KD` are less than `ML`, `LD`; [elem.1.21] and `MK` is equal to `ML`; > therefore the remainder `DK` is less than the remainder `DL`.",
             "refs": [
                 "elem.1.21"
             ],
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that `DL` is also less than `DH`;",
+            "text": "Similarly we can prove that `DL` is also less than `DH`; > therefore `DG` is least, while `DK` is less than `DL`, and `DL` than `DH`.",
             "refs": [],
             "emphs": [
                 "DL",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "text": "Then, since `MK` is equal to `MB`, and `MD` is common,  and the angle `KMD` is equal to the angle `BMD`;",
+            "text": "Then, since `MK` is equal to `MB`, and `MD` is common, > the two sides `KM`, `MD` are equal to the two sides `BM`, `MD` respectively; and the angle `KMD` is equal to the angle `BMD`; > therefore the base `DK` is equal to the base `DB`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "MK",
@@ -173,14 +173,14 @@
             ]
         },
         {
-            "text": "For, if possible, let a straight line so fall, and let it be `DN`.",
+            "text": "For, if possible, let a straight line so fall, and let it be `DN`. > Then, since `DK` is equal to `DN`,",
             "refs": [],
             "emphs": [
                 "DN"
             ]
         },
         {
-            "text": "while `DK` is equal to `DB`,  that is, the nearer to the least `DG` equal to the more remote: which was proved impossible.",
+            "text": "while `DK` is equal to `DB`, > `DB` is also equal to `DN`, that is, the nearer to the least `DG` equal to the more remote: which was proved impossible.",
             "refs": [],
             "emphs": [
                 "DK",

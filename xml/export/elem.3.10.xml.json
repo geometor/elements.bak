@@ -35,7 +35,7 @@
             ]
         },
         {
-            "text": "Then, since in the circle `ABC` a straight line `AC` cuts a straight line `BH` into two equal parts and at right angles,",
+            "text": "Then, since in the circle `ABC` a straight line `AC` cuts a straight line `BH` into two equal parts and at right angles, > the centre of the circle `ABC` is on `AC`. [elem.3.1.p.1]",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "text": "Again, since in the same circle `ABC` a straight line `NO` cuts a straight line `BG` into two equal parts and at right angles,",
+            "text": "Again, since in the same circle `ABC` a straight line `NO` cuts a straight line `BG` into two equal parts and at right angles, > the centre of the circle `ABC` is on `NO`.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "But it was also proved to be on `AC`, and the straight lines `AC`, `NO` meet at no point except at `P`;",
+            "text": "But it was also proved to be on `AC`, and the straight lines `AC`, `NO` meet at no point except at `P`; > therefore the point `P` is the centre of the circle `ABC`.",
             "refs": [],
             "emphs": [
                 "AC",
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that `P` is also the centre of the circle `DEF`;",
+            "text": "Similarly we can prove that `P` is also the centre of the circle `DEF`; > therefore the two circles `ABC`, `DEF` which cut one another have the same centre `P`: which is impossible. [elem.3.5]",
             "refs": [],
             "emphs": [
                 "P",

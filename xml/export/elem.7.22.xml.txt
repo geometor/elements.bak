@@ -1,13 +1,13 @@
 Enunciation:
-
+> The least numbers of those which have the same ratio with them are prime to one another.
 
 Proof:
-Let ,  be the least numbers of those which have the same ratio with them; I say that ,  are prime to one another.
+Let > A, > B be the least numbers of those which have the same ratio with them; I say that > A, > B are prime to one another.
 For, if they are not prime to one another, some number will measure them.
-Let some number measure them, and let it be .
-And, as many times as  measures , so many units let there be in , and, as many times as  measures , so many units let there be in
-Since  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]
-For the same reason also  by multiplying  has made .
-Thus the number  by multiplying the two numbers ,  has made , ; therefore, as  is to , so is  to ; [elem.7.17] therefore ,  are in the same ratio with , , being less than they: which is impossible.
-Therefore no number will measure the numbers , .
-Therefore ,  are prime to one another. Q. E. D.
+Let some number measure them, and let it be > C.
+And, as many times as > C measures > A, so many units let there be in > D, and, as many times as > C measures > B, so many units let there be in > E
+Since > C measures > A according to the units in > D, therefore > C by multiplying > D has made > A. [elem.7.def.15]
+For the same reason also > C by multiplying > E has made > B.
+Thus the number > C by multiplying the two numbers > D, > E has made > A, > B; therefore, as > D is to > E, so is > A to > B; [elem.7.17] therefore > D, > E are in the same ratio with > A, > B, being less than they: which is impossible.
+Therefore no number will measure the numbers > A, > B.
+Therefore > A, > B are prime to one another. Q. E. D.

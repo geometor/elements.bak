@@ -30,7 +30,7 @@
             ]
         },
         {
-            "text": "Now `AC` is not equal to `AB`; for then the angle `ABC` would also have been equal to the angle `ACB`; [elem.1.5] but it is not;",
+            "text": "Now `AC` is not equal to `AB`; for then the angle `ABC` would also have been equal to the angle `ACB`; [elem.1.5] but it is not; \n        > therefore `AC` is not equal to `AB`.",
             "refs": [
                 "elem.1.5"
             ],
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "Neither is `AC` less than `AB`, for then the angle `ABC` would also have been less than the angle `ACB`; [elem.1.18] but it is not;",
+            "text": "Neither is `AC` less than `AB`, for then the angle `ABC` would also have been less than the angle `ACB`; [elem.1.18] but it is not; > therefore `AC` is not less than `AB`.",
             "refs": [
                 "elem.1.18"
             ],
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "text": "And it was proved that it is not equal either.",
+            "text": "And it was proved that it is not equal either. > Therefore `AC` is greater than `AB`.",
             "refs": [],
             "emphs": []
         },

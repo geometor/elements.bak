@@ -1,0 +1,19 @@
+Enunciation:
+.
+
+Proof:
+For let an area, the rectangle , , be contained by the apotome  and the binomial straight line , and let  be the greater term of the latter; let the terms ,  of the binomial straight line be commensurable with the terms ,  of the apotome and in the same ratio; and let the 
+ of the rectangle ,  be ; I say that  is rational.
+For let a rational straight line  be set out, and to  let there be applied a rectangle equal to the square on  and producing  as breadth.
+Therefore  is an apotome.
+Let its terms be ,  commensurable with the terms ,  of the binomial straight line and in the same ratio. [elem.10.112]
+But ,  are also commensurable with ,  and in the same ratio; therefore, as  is to , so is  to .
+Therefore, alternately, as  is to , so is  to ; therefore also the remainder  is to the remainder  as  is to . [elem.5.19]
+But  is commensurable with ; [elem.10.12] therefore  is also commensurable with . [elem.10.11]
+And, as  is to , so is the rectangle ,  to the rectangle , ; [elem.6.1] therefore the rectangle ,  is also commensurable with the rectangle , . [elem.10.11]
+But the rectangle ,  is equal to the square on ; therefore the rectangle ,  is commensurable with the square on .
+But the square on  is equal to the rectangle , ; therefore the square on  is commensurable with the square on .
+But the square on  is rational; therefore the square on  is also rational; therefore  is rational.
+And it is the 
+ of the rectangle , .
+Therefore etc.

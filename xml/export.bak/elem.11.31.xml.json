@@ -1,0 +1,143 @@
+{
+    "id": "elem.11.31",
+    "n": 31,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let the parallelepipedal solids , , of the same height, be on equal bases , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that the solid  is equal to the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let the sides which stand up, , , , , , , , , be at right angles to the bases , ; let the straight line  be produced in a straight line with ; on the straight line , and at the point  on it, let the angle  be constructed equal to the angle , [elem.1.23] let  be made equal to , and  equal to , and let the base  and the solid  be completed.",
+            "refs": [
+                "elem.1.23"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the two sides ,  are equal to the two sides , , and they contain equal angles, therefore the parallelogram  is equal and similar to the parallelogram .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since again  is equal to , and  to , and they contain right angles, therefore the parallelogram  is equal and similar to the parallelogram .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  is also equal and similar to ; therefore three parallelograms of the solid  are equal and similar to three parallelograms of the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the former three are equal and similar to the three opposite, and the latter three to the three opposite; [elem.11.24] therefore the whole parallelepipedal solid  is equal to the whole parallelepipedal solid . [elem.11.def.10]",
+            "refs": [
+                "elem.11.24",
+                "elem.11.def.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let ,  be drawn through and meet one another at , let  be drawn through  parallel to , let  be produced to , and let the solids ,  be completed.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then the solid , of which the parallelogram  is the base and  its opposite, is equal to the solid  of which the parallelogram  is the base and  its opposite, for they are on the same base  and of the same height, and the extremities of their sides which stand up, namely , , , , , , , , are on the same straight lines , . [elem.11.29]",
+            "refs": [
+                "elem.11.29"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the solid  is equal to : therefore the solid  is also equal to the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since the parallelogram  is equal to the parallelogram  for they are on the same base  and in the same parallels , , [elem.1.35] while  is equal to , since it is also equal to , therefore the parallelogram  is also equal to .",
+            "refs": [
+                "elem.1.35"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is another parallelogram; therefore, as the base  is to , so is  to . [elem.5.7]",
+            "refs": [
+                "elem.5.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the parallelepipedal solid  has been cut by the plane  which is parallel to opposite planes, as the base  is to the base , so is the solid  to the solid . [elem.11.25]",
+            "refs": [
+                "elem.11.25"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason, since the parallelepipedal solid  has been cut by the plane  which is parallel to opposite planes, as the base  is to the base , so is the solid  to the solid . [elem.11.25]",
+            "refs": [
+                "elem.11.25"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as the base  is to , so is  to ; therefore also, as the solid  is to the solid , so is the solid  to . [elem.5.11]",
+            "refs": [
+                "elem.5.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore each of the solids ,  has to  the same ratio; therefore the solid  is equal to the solid . [elem.5.9]",
+            "refs": [
+                "elem.5.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  was proved equal to ; therefore  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let the sides standing up, , , , , , , , , not be at right angles to the bases , ; I say again that the solid  is equal to the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For from the points , , , , , , ,  let , , , , , , ,  be drawn perpendicular to the plane of reference, and let them meet the plane at the points , , , , , , , , and let , , , , , , ,  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then the solid  is equal to the solid , for they are on the equal bases ,  and of the same height, and their sides which stand up are at right angles to their bases. [First part of this Prop.]",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the solid  is equal to the solid , and  to ; for they are on the same base and of the same height, while the extremities of their sides which stand up are not on the same straight lines. [elem.11.30]",
+            "refs": [
+                "elem.11.30"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the solid  is also equal to the solid .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

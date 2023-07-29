@@ -2,62 +2,62 @@
     "id": "elem.10.16",
     "n": 16,
     "type": "propositions i\u201447",
-    "enunciation": ".",
+    "enunciation": "> If two incommensurable magnitudes be added together, the whole will also be incommensurable with each of them; and, if the whole be incommensurable with one of them, the original magnitudes will also be incommensurable.",
     "proof": [
         {
-            "text": "For let the two incommensurable magnitudes ,  be added together; I say that the whole  is also incommensurable with each of the magnitudes , .",
+            "text": "For let the two incommensurable magnitudes > AB, > BC be added together; I say that the whole > AC is also incommensurable with each of the magnitudes > AB, > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if ,  are not incommensurable, some magnitude will measure them.",
+            "text": "For, if > CA, > AB are not incommensurable, some magnitude will measure them.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let it measure them, if possible, and let it be .",
+            "text": "Let it measure them, if possible, and let it be > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then  measures , , therefore it will also measure the remainder .",
+            "text": "Since then > D measures > CA, > AB, therefore it will also measure the remainder > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But it measures  also; therefore  measures , .",
+            "text": "But it measures > AB also; therefore > D measures > AB, > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.",
+            "text": "Therefore > AB, > BC are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore no magnitude will measure , ; therefore ,  are incommensurable. [elem.10.def.1]",
+            "text": "Therefore no magnitude will measure > CA, > AB; therefore > CA, > AB are incommensurable. [elem.10.def.1]",
             "refs": [
                 "elem.10.def.1"
             ],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that ,  are also incommensurable.",
+            "text": "Similarly we can prove that > AC, > CB are also incommensurable.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is incommensurable with each of the magnitudes , .",
+            "text": "Therefore > AC is incommensurable with each of the magnitudes > AB, > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Next, let  be incommensurable with one of the magnitudes , .",
+            "text": "Next, let > AC be incommensurable with one of the magnitudes > AB, > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "First, let it be incommensurable with ; I say that ,  are also incommensurable.",
+            "text": "First, let it be incommensurable with > AB; I say that > AB, > BC are also incommensurable.",
             "refs": [],
             "emphs": []
         },
@@ -67,27 +67,27 @@
             "emphs": []
         },
         {
-            "text": "Let it measure them, and let it be .",
+            "text": "Let it measure them, and let it be > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then  measures , . therefore it will also measure the whole .",
+            "text": "Since then > D measures > AB, > BC. therefore it will also measure the whole > AC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But it measures  also; therefore  measures , .",
+            "text": "But it measures > AB also; therefore > D measures > CA, > AB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.",
+            "text": "Therefore > CA, > AB are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore no magnitude will measure , ; therefore ,  are incommensurable. [elem.10.def.1]",
+            "text": "Therefore no magnitude will measure > AB, > BC; therefore > AB, > BC are incommensurable. [elem.10.def.1]",
             "refs": [
                 "elem.10.def.1"
             ],

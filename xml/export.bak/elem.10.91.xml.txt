@@ -1,0 +1,35 @@
+Enunciation:
+.
+
+Proof:
+For let the area  be contained by the rational straight line  and the first apotome ;
+I say that the 
+ of the area  is an apotome.
+For, since  is a first apotome, let  be its annex; therefore ,  are rational straight lines commensurable in square only. [elem.10.73]
+And the whole  is commensurable with the rational straight line  set out, and the square on  is greater than the square on  by the square on a straight line commensurable in length with ; [elem.10.def.3.1] if therefore there be applied to  a parallelogram equal to the fourth part of the square on  and deficient by a square figure, it divides it into commensurable parts. [elem.10.17]
+Let  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, and let it be the rectangle , ; therefore  is commensurable with .
+And through the points , ,  let , ,  be drawn parallel to .
+Now, since  is commensurable in length with , therefore  is also commensurable in length with each of the straight lines , . [elem.10.15]
+But  is commensurable with ; therefore each of the straight lines ,  is commensurable in length with . [elem.10.12]
+And  is rational; therefore each of the straight lines ,  is also rational, so that each of the rectangles ,  is also rational. [elem.10.19]
+Now, since  is commensurable in length with , therefore  is also commensurable in length with each of the straight lines , . [elem.10.15]
+But  is rational and incommensurable in length with ; therefore each of the straight lines ,  is also rational and incommensurable in length with ; [elem.10.13] therefore each of the rectangles ,  is medial. [elem.10.21]
+Now let the square  be made equal to , and let there be subtracted the square  having a common angle with it, the angle , and equal to ; therefore the squares ,  are about the same diameter. [elem.6.26]
+Let  be their diameter, and let the figure be drawn.
+Since then the rectangle contained by ,  is equal to the square on , therefore, as  is to , so is  to . [elem.6.17]
+But, as  is to , so is  to , and, as  is to , so is  to ; [elem.6.1] therefore  is a mean proportional between , . [elem.5.11]
+But  is also a mean proportional between , , as was before proved, [elem.10.53.l.1] and  is equal to the square , and  to ; therefore  is also equal to .
+But  is equal to , and  to ; therefore  is equal to the gnomon  and .
+But  is also equal to the squares , ; therefore the remainder  is equal to .
+But  is the square on ; therefore the square on  is equal to ; therefore  is the 
+ of .
+I say next that  is an apotome.
+For, since each of the rectangles ,  is rational, and they are equal to , , therefore each of the squares , , that is, the squares on ,  respectively, is also rational; therefore each of the straight lines ,  is also rational.
+Again, since  is medial and is equal to , therefore  is also medial.
+Since then  is medial, while  is rational, therefore  is incommensurable with .
+But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]
+And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]
+And it is the 
+ of the area ; therefore the 
+ of the area  is an apotome.
+Therefore etc.

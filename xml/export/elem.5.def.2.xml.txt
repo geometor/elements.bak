@@ -1,4 +1,4 @@
 Enunciation:
-The greater is a  of the less when it is measured by the less.
+The greater is a > multiple of the less when it is measured by the less.
 
 Proof:

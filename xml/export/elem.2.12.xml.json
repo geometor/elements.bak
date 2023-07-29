@@ -56,7 +56,7 @@
             ]
         },
         {
-            "text": "But the square on `CB` is equal to the squares on `CD`, `DB`, for the angle at `D` is right; [elem.1.47]  therefore the square on `CB` is equal to the squares on `CA`, `AB` and twice the rectangle contained by `CA`, `AD`;",
+            "text": "But the square on `CB` is equal to the squares on `CD`, `DB`, for the angle at `D` is right; [elem.1.47] > and the square on `AB` is equal to the squares on `AD`, `DB`; [elem.1.47] therefore the square on `CB` is equal to the squares on `CA`, `AB` and twice the rectangle contained by `CA`, `AD`; > so that the square on `CB` is greater than the squares on `CA`, `AB` by twice the rectangle contained by `CA`, `AD`.",
             "refs": [
                 "elem.1.47"
             ],

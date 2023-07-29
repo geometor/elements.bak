@@ -1,0 +1,44 @@
+{
+    "id": "elem.7.7",
+    "n": 7,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the number  be that part of the number  which  subtracted is of  subtracted; I say that the remainder  is also the same part of the remainder  that the whole  is of the whole .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, whatever part  is of , the same part also let  be of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now since, whatever part  is of , the same part also is  of , therefore, whatever part  is of , the same part also is  of . [elem.7.5]",
+            "refs": [
+                "elem.7.5"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, whatever part  is of , the same part also, by hypothesis, is  of ; therefore, whatever part  is of , the same part is it of  also; therefore  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be subtracted from each; therefore the remainder  is equal to the remainder .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now since, whatever part  is of , the same part also is  of , while  is equal to , therefore, whatever part  is of , the same part also is  of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, whatever part  is of , the same part also is  of ; therefore also the remainder  is the same part of the remainder  that the whole  is of the whole . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -37,28 +37,28 @@
             ]
         },
         {
-            "text": "Then, since in any triangle two sides are greater than the remaining one, [elem.1.20]",
+            "text": "Then, since in any triangle two sides are greater than the remaining one, [elem.1.20] > therefore, in the triangle `ABE`, the two sides `AB`, `AE` are greater than `BE`.",
             "refs": [
                 "elem.1.20"
             ],
             "emphs": []
         },
         {
-            "text": "Let `EC` be added to each;",
+            "text": "Let `EC` be added to each; > therefore `BA`, `AC` are greater than `BE`, `EC`.",
             "refs": [],
             "emphs": [
                 "EC"
             ]
         },
         {
-            "text": "Again, since, in the triangle `CED`,",
+            "text": "Again, since, in the triangle `CED`, > the two sides `CE`, `ED` are greater than `CD`, let `DB` be added to each; therefore `CE`, `EB` are greater than `CD`, `DB`.",
             "refs": [],
             "emphs": [
                 "CED"
             ]
         },
         {
-            "text": "But `BA`, `AC` were proved greater than `BE`, `EC`;",
+            "text": "But `BA`, `AC` were proved greater than `BE`, `EC`; > therefore `BA`, `AC` are much greater than `BD`, `DC`.",
             "refs": [],
             "emphs": [
                 "BA",
@@ -68,7 +68,7 @@
             ]
         },
         {
-            "text": "Again, since in any triangle the exterior angle is greater than the interior and opposite angle, [elem.1.16] therefore, in the triangle `CDE`,",
+            "text": "Again, since in any triangle the exterior angle is greater than the interior and opposite angle, [elem.1.16] therefore, in the triangle `CDE`, > the exterior angle `BDC` is greater than the angle `CED`.",
             "refs": [
                 "elem.1.16"
             ],
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "text": "For the same reason, moreover, in the triangle `ABE` also,  But the angle `BDC` was proved greater than the angle `CEB`;",
+            "text": "For the same reason, moreover, in the triangle `ABE` also, > the exterior angle `CEB` is greater than the angle `BAC`. But the angle `BDC` was proved greater than the angle `CEB`; > therefore the angle `BDC` is much greater than the angle `BAC`.",
             "refs": [],
             "emphs": [
                 "ABE",

@@ -24,7 +24,7 @@
             ]
         },
         {
-            "text": "Then, since the point `E` is the centre of the circle `ABC`,",
+            "text": "Then, since the point `E` is the centre of the circle `ABC`, > `EC` is equal to `EF`. [elem.1.def.15]",
             "refs": [],
             "emphs": [
                 "E",
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "text": "Again, since the point `E` is the centre of the circle `CDG`,",
+            "text": "Again, since the point `E` is the centre of the circle `CDG`, > `EC` is equal to `EG`.",
             "refs": [],
             "emphs": [
                 "E",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "text": "But `EC` was proved equal to `EF` also;",
+            "text": "But `EC` was proved equal to `EF` also; > therefore `EF` is also equal to `EG`, the less to the greater : which is impossible.",
             "refs": [],
             "emphs": [
                 "EC",

@@ -1,0 +1,78 @@
+{
+    "id": "elem.1.13",
+    "n": 13,
+    "type": "proposition",
+    "enunciation": "If a straight line set up on a straight line make angles, it will make either two right angles or angles equal to two right angles.",
+    "proof": [
+        {
+            "text": "For let any straight line `AB` set up on the straight line `CD` make the angles `CBA`, `ABD`;",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "CD",
+                "CBA",
+                "ABD"
+            ]
+        },
+        {
+            "text": "I say that the angles `CBA`, `ABD` are either two right angles or equal to two right angles.",
+            "refs": [],
+            "emphs": [
+                "CBA",
+                "ABD"
+            ]
+        },
+        {
+            "text": "Now, if the angle `CBA` is equal to the angle `ABD`,",
+            "refs": [],
+            "emphs": [
+                "CBA",
+                "ABD"
+            ]
+        },
+        {
+            "text": "But, if not, let `BE` be drawn from the point `B` at right angles to `CD`; [elem.1.11]",
+            "refs": [
+                "elem.1.11"
+            ],
+            "emphs": [
+                "BE",
+                "B",
+                "CD"
+            ]
+        },
+        {
+            "text": "Then, since the angle `CBE` is equal to the two angles `CBA`, `ABE`,",
+            "refs": [],
+            "emphs": [
+                "CBE",
+                "CBA",
+                "ABE"
+            ]
+        },
+        {
+            "text": "Again, since the angle `DBA` is equal to the two angles `DBE`, `EBA`,",
+            "refs": [],
+            "emphs": [
+                "DBA",
+                "DBE",
+                "EBA"
+            ]
+        },
+        {
+            "text": "But the angles `CBE`, `EBD` were also proved equal to the same three angles; \n        But the angles `CBE`, `EBD` are two right angles;",
+            "refs": [],
+            "emphs": [
+                "CBE",
+                "EBD",
+                "CBE",
+                "EBD"
+            ]
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

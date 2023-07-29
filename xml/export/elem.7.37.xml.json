@@ -2,31 +2,32 @@
     "id": "elem.7.37",
     "n": 37,
     "type": "proposition",
+    "enunciation": "> If a number be measured by any number, the number which is measured will have a part called by the same name as the measuring number.",
     "proof": [
         {
-            "text": "For let the number  be measured by any number ; I say that  has a part called by the same name as .",
+            "text": "For let the number > A be measured by any number > B; I say that > A has a part called by the same name as > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, as many times as  measures , so many units let there be in .",
+            "text": "For, as many times as > B measures > A, so many units let there be in > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since  measures  according to the units in , and the unit  also measures the number  according to the units in it, therefore the unit  measures the number  the same number of times as  measures .",
+            "text": "Since > B measures > A according to the units in > C, and the unit > D also measures the number > C according to the units in it, therefore the unit > D measures the number > C the same number of times as > B measures > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, alternately, the unit  measures the number  the same number of times as  measures ; [elem.7.15] therefore, whatever part the unit  is of the number , the same part is  of  also.",
+            "text": "Therefore, alternately, the unit > D measures the number > B the same number of times as > C measures > A; [elem.7.15] therefore, whatever part the unit > D is of the number > B, the same part is > C of > A also.",
             "refs": [
                 "elem.7.15"
             ],
             "emphs": []
         },
         {
-            "text": "But the unit  is a part of the number  called by the same name as it; therefore  is also a part of  called by the same name as , so that  has a part  which is called by the same name as . Q. E. D.",
+            "text": "But the unit > D is a part of the number > B called by the same name as it; therefore > C is also a part of > A called by the same name as > B, so that > A has a part > C which is called by the same name as > B. Q. E. D.",
             "refs": [],
             "emphs": []
         }

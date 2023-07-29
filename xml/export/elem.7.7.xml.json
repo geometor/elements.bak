@@ -2,41 +2,42 @@
     "id": "elem.7.7",
     "n": 7,
     "type": "proposition",
+    "enunciation": "> If a number be that part of a number, which a number subtracted is of a number subtracted, the remainder will also be the same part of the remainder that the whole is of the whole.",
     "proof": [
         {
-            "text": "For let the number  be that part of the number  which  subtracted is of  subtracted; I say that the remainder  is also the same part of the remainder  that the whole  is of the whole .",
+            "text": "For let the number > AB be that part of the number > CD which > AE subtracted is of > CF subtracted; I say that the remainder > EB is also the same part of the remainder > FD that the whole > AB is of the whole > CD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, whatever part  is of , the same part also let  be of .",
+            "text": "For, whatever part > AE is of > CF, the same part also let > EB be of > CG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now since, whatever part  is of , the same part also is  of , therefore, whatever part  is of , the same part also is  of . [elem.7.5]",
+            "text": "Now since, whatever part > AE is of > CF, the same part also is > EB of > CG, therefore, whatever part > AE is of > CF, the same part also is > AB of > GF. [elem.7.5]",
             "refs": [
                 "elem.7.5"
             ],
             "emphs": []
         },
         {
-            "text": "But, whatever part  is of , the same part also, by hypothesis, is  of ; therefore, whatever part  is of , the same part is it of  also; therefore  is equal to .",
+            "text": "But, whatever part > AE is of > CF, the same part also, by hypothesis, is > AB of > CD; therefore, whatever part > AB is of > GF, the same part is it of > CD also; therefore > GF is equal to > CD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  be subtracted from each; therefore the remainder  is equal to the remainder .",
+            "text": "Let > CF be subtracted from each; therefore the remainder > GC is equal to the remainder > FD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now since, whatever part  is of , the same part also is  of , while  is equal to , therefore, whatever part  is of , the same part also is  of .",
+            "text": "Now since, whatever part > AE is of > CF, the same part also is > EB of > GC, while > GC is equal to > FD, therefore, whatever part > AE is of > CF, the same part also is > EB of > FD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, whatever part  is of , the same part also is  of ; therefore also the remainder  is the same part of the remainder  that the whole  is of the whole . Q. E. D.",
+            "text": "But, whatever part > AE is of > CF, the same part also is > AB of > CD; therefore also the remainder > EB is the same part of the remainder > FD that the whole > AB is of the whole > CD. Q. E. D.",
             "refs": [],
             "emphs": []
         }

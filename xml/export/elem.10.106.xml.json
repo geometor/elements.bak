@@ -2,15 +2,15 @@
     "id": "elem.10.106",
     "n": 106,
     "type": "propositions 85\u2014115",
-    "enunciation": ".",
+    "enunciation": "> A straight line commensurable with that which produces with a rational area a medial whole is a straight line which produces with a rational area a medial whole.",
     "proof": [
         {
-            "text": "Let  be a straight line which produces with a rational area a medial whole, and  commensurable with ; I say that  is also a straight line which produces with a rational area a medial whole.",
+            "text": "Let > AB be a straight line which produces with a rational area a medial whole, and > CD commensurable with > AB; I say that > CD is also a straight line which produces with a rational area a medial whole.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  be the annex to ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on ,  medial, but the rectangle contained by them rational. [elem.10.77]",
+            "text": "For let > BE be the annex to > AB; therefore > AE, > EB are straight lines incommensurable in square which make the sum of the squares on > AE, > EB medial, but the rectangle contained by them rational. [elem.10.77]",
             "refs": [
                 "elem.10.77"
             ],
@@ -22,12 +22,12 @@
             "emphs": []
         },
         {
-            "text": "Then we can prove, in manner similar to the foregoing, that ,  are in the same ratio as , , the sum of the squares on ,  is commensurable with the sum of the squares on , , and the rectangle ,  with the rectangle , ; so that ,  are also straight lines incommensurable in square which make the sum of the squares on ,  medial, but the rectangle contained by them rational.",
+            "text": "Then we can prove, in manner similar to the foregoing, that > CF, > FD are in the same ratio as > AE, > EB, the sum of the squares on > AE, > EB is commensurable with the sum of the squares on > CF, > FD, and the rectangle > AE, > EB with the rectangle > CF, > FD; so that > CF, > FD are also straight lines incommensurable in square which make the sum of the squares on > CF, > FD medial, but the rectangle contained by them rational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is a straight line which produces with a rational area a medial whole. [elem.10.77] Q. E. D.",
+            "text": "Therefore > CD is a straight line which produces with a rational area a medial whole. [elem.10.77] Q. E. D.",
             "refs": [
                 "elem.10.77"
             ],

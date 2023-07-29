@@ -1,37 +1,37 @@
 Enunciation:
-.
+> A second bimedial straight line is divided at one point only.
 
 Proof:
-Let  be a second bimedial straight line divided at , so that ,  are medial straight lines commensurable in square only and containing a medial rectangle; [elem.10.38
-] it is then manifest that  is not at the point of bisection, because the segments are not commensurable in length.
-I say that  is not so divided at another point.
-For, if possible, let it be divided at  also, so that  is not the same with , but  is supposed greater; it is then clear that the squares on ,  are also, as we proved above [Lemma], less than the squares on , ; and suppose that ,  are medial straight lines commensurable in square only and containing a medial rectangle.
-Now let a rational straight line  be set out, let there be applied to  the rectangular parallelogram  equal to the square on , and let  equal to the squares on ,  be subtracted; therefore the remainder  is equal to twice the rectangle , . [elem.2.4
+Let > AB be a second bimedial straight line divided at > C, so that > AC, > CB are medial straight lines commensurable in square only and containing a medial rectangle; [elem.10.38
+] it is then manifest that > C is not at the point of bisection, because the segments are not commensurable in length.
+I say that > AB is not so divided at another point.
+For, if possible, let it be divided at > D also, so that > AC is not the same with > DB, but > AC is supposed greater; it is then clear that the squares on > AD, > DB are also, as we proved above [Lemma], less than the squares on > AC, > CB; and suppose that > AD, > DB are medial straight lines commensurable in square only and containing a medial rectangle.
+Now let a rational straight line > EF be set out, let there be applied to > EF the rectangular parallelogram > EK equal to the square on > AB, and let > EG equal to the squares on > AC, > CB be subtracted; therefore the remainder > HK is equal to twice the rectangle > AC, > CB. [elem.2.4
 ]
-Again, let there be subtracted , equal to the squares on , , which were proved less than the squares on ,  [elem.10.41.l.1
-]; therefore the remainder  is also equal to twice the rectangle , .
-Now, since the squares on ,  are medial, therefore  is medial.
-And it is applied to the rational straight line ; therefore  is rational and incommensurable in length with . [elem.10.22
+Again, let there be subtracted > EL, equal to the squares on > AD, > DB, which were proved less than the squares on > AC, > CB [elem.10.41.l.1
+]; therefore the remainder > MK is also equal to twice the rectangle > AD, > DB.
+Now, since the squares on > AC, > CB are medial, therefore > EG is medial.
+And it is applied to the rational straight line > EF; therefore > EH is rational and incommensurable in length with > EF. [elem.10.22
 ]
-For the same reason  is also rational and incommensurable in length with .
-And, since ,  are medial straight lines commensurable in square only, therefore  is incommensurable in length with .
-But, as  is to , so is the square on  to the rectangle , ; therefore the square on  is incommensurable with the rectangle , . [elem.10.11
+For the same reason > HN is also rational and incommensurable in length with > EF.
+And, since > AC, > CB are medial straight lines commensurable in square only, therefore > AC is incommensurable in length with > CB.
+But, as > AC is to > CB, so is the square on > AC to the rectangle > AC, > CB; therefore the square on > AC is incommensurable with the rectangle > AC, > CB. [elem.10.11
 ]
-But the squares on ,  are commensurable with the square on ; for ,  are commensurable in square. [elem.10.15
+But the squares on > AC, > CB are commensurable with the square on > AC; for > AC, > CB are commensurable in square. [elem.10.15
 ]
-And twice the rectangle ,  is commensurable with the rectangle , . [elem.10.6
+And twice the rectangle > AC, > CB is commensurable with the rectangle > AC, > CB. [elem.10.6
 ]
-Therefore the squares on ,  are also incommensurable with twice the rectangle , . [elem.10.13
+Therefore the squares on > AC, > CB are also incommensurable with twice the rectangle > AC, > CB. [elem.10.13
 ]
-But  is equal to the squares on , , and  is equal to twice the rectangle , ; therefore  is incommensurable with , so that  is also incommensurable in length with . [elem.6.1
+But > EG is equal to the squares on > AC, > CB, and > HK is equal to twice the rectangle > AC, > CB; therefore > EG is incommensurable with > HK, so that > EH is also incommensurable in length with > HN. [elem.6.1
 , elem.10.11
 ]
-And they are rational; therefore ,  are rational straight lines commensurable in square only.
+And they are rational; therefore > EH, > HN are rational straight lines commensurable in square only.
 But, if two rational straight lines commensurable in square only be added together, the whole is the irrational which is called binomial. [elem.10.36
 ]
-Therefore  is a binomial straight line divided at .
-In the same way ,  will also be proved to be rational straight lines commensurable in square only; and  will be a binomial straight line divided at different points,  and .
-And  is not the same with .
-For the squares on ,  are greater than the squares on , .
-But the squares on ,  are greater than twice the rectangle , ; therefore also the squares on , , that is, , are much greater than twice the rectangle , , that is, , so that  is also greater than .
-Therefore  is not the same with . Q. E. D.
+Therefore > EN is a binomial straight line divided at > H.
+In the same way > EM, > MN will also be proved to be rational straight lines commensurable in square only; and > EN will be a binomial straight line divided at different points, > H and > M.
+And > EH is not the same with > MN.
+For the squares on > AC, > CB are greater than the squares on > AD, > DB.
+But the squares on > AD, > DB are greater than twice the rectangle > AD, > DB; therefore also the squares on > AC, > CB, that is, > EG, are much greater than twice the rectangle > AD, > DB, that is, > MK, so that > EH is also greater than > MN.
+Therefore > EH is not the same with > MN. Q. E. D.

@@ -2,15 +2,15 @@
     "id": "elem.10.69",
     "n": 69,
     "type": "propositions 48\u201484",
-    "enunciation": ".",
+    "enunciation": "> A straight line commensurable with the side of a rational plus a medial area is itself also the side of a rational plus a medial area.",
     "proof": [
         {
-            "text": "Let  be the side of a rational plus a medial area, and let  be commensurable with ; it is to be proved that  is also the side of a rational plus a medial area.",
+            "text": "Let > AB be the side of a rational plus a medial area, and let > CD be commensurable with > AB; it is to be proved that > CD is also the side of a rational plus a medial area.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  be divided into its straight lines at ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational. [elem.10.40]",
+            "text": "Let > AB be divided into its straight lines at > E; therefore > AE, > EB are straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational. [elem.10.40]",
             "refs": [
                 "elem.10.40"
             ],
@@ -22,12 +22,12 @@
             "emphs": []
         },
         {
-            "text": "We can then prove similarly that ,  are incommensurable in square, and the sum of the squares on ,  is commensurable with the sum of the squares on , , and the rectangle ,  with the rectangle , ; so that the sum of the squares on ,  is also medial, and the rectangle ,  rational.",
+            "text": "We can then prove similarly that > CF, > FD are incommensurable in square, and the sum of the squares on > AE, > EB is commensurable with the sum of the squares on > CF, > FD, and the rectangle > AE, > EB with the rectangle > CF, > FD; so that the sum of the squares on > CF, > FD is also medial, and the rectangle > CF, > FD rational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is the side of a rational plus a medial area. Q. E. D.",
+            "text": "Therefore > CD is the side of a rational plus a medial area. Q. E. D.",
             "refs": [],
             "emphs": []
         }

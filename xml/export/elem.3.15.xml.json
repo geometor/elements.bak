@@ -59,7 +59,7 @@
             ]
         },
         {
-            "text": "Then, since `EH` is equal to `EL`,",
+            "text": "Then, since `EH` is equal to `EL`, > `BC` is also equal to `MN`. [elem.3.14]",
             "refs": [],
             "emphs": [
                 "EH",
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "text": "Again, since `AE` is equal to `EM`, and `ED` to `EN`,",
+            "text": "Again, since `AE` is equal to `EM`, and `ED` to `EN`, > `AD` is equal to `ME`, `EN`.",
             "refs": [],
             "emphs": [
                 "AE",
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "text": "But `ME`, `EN` are greater than `MN`, [elem.1.20] and `MN` is equal to `BC`;",
+            "text": "But `ME`, `EN` are greater than `MN`, [elem.1.20] and `MN` is equal to `BC`; > therefore `AD` is greater than `BC`.",
             "refs": [
                 "elem.1.20"
             ],

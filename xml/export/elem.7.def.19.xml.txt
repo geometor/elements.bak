@@ -1,4 +1,4 @@
 Enunciation:
-And a  is equal multiplied by equal and again by equal, or a number which is contained by three equal numbers.
+And a > cube is equal multiplied by equal and again by equal, or a number which is contained by three equal numbers.
 
 Proof:

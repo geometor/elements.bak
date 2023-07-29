@@ -1,23 +1,23 @@
 Enunciation:
-
+> The square on the straight line which produces with a medial area a medial whole, if applied to a rational straight line, produces as breadth a sixth apotome.
 
 Proof:
-Let  be the straight line which produces with a medial area a medial whole, and  a rational straight line, and to  let  be applied equal to the square on  and producing  as breadth; I say that  is a sixth apotome.
-For let  be the annex to ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, twice the rectangle ,  medial, and the squares on ,  incommensurable with twice the rectangle , . [elem.10.78]
-Now to  let there be applied  equal to the square on  and producing  as breadth, and  equal to the square on ; therefore the whole  is equal to the squares on , ; therefore  is also medial.
-And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
-Since now  is equal to the squares on , , and, in these,  is equal to the square on , therefore the remainder  is equal to twice the rectangle , . [elem.2.7]
-And twice the rectangle ,  is medial; therefore  is also medial.
-And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
-And, since the squares on ,  are incommensurable with twice the rectangle , , and  is equal to the squares on , , and  equal to twice the rectangle , , therefore  is incommensurable with .
-But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]
+Let > AB be the straight line which produces with a medial area a medial whole, and > CD a rational straight line, and to > CD let > CE be applied equal to the square on > AB and producing > CF as breadth; I say that > CF is a sixth apotome.
+For let > BG be the annex to > AB; therefore > AG, > GB are straight lines incommensurable in square which make the sum of the squares on them medial, twice the rectangle > AG, > GB medial, and the squares on > AG, > GB incommensurable with twice the rectangle > AG, > GB. [elem.10.78]
+Now to > CD let there be applied > CH equal to the square on > AG and producing > CK as breadth, and > KL equal to the square on > BG; therefore the whole > CL is equal to the squares on > AG, > GB; therefore > CL is also medial.
+And it is applied to the rational straight line > CD, producing > CM as breadth; therefore > CM is rational and incommensurable in length with > CD. [elem.10.22]
+Since now > CL is equal to the squares on > AG, > GB, and, in these, > CE is equal to the square on > AB, therefore the remainder > FL is equal to twice the rectangle > AG, > GB. [elem.2.7]
+And twice the rectangle > AG, > GB is medial; therefore > FL is also medial.
+And it is applied to the rational straight line > FE, producing > FM as breadth; therefore > FM is rational and incommensurable in length with > CD. [elem.10.22]
+And, since the squares on > AG, > GB are incommensurable with twice the rectangle > AG, > GB, and > CL is equal to the squares on > AG, > GB, and > FL equal to twice the rectangle > AG, > GB, therefore > CL is incommensurable with > FL.
+But, as > CL is to > FL, so is > CM to > MF; [elem.6.1] therefore > CM is incommensurable in length with > MF. [elem.10.11]
 And both are rational.
-Therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]
+Therefore > CM, > MF are rational straight lines commensurable in square only; therefore > CF is an apotome. [elem.10.73]
 I say next that it is also a sixth apotome.
-For, since  is equal to twice the rectangle , , let  be bisected at , and let  be drawn through  parallel to ; therefore each of the rectangles ,  is equal to the rectangle , .
-And, since ,  are incommensurable in square, therefore the square on  is incommensurable with the square on .
-But  is equal to the square on , and  is equal to the square on ; therefore  is incommensurable with .
-But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable with . [elem.10.11]
-And, since the rectangle ,  is a mean proportional between the squares on , , and  is equal to the square on ,  equal to the square on , and  equal to the rectangle , , therefore  is also a mean proportional between , ; therefore, as  is to , so is  to .
-And for the same reason as before the square on  is greater than the square on  by the square on a straight line incommensurable with . [elem.10.18]
-And neither of them is commensurable with the rational straight line  set out; therefore  is a sixth apotome. [elem.10.def.3.6] Q. E. D.
+For, since > FL is equal to twice the rectangle > AG, > GB, let > FM be bisected at > N, and let > NO be drawn through > N parallel to > CD; therefore each of the rectangles > FO, > NL is equal to the rectangle > AG, > GB.
+And, since > AG, > GB are incommensurable in square, therefore the square on > AG is incommensurable with the square on > GB.
+But > CH is equal to the square on > AG, and > KL is equal to the square on > GB; therefore > CH is incommensurable with > KL.
+But, as > CH is to > KL, so is > CK to > KM; [elem.6.1] therefore > CK is incommensurable with > KM. [elem.10.11]
+And, since the rectangle > AG, > GB is a mean proportional between the squares on > AG, > GB, and > CH is equal to the square on > AG, > KL equal to the square on > GB, and > NL equal to the rectangle > AG, > GB, therefore > NL is also a mean proportional between > CH, > KL; therefore, as > CH is to > NL, so is > NL to > KL.
+And for the same reason as before the square on > CM is greater than the square on > MF by the square on a straight line incommensurable with > CM. [elem.10.18]
+And neither of them is commensurable with the rational straight line > CD set out; therefore > CF is a sixth apotome. [elem.10.def.3.6] Q. E. D.

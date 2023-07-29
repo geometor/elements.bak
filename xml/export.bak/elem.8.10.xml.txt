@@ -1,0 +1,23 @@
+Enunciation:
+
+
+Proof:
+For let the numbers ,  and ,  respectively fall between the two numbers ,  and the unit  in continued proportion; I say that, as many numbers as have fallen between each of the numbers ,  and the unit  in continued proportion, so many numbers will also fall between ,  in continued proportion.
+For let  by multiplying  make , and let the numbers ,  by multiplying  make ,  respectively.
+Now, since, as the unit  is to the number , so is  to , therefore the unit  measures the number  the same number of times as  measures . [elem.7.def.20]
+But the unit  measures the number  according to the units in ; therefore the number  also measures  according to the units in ; therefore  by multiplying itself has made .
+Again, since, as  is to the number , so is  to , therefore the unit  measures the number  the same number of times as  measures .
+But the unit  measures the number  according to the units in ; therefore  also measures  according to the units in ; therefore  by multiplying  has made .
+For the same reason also  by multiplying itself has made , and by multiplying  has made .
+And, since  by multiplying itself has made  and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
+For the same reason also,
+Therefore also, as  is to , so is  to .
+Again, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
+Again, since the numbers ,  by multiplying  have made ,  respectively, therefore, as  is to , so is  to . [elem.7.18]
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
+Further, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
+But, as  is to , so is  to ; therefore also, as  is to , so is  to .
+But it was also proved that,  therefore also, as  is to , so is  to  and  to .
+Therefore , , ,  are in continued proportion.
+Therefore, as many numbers as fall between each of the numbers ,  and the unit  in continued proportion, so many also will fall between ,  in continued proportion. Q. E. D.

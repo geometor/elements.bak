@@ -1,0 +1,22 @@
+Enunciation:
+.
+
+Proof:
+Let there be set out two medial straight lines ,  commensurable in square only, containing a medial rectangle, and such that the square on  is greater than the square on  by the square on a straight line incommensurable with ; [elem.10.32
+, .] let the semicircle  be described on , and let the rest of the construction be as above.
+Then, since  is incommensurable in length with , [elem.10.18
+]  is also incommensurable in square with . [elem.10.11
+]
+And, since the square on  is medial, therefore the sum of the squares on ,  is also medial. [elem.3.31
+, elem.1.47
+]
+And, since the rectangle ,  is equal to the square on each of the straight lines , , therefore  is equal to ; therefore  is double of , so that the rectangle ,  is also double of the rectangle , .
+But the rectangle ,  is medial; therefore the rectangle ,  is also medial. [elem.10.32.p.1]
+And it is equal to the rectangle , ; [elem.10.32.l.1
+] therefore the rectangle ,  is also medial.
+And, since  is incommensurable in length with , while  is commensurable with , therefore  is also incommensurable in length with , [elem.10.13
+] so that the square on  is also incommensurable with the rectangle , . [elem.10.11
+]
+But the squares on ,  are equal to the square on , [elem.1.47
+] and the rectangle , , that is, the rectangle , , is equal to the rectangle , ; therefore the sum of the squares on ,  is incommensurable with the rectangle , .
+Therefore two straight lines ,  incommensurable in square have been found which make the sum of the squares on them medial and the rectangle contained by them medial and moreover incommensurable with the sum of the squares on them. Q. E. D.

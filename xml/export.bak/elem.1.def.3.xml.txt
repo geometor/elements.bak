@@ -1,0 +1,4 @@
+Enunciation:
+The extremities of a line are points.
+
+Proof:

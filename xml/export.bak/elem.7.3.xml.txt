@@ -1,0 +1,29 @@
+Enunciation:
+
+
+Proof:
+Let , ,  be the three given numbers not prime to one another; thus it is required to find the greatest common measure of , , .
+For let the greatest common measure, , of the two numbers ,  be taken; [elem.7.2] then  either measures, or does not measure, .
+First, let it measure it.
+But it measures ,  also; therefore  measures , , ; therefore  is a common measure of , , .
+I say that it is also the greatest.
+For, if  is not the greatest common measure of , , , some number which is greater than  will measure the numbers , , .
+Let such a number measure them, and let it be .
+Since then  measures , , , it will also measure , ; therefore it will also measure the greatest common measure of , . [elem.7.2.p.1]
+But the greatest common measure of ,  is ; therefore  measures , the greater the less: which is impossible.
+Therefore no number which is greater than  will measure the numbers , , ;
+Next, let  not measure ; I say first that ,  are not prime to one another.
+For, since , ,  are not prime to one another, some number will measure them.
+Now that which measures , ,  will also measure , , and will measure , the greatest common measure of , . [elem.7.2.p.1]
+But it measures  also; therefore some number will measure the numbers , ; therefore ,  are not prime to one another.
+Let then their greatest common measure  be taken. [elem.7.2]
+Then, since  measures , and  measures , , therefore  also measures , .
+But it measures  also; therefore  measures , , ; therefore  is a common measure of , , .
+I say next that it is also the greatest.
+For, if  is not the greatest common measure of , , , some number which is greater than  will measure the numbers , , .
+Let such a number measure them, and let it be .
+Now, since  measures , , , it also measures , ; therefore it will also measure the greatest common measure of , . [elem.7.2.p.1]
+But the greatest common measure of ,  is ; therefore  measures .
+And it measures  also; therefore  measures , ; therefore it will also measure the greatest common measure of , . [elem.7.2.p.1]
+But the greatest common measure of ,  is ; therefore  measures , the greater the less: which is impossible.
+Therefore no number which is greater than  will measure the numbers , , ; therefore  is the greatest common measure of , , . Q. E. D.

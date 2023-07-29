@@ -1,19 +1,19 @@
 Enunciation:
-
+> Spheres are to one another in the triplicate ratio of their respective diameters.
 
 Proof:
-Let the spheres ,  be conceived, and let ,  be their diameters; I say that the sphere  has to the sphere  the ratio triplicate of that which  has to .
-For, if the sphere  has not to the sphere  the ratio triplicate of that which  has to , then the sphere  will have either to some less sphere than the sphere , or to a greater, the ratio triplicate of that which  has to .
-First, let it have that ratio to a less sphere , let  be conceived about the same centre with , let there be inscribed in the greater sphere  a polyhedral solid which does not touch the lesser sphere  at its surface, [elem.12.17] and let there also be inscribed in the sphere  a polyhedral solid similar to the polyhedral solid in the sphere ; therefore the polyhedral solid in  has to the polyhedral solid in  the ratio triplicate of that which  has to . [elem.12.17.p.1]
-But the sphere  also has to the sphere  the ratio triplicate of that which  has to ; therefore, as the sphere  is to the sphere , so is the polyhedral solid in the sphere  to the polyhedral solid in the sphere ; and, alternately, as the sphere  is to the polyhedron in it, so is the sphere  to the polyhedral solid in the sphere . [elem.5.16]
-But the sphere  is greater than the polyhedron in it; therefore the sphere  is also greater than the polyhedron in the sphere .
+Let the spheres > ABC, > DEF be conceived, and let > BC, > EF be their diameters; I say that the sphere > ABC has to the sphere > DEF the ratio triplicate of that which > BC has to > EF.
+For, if the sphere > ABC has not to the sphere > DEF the ratio triplicate of that which > BC has to > EF, then the sphere > ABC will have either to some less sphere than the sphere > DEF, or to a greater, the ratio triplicate of that which > BC has to > EF.
+First, let it have that ratio to a less sphere > GHK, let > DEF be conceived about the same centre with > GHK, let there be inscribed in the greater sphere > DEF a polyhedral solid which does not touch the lesser sphere > GHK at its surface, [elem.12.17] and let there also be inscribed in the sphere > ABC a polyhedral solid similar to the polyhedral solid in the sphere > DEF; therefore the polyhedral solid in > ABC has to the polyhedral solid in > DEF the ratio triplicate of that which > BC has to > EF. [elem.12.17.p.1]
+But the sphere > ABC also has to the sphere > GHK the ratio triplicate of that which > BC has to > EF; therefore, as the sphere > ABC is to the sphere > GHK, so is the polyhedral solid in the sphere > ABC to the polyhedral solid in the sphere > DEF; and, alternately, as the sphere > ABC is to the polyhedron in it, so is the sphere > GHK to the polyhedral solid in the sphere > DEF. [elem.5.16]
+But the sphere > ABC is greater than the polyhedron in it; therefore the sphere > GHK is also greater than the polyhedron in the sphere > DEF.
 But it is also less, for it is enclosed by it.
-Therefore the sphere  has not to a less sphere than the sphere  the ratio triplicate of that which the diameter  has to .
-Similarly we can prove that neither has the sphere  to a less sphere than the sphere  the ratio triplicate of that which  has to .
-I say next that neither has the sphere  to any greater sphere than the sphere  the ratio triplicate of that which  has to .
-For, if possible, let it have that ratio to a greater, ; therefore, inversely, the sphere  has to the sphere  the ratio triplicate of that which the diameter  has to the diameter .
-But, inasmuch as  is greater than , therefore, as the sphere  is to the sphere , so is the sphere  to some less sphere than the sphere , as was before proved. [elem.12.2.l.1]
-Therefore the sphere  also has to some less sphere than the sphere  the ratio triplicate of that which  has to : which was proved impossible.
-Therefore the sphere  has not to any sphere greater than the sphere  the ratio triplicate of that which  has to .
+Therefore the sphere > ABC has not to a less sphere than the sphere > DEF the ratio triplicate of that which the diameter > BC has to > EF.
+Similarly we can prove that neither has the sphere > DEF to a less sphere than the sphere > ABC the ratio triplicate of that which > EF has to > BC.
+I say next that neither has the sphere > ABC to any greater sphere than the sphere > DEF the ratio triplicate of that which > BC has to > EF.
+For, if possible, let it have that ratio to a greater, > LMN; therefore, inversely, the sphere > LMN has to the sphere > ABC the ratio triplicate of that which the diameter > EF has to the diameter > BC.
+But, inasmuch as > LMN is greater than > DEF, therefore, as the sphere > LMN is to the sphere > ABC, so is the sphere > DEF to some less sphere than the sphere > ABC, as was before proved. [elem.12.2.l.1]
+Therefore the sphere > DEF also has to some less sphere than the sphere > ABC the ratio triplicate of that which > EF has to > BC: which was proved impossible.
+Therefore the sphere > ABC has not to any sphere greater than the sphere > DEF the ratio triplicate of that which > BC has to > EF.
 But it was proved that neither has it that ratio to a less sphere.
-Therefore the sphere  has to the sphere  the ratio triplicate of that which  has to . Q. E. D.
+Therefore the sphere > ABC has to the sphere > DEF the ratio triplicate of that which > BC has to > EF. Q. E. D.

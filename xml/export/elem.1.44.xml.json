@@ -45,7 +45,7 @@
             ]
         },
         {
-            "text": "Then, since the straight line `HF` falls upon the parallels `AH`, `EF`,  Therefore the angles `BHG`, `GFE` are less than two right angles; and straight lines produced indefinitely from angles less than two right angles meet; [elem.1.post.5]",
+            "text": "Then, since the straight line `HF` falls upon the parallels `AH`, `EF`, > the angles `AHF`, `HFE` are equal to two right angles. [elem.1.29] Therefore the angles `BHG`, `GFE` are less than two right angles; and straight lines produced indefinitely from angles less than two right angles meet; [elem.1.post.5] > therefore `HB`, `FE`, when produced, will meet.",
             "refs": [
                 "elem.1.post.5"
             ],
@@ -75,7 +75,7 @@
             ]
         },
         {
-            "text": "Then `HLKF` is a parallelogram, `HK` is its diameter, and `AG`, `ME` are parallelograms. and `LB`, `BF` the so-called complements, about `HK`;",
+            "text": "Then `HLKF` is a parallelogram, `HK` is its diameter, and `AG`, `ME` are parallelograms. and `LB`, `BF` the so-called complements, about `HK`; > therefore `LB` is equal to `BF`. [elem.1.43]",
             "refs": [],
             "emphs": [
                 "HLKF",
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "text": "But `BF` is equal to the triangle `C`;",
+            "text": "But `BF` is equal to the triangle `C`; > therefore `LB` is also equal to `C`. [elem.1.c.n.1]",
             "refs": [],
             "emphs": [
                 "BF",
@@ -96,7 +96,7 @@
             ]
         },
         {
-            "text": "And, since the angle `GBE` is equal to the angle `ABM`, [elem.1.15]",
+            "text": "And, since the angle `GBE` is equal to the angle `ABM`, [elem.1.15] > while the angle `GBE` is equal to `D`, the angle `ABM` is also equal to the angle `D`.",
             "refs": [
                 "elem.1.15"
             ],

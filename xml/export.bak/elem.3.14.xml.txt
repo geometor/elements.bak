@@ -1,0 +1,16 @@
+Enunciation:
+`In a circle equal straight lines are equally distant from the centre`, `and those which are equally distant from the centre are equal to one another`.
+
+Proof:
+Let `ABDC` be a circle, and let `AB`, `CD` be equal straight lines in it; I say that `AB`, `CD` are equally distant from the centre.
+For let the centre of the circle `ABDC` be taken [elem.3.1], and let it be `E`; from `E` let `EF`, `EG` be drawn perpendicular to `AB`, `CD`, and let `AE`, `EC` be joined.
+Then, since a straight line `EF` through the centre cuts a straight line `AB` not through the centre at right angles, it also bisects it. [elem.3.3]
+For the same reason  and `AB` is equal to `CD`;
+And, since `AE` is equal to `EC`,  But the squares on `AF`, `EF` are equal to the square on `AE`, for the angle at `F` is right; and the squares on `EG`, `GC` are equal to the square on `EC`, for the angle at `G` is right; [elem.1.47]  of which the square on `AF` is equal to the square on `CG`, for `AF` is equal to `CG`;
+But in a circle straight lines are said to be equally distant from the centre when the perpendiculars drawn to them from the centre are equal; [elem.3.def.4]
+Next, let the straight lines `AB`, `CD` be equally distant from the centre; that is, let `EF` be equal to `EG`.
+I say that `AB` is also equal to `CD`.
+For, with the same construction, we can prove, similarly, that `AB` is double of `AF`, and `CD` of `CG`.
+And, since `AE` is equal to `CE`,  But the squares on `EF`, `FA` are equal to the square on `AE`, and the squares on `EG`, `GC` equal to the square on `CE`. [elem.1.47]
+Therefore the squares on `EF`, `FA` are equal to the squares on `EG`, `GC`, of which the square on `EF` is equal to the square on `EG`, for `EF` is equal to `EG`; therefore the square on `AF` which remains is equal to the square on `CG`;  And `AB` is double of `AF`, and `CD` double of `CG`;
+Therefore etc. Q. E. D.

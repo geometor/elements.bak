@@ -19,7 +19,7 @@
             ]
         },
         {
-            "text": "For, since `EF` has been drawn parallel to `BC`, one of the sides of the triangle `ABC`,",
+            "text": "For, since `EF` has been drawn parallel to `BC`, one of the sides of the triangle `ABC`, > proportionally, as `BE` is to `EA`, so is `CF` to `FA`. [elem.6.2]",
             "refs": [],
             "emphs": [
                 "EF",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "text": "Again, since `FG` has been drawn parallel to `CD`, one of the sides of the triangle `ACD`,",
+            "text": "Again, since `FG` has been drawn parallel to `CD`, one of the sides of the triangle `ACD`, > proportionally, as `CF` is to `FA`, so is `DG` to `GA`. [elem.6.2]",
             "refs": [],
             "emphs": [
                 "FG",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "text": "But it was proved that,  and therefore, `componendo`,  and, alternately,",
+            "text": "But it was proved that, > as `CF` is to `FA`, so also is `BE` to `EA`; therefore also, as `BE` is to `EA`, so is `DG` to `GA`, and therefore, `componendo`, > as `BA` is to `AE`, so is `DA` to `AG`, [elem.5.18] and, alternately, > as `BA` is to `AD`, so is `EA` to `AG`. [elem.5.16]",
             "refs": [],
             "emphs": [
                 "componendo"
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "And, since `GF` is parallel to `DC`,  and the angle `DAC` is common to the two triangles `ADC`, `AGF`;",
+            "text": "And, since `GF` is parallel to `DC`, > the angle `AFG` is equal to the angle `DCA`; and the angle `DAC` is common to the two triangles `ADC`, `AGF`; > therefore the triangle `ADC` is equiangular with the triangle `AGF`.",
             "refs": [],
             "emphs": [
                 "GF",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "text": "For the same reason  and the whole parallelogram `ABCD` is equiangular with the parallelogram `EG`.",
+            "text": "For the same reason > the triangle `ACB` is also equiangular with the triangle `AFE`, and the whole parallelogram `ABCD` is equiangular with the parallelogram `EG`.",
             "refs": [],
             "emphs": [
                 "ABCD",
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "text": "Therefore, proportionally,  and further, as `CB` is to `BA`, so is `FE` to `EA`.",
+            "text": "Therefore, proportionally, > as `AD` is to `DC`, so is `AG` to `GF`, as `DC` is to `CA`, so is `GF` to `FA`, as `AC` is to `CB`, so is `AF` to `FE`, and further, as `CB` is to `BA`, so is `FE` to `EA`.",
             "refs": [],
             "emphs": [
                 "CB",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "text": "And, since it was proved that,  and, as `AC` is to `CB`, so is `AF` to `FE`, therefore, , as `DC` is to `CB`, so is `GF` to `FE`. [elem.5.22]",
+            "text": "And, since it was proved that, > as `DC` is to `CA`, so is `GF` to `FA`, and, as `AC` is to `CB`, so is `AF` to `FE`, therefore, , as `DC` is to `CB`, so is `GF` to `FE`. [elem.5.22]",
             "refs": [
                 "elem.5.22"
             ],

@@ -14,7 +14,7 @@
             ]
         },
         {
-            "text": "I say that the angle `AEC` is equal to the angle `DEB`,",
+            "text": "I say that the angle `AEC` is equal to the angle `DEB`, > and the angle `CEB` to the angle `AED`.",
             "refs": [],
             "emphs": [
                 "AEC",
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "text": "For, since the straight line `AE` stands on the straight line `CD`, making the angles `CEA`, `AED`,",
+            "text": "For, since the straight line `AE` stands on the straight line `CD`, making the angles `CEA`, `AED`, > the angles `CEA`, `AED` are equal to two right angles [elem.1.13]",
             "refs": [],
             "emphs": [
                 "AE",
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "text": "Again, since the straight line `DE` stands on the straight line `AB`, making the angles `AED`, `DEB`,",
+            "text": "Again, since the straight line `DE` stands on the straight line `AB`, making the angles `AED`, `DEB`, > the angles `AED`, `DEB` are equal to two right angles. [elem.1.13]",
             "refs": [],
             "emphs": [
                 "DE",
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "But the angles `CEA`, `AED` were also proved equal to two right angles;",
+            "text": "But the angles `CEA`, `AED` were also proved equal to two right angles; > therefore the angles `CEA`, `AED` are equal to the angles `AED`\n         `DEB`. [elem.1.post.4 and elem.1.c.n.1] Let the angle `AED` be subtracted from each; therefore the remaining angle `CEA` is equal to the remaining angle `BED`. [elem.1.c.n.3]",
             "refs": [],
             "emphs": [
                 "CEA",

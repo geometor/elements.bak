@@ -26,7 +26,7 @@
             ]
         },
         {
-            "text": "Then, since `AC` is equal to `AD`,  therefore the angle `CDB` is much greater than the angle `DCB`.",
+            "text": "Then, since `AC` is equal to `AD`, > the angle `ACD` is also equal to the angle `ADC`; [elem.1.5] therefore the angle `ADC` is greater than the angle `DCB`; therefore the angle `CDB` is much greater than the angle `DCB`.",
             "refs": [],
             "emphs": [
                 "AC",
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "text": "Again, since `CB` is equal to `DB`, \n        But it was also proved much greater than it:",
+            "text": "Again, since `CB` is equal to `DB`, > the angle `CDB` is also equal to the angle `DCB`.\n        But it was also proved much greater than it: > which is impossible.",
             "refs": [],
             "emphs": [
                 "CB",

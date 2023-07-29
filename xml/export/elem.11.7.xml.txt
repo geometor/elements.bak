@@ -1,9 +1,9 @@
 Enunciation:
-,
+> If two straight lines be parallel and points be taken at random on each of them, > the straight line joining the points is in the same plane with the parallel straight lines.
 
 Proof:
-Let ,  be two parallel straight lines, and let points ,  be taken at random on them respectively; I say that the straight line joining the points ,  is in the same plane with the parallel straight lines.
-For suppose it is not, but, if possible, let it be in a more elevated plane as , and let a plane be drawn through ; it will then make, as section in the plane of reference, a straight line. [elem.11.3]
-Let it make it, as ; therefore the two straight lines ,  will enclose an area: which is impossible.
-Therefore the straight line joined from  to  is not in a plane more elevated; therefore the straight line joined from  to  is in the plane through the parallel straight lines , .
+Let > AB, > CD be two parallel straight lines, and let points > E, > F be taken at random on them respectively; I say that the straight line joining the points > E, > F is in the same plane with the parallel straight lines.
+For suppose it is not, but, if possible, let it be in a more elevated plane as > EGF, and let a plane be drawn through > EGF; it will then make, as section in the plane of reference, a straight line. [elem.11.3]
+Let it make it, as > EF; therefore the two straight lines > EGF, > EF will enclose an area: which is impossible.
+Therefore the straight line joined from > E to > F is not in a plane more elevated; therefore the straight line joined from > E to > F is in the plane through the parallel straight lines > AB, > CD.
 Therefore etc. Q. E. D.

@@ -2,17 +2,17 @@
     "id": "elem.10.28",
     "n": 28,
     "type": "propositions i\u201447",
-    "enunciation": ".",
+    "enunciation": "> To find medial straight lines commensurable in square only which contain a medial rectangle.",
     "proof": [
         {
-            "text": "Let the rational straight lines , ,  commensurable in square only be set out; let  be taken a mean proportional between , , [elem.6.13] and let it be contrived that,",
+            "text": "Let the rational straight lines > A, > B, > C commensurable in square only be set out; let > D be taken a mean proportional between > A, > B, [elem.6.13] and let it be contrived that, > as > B is to > C, so is > D to > E. [elem.6.12]",
             "refs": [
                 "elem.6.13"
             ],
             "emphs": []
         },
         {
-            "text": "Since ,  are rational straight lines commensurable in square only, therefore the rectangle , , that is, the square on  [elem.6.17], is medial. [elem.10.21]",
+            "text": "Since > A, > B are rational straight lines commensurable in square only, therefore the rectangle > A, > B, that is, the square on > D [elem.6.17], is medial. [elem.10.21]",
             "refs": [
                 "elem.6.17",
                 "elem.10.21"
@@ -20,28 +20,28 @@
             "emphs": []
         },
         {
-            "text": "Therefore  is medial. [elem.10.21]",
+            "text": "Therefore > D is medial. [elem.10.21]",
             "refs": [
                 "elem.10.21"
             ],
             "emphs": []
         },
         {
-            "text": "And since ,  are commensurable in square only, and, as  is to , so is  to , therefore ,  are also commensurable in square only. [elem.10.11]",
+            "text": "And since > B, > C are commensurable in square only, and, as > B is to > C, so is > D to > E, therefore > D, > E are also commensurable in square only. [elem.10.11]",
             "refs": [
                 "elem.10.11"
             ],
             "emphs": []
         },
         {
-            "text": "But  is medial; therefore  is also medial. [elem.10.23, addition]",
+            "text": "But > D is medial; therefore > E is also medial. [elem.10.23, addition]",
             "refs": [
                 "elem.10.23"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are medial straight lines commensurable in square only.",
+            "text": "Therefore > D, > E are medial straight lines commensurable in square only.",
             "refs": [],
             "emphs": []
         },
@@ -51,21 +51,21 @@
             "emphs": []
         },
         {
-            "text": "For since, as  is to , so is  to , therefore, alternately, as  is to , so is  to . [elem.5.16]",
+            "text": "For since, as > B is to > C, so is > D to > E, therefore, alternately, as > B is to > D, so is > C to > E. [elem.5.16]",
             "refs": [
                 "elem.5.16"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to ; therefore the rectangle ,  is equal to the rectangle , . [elem.6.16]",
+            "text": "But, as > B is to > D, so is > D to > A; therefore also, as > D is to > A, so is > C to > E; therefore the rectangle > A, > C is equal to the rectangle > D, > E. [elem.6.16]",
             "refs": [
                 "elem.6.16"
             ],
             "emphs": []
         },
         {
-            "text": "But the rectangle ,  is medial; [elem.10.21] therefore the rectangle ,  is also medial.",
+            "text": "But the rectangle > A, > C is medial; [elem.10.21] therefore the rectangle > D, > E is also medial.",
             "refs": [
                 "elem.10.21"
             ],

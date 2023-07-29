@@ -1,0 +1,131 @@
+{
+    "id": "elem.5.6",
+    "n": 6,
+    "type": "proposition",
+    "enunciation": "`If two magnitudes be equimultiples of two magnitudes`, `and any magnitudes subtracted from them be equimultiples of the same`, `the remainders also are either equal to the same or equimultiples of them`.",
+    "proof": [
+        {
+            "text": "For let two magnitudes `AB`, `CD` be equimultiples of two magnitudes `E`, `F`, and let `AG`, `CH` subtracted from them be equimultiples of the same two `E`, `F`;  I say that the remainders also, `GB`, `HD`, are either equal to `E`, `F` or equimultiples of them.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "CD",
+                "E",
+                "F",
+                "AG",
+                "CH",
+                "E",
+                "F",
+                "GB",
+                "HD",
+                "E",
+                "F"
+            ]
+        },
+        {
+            "text": "For, first, let `GB` be equal to `E`; I say that `HD` is also equal to `F`.",
+            "refs": [],
+            "emphs": [
+                "GB",
+                "E",
+                "HD",
+                "F"
+            ]
+        },
+        {
+            "text": "For let `CK` be made equal to `F`.",
+            "refs": [],
+            "emphs": [
+                "CK",
+                "F"
+            ]
+        },
+        {
+            "text": "Since `AG` is the same multiple of `E` that `CH` is of `F`, while `GB` is equal to `E` and `KC` to `F`, therefore `AB` is the same multiple of `E` that `KH` is of `F`. [elem.5.2]",
+            "refs": [
+                "elem.5.2"
+            ],
+            "emphs": [
+                "AG",
+                "E",
+                "CH",
+                "F",
+                "GB",
+                "E",
+                "KC",
+                "F",
+                "AB",
+                "E",
+                "KH",
+                "F"
+            ]
+        },
+        {
+            "text": "But, by hypothesis, `AB` is the same multiple of `E` that `CD` is of `F`; therefore `KH` is the same multiple of `F` that `CD` is of `F`.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "E",
+                "CD",
+                "F",
+                "KH",
+                "F",
+                "CD",
+                "F"
+            ]
+        },
+        {
+            "text": "Since then each of the magnitudes `KH`, `CD` is the same multiple of `F`,",
+            "refs": [],
+            "emphs": [
+                "KH",
+                "CD",
+                "F"
+            ]
+        },
+        {
+            "text": "Let `CH` be subtracted from each; therefore the remainder `KC` is equal to the remainder `HD`.",
+            "refs": [],
+            "emphs": [
+                "CH",
+                "KC",
+                "HD"
+            ]
+        },
+        {
+            "text": "But `F` is equal to `KC`; therefore `HD` is also equal to `F`.",
+            "refs": [],
+            "emphs": [
+                "F",
+                "KC",
+                "HD",
+                "F"
+            ]
+        },
+        {
+            "text": "Hence, if `GB` is equal to `E`, `HD` is also equal to `F`.",
+            "refs": [],
+            "emphs": [
+                "GB",
+                "E",
+                "HD",
+                "F"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that, even if `GB` be a multiple of `E`, `HD` is also the same multiple of `F`.",
+            "refs": [],
+            "emphs": [
+                "GB",
+                "E",
+                "HD",
+                "F"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

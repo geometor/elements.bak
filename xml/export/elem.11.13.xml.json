@@ -2,33 +2,34 @@
     "id": "elem.11.13",
     "n": 13,
     "type": "proposition",
+    "enunciation": "> From the same point two straight lines cannot be set up at right angles to the same plane on the same side.",
     "proof": [
         {
-            "text": "For, if possible, from the same point  let the two straight lines ,  be set up at right angles to the plane of reference and on the same side, and let a plane be drawn through , ; it will then make, as section through  in the plane of reference, a straight line. [elem.11.3]",
+            "text": "For, if possible, from the same point > A let the two straight lines > AB, > AC be set up at right angles to the plane of reference and on the same side, and let a plane be drawn through > BA, > AC; it will then make, as section through > A in the plane of reference, a straight line. [elem.11.3]",
             "refs": [
                 "elem.11.3"
             ],
             "emphs": []
         },
         {
-            "text": "Let it make ; therefore the straight lines , ,  are in one plane.",
+            "text": "Let it make > DAE; therefore the straight lines > AB, > AC, > DAE are in one plane.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference. [elem.11.def.3]",
+            "text": "And, since > CA is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference. [elem.11.def.3]",
             "refs": [
                 "elem.11.def.3"
             ],
             "emphs": []
         },
         {
-            "text": "But  meets it and is in the plane of reference; therefore the angle  is right.",
+            "text": "But > DAE meets it and is in the plane of reference; therefore the angle > CAE is right.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the same reason the angle  is also right; therefore the angle  is equal to the angle .",
+            "text": "For the same reason the angle > BAE is also right; therefore the angle > CAE is equal to the angle > BAE.",
             "refs": [],
             "emphs": []
         },

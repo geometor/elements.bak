@@ -1,0 +1,50 @@
+{
+    "id": "elem.9.2",
+    "n": 2,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be two numbers, and let  by multiplying  make the square number ; I say that ,  are similar plane numbers.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  by multiplying itself make ; therefore  is square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  by multiplying itself has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is square, and  is so also, therefore ,  are similar plane numbers.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore one mean proportional number falls between , . [elem.8.18]",
+            "refs": [
+                "elem.8.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore one mean proportional number falls between ,  also. [elem.8.18]",
+            "refs": [
+                "elem.8.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, if one mean proportional number fall between two numbers, they are similar plane numbers; [elem.8.20] therefore ,  are similar plane numbers. Q. E. D.",
+            "refs": [
+                "elem.8.20"
+            ],
+            "emphs": []
+        }
+    ]
+}

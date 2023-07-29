@@ -13,7 +13,7 @@
             ]
         },
         {
-            "text": "For let `AC` be bisected at `D`, let `DB` be drawn from the point `D` at right angles to `AC`, and let `AB`. be joined;",
+            "text": "For let `AC` be bisected at `D`, let `DB` be drawn from the point `D` at right angles to `AC`, and let `AB`. be joined; > the angle `ABD` is then greater than, equal to, or less than the angle `BAD`.",
             "refs": [],
             "emphs": [
                 "AC",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "text": "Then, since the angle `ABE` is equal to the angle `BAE`,",
+            "text": "Then, since the angle `ABE` is equal to the angle `BAE`, \n       > the straight line `EB` is also equal to `EA`. [elem.1.6]",
             "refs": [],
             "emphs": [
                 "ABE",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "text": "And, since `AD` is equal to `DC`, and `DE` is common,  and the angle `ADE` is equal to the angle `CDE`, for each is right;",
+            "text": "And, since `AD` is equal to `DC`, and `DE` is common, > the two sides `AD`, `DE` are equal to the two sides `CD`, `DE` respectively; and the angle `ADE` is equal to the angle `CDE`, for each is right; > therefore the base `AE` is equal to the base `CE`.",
             "refs": [],
             "emphs": [
                 "AD",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "But `AE` was proved equal to `BE`;  therefore the three straight lines `AE`, `EB`, `EC` are equal to one another.",
+            "text": "But `AE` was proved equal to `BE`; > therefore `BE` is also equal to `CE`; therefore the three straight lines `AE`, `EB`, `EC` are equal to one another.",
             "refs": [],
             "emphs": [
                 "AE",
@@ -93,7 +93,7 @@
             ]
         },
         {
-            "text": "Similarly, even if the angle `ABD` be equal to the angle `BAD`, `AD` being equal to each of the two `BD`, `DC`,",
+            "text": "Similarly, even if the angle `ABD` be equal to the angle `BAD`, `AD` being equal to each of the two `BD`, `DC`, > the three straight lines `DA`, `DB`, `DC` will be equal to one another, \n        `D` will be the centre of the completed circle, and `ABC` will clearly be a semicircle.",
             "refs": [],
             "emphs": [
                 "ABD",

@@ -1,0 +1,39 @@
+{
+    "id": "elem.10.83",
+    "n": 83,
+    "type": "propositions 48\u201484",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let  be the straight line which produces with a rational area a medial whole, and let  be an annex to ; therefore ,  are straight lines incommensurable in square which fulfil the given conditions. [elem.10.77]",
+            "refs": [
+                "elem.10.77"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say that no other straight line can be annexed to  which fulfils the same conditions.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let  be so annexed; therefore ,  are also straight lines incommensurable in square which fulfil the given conditions. [elem.10.77]",
+            "refs": [
+                "elem.10.77"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Since then, as in the preceding cases, the excess of the squares on ,  over the squares on ,  is also the excess of twice the rectangle ,  over twice the rectangle , , while twice the rectangle ,  exceeds twice the rectangle ,  by a rational area, for both are rational, therefore the squares on ,  also exceed the squares on ,  by a rational area: which is impossible, for both are medial. [elem.10.26]",
+            "refs": [
+                "elem.10.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no other straight line can be annexed to  which is incommensurable in square with the whole and which with the whole fulfils the aforesaid conditions; therefore only one straight line can be so annexed. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

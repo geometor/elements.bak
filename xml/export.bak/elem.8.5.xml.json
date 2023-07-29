@@ -1,0 +1,58 @@
+{
+    "id": "elem.8.5",
+    "n": 5,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be plane numbers, and let the numbers ,  be the sides of , and ,  of ; I say that  has to  the ratio compounded of the ratios of the sides.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, the ratios being given which  has to  and  to , let the least numbers , ,  that are continuously in the ratios  : ,  :  be taken, so that,  and, as  is to , so is  to . [elem.8.4]",
+            "refs": [
+                "elem.8.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And let  by multiplying  make .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  by multiplying  has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  by multiplying  has made , and further by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it was also proved that,  therefore, ,",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  has to  the ratio compounded of the ratios of the sides; therefore  also has to  the ratio compounded of the ratios of the sides. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 Enunciation:
-,
+> If two planes cut one another, > their common section is a straight line.
 
 Proof:
-For let the two planes ,  cut one another, and let the line  be their common section; I say that the line  is a straight line.
-For, if not, from  to  let the straight line  be joined in the plane , and in the plane  the straight line .
-Then the two straight lines ,  will have the same extremities, and will clearly enclose an area: which is absurd.
-Therefore ,  are not straight lines.
-Similarly we can prove that neither will there be any other straight line joined from  to  except  the common section of the planes , .
+For let the two planes > AB, > BC cut one another, and let the line > DB be their common section; I say that the line > DB is a straight line.
+For, if not, from > D to > B let the straight line > DEB be joined in the plane > AB, and in the plane > BC the straight line > DFB.
+Then the two straight lines > DEB, > DFB will have the same extremities, and will clearly enclose an area: which is absurd.
+Therefore > DEB, > DFB are not straight lines.
+Similarly we can prove that neither will there be any other straight line joined from > D to > B except > DB the common section of the planes > AB, > BC.
 Therefore etc. Q. E. D.

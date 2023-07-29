@@ -44,7 +44,7 @@
             ]
         },
         {
-            "text": "Then, since `AC` is equal to `CE`,",
+            "text": "Then, since `AC` is equal to `CE`, > the angle `EAC` is also equal to the angle `AEC`.",
             "refs": [],
             "emphs": [
                 "AC",
@@ -52,24 +52,24 @@
             ]
         },
         {
-            "text": "And, since the angle at `C` is right,",
+            "text": "And, since the angle at `C` is right, > the remaining angles `EAC`, `AEC` are equal to one right angle. [elem.1.32]",
             "refs": [],
             "emphs": [
                 "C"
             ]
         },
         {
-            "text": "And they are equal;",
+            "text": "And they are equal; > therefore each of the angles `CEA`, `CAE` is half a right angle.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the same reason",
+            "text": "For the same reason > each of the angles `CEB`, `EBC` is also half a right angle; therefore the whole angle `AEB` is right.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since the angle `GEF` is half a right angle, and the angle `EGF` is right, for it is equal to the interior and opposite angle `ECB`, [elem.1.29]",
+            "text": "And, since the angle `GEF` is half a right angle, and the angle `EGF` is right, for it is equal to the interior and opposite angle `ECB`, [elem.1.29] > the remaining angle `EFG` is half a right angle; [elem.1.32] therefore the angle `GEF` is equal to the angle `EFG`, so that the side `EG` is also equal to `GF`. [elem.1.6]",
             "refs": [
                 "elem.1.29"
             ],
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "text": "Again, since the angle at `B` is half a right angle, and the angle `FDB` is right, for it is again equal to the interior and opposite angle `ECB`, [elem.1.29]",
+            "text": "Again, since the angle at `B` is half a right angle, and the angle `FDB` is right, for it is again equal to the interior and opposite angle `ECB`, [elem.1.29] > the remaining angle `BFD` is half a right angle; [elem.1.32] therefore the angle at `B` is equal to the angle `DFB`, so that the side `FD` is also equal to the side `DB`. [elem.1.6]",
             "refs": [
                 "elem.1.29"
             ],
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "text": "Now, since `AC` is equal to `CE`,",
+            "text": "Now, since `AC` is equal to `CE`, > the square on `AC` is also equal to the square on `CE`; therefore the squares on `AC`, `CE` are double of the square on `AC`.",
             "refs": [],
             "emphs": [
                 "AC",
@@ -99,7 +99,7 @@
             ]
         },
         {
-            "text": "But the square on `EA` is equal to the squares on `AC`, `CE`, for the angle `ACE` is right; [elem.1.47]",
+            "text": "But the square on `EA` is equal to the squares on `AC`, `CE`, for the angle `ACE` is right; [elem.1.47] > therefore the square on `EA` is double of the square on `AC`.",
             "refs": [
                 "elem.1.47"
             ],
@@ -111,7 +111,7 @@
             ]
         },
         {
-            "text": "Again, since `EG` is equal to `GF`,",
+            "text": "Again, since `EG` is equal to `GF`, > the square on `EG` is also equal to the square on `GF`; therefore the squares on `EG`, `GF` are double of the square on `GF`.",
             "refs": [],
             "emphs": [
                 "EG",
@@ -119,7 +119,7 @@
             ]
         },
         {
-            "text": "But the square on `EF` is equal to the squares on `EG`, `GF`;",
+            "text": "But the square on `EF` is equal to the squares on `EG`, `GF`; > therefore the square on `EF` is double of the square on `GF`.",
             "refs": [],
             "emphs": [
                 "EF",
@@ -140,7 +140,7 @@
             ]
         },
         {
-            "text": "But the square on `EA` is also double of the square on `AC`;",
+            "text": "But the square on `EA` is also double of the square on `AC`; > therefore the squares on `AE`, `EF` are double of the squares on `AC`, `CD`.",
             "refs": [],
             "emphs": [
                 "EA",

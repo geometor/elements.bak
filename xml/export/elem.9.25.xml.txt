@@ -1,8 +1,8 @@
 Enunciation:
-
+> If from an even number an odd number be subtracted, the remainder will be odd.
 
 Proof:
-For from the even number  let the odd number  be subtracted; I say that the remainder  is odd.
-For let the unit  be subtracted from ; therefore  is even. [elem.7.def.7]
-But  is also even; therefore the remainder  is also even. [elem.9.24]
-And  is an unit; therefore  is odd. [elem.7.def.7] Q. E. D.
+For from the even number > AB let the odd number > BC be subtracted; I say that the remainder > CA is odd.
+For let the unit > CD be subtracted from > BC; therefore > DB is even. [elem.7.def.7]
+But > AB is also even; therefore the remainder > AD is also even. [elem.9.24]
+And > CD is an unit; therefore > CA is odd. [elem.7.def.7] Q. E. D.

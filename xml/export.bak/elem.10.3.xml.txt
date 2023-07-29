@@ -1,0 +1,24 @@
+Enunciation:
+.
+
+Proof:
+Let the two given commensurable magnitudes be ,  of which  is the less; thus it is required to find the greatest common measure of , .
+Now the magnitude  either measures  or it does not.
+If then it measures it—and it measures itself also— is a common measure of , .
+And it is manifest that it is also the greatest; for a greater magnitude than the magnitude  will not measure .
+Next, let  not measure .
+Then, if the less be continually subtracted in turn from the greater, that which is left over will sometime measure the one before it, because ,  are not incommensurable; [cf. elem.10.2] let , measuring , leave  less than itself, let , measuring , leave  less than itself, and let  measure .
+Since, then,  measures , while  measures , therefore  will also measure .
+But it measures itself also; therefore  will also measure the whole .
+But  measures ; therefore  will also measure .
+But it measures  also; therefore it also measures the whole .
+Therefore  is a common measure of , .
+I say next that it is also the greatest.
+For, if not, there will be some magnitude greater than  which will measure , .
+Let it be .
+Since then  measures , while  measures , therefore  will also measure .
+But it measures the whole  also; therefore  will also measure the remainder .
+But  measures ; therefore  will also measure .
+But it measures the whole  also, and it will therefore measure the remainder , the greater the less: which is impossible.
+Therefore no magnitude greater than  will measure , ; therefore  is the greatest common measure of , .
+Therefore the greatest common measure of the two given commensurable magnitudes ,  has been found. Q. E. D.

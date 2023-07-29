@@ -1,0 +1,12 @@
+Enunciation:
+`If a point be taken within a circle`, `and more than two equal straight lines fall from the point on the circle`, `the point taken is the centre of the circle`.
+
+Proof:
+Let `ABC` be a circle and `D` a point within it, and from `D` let more than two equal straight lines, namely `DA`, `DB`, `DC`, fall on the circle `ABC`; I say that the point `D` is the centre of the circle `ABC`.
+For let `AB`, `BC` be joined and bisected at the points `E`, `F`, and let `ED`, `FD` be joined and drawn through to the points `G`, `K`, `H`, `L`.
+Then, since `AE` is equal to `EB`, and `ED` is common,  and the base `DA` is equal to the base `DB`;
+Therefore each of the angles `AED`, `BED` is right; [elem.1.def.10] therefore `GK` cuts `AB` into two equal parts and at right angles.
+And since, if in a circle a straight line cut a straight line into two equal parts and at right angles, the centre of the circle is on the cutting straight line, [elem.3.1.p.1]
+For the same reason
+And the straight lines `GK`, `HL` have no other point common but the point `D`;
+Therefore etc. Q. E. D.

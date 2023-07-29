@@ -1,0 +1,8 @@
+Enunciation:
+
+
+Proof:
+Let the four numbers , , ,  be proportional, so that,  I say that they will also be proportional alternately, so that,
+For since, as  is to , so is  to , therefore, whatever part or parts  is of , the same part or the same parts is  of  also. [elem.7.def.20]
+Therefore, alternately, whatever part or parts  is of , the same part or the same parts is  of  also. [elem.7.10]
+Therefore, as  is to , so is  to . [elem.7.def.20] Q. E. D.

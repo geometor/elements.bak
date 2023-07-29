@@ -1,0 +1,10 @@
+Enunciation:
+
+
+Proof:
+For let the cube number  by multiplying the cube number  make ; I say that  is cube.
+For let  by multiplying itself make ; therefore  is cube. [elem.9.3]
+And, since  by multiplying itself has made , and by multiplying  has made  therefore, as  is to , so is  to . [elem.7.17]
+And, since ,  are cube numbers, ,  are similar solid numbers.
+Therefore two mean proportional numbers fall between , ; [elem.8.19] so that two mean proportional numbers will fall between ,  also. [elem.8.8]
+And  is cube; therefore  is also cube [elem.8.23] Q. E. D.

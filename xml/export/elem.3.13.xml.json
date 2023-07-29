@@ -44,7 +44,7 @@
             ]
         },
         {
-            "text": "Then, since the point `G` is the centre of the circle `ABCD`,",
+            "text": "Then, since the point `G` is the centre of the circle `ABCD`, > `BG` is equal to `GD`;\n       > therefore `BG` is greater than `HD`; therefore `BH` is much greater than `HD`.",
             "refs": [],
             "emphs": [
                 "G",
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "text": "Again, since the point `H` is the centre of the circle `EBFD`,",
+            "text": "Again, since the point `H` is the centre of the circle `EBFD`, > `BH` is equal to `HD`;\n       > but it was also proved much greater than it: which is impossible.",
             "refs": [],
             "emphs": [
                 "H",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "text": "Then, since on the circumference of each of the circles `ABDC`, `ACK` two points `A`, `C` have been taken at random, the straight line joining the points will fall within each circle; [elem.3.2]",
+            "text": "Then, since on the circumference of each of the circles `ABDC`, `ACK` two points `A`, `C` have been taken at random, the straight line joining the points will fall within each circle; [elem.3.2] > but it fell within the circle `ABCD` and outside `ACK` [elem.3.def.3]: which is absurd.",
             "refs": [
                 "elem.3.2"
             ],

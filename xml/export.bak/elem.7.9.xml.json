@@ -1,0 +1,34 @@
+{
+    "id": "elem.7.9",
+    "n": 9,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the number  be a part of the number , and another, , the same part of another, , that  is of ; I say that, alternately also, whatever part or parts  is of , the same part or parts is  of  also.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, whatever part  is of , the same part also is  of , therefore, as many numbers as there are in  equal to , so many also are there in  equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be divided into the numbers equal to , namely , , and  into those equal to , namely , ; thus the multitude of ,  will be equal to the multitude of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the numbers ,  are equal to one another, and the numbers ,  are also equal to one another, while the multitude of ,  is equal to the multitude of , , therefore, whatever part or parts  is of , the same part or the same parts is  of  also; so that, in addition, whatever part or parts  is of , the same part also, or the same parts, is the sum  of the sum . [elem.7.5 elem.7.6]",
+            "refs": [
+                "elem.7.5 elem.7.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to , and  to ; therefore, whatever part or parts  is of , the same part or the same parts is  of  also. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

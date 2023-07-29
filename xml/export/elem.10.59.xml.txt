@@ -1,16 +1,17 @@
 Enunciation:
-
+> If an area be contained by a rational straight line and the sixth binomial, the 
+ of the area is the irrational straight line called the side of the sum of two medial areas.
 
 Proof:
-For let the area  be contained by the rational straight line  and the sixth binomial , divided into its terms at , so that  is the greater term; I say that the 
- of  is the side of the sum of two medial areas.
+For let the area > ABCD be contained by the rational straight line > AB and the sixth binomial > AD, divided into its terms at > E, so that > AE is the greater term; I say that the 
+ of > AC is the side of the sum of two medial areas.
 Let the same construction be made as before shown.
-It is then manifest that  is the 
- of , and that  is incommensurable in square with
-Now, since  is incommensurable in length with , therefore ,  are rational straight lines commensurable in square only; therefore , that is, the sum of the squares on , , is medial. [elem.10.21]
-Again, since  is incommensurable in length with , therefore  is also incommensurable with ; [elem.10.13] therefore ,  are rational straight lines commensurable in square only; therefore , that is, , that is, the rectangle , , is medial. [elem.10.21]
-And, since  is incommensurable with ,  is also incommensurable with  [elem.6.1, elem.10.11]
-But  is the sum of the squares on , , and  is the rectangle , ; therefore the sum of the squares on ,  is incommensurable with the rectangle ,
-And each of them is medial, and ,  are incommensurable in square.
-Therefore  is the side of the sum of two medial areas [elem.10.41], and is the 
- of . Q. E. D.
+It is then manifest that > MO is the 
+ of > AC, and that > MN is incommensurable in square with > NO.
+Now, since > EA is incommensurable in length with > AB, therefore > EA, > AB are rational straight lines commensurable in square only; therefore > AK, that is, the sum of the squares on > MN, > NO, is medial. [elem.10.21]
+Again, since > ED is incommensurable in length with > AB, therefore > FE is also incommensurable with > EK; [elem.10.13] therefore > FE, > EK are rational straight lines commensurable in square only; therefore > EL, that is, > MR, that is, the rectangle > MN, > NO, is medial. [elem.10.21]
+And, since > AE is incommensurable with > EF, > AK is also incommensurable with > EL. [elem.6.1, elem.10.11]
+But > AK is the sum of the squares on > MN, > NO, and > EL is the rectangle > MN, > NO; therefore the sum of the squares on > MN, > NO is incommensurable with the rectangle > MN, > NO.
+And each of them is medial, and > MN, > NO are incommensurable in square.
+Therefore > MO is the side of the sum of two medial areas [elem.10.41], and is the 
+ of > AC. Q. E. D.

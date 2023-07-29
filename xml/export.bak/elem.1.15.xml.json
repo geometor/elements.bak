@@ -1,0 +1,66 @@
+{
+    "id": "elem.1.15",
+    "n": 15,
+    "type": "proposition",
+    "enunciation": "If two straight lines cut one another, they make the vertical angles equal to one another.",
+    "proof": [
+        {
+            "text": "For let the straight lines `AB`, `CD` cut one another at the point `E`;",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "CD",
+                "E"
+            ]
+        },
+        {
+            "text": "I say that the angle `AEC` is equal to the angle `DEB`,",
+            "refs": [],
+            "emphs": [
+                "AEC",
+                "DEB"
+            ]
+        },
+        {
+            "text": "For, since the straight line `AE` stands on the straight line `CD`, making the angles `CEA`, `AED`,",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "CD",
+                "CEA",
+                "AED"
+            ]
+        },
+        {
+            "text": "Again, since the straight line `DE` stands on the straight line `AB`, making the angles `AED`, `DEB`,",
+            "refs": [],
+            "emphs": [
+                "DE",
+                "AB",
+                "AED",
+                "DEB"
+            ]
+        },
+        {
+            "text": "But the angles `CEA`, `AED` were also proved equal to two right angles;",
+            "refs": [],
+            "emphs": [
+                "CEA",
+                "AED"
+            ]
+        },
+        {
+            "text": "Similarly it can be proved that the angles `CEB`, `DEA` are also equal.",
+            "refs": [],
+            "emphs": [
+                "CEB",
+                "DEA"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

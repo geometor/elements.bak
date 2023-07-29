@@ -24,7 +24,7 @@
             ]
         },
         {
-            "text": "For let the square `CEFD` be described on `CD`, [elem.1.46] and let `DE` be joined; through the point `B` let `BG` be drawn parallel to either `EC` or `DF`, through the point `H` let `KM` be drawn parallel to either `AB` or `EF`, and further through `A` let `AK` be drawn parallel to either `CL` or `DM`. [elem.1.31] \n        But `CH` is equal to `HF`. [elem.1.43]",
+            "text": "For let the square `CEFD` be described on `CD`, [elem.1.46] and let `DE` be joined; through the point `B` let `BG` be drawn parallel to either `EC` or `DF`, through the point `H` let `KM` be drawn parallel to either `AB` or `EF`, and further through `A` let `AK` be drawn parallel to either `CL` or `DM`. [elem.1.31] \n       > Then, since `AC` is equal to `CB`, `AL` is also equal to `CH`. [elem.1.36] But `CH` is equal to `HF`. [elem.1.43] > Therefore `AL` is also equal to `HF`.",
             "refs": [
                 "elem.1.46",
                 "elem.1.31",
@@ -51,14 +51,14 @@
             ]
         },
         {
-            "text": "Let `CM` be added to each;",
+            "text": "Let `CM` be added to each; > therefore the whole `AM` is equal to the gnomon `NOP`.",
             "refs": [],
             "emphs": [
                 "CM"
             ]
         },
         {
-            "text": "But `AM` is the rectangle `AD`, `DB`,",
+            "text": "But `AM` is the rectangle `AD`, `DB`, > for `DM` is equal to `DB`; therefore the gnomon `NOP` is also equal to the rectangle `AD`, `DB`.",
             "refs": [],
             "emphs": [
                 "AM",
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "text": "Let `LG`, which is equal to the square on `BC`, be added to each;",
+            "text": "Let `LG`, which is equal to the square on `BC`, be added to each; > therefore the rectangle contained by `AD`, `DB` together with the square on `CB` is equal to the gnomon `NOP` and `LG`.",
             "refs": [],
             "emphs": [
                 "LG",
@@ -75,7 +75,7 @@
             ]
         },
         {
-            "text": "But the gnomon `NOP` and `LG` are the whole square `CEFD`, which is described on `CD`;",
+            "text": "But the gnomon `NOP` and `LG` are the whole square `CEFD`, which is described on `CD`; > therefore the rectangle contained by `AD`, `DB` together with the square on `CB` is equal to the square on `CD`.",
             "refs": [],
             "emphs": [
                 "NOP",

@@ -7,5 +7,5 @@ Therefore each of the figures `FH`, `HB` is a parallelogram; therefore `DH` is e
 Now, since the straight line `HE` has been drawn parallel to `KC`, one of the sides of the triangle `DKC`, therefore, proportionally, as `CE` is to `ED`, so is `KH` to `HD`. [elem.6.2]
 But `KH` is equal to `BG`, and `HD` to `GF`; therefore, as `CE` is to `ED`, so is `BG` to `GF`.
 Again, since `FD` has been drawn parallel to `GE`, one of the sides of the triangle `AGE`, therefore, proportionally, as `ED` is to `DA`, so is `GF` to `FA`. [elem.6.2]
-But it was also proved that,
+But it was also proved that, > as `CE` is to `ED`, so is `BG` to `GF`; therefore, as `CE` is to `ED`, so is `BG` to `GF`, and, as `ED` is to `DA`, so is `GF` to `FA`.
 Therefore the given uncut straight line `AB` has been cut similarly to the given cut straight line `AC`. Q. E. F.

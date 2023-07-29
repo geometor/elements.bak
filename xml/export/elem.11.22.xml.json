@@ -2,64 +2,64 @@
     "id": "elem.11.22",
     "n": 22,
     "type": "proposition",
-    "enunciation": ", , , ,",
+    "enunciation": "> If there be three plane angles of which two, > taken together in any manner, > are greater than the remaining one, > and they are contained by equal straight lines, > it is possible to construct a triangle out of the straight lines joining the extremities of the equal straight lines.",
     "proof": [
         {
-            "text": "Let there be three plane angles , , , of which two, taken together in any manner, are greater than the remaining one, namely  and, further, the angles ,  greater than the angle ; let the straight lines , , , , ,  be equal, and let , ,  be joined; I say that it is possible to construct a triangle out of straight lines equal to , , , that is, that any two of the straight lines , ,  are greater than the remaining one.",
+            "text": "Let there be three plane angles > ABC, > DEF, > GHK, of which two, taken together in any manner, are greater than the remaining one, namely > the angles > ABC, > DEF greater than the angle > GHK, the angles > DEF, > GHK greater than the angle > ABC, and, further, the angles > GHK, > ABC greater than the angle > DEF; let the straight lines > AB, > BC, > DE, > EF, > GH, > HK be equal, and let > AC, > DF, > GK be joined; I say that it is possible to construct a triangle out of straight lines equal to > AC, > DF, > GK, that is, that any two of the straight lines > AC, > DF, > GK are greater than the remaining one.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, if the angles , ,  are equal to one another, it is manifest that, , ,  being equal also, it is possible to construct a triangle out of straight lines equal to , , .",
+            "text": "Now, if the angles > ABC, > DEF, > GHK are equal to one another, it is manifest that, > AC, > DF, > GK being equal also, it is possible to construct a triangle out of straight lines equal to > AC, > DF, > GK.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, if not, let them be unequal, and on the straight line , and at the point  on it, let the angle  be constructed equal to the angle ; let  be made equal to one of the straight lines , , , , , , and let ,  be joined.",
+            "text": "But, if not, let them be unequal, and on the straight line > HK, and at the point > H on it, let the angle > KHL be constructed equal to the angle > ABC; let > HL be made equal to one of the straight lines > AB, > BC, > DE, > EF, > GH, > HK, and let > KL, > GL be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since the two sides ,  are equal to the two sides , , and the angle at  is equal to the angle , therefore the base  is equal to the base . [elem.1.4]",
+            "text": "Now, since the two sides > AB, > BC are equal to the two sides > KH, > HL, and the angle at > B is equal to the angle > KHL, therefore the base > AC is equal to the base > KL. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
             "emphs": []
         },
         {
-            "text": "And, since the angles ,  are greater than the angle , while the angle  is equal to the angle , therefore the angle  is greater than the angle .",
+            "text": "And, since the angles > ABC, > GHK are greater than the angle > DEF, while the angle > ABC is equal to the angle > KHL, therefore the angle > GHL is greater than the angle > DEF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since the two sides ,  are equal to the two sides , , and the angle  is greater than the angle , therefore the base  is greater than the base . [elem.1.24]",
+            "text": "And, since the two sides > GH, > HL are equal to the two sides > DE, > EF, and the angle > GHL is greater than the angle > DEF, therefore the base > GL is greater than the base > DF. [elem.1.24]",
             "refs": [
                 "elem.1.24"
             ],
             "emphs": []
         },
         {
-            "text": "But ,  are greater than .",
+            "text": "But > GK, > KL are greater than > GL.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are much greater than .",
+            "text": "Therefore > GK, > KL are much greater than > DF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is equal to ; therefore ,  are greater than the remaining straight line .",
+            "text": "But > KL is equal to > AC; therefore > AC, > GK are greater than the remaining straight line > DF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that ,  are greater than , and further ,  are greater than .",
+            "text": "Similarly we can prove that > AC, > DF are greater than > GK, and further > DF, > GK are greater than > AC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore it is possible to construct a triangle out of straight lines equal to , , . Q. E. D.",
+            "text": "Therefore it is possible to construct a triangle out of straight lines equal to > AC, > DF, > GK. Q. E. D.",
             "refs": [],
             "emphs": []
         }

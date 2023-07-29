@@ -52,7 +52,7 @@
             ]
         },
         {
-            "text": "And, since a point `B` has been taken outside the circle `ACD`, and from `B` the two straight lines `BA`, `BD` have fallen on the circle `ACD`, and one of them cuts it, while the other falls on it, and the rectangle `AB`, `BC` is equal to the square on `BD`,",
+            "text": "And, since a point `B` has been taken outside the circle `ACD`, and from `B` the two straight lines `BA`, `BD` have fallen on the circle `ACD`, and one of them cuts it, while the other falls on it, and the rectangle `AB`, `BC` is equal to the square on `BD`, > therefore `BD` touches the circle `ACD`. [elem.3.37]",
             "refs": [],
             "emphs": [
                 "B",
@@ -128,7 +128,7 @@
             ]
         },
         {
-            "text": "And, since the angle `DBC` is equal to the angle `BCD`,",
+            "text": "And, since the angle `DBC` is equal to the angle `BCD`, > the side `BD` is also equal to the side `DC`. [elem.1.6]",
             "refs": [],
             "emphs": [
                 "DBC",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "text": "But `BD` is by hypothesis equal to `CA`; therefore `CA` is also equal to `CD`,  therefore the angles `CDA`, `DAC` are double of the angle `DAC`.",
+            "text": "But `BD` is by hypothesis equal to `CA`; therefore `CA` is also equal to `CD`, > so that the angle `CDA` is also equal to the angle `DAC`; [elem.1.5] therefore the angles `CDA`, `DAC` are double of the angle `DAC`.",
             "refs": [],
             "emphs": [
                 "BD",

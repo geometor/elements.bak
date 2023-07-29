@@ -37,7 +37,7 @@
             ]
         },
         {
-            "text": "For, if the triangle `ABC` be applied to the triangle `DEF`,  then the point `B` will also coincide with `E`, because `AB` is equal to `DE`.",
+            "text": "For, if the triangle `ABC` be applied to the triangle `DEF`, > and if the point `A` be placed on the point `D` and the straight line `AB` on `DE`, then the point `B` will also coincide with `E`, because `AB` is equal to `DE`.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "text": "Again, `AB` coinciding with `DE`, the straight line `AC` will also coincide with `DF`, because the angle `BAC` is equal to the angle `EDF`;",
+            "text": "Again, `AB` coinciding with `DE`, the straight line `AC` will also coincide with `DF`, because the angle `BAC` is equal to the angle `EDF`; > hence the point `C` will also coincide with the point `F`, because `AC` is again equal to `DF`.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "text": "[For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible.",
+            "text": "[For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible. > Therefore the base `BC` will coincide with `EF`] and will be equal to it. [elem.1.c.n.4]",
             "refs": [],
             "emphs": [
                 "B",
@@ -83,7 +83,7 @@
             ]
         },
         {
-            "text": "Thus the whole triangle `ABC` will coincide with the whole triangle `DEF`,",
+            "text": "Thus the whole triangle `ABC` will coincide with the whole triangle `DEF`, > and will be equal to it.",
             "refs": [],
             "emphs": [
                 "ABC",

@@ -1,0 +1,34 @@
+{
+    "id": "elem.7.37",
+    "n": 37,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the number  be measured by any number ; I say that  has a part called by the same name as .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, as many times as  measures , so many units let there be in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since  measures  according to the units in , and the unit  also measures the number  according to the units in it, therefore the unit  measures the number  the same number of times as  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, alternately, the unit  measures the number  the same number of times as  measures ; [elem.7.15] therefore, whatever part the unit  is of the number , the same part is  of  also.",
+            "refs": [
+                "elem.7.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the unit  is a part of the number  called by the same name as it; therefore  is also a part of  called by the same name as , so that  has a part  which is called by the same name as . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

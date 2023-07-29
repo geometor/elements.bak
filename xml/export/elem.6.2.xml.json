@@ -116,7 +116,7 @@
             ]
         },
         {
-            "text": "For, with the same construction, since, as `BD` is to `DA`, so is `CE` to `EA`, but, as `BD` is to `DA`, so is the triangle `BDE` to the triangle `ADE`, and, as `CE` is to `EA`, so is the triangle `CDE` to the triangle `ADE`, [elem.6.1] therefore also,",
+            "text": "For, with the same construction, since, as `BD` is to `DA`, so is `CE` to `EA`, but, as `BD` is to `DA`, so is the triangle `BDE` to the triangle `ADE`, and, as `CE` is to `EA`, so is the triangle `CDE` to the triangle `ADE`, [elem.6.1] therefore also, > as the triangle `BDE` is to the triangle `ADE`, so is the triangle `CDE` to the triangle `ADE`. [elem.5.11]",
             "refs": [
                 "elem.6.1"
             ],

@@ -2,22 +2,22 @@
     "id": "elem.10.36",
     "n": 36,
     "type": "propositions i\u201447",
-    "enunciation": ".",
+    "enunciation": "> If two rational straight lines commensurable in square only be added together, the whole is irrational; and let it be called\n       > binomial.",
     "proof": [
         {
-            "text": "For let two rational straight lines ,  commensurable in square only be added together;  I say that the whole  is irrational.",
+            "text": "For let two rational straight lines > AB, > BC commensurable in square only be added together;  I say that the whole > AC is irrational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  is incommensurable in length with \u2014 for they are commensurable in square only\u2014 and, as  is to , so is the rectangle ,  to the square on , therefore the rectangle ,  is incommensurable with the square on . [elem.10.11\n]",
+            "text": "For, since > AB is incommensurable in length with > BC\u2014 for they are commensurable in square only\u2014 and, as > AB is to > BC, so is the rectangle > AB, > BC to the square on > BC, therefore the rectangle > AB, > BC is incommensurable with the square on > BC. [elem.10.11\n]",
             "refs": [
                 "elem.10.11"
             ],
             "emphs": []
         },
         {
-            "text": "But twice the rectangle ,  is commensurable with the rectangle ,  [elem.10.6\n], and the squares on ,  are commensurable with the square on \u2014for ,  are rational straight lines commensurable in square only\u2014 [elem.10.15\n] therefore twice the rectangle ,  is incommensurable with the squares on , . [elem.10.13\n]",
+            "text": "But twice the rectangle > AB, > BC is commensurable with the rectangle > AB, > BC [elem.10.6\n], and the squares on > AB, > BC are commensurable with the square on > BC\u2014for > AB, > BC are rational straight lines commensurable in square only\u2014 [elem.10.15\n] therefore twice the rectangle > AB, > BC is incommensurable with the squares on > AB, > BC. [elem.10.13\n]",
             "refs": [
                 "elem.10.6",
                 "elem.10.15",
@@ -26,7 +26,7 @@
             "emphs": []
         },
         {
-            "text": "And, , twice the rectangle ,  together with the squares on , , that is, the square on  [elem.2.4\n], is incommensurable with the sum of the squares on , . [elem.10.16\n]",
+            "text": "And, , twice the rectangle > AB, > BC together with the squares on > AB, > BC, that is, the square on > AC [elem.2.4\n], is incommensurable with the sum of the squares on > AB, > BC. [elem.10.16\n]",
             "refs": [
                 "elem.2.4",
                 "elem.10.16"
@@ -34,14 +34,14 @@
             "emphs": []
         },
         {
-            "text": "But the sum of the squares on ,  is rational; therefore the square on  is irrational, so that  is also irrational. [elem.10.def.4\n]",
+            "text": "But the sum of the squares on > AB, > BC is rational; therefore the square on > AC is irrational, so that > AC is also irrational. [elem.10.def.4\n]",
             "refs": [
                 "elem.10.def.4"
             ],
             "emphs": []
         },
         {
-            "text": "And let it be called .",
+            "text": "And let it be called > binomial.",
             "refs": [],
             "emphs": []
         }

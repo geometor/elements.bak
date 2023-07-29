@@ -22,7 +22,7 @@
             ]
         },
         {
-            "text": "First let it be acute, and, as in the first figure, on the straight line `AB`, and at the point `A`, let the angle `BAD` be constructed equal to the angle at `C`;",
+            "text": "First let it be acute, and, as in the first figure, on the straight line `AB`, and at the point `A`, let the angle `BAD` be constructed equal to the angle at `C`; > therefore the angle `BAD` is also acute.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "text": "Then, since `AF` is equal to `FB`, and `FG` is common,  and the angle `AFG` is equal to the angle `BFG`;",
+            "text": "Then, since `AF` is equal to `FB`, and `FG` is common, > the two sides `AF`, `FG` are equal to the two sides `BF`, `FG`; and the angle `AFG` is equal to the angle `BFG`; > therefore the base `AG` is equal to the base `BG`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "AF",
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "text": "Now, since `AD` is drawn from `A`, the extremity of the diameter `AE`, at right angles to `AE`,",
+            "text": "Now, since `AD` is drawn from `A`, the extremity of the diameter `AE`, at right angles to `AE`, > therefore `AD` touches the circle `ABE`. [elem.3.16.p.1]",
             "refs": [],
             "emphs": [
                 "AD",
@@ -84,7 +84,7 @@
             ]
         },
         {
-            "text": "Since then a straight line `AD` touches the circle `ABE`, and from the point of contact at `A` a straight line `AB` is drawn across in the circle `ABE`,",
+            "text": "Since then a straight line `AD` touches the circle `ABE`, and from the point of contact at `A` a straight line `AB` is drawn across in the circle `ABE`, > the angle `DAB` is equal to the angle `AEB` in the alternate segment of the circle. [elem.3.32]",
             "refs": [],
             "emphs": [
                 "AD",
@@ -201,7 +201,7 @@
             ]
         },
         {
-            "text": "Then, since `AF` is again equal to `FB`, and `FG` is common,  and the angle `AFG` is equal to the angle `BFG`;",
+            "text": "Then, since `AF` is again equal to `FB`, and `FG` is common, > the two sides `AF`, `FG` are equal to the two sides `BF`, `FG`; and the angle `AFG` is equal to the angle `BFG`; > therefore the base `AG` is equal to the base `BG`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "AF",
@@ -222,7 +222,7 @@
             ]
         },
         {
-            "text": "Now, since `AD` is drawn at right angles to the diameter `AE` from its extremity,",
+            "text": "Now, since `AD` is drawn at right angles to the diameter `AE` from its extremity, > `AD` touches the circle `AEB`. [elem.3.16.p.1]",
             "refs": [],
             "emphs": [
                 "AD",
@@ -230,7 +230,7 @@
             ]
         },
         {
-            "text": "And `AB` has been drawn across from the point of contact at `A`;",
+            "text": "And `AB` has been drawn across from the point of contact at `A`; > therefore the angle `BAD` is equal to the angle constructed in the alternate segment `AHB` of the circle. [elem.3.32]",
             "refs": [],
             "emphs": [
                 "AB",

@@ -55,7 +55,7 @@
             ]
         },
         {
-            "text": "But the triangle `ABC` is equal to the triangle `DCE`;",
+            "text": "But the triangle `ABC` is equal to the triangle `DCE`; > therefore the triangle `DCE` is also equal to the triangle `FCE`, [elem.1.c.n.1] the greater to the less: which is impossible. Therefore `AF` is not parallel to `BE`.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that neither is any other straight line except `AD`;",
+            "text": "Similarly we can prove that neither is any other straight line except `AD`; > therefore `AD` is parallel to `BE`.",
             "refs": [],
             "emphs": [
                 "AD"

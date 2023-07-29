@@ -33,7 +33,7 @@
             ]
         },
         {
-            "text": "Now, since the angle `ABD` is equal to the angle `CBD`, and the right angle `BED` is also equal to the right angle `BFD`, `EBD`, `FBD` are two triangles having two angles equal to two angles and one side equal to one side, namely that subtending one of the equal angles, which is `BD` common to the triangles;",
+            "text": "Now, since the angle `ABD` is equal to the angle `CBD`, and the right angle `BED` is also equal to the right angle `BFD`, `EBD`, `FBD` are two triangles having two angles equal to two angles and one side equal to one side, namely that subtending one of the equal angles, which is `BD` common to the triangles; > therefore they will also have the remaining sides equal to the remaining sides; [elem.1.26]\n       > therefore `DE` is equal to `DF`.",
             "refs": [],
             "emphs": [
                 "ABD",
@@ -46,12 +46,12 @@
             ]
         },
         {
-            "text": "For the same reason",
+            "text": "For the same reason > `DG` is also equal to `DF`.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the three straight lines `DE`, `DF`, `DG` are equal to one another;",
+            "text": "Therefore the three straight lines `DE`, `DF`, `DG` are equal to one another; > therefore the circle described with centre `D` and distance one of the straight lines `DE`, `DF`, `DG` will pass also through the remaining points, and will touch the straight lines `AB`, `BC`, `CA`, because the angles at the points `E`, `F`, `G`\n        are right.",
             "refs": [],
             "emphs": [
                 "DE",
@@ -60,7 +60,7 @@
             ]
         },
         {
-            "text": "For, if it cuts them, the straight line drawn at right angles to the diameter of the circle from its extremity will be found to fall within the circle : which was proved absurd; [elem.3.16]",
+            "text": "For, if it cuts them, the straight line drawn at right angles to the diameter of the circle from its extremity will be found to fall within the circle : which was proved absurd; [elem.3.16] > therefore the circle described with centre `D` and distance one of the straight lines `DE`, `DF`, `DG` will not cut the straight lines `AB`, `BC`, `CA`;\n       > therefore it will touch them, and will be the circle inscribed in the triangle `ABC`. [elem.4.def.5]",
             "refs": [
                 "elem.3.16"
             ],

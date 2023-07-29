@@ -1,4 +1,4 @@
 Enunciation:
-The  of any figure is the perpendicular drawn from the vertex to the base.
+The > height of any figure is the perpendicular drawn from the vertex to the base.
 
 Proof:

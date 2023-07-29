@@ -2,94 +2,95 @@
     "id": "elem.8.12",
     "n": 12,
     "type": "proposition",
+    "enunciation": "> Between two cube numbers there are two mean proportional numbers, and the cube has to the cube the ratio triplicate of that which the side has to the side.",
     "proof": [
         {
-            "text": "Let ,  be cube numbers, and let  be the side of , and  of ; I say that between ,  there are two mean proportional numbers, and  has to  the ratio triplicate of that which  has to .",
+            "text": "Let > A, > B be cube numbers, and let > C be the side of > A, and > D of > B; I say that between > A, > B there are two mean proportional numbers, and > A has to > B the ratio triplicate of that which > C has to > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  by multiplying itself make , and by multiplying  let it make ; let  by multiplying itself make , and let the numbers ,  by multiplying  make ,  respectively.",
+            "text": "For let > C by multiplying itself make > E, and by multiplying > D let it make > F; let > D by multiplying itself make > G, and let the numbers > C, > D by multiplying > F make > H, > K respectively.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  is a cube, and  its side, and  by multiplying itself has made , therefore  by multiplying itself has made  and by multiplying  has made .",
+            "text": "Now, since > A is a cube, and > C its side, and > C by multiplying itself has made > E, therefore > C by multiplying itself has made > E and by multiplying > E has made > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the same reason also  by multiplying itself has made  and by multiplying  has made .",
+            "text": "For the same reason also > D by multiplying itself has made > G and by multiplying > G has made > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "And, since > C by multiplying the numbers > C, > D has made > E, > F respectively, therefore, as > C is to > D, so is > E to > F. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason also,",
+            "text": "For the same reason also, > as > C is to > D, so is > F to > G. [elem.7.18]",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "Again, since > C by multiplying the numbers > E, > F has made > A, > H respectively, therefore, as > E is to > F, so is > A to > H. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to .",
+            "text": "But, as > E is to > F, so is > C to > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore also, as  is to , so is  to .",
+            "text": "Therefore also, as > C is to > D, so is > A to > H.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since the numbers ,  by multiplying  have made ,  respectively, therefore, as  is to , so is  to . [elem.7.18]",
+            "text": "Again, since the numbers > C, > D by multiplying > F have made > H, > K respectively, therefore, as > C is to > D, so is > H to > K. [elem.7.18]",
             "refs": [
                 "elem.7.18"
             ],
             "emphs": []
         },
         {
-            "text": "Again, since  by multiplying each of the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "Again, since > D by multiplying each of the numbers > F, > G has made > K, > B respectively, therefore, as > F is to > G, so is > K to > B. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to ,  to , and  to .",
+            "text": "But, as > F is to > G, so is > C to > D; therefore also, as > C is to > D, so is > A to > H, > H to > K, and > K to > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are two mean proportionals between , .",
+            "text": "Therefore > H, > K are two mean proportionals between > A, > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say next that  also has to  the ratio triplicate of that which  has to .",
+            "text": "I say next that > A also has to > B the ratio triplicate of that which > C has to > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since , , ,  are four numbers in proportion, therefore  has to  the ratio triplicate of that which  has to . [elem.5.def.10]",
+            "text": "For, since > A, > H, > K, > B are four numbers in proportion, therefore > A has to > B the ratio triplicate of that which > A has to > H. [elem.5.def.10]",
             "refs": [
                 "elem.5.def.10"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to ; therefore  also has to  the ratio triplicate of that which  has to . Q. E. D.",
+            "text": "But, as > A is to > H, so is > C to > D; therefore > A also has to > B the ratio triplicate of that which > C has to > D. Q. E. D.",
             "refs": [],
             "emphs": []
         }

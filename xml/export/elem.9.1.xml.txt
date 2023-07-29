@@ -1,11 +1,11 @@
 Enunciation:
-
+> If two similar plane numbers by multiplying one another make some number, the product will be square.
 
 Proof:
-Let ,  be two similar plane numbers, and let  by multiplying  make ; I say that  is square.
-For let  by multiplying itself make .
-Therefore  is square.
-Since then  by multiplying itself has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
-And, since ,  are similar plane numbers, therefore one mean proportional number falls between , . [elem.8.18]
-But, if numbers fall between two numbers in continued proportion, as many as fall between them, so many also fall between those which have the same ratio; [elem.8.8] so that one mean proportional number falls between ,  also.
-And  is square; therefore  is also square. [elem.8.22] Q. E. D.
+Let > A, > B be two similar plane numbers, and let > A by multiplying > B make > C; I say that > C is square.
+For let > A by multiplying itself make > D.
+Therefore > D is square.
+Since then > A by multiplying itself has made > D, and by multiplying > B has made > C, therefore, as > A is to > B, so is > D to > C. [elem.7.17]
+And, since > A, > B are similar plane numbers, therefore one mean proportional number falls between > A, > B. [elem.8.18]
+But, if numbers fall between two numbers in continued proportion, as many as fall between them, so many also fall between those which have the same ratio; [elem.8.8] so that one mean proportional number falls between > D, > C also.
+And > D is square; therefore > C is also square. [elem.8.22] Q. E. D.

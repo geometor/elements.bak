@@ -1,4 +1,4 @@
 Enunciation:
-A  is a line which lies evenly with the points on itself.
+A <term>straight line</term> is a line which lies evenly with the points on itself.
 
 Proof:

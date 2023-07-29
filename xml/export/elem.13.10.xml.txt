@@ -1,29 +1,29 @@
 Enunciation:
-,
+> If an equilateral pentagon be inscribed in a circle, > the square on the side of the pentagon is equal to the squares on the side of the hexagon and on that of the decagon inscribed in the same circle.
 
 Proof:
-Let  be a circle, and let the equilateral pentagon  be inscribed in the circle .
-I say that the square on the side of the pentagon  is equal to the squares on the side of the hexagon and on that of the decagon inscribed in the circle .
-For let the centre of the circle, the point , be taken, let  be joined and carried through to the point , let  be joined, let  be drawn from  perpendicular to  and be carried through to , let ,  be joined, let  be again drawn from  perpendicular to , and be carried through to , and let  be joined.
-Since the circumference  is equal to the circumference , and in them  is equal to , therefore the remainder, the circumference , is equal to the remainder .
-But  belongs to a pentagon; therefore  belongs to a decagon.
-And, since  is equal to , and  is perpendicular, therefore the angle  is also equal to the angle . [elem.1.5, elem.1.26]
-Hence the circumference  is also equal to ; [elem.3.26] therefore the circumference  is double of the circumference ; therefore the straight line  is a side of a decagon.
-For the same reason  is also double of .
-Now, since the circumference  is double of the circumference , while the circumference  is equal to the circumference , therefore the circumference  is also double of the circumference .
-But the circumference  is also double of ; therefore the circumference  is equal to the circumference .
-But  is double of , since  is so also; therefore  is also double of .
-But, further, the circumference  is also double of the circumference , for the circumference  is equal to .
-Therefore the whole circumference  is also double of ; hence the angle  is also double of the angle . [elem.6.33]
-But the angle  is also double of the angle , for the angle  is equal to the angle .
-Therefore the angle  is also equal to the angle .
-But the angle  is common to the two triangles  and ; therefore the remaining angle  is equal to the remaining angle ; [elem.1.32] therefore the triangle  is equiangular with the triangle .
-Therefore, proportionally, as the straight line  is to , so is  to ; [elem.6.4] therefore the rectangle ,  is equal to the square on . [elem.6.17]
-Again, since  is equal to , while  is common and at right angles, therefore the base  is equal to the base ; [elem.1.4] therefore the angle  is also equal to the angle .
-But the angle  is equal to the angle ; therefore the angle  is also equal to the angle .
-And the angle at  is common to the two triangles  and .
-Therefore the remaining angle  is equal to the remaining angle ; [elem.1.32] therefore the triangle  is equiangular with the triangle .
-Therefore, proportionally, as the straight line  is to , so is  to ; [elem.6.4] therefore the rectangle ,  is equal to the square on . [elem.6.17]
-But the rectangle ,  was also proved equal to the square on ; therefore the rectangle ,  together with the rectangle , , that is, the square on  [elem.2.2], is equal to the square on  together with the square on .
-And  is a side of the pentagon,  of the hexagon [elem.4.15.p.1], and  of the decagon.
+Let > ABCDE be a circle, and let the equilateral pentagon > ABCDE be inscribed in the circle > ABCDE.
+I say that the square on the side of the pentagon > ABCDE is equal to the squares on the side of the hexagon and on that of the decagon inscribed in the circle > ABCDE.
+For let the centre of the circle, the point > F, be taken, let > AF be joined and carried through to the point > G, let > FB be joined, let > FH be drawn from > F perpendicular to > AB and be carried through to > K, let > AK, > KB be joined, let > FL be again drawn from > F perpendicular to > AK, and be carried through to > M, and let > KN be joined.
+Since the circumference > ABCG is equal to the circumference > AEDG, and in them > ABC is equal to > AED, therefore the remainder, the circumference > CG, is equal to the remainder > GD.
+But > CD belongs to a pentagon; therefore > CG belongs to a decagon.
+And, since > FA is equal to > FB, and > FH is perpendicular, therefore the angle > AFK is also equal to the angle > KFB. [elem.1.5, elem.1.26]
+Hence the circumference > AK is also equal to > KB; [elem.3.26] therefore the circumference > AB is double of the circumference > BK; therefore the straight line > AK is a side of a decagon.
+For the same reason > AK is also double of > KM.
+Now, since the circumference > AB is double of the circumference > BK, while the circumference > CD is equal to the circumference > AB, therefore the circumference > CD is also double of the circumference > BK.
+But the circumference > CD is also double of > CG; therefore the circumference > CG is equal to the circumference > BK.
+But > BK is double of > KM, since > KA is so also; therefore > CG is also double of > KM.
+But, further, the circumference > CB is also double of the circumference > BK, for the circumference > CB is equal to > BA.
+Therefore the whole circumference > GB is also double of > BM; hence the angle > GFB is also double of the angle > BFM. [elem.6.33]
+But the angle > GFB is also double of the angle > FAB, for the angle > FAB is equal to the angle > ABF.
+Therefore the angle > BFN is also equal to the angle > FAB.
+But the angle > ABF is common to the two triangles > ABF and > BFN; therefore the remaining angle > AFB is equal to the remaining angle > BNF; [elem.1.32] therefore the triangle > ABF is equiangular with the triangle > BFN.
+Therefore, proportionally, as the straight line > AB is to > BF, so is > FB to > BN; [elem.6.4] therefore the rectangle > AB, > BN is equal to the square on > BF. [elem.6.17]
+Again, since > AL is equal to > LK, while > LN is common and at right angles, therefore the base > KN is equal to the base > AN; [elem.1.4] therefore the angle > LKN is also equal to the angle > LAN.
+But the angle > LAN is equal to the angle > KBN; therefore the angle > LKN is also equal to the angle > KBN.
+And the angle at > A is common to the two triangles > AKB and > AKN.
+Therefore the remaining angle > AKB is equal to the remaining angle > KNA; [elem.1.32] therefore the triangle > KBA is equiangular with the triangle > KNA.
+Therefore, proportionally, as the straight line > BA is to > AK, so is > KA to > AN; [elem.6.4] therefore the rectangle > BA, > AN is equal to the square on > AK. [elem.6.17]
+But the rectangle > AB, > BN was also proved equal to the square on > BF; therefore the rectangle > AB, > BN together with the rectangle > BA, > AN, that is, the square on > BA [elem.2.2], is equal to the square on > BF together with the square on > AK.
+And > BA is a side of the pentagon, > BF of the hexagon [elem.4.15.p.1], and > AK of the decagon.
 Therefore etc. Q. E. D.

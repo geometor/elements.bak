@@ -1,0 +1,86 @@
+{
+    "id": "elem.7.28",
+    "n": 28,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let two numbers ,  prime to one another be added; I say that the sum  is also prime to each of the numbers , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if ,  are not prime to one another, some number will measure , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let a number measure them, and let it be .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  measures , , therefore it will also measure the remainder .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it also measures ; therefore  measures ,  which are prime to one another: which is impossible. [elem.7.def.12]",
+            "refs": [
+                "elem.7.def.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no number will measure the numbers , ; therefore ,  are prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason ,  are also prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is prime to each of the numbers , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, let ,  be prime to one another; I say that ,  are also prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if ,  are not prime to one another, some number will measure , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let a number measure them, and let it be .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  measures each of the numbers , , it will also measure the whole .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it also measures ; therefore  measures ,  which are prime to one another: which is impossible. [elem.7.def.12]",
+            "refs": [
+                "elem.7.def.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no number will measure the numbers , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are prime to one another. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

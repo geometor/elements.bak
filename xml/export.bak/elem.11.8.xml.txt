@@ -1,0 +1,21 @@
+Enunciation:
+, ,
+
+Proof:
+Let ,  be two parallel straight lines, and let one of them, , be at right angles to the plane of reference; I say that the remaining one, , will also be at right angles to the same plane.
+For let ,  meet the plane of reference at the points , , and let  be joined; therefore , ,  are in one plane. [elem.11.7]
+Let  be drawn, in the plane of reference, at right angles to , let  be made equal to , and let , ,  be joined.
+Now, since  is at right angles to the plane of reference, therefore  is also at right angles to all the straight lines which meet it and are in the plane of reference; [elem.11.def.3] therefore each of the angles ,  is right.
+And, since the straight line  has fallen on the parallels , , therefore the angles ,  are equal to two right angles. [elem.1.29]
+But the angle  is right; therefore the angle  is also right; therefore  is at right angles to .
+And, since  is equal to , and  is common, the two sides ,  are equal to the two sides , ; and the angle  is equal to the angle , for each is right; therefore the base  is equal to the base .
+And, since  is equal to , and  to , the two sides ,  are equal to the two sides ,  respectively, and  is their common base; therefore the angle  is equal to the angle .
+But the angle  is right; therefore the angle  is also right; therefore  is at right angles to .
+But it is also at right angles to ; therefore  is also at right angles to the plane through , . [elem.11.4]
+Therefore  will also make right angles with all the straight lines which meet it and are in the plane through , .
+But  is in the plane through , , inasmuch as ,  are in the plane through , , [elem.11.2] and  is also in the plane in which ,  are.
+Therefore  is at right angles to , so that  is also at right angles to .
+But  is also at right angles to .
+Therefore  is set up at right angles to the two straight lines ,  which cut one another, from the point of section at ; so that  is also at right angles to the plane through , . [elem.11.4]
+But the plane through ,  is the plane of reference; therefore  is at right angles to the plane of reference.
+Therefore etc. Q. E. D.

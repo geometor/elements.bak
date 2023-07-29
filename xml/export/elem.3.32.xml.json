@@ -51,7 +51,7 @@
             ]
         },
         {
-            "text": "Therefore `BA` is a diameter of the circle `ABCD`;",
+            "text": "Therefore `BA` is a diameter of the circle `ABCD`; > therefore the angle `ADB`, being an angle in a semicircle, is right. [elem.3.31]",
             "refs": [],
             "emphs": [
                 "BA",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "text": "But the angles `DBF`, `DBE` are also equal to two right angles; therefore the angles `DBF`, `DBE` are equal to the angles `BAD`, `BCD`,",
+            "text": "But the angles `DBF`, `DBE` are also equal to two right angles; therefore the angles `DBF`, `DBE` are equal to the angles `BAD`, `BCD`, > of which the angle `BAD` was proved equal to the angle `DBF`; therefore the angle `DBE` which remains is equal to the angle `DCB` in the alternate segment `DCB` of the circle.",
             "refs": [],
             "emphs": [
                 "DBF",

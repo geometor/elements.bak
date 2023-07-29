@@ -1,0 +1,17 @@
+Enunciation:
+,
+
+Proof:
+Let  be the given straight line,  the given point on it, and the angle at , contained by the angles , , , the given solid angle; thus it is required to construct on the straight line , and at the point  on it, a solid angle equal to the solid angle at .
+For let a point  be taken at random on , let  be drawn from  perpendicular to the plane through , , and let it meet the plane at , [elem.11.11] let  be joined, let there be constructed on the straight line  and at the point  on it the angle  equal to the angle , and the angle  equal to the angle , [elem.1.23] let  be made equal to , let  be set up from the point  at right angles to the plane through , , [elem.11.12] let  be made equal to , and let  be joined; I say that the solid angle at , contained by the angles , ,  is equal to the solid angle at  contained by the angles , , .
+For let ,  be cut off equal to one another, and let , , ,  be joined.
+Then, since  is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference; [elem.11.def.3] therefore each of the angles ,  is right.
+For the same reason each of the angles ,  is also right.
+And, since the two sides ,  are equal to the two sides ,  respectively, and they contain equal angles, therefore the base  is equal to the base . [elem.1.4]
+But  is also equal to , and they contain right angles; therefore  is also equal to . [elem.1.4]
+Again, since the two sides ,  are equal to the two sides , , and they contain right angles, therefore the base  is equal to the base . [elem.1.4]
+But  is also equal to ; therefore the two sides ,  are equal to the two sides , .
+And the base  is equal to the base ; therefore the angle  is equal to the angle . [elem.1.8]
+For the same reason the angle  is also equal to the angle .
+And the angle  is also equal to the angle .
+Therefore on the straight line , and at the point  on it, a solid angle has been constructed equal to the given solid angle at . Q. E. F.

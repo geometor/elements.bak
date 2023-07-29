@@ -1,14 +1,14 @@
 Enunciation:
-.
+> Two unequal magnitudes being set out, if from the greater there be subtracted a magnitude greater than its half, and from that which is left a magnitude greater than its half, and if this process be repeated continually, there will be left some magnitude which will be less than the lesser magnitude set out.
 
 Proof:
-Let  be two unequal magnitudes of which  is the greater: I say that, if from  there be subtracted a magnitude greater than its half, and from that which is left a magnitude greater than its half, and if this process be repeated continually, there will be left some magnitude which will be less than the magnitude .
-For  if multiplied will sometime be greater than . [cf. elem.5.def.4]
-Let it be multiplied, and let  be a multiple of , and greater than. ; let  be divided into the parts , ,  equal to , from  let there be subtracted  greater than its half, and, from ,  greater than its half, and let this process be repeated continually until the divisions in  are equal in multitude with the divisions in .
-Let, then, , ,  be divisions which are equal in multitude with , , .
-Now, since  is greater than , and from  there has been subtracted  less than its half, and, from ,  greater than its half, therefore the remainder  is greater than the remainder .
-And, since  is greater than , and there has been subtracted, from , the half , and, from ,  greater than its half, therefore the remainder  is greater than the remainder .
-But  is equal to ; therefore  is also greater than .
-Therefore  is less than .
-Therefore there is left of the magnitude  the magnitude  which is less than the lesser magnitude set out, namely . Q. E. D.
+Let > AB, C be two unequal magnitudes of which > AB is the greater: I say that, if from > AB there be subtracted a magnitude greater than its half, and from that which is left a magnitude greater than its half, and if this process be repeated continually, there will be left some magnitude which will be less than the magnitude > C.
+For > C if multiplied will sometime be greater than > AB. [cf. elem.5.def.4]
+Let it be multiplied, and let > DE be a multiple of > C, and greater than. > AB; let > DE be divided into the parts > DF, > FG, > GE equal to > C, from > AB let there be subtracted > BH greater than its half, and, from > AH, > HK greater than its half, and let this process be repeated continually until the divisions in > AB are equal in multitude with the divisions in > DE.
+Let, then, > AK, > KH, > HB be divisions which are equal in multitude with > DF, > FG, > GE.
+Now, since > DE is greater than > AB, and from > DE there has been subtracted > EG less than its half, and, from > AB, > BH greater than its half, therefore the remainder > GD is greater than the remainder > HA.
+And, since > GD is greater than > HA, and there has been subtracted, from > GD, the half > GF, and, from > HA, > HK greater than its half, therefore the remainder > DF is greater than the remainder > AK.
+But > DF is equal to > C; therefore > C is also greater than > AK.
+Therefore > AK is less than > C.
+Therefore there is left of the magnitude > AB the magnitude > AK which is less than the lesser magnitude set out, namely > C. Q. E. D.
 And the theorem can be similarly proved even if the parts subtracted be halves.

@@ -1,0 +1,21 @@
+Enunciation:
+`If magnitudes be proportional`
+       , `they will also be proportional`
+       .
+
+Proof:
+Let `AB`, `BE`, `CD`, `DF` be magnitudes proportional , so that, as `AB` is to `BE`, so is `CD` to `DF`; I say that they will also be proportional , that is, as `AE` is to `EB`, so is `CF` to `DF`.
+For of `AE`, `EB`, `CF`, `FD` let equimultiples `GH`, `HK`, `LM`, `MN` be taken, and of `EB`, `FD` other, chance, equimultiples, `KO`, `NP`.
+Then, since `GH` is the same multiple of `AE` that `HK` is of `EB`, therefore `GH` is the same multiple of `AE` that `GK` is of `AB`. [elem.5.1]
+But `GH` is the same multiple of `AE` that `LM` is of `CF`; therefore `GK` is the same multiple of `AB` that `LM` is of `CF`.
+Again, since `LM` is the same multiple of `CF` that `MN` is of `FD`, therefore `LM` is the same multiple of `CF` that `LN` is of `CD`. [elem.5.1]
+But `LM` was the same multiple of `CF` that `GK` is of `AB`; therefore `GK` is the same multiple of `AB` that `LN` is of `CD`.
+Therefore `GK`, `LN` are equimultiples of `AB`, `CD`.
+Again, since `HK` is the same multiple of `EB` that `MN` is of `FD`,
+And, since, as `AB` is to `BE`, so is `CD` to `DF`, and of `AB`, `CD` equimultiples `GK`, `LN` have been taken, and of `EB`, `FD` equimultiples `HO`, `MP`, therefore, if `GK` is in excess of `HO`, `LN` is also in excess of `MP`, if equal, equal, and if less, less.
+Let `GK` be in excess of `HO`; then, if `HK` be subtracted from each,
+But we saw that, if `GK` was in excess of `HO`, `LN` was also in excess of `MP`; 
+       and, if `MN` be subtracted from each,  so that, if `GH` is in excess of `KO`, `LM` is also in excess of `NP`.
+Similarly we can prove that, if `GH` be equal to `KO`, `LM` will also be equal to `NP`, and if less, less.
+And `GH`, `LM` are equimultiples of `AE`, `CF`, while `KO`, `NP` are other, chance, equimultiples of `EB`, `FD`;
+Therefore etc. Q. E. D.

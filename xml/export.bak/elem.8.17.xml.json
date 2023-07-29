@@ -1,0 +1,41 @@
+{
+    "id": "elem.8.17",
+    "n": 17,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the cube number  not measure the cube number , and let  be the side of , and  of ; I say that  will not measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For if  measures ,  will also measure . [elem.8.15]",
+            "refs": [
+                "elem.8.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  does not measure ; therefore neither does  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, let  not measure ; I say that neither will  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  measures ,  will also measure . [elem.8.15]",
+            "refs": [
+                "elem.8.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  does not measure ; therefore neither will  measure . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

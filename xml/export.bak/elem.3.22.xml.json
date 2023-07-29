@@ -1,0 +1,78 @@
+{
+    "id": "elem.3.22",
+    "n": 22,
+    "type": "proposition",
+    "enunciation": "`The opposite angles of quadrilaterals in circles are equal to two right angles`.",
+    "proof": [
+        {
+            "text": "Let `ABCD` be a circle, and let `ABCD` be a quadrilateral in it; I say that the opposite angles are equal to two right angles.",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "ABCD"
+            ]
+        },
+        {
+            "text": "Let `AC`, `BD` be joined.",
+            "refs": [],
+            "emphs": [
+                "AC",
+                "BD"
+            ]
+        },
+        {
+            "text": "Then, since in any triangle the three angles are equal to two right angles, [elem.1.32]",
+            "refs": [
+                "elem.1.32"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the angle `CAB` is equal to the angle `BDC`, for they are in the same segment `BADC`; [elem.3.21] and the angle `ACB` is equal to the angle \n       `ADB`, for they are in the same segment `ADCB`; therefore the whole angle `ADC` is equal to the angles `BAC`, `ACB`.",
+            "refs": [
+                "elem.3.21"
+            ],
+            "emphs": [
+                "CAB",
+                "BDC",
+                "BADC",
+                "ACB",
+                "ADB",
+                "ADCB",
+                "ADC",
+                "BAC",
+                "ACB"
+            ]
+        },
+        {
+            "text": "Let the angle `ABC` be added to each; therefore the angles `ABC`, `BAC`, `ACB` are equal to the angles `ABC`, `ADC`. But the angles `ABC`, `BAC`, `ACB` are equal to two right angles; therefore the angles `ABC`, `ADC` are also equal to two right angles.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "ABC",
+                "BAC",
+                "ACB",
+                "ABC",
+                "ADC",
+                "ABC",
+                "BAC",
+                "ACB",
+                "ABC",
+                "ADC"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that the angles `BAD`, `DCB` are also equal to two right angles.",
+            "refs": [],
+            "emphs": [
+                "BAD",
+                "DCB"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

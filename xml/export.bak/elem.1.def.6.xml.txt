@@ -1,0 +1,4 @@
+Enunciation:
+The extremities of a surface are lines.
+
+Proof:

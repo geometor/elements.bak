@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that  so that `FB` is also equal to `FC`;",
+            "text": "Similarly we can prove that > `CF` is also equal to `AF`; so that `FB` is also equal to `FC`; > therefore the three straight lines `FA`, `FB`, `FC` are equal to one another.",
             "refs": [],
             "emphs": [
                 "FB",
@@ -128,7 +128,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that  so that `BF` is also equal to `FC`; therefore the circle described with centre `F` and distance one of the straight lines `FA`, `FB`, `FC` will pass also through the remaining points, and will have been circumscribed about the triangle `ABC`.",
+            "text": "Similarly we can prove that > `CF` is also equal to `AF`; so that `BF` is also equal to `FC`; therefore the circle described with centre `F` and distance one of the straight lines `FA`, `FB`, `FC` will pass also through the remaining points, and will have been circumscribed about the triangle `ABC`.",
             "refs": [],
             "emphs": [
                 "BF",

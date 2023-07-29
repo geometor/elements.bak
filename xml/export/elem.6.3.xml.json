@@ -29,7 +29,7 @@
             ]
         },
         {
-            "text": "Then, since the straight line `AC` falls upon the parallels `AD`, `EC`,",
+            "text": "Then, since the straight line `AC` falls upon the parallels `AD`, `EC`, > the angle `ACE` is equal to the angle `CAD`. [elem.1.29]",
             "refs": [],
             "emphs": [
                 "AC",
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "text": "Again, since the straight line `BAE` falls upon the parallels `AD`, `EC`,",
+            "text": "Again, since the straight line `BAE` falls upon the parallels `AD`, `EC`, > the exterior angle `BAD` is equal to the interior angle `AEC`. [elem.1.29]",
             "refs": [],
             "emphs": [
                 "BAE",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "But the angle `ACE` was also proved equal to the angle `BAD`;",
+            "text": "But the angle `ACE` was also proved equal to the angle `BAD`; > therefore the angle `ACE` is also equal to the angle `AEC`, so that the side `AE` is also equal to the side `AC`. [elem.1.6]",
             "refs": [],
             "emphs": [
                 "ACE",
@@ -141,7 +141,7 @@
             ]
         },
         {
-            "text": "But the angle `AEC` is equal to the exterior angle `BAD`, [elem.1.29] and the angle `ACE` is equal to the alternate angle `CAD`; [`id`.]",
+            "text": "But the angle `AEC` is equal to the exterior angle `BAD`, [elem.1.29] and the angle `ACE` is equal to the alternate angle `CAD`; [`id`.] > therefore the angle `BAD` is also equal to the angle `CAD`.",
             "refs": [
                 "elem.1.29"
             ],

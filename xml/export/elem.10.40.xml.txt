@@ -1,13 +1,13 @@
 Enunciation:
-, , 
-       .
+> If two straight lines incommensurable in square which make the sum of the squares on them medial, > but the rectangle contained by them rational, > be added together, the whole straight line is irrational; and let it be called the
+       > side of a rational plus a medial area.
 
 Proof:
-For let two straight lines ,  incommensurable in square, and fulfilling the given conditions [elem.10.34
-], be added together; I say that  is irrational.
-For, since the sum of the squares on ,  is medial, while twice the rectangle ,  is rational, therefore the sum of the squares on ,  is incommensurable with twice the rectangle , ; so that the square on  is also incommensurable with twice the rectangle , . [elem.10.16
+For let two straight lines > AB, > BC incommensurable in square, and fulfilling the given conditions [elem.10.34
+], be added together; I say that > AC is irrational.
+For, since the sum of the squares on > AB, > BC is medial, while twice the rectangle > AB, > BC is rational, therefore the sum of the squares on > AB, > BC is incommensurable with twice the rectangle > AB, > BC; so that the square on > AC is also incommensurable with twice the rectangle > AB, > BC. [elem.10.16
 ]
-But twice the rectangle ,  is rational; therefore the square on  is irrational.
-Therefore  is irrational. [elem.10.def.4
+But twice the rectangle > AB, > BC is rational; therefore the square on > AC is irrational.
+Therefore > AC is irrational. [elem.10.def.4
 ]
-And let it be called the . Q. E. D.
+And let it be called the > side of a rational plus a medial area. Q. E. D.

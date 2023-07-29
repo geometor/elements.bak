@@ -1,0 +1,60 @@
+{
+    "id": "elem.8.14",
+    "n": 14,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be square numbers, let ,  be their sides, and let  measure ; I say that  also measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  by multiplying  make ; therefore , ,  are continuously proportional in the ratio of  to . [elem.8.11]",
+            "refs": [
+                "elem.8.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since , ,  are continuously proportional, and  measures , therefore  also measures . [elem.8.7]",
+            "refs": [
+                "elem.8.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore also  measures . [elem.7.def.20]",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, let  measure ; I say that  also measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, with the same construction, we can in a similar manner prove that , ,  are continuously proportional in the ratio of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And since, as  is to , so is  to , and  measures , therefore  also measures . [elem.7.def.20]",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And , ,  are continuously proportional; therefore  also measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -6,7 +6,7 @@ For let the magnitude `AB` be the same multiple of the magnitude `CD` that the p
 For, whatever multiple `AE` is of `CF`, let `EB` be made that multiple of `CG`.
 Then, since `AE` is the same multiple of `CF` that `EB` is of `GC`, therefore `AE` is the same multiple of `CF` that `AB` is of `GF`. [elem.5.1]
 But, by the assumption, `AE` is the same multiple of `CF` that `AB` is of `CD`.
-Therefore `AB` is the same multiple of each of the magnitudes `GF`, `CD`;
+Therefore `AB` is the same multiple of each of the magnitudes `GF`, `CD`; > therefore `GF` is equal to `CD`.
 Let `CF` be subtracted from each; therefore the remainder `GC` is equal to the remainder `FD`.
 And, since `AE` is the same multiple of `CF` that `EB` is of `GC`, and `GC` is equal to `DF`, therefore `AE` is the same multiple of `CF` that `EB` is of `FD`.
 But, by hypothesis,

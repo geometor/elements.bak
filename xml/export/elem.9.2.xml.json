@@ -2,45 +2,46 @@
     "id": "elem.9.2",
     "n": 2,
     "type": "proposition",
+    "enunciation": "> If two numbers by multiplying one another make a square number, they are similar plane numbers.",
     "proof": [
         {
-            "text": "Let ,  be two numbers, and let  by multiplying  make the square number ; I say that ,  are similar plane numbers.",
+            "text": "Let > A, > B be two numbers, and let > A by multiplying > B make the square number > C; I say that > A, > B are similar plane numbers.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  by multiplying itself make ; therefore  is square.",
+            "text": "For let > A by multiplying itself make > D; therefore > D is square.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  by multiplying itself has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "Now, since > A by multiplying itself has made > D, and by multiplying > B has made > C, therefore, as > A is to > B, so is > D to > C. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "And, since  is square, and  is so also, therefore ,  are similar plane numbers.",
+            "text": "And, since > D is square, and > C is so also, therefore > D, > C are similar plane numbers.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore one mean proportional number falls between , . [elem.8.18]",
+            "text": "Therefore one mean proportional number falls between > D, > C. [elem.8.18]",
             "refs": [
                 "elem.8.18"
             ],
             "emphs": []
         },
         {
-            "text": "And, as  is to , so is  to ; therefore one mean proportional number falls between ,  also. [elem.8.18]",
+            "text": "And, as > D is to > C, so is > A to > B; therefore one mean proportional number falls between > A, > B also. [elem.8.18]",
             "refs": [
                 "elem.8.18"
             ],
             "emphs": []
         },
         {
-            "text": "But, if one mean proportional number fall between two numbers, they are similar plane numbers; [elem.8.20] therefore ,  are similar plane numbers. Q. E. D.",
+            "text": "But, if one mean proportional number fall between two numbers, they are similar plane numbers; [elem.8.20] therefore > A, > B are similar plane numbers. Q. E. D.",
             "refs": [
                 "elem.8.20"
             ],

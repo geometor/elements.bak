@@ -1,0 +1,86 @@
+{
+    "id": "elem.9.18",
+    "n": 18,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be the given two numbers, and let it be required to investigate whether it is possible to find a third proportional to them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now ,  are either prime to one another or not.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, if they are prime to one another, it has been proved that it is impossible to find a third proportional to them. [elem.9.16]",
+            "refs": [
+                "elem.9.16"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, let ,  not be prime to one another, and let  by multiplying itself make .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then  either measures  or does not measure it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let it measure it according to ; therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, further,  has also by multiplying itself made ; therefore the product of ,  is equal to the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to ; [elem.7.19] therefore a third proportional number  has been found to , .",
+            "refs": [
+                "elem.7.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  not measure ; I say that it is impossible to find a third proportional number to , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let , such third proportional, have been found.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the product of ,  is equal to the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is ; therefore the product of ,  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Hence  by multiplying  has made ; therefore  measures  according to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, by hypothesis, it also does not measure it: which is absurd.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore it is not possible to find a third proportional number to ,  when  does not measure . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

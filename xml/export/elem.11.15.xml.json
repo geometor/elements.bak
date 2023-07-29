@@ -2,15 +2,15 @@
     "id": "elem.11.15",
     "n": 15,
     "type": "proposition",
-    "enunciation": ", ,",
+    "enunciation": "> If two straight lines meeting one another be parallel to two straight lines meeting one another, > not being in the same plane, > the planes through them are parallel.",
     "proof": [
         {
-            "text": "For let the two straight lines ,  meeting one another be parallel to the two straight lines ,  meeting one another, not being in the same plane; I say that the planes produced through ,  and ,  will not meet one another.",
+            "text": "For let the two straight lines > AB, > BC meeting one another be parallel to the two straight lines > DE, > EF meeting one another, not being in the same plane; I say that the planes produced through > AB, > BC and > DE, > EF will not meet one another.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  be drawn from the point  perpendicular to the plane through ,  [elem.11.11], and let it meet the plane at the point ; through  let  be drawn parallel to , and  parallel to . [elem.1.31]",
+            "text": "For let > BG be drawn from the point > B perpendicular to the plane through > DE, > EF [elem.11.11], and let it meet the plane at the point > G; through > G let > GH be drawn parallel to > ED, and > GK parallel to > EF. [elem.1.31]",
             "refs": [
                 "elem.11.11",
                 "elem.1.31"
@@ -18,19 +18,19 @@
             "emphs": []
         },
         {
-            "text": "Now, since  is at right angles to the plane through , , therefore it will also make right angles with all the straight lines which meet it and are in the plane through , . [elem.11.def.3]",
+            "text": "Now, since > BG is at right angles to the plane through > DE, > EF, therefore it will also make right angles with all the straight lines which meet it and are in the plane through > DE, > EF. [elem.11.def.3]",
             "refs": [
                 "elem.11.def.3"
             ],
             "emphs": []
         },
         {
-            "text": "But each of the straight lines ,  meets it and is in the plane through , ; therefore each of the angles ,  is right.",
+            "text": "But each of the straight lines > GH, > GK meets it and is in the plane through > DE, > EF; therefore each of the angles > BGH, > BGK is right.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is parallel to , [elem.11.9] therefore the angles ,  are equal to two right angles. [elem.1.29]",
+            "text": "And, since > BA is parallel to > GH, [elem.11.9] therefore the angles > GBA, > BGH are equal to two right angles. [elem.1.29]",
             "refs": [
                 "elem.11.9",
                 "elem.1.29"
@@ -38,24 +38,24 @@
             "emphs": []
         },
         {
-            "text": "But the angle  is right; therefore the angle  is also right; therefore  is at right angles to .",
+            "text": "But the angle > BGH is right; therefore the angle > GBA is also right; therefore > GB is at right angles to > BA.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the same reason  is also at right angles to .",
+            "text": "For the same reason > GB is also at right angles to > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then the straight line  is set up at right angles to the two straight lines ,  which cut one another, therefore  is also at right angles to the plane through , . [elem.11.4]",
+            "text": "Since then the straight line > GB is set up at right angles to the two straight lines > BA, > BC which cut one another, therefore > GB is also at right angles to the plane through > BA, > BC. [elem.11.4]",
             "refs": [
                 "elem.11.4"
             ],
             "emphs": []
         },
         {
-            "text": "But planes to which the same straight line is at right angles are parallel; [elem.11.14] therefore the plane through ,  is parallel to the plane through , .",
+            "text": "But planes to which the same straight line is at right angles are parallel; [elem.11.14] therefore the plane through > AB, > BC is parallel to the plane through > DE, > EF.",
             "refs": [
                 "elem.11.14"
             ],

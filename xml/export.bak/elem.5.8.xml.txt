@@ -1,0 +1,30 @@
+Enunciation:
+`Of unequal magnitudes`, `the greater has to the same a greater ratio than the less has`; `and the same has to the less a greater ratio than it has to the greater`.
+
+Proof:
+Let `AB`, `C` be unequal magnitudes, and let `AB` be greater; let `D` be another, chance, magnitude; I say that `AB` has to `D` a greater ratio than `C` has to `D`, and `D` has to `C` a greater ratio than it has to `AB`.
+For, since `AB` is greater than `C`, let `BE` be made equal to `C`; then the less of the magnitudes `AE`, `EB`, if multiplied, will sometime be greater than `D`. [elem.5.def.4]
+[ I.]
+First, let `AE` be less than `EB`; let `AE` be multiplied, and let `FG` be a multiple of it which is greater than `D`; then, whatever multiple `FG` is of `AE`, let `GH` be made the same multiple of `EB` and `K` of `C`; and let `L` be taken double of `D`, `M` triple of it, and successive multiples increasing by one, until what is taken is a multiple of `D` and the first that is greater than `K`. Let it be taken, and let it be `N` which is quadruple of `D` and the first multiple of it that is greather than `K`.
+Then, since `K` is less than `N` first, therefore `K` is not less than `M`.
+And, since `FG` is the same multiple of `AE` that `GH` is of `EB`, therefore `FG` is the same multiple of `AE` that `FH` is of `AB`. [elem.5.1]
+But `FG` is the same multiple of `AE` that `K` is of `C`;
+Again, since `GH` is the same multiple of `EB` that `K` is of `C`, and `EB` is equal to `C`,
+But `K` is not less than `M`;
+And `FG` is greater than `D`; therefore the whole `FH` is greater than `D`, `M` together.
+But `D`, `M` together are equal to `N`, inasmuch as `M` is triple of `D`, and `M`, `D` together are quadruple of `D`, while `N` is also quadruple of `D`; whence `M`, `D` together are equal to `N`.
+But `FH` is greater than `M`, `D`;  while `K` is not in excess of `N`.
+And `FH`, `K` are equimultiples of `AB`, `C`, while `N` is another, chance, multiple of `D`;
+I say next, that `D` also has to `C` a greater ratio than `D` has to `AB`.
+For, with the same construction, we can prove similarly that `N` is in excess of `K`, while `N` is not in excess of `FH`.
+And `N` is a multiple of `D`, while `FH`, `K` are other, chance, equimultiples of `AB`, `C`;
+[ 2.]
+Again, let `AE` be greater than `EB`.
+Then the less, `EB`, if multiplied, will sometime be greater than `D`. [elem.5.def.4]
+Let it be multiplied, and let `GH` be a multiple of `EB` and greater than `D`; and, whatever multiple `GH` is of `EB`, let `FG` be made the same multiple of `AE`, and `K`
+        of `C`.
+Then we can prove similarly that `FH`, `K` are equimultiples of `AB`, `C`; and, similarly, let `N` be taken a multiple of `D` but the first that is greater than `FG`, so that `FG` is again not less than `M`.
+But `GH` is greater than `D`; therefore the whole `FH` is in excess of `D`, `M`, that is, of `N`.
+Now `K` is not in excess of `N`, inasmuch as `FG` also, which is greater than `GH`, that is, than `K`, is not in excess of `N`.
+And in the same manner, by following the above argument, we complete the demonstration.
+Therefore etc. Q. E. D.

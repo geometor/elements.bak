@@ -1,0 +1,13 @@
+Enunciation:
+, , ,
+
+Proof:
+For let the solid angle at  be contained by the three plane angles , , ; I say that any two of the angles , , , taken together in any manner, are greater than the remaining one.
+If now the angles , ,  are equal to one another, it is manifest that any two are greater than the remaining one.
+But, if not, let  be greater, and on the straight line , and at the point  on it, let the angle  be constructed, in the plane through , , equal to the angle ; let  be made equal to , and let , drawn across through the point , cut the straight lines ,  at the points , ; let ,  be joined.
+Now, since  is equal to , and  is common, two sides are equal to two sides; and the angle  is equal to the angle ; therefore the base  is equal to the base . [elem.1.4]
+And, since the two sides ,  are greater than , [elem.1.20] and of these  was proved equal to , therefore the remainder  is greater than the remainder .
+Now, since  is equal to , and  is common, and the base  is greater than the base , therefore the angle  is greater than the angle . [elem.1.25]
+But the angle  was also proved equal to the angle ; therefore the angles ,  are greater than the angle .
+Similarly we can prove that the remaining angles also, taken together two and two, are greater than the remaining one.
+Therefore etc. Q. E. D.

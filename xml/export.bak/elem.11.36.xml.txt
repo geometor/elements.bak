@@ -1,0 +1,11 @@
+Enunciation:
+, ,
+
+Proof:
+Let , ,  be three straight lines in proportion, so that, as  is to , so is  to ; I say that the solid formed out of , ,  is equal to the solid on  which is equilateral, but equiangular with the aforesaid solid.
+Let there be set out the solid angle at  contained by the angles , , , let each of the straight lines , ,  be made equal to , and let the parallelepipedal solid  be completed, let  be made equal to , and on the straight line , and at the point  on it, let there be constructed a solid angle equal to the solid angle at , namely that contained by , , ; let  be made equal to , and  equal to .
+Now, since, as  is to , so is  to , while  is equal to ,  to each of the straight lines , , and  to , therefore, as  is to , so is  to .
+Thus the sides about the equal angles ,  are reciprocally proportional; therefore the parallelogram  is equal to the parallelogram . [elem.6.14]
+And, since the angles ,  are two plane rectilineal angles, and on them the elevated straight lines ,  are set up which are equal to one another and contain equal angles with the original straight lines respectively, therefore the perpendiculars drawn from the points ,  to the planes through ,  and ,  are equal to one another; [elem.11.35, Por.] hence the solids ,  are of the same height.
+But parallelepipedal solids on equal bases and of the same height are equal to one another; [elem.11.31] therefore the solid  is equal to the solid .
+And  is the solid formed out of , , , and  the solid on ; therefore the parallelepipedal solid formed out of , ,  is equal to the solid on  which is equilateral, but equiangular with the aforesaid solid. Q. E. D.

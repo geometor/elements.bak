@@ -1,0 +1,4 @@
+Enunciation:
+An  is an angle less than a right angle.
+
+Proof:

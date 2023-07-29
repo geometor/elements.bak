@@ -2,26 +2,27 @@
     "id": "elem.8.7",
     "n": 7,
     "type": "proposition",
+    "enunciation": "> If there be as many numbers as we please in continued proportion, and the first measure the last, it will measure the second also.",
     "proof": [
         {
-            "text": "Let there be as many numbers as we please, , , , , in continued proportion; and let  measure ; I say that  also measures .",
+            "text": "Let there be as many numbers as we please, > A, > B, > C, > D, in continued proportion; and let > A measure > D; I say that > A also measures > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if  does not measure , neither will any other of the numbers measure any other. [elem.8.6]",
+            "text": "For, if > A does not measure > B, neither will any other of the numbers measure any other. [elem.8.6]",
             "refs": [
                 "elem.8.6"
             ],
             "emphs": []
         },
         {
-            "text": "But  measures .",
+            "text": "But > A measures > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  also measures . Q. E. D.",
+            "text": "Therefore > A also measures > B. Q. E. D.",
             "refs": [],
             "emphs": []
         }

@@ -39,7 +39,7 @@
             ]
         },
         {
-            "text": "For, since `AC` is equal to `CB`, and `CD` is common, \n         and the angle `ACD` is equal to the angle `BCD`;",
+            "text": "For, since `AC` is equal to `CB`, and `CD` is common, \n        > the two sides `AC`, `CD` are equal to the two sides `BC`, `CD` respectively; and the angle `ACD` is equal to the angle `BCD`; > therefore the base `AD` is equal to the base `BD`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "AC",

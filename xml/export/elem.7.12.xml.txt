@@ -1,8 +1,8 @@
 Enunciation:
-
+> If there be as many numbers as we please in proportion, then, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents.
 
 Proof:
-Let , , ,  be as many numbers as we please in proportion, so that,  I say that, as  is to , so are ,  to , .
-For since, as  is to , so is  to , whatever part or parts  is of , the same part or parts is  of  also. [elem.7.def.20]
-Therefore also the sum of ,  is the same part or the same parts of the sum of ,  that  is of . [elem.7.5 elem.7.6]
-Therefore, as  is to , so are ,  to , . [elem.7.def.20]
+Let > A, > B, > C, > D be as many numbers as we please in proportion, so that, > as > A is to > B, so is > C to > D; I say that, as > A is to > B, so are > A, > C to > B, > D.
+For since, as > A is to > B, so is > C to > D, whatever part or parts > A is of > B, the same part or parts is > C of > D also. [elem.7.def.20]
+Therefore also the sum of > A, > C is the same part or the same parts of the sum of > B, > D that > A is of > B. [elem.7.5 elem.7.6]
+Therefore, as > A is to > B, so are > A, > C to > B, > D. [elem.7.def.20]

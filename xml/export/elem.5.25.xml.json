@@ -35,7 +35,7 @@
             ]
         },
         {
-            "text": "Since, as `AB` is to `CD`, so is `E` to `F`, and `E` is equal to `AG`, and `F` to `CH`,",
+            "text": "Since, as `AB` is to `CD`, so is `E` to `F`, and `E` is equal to `AG`, and `F` to `CH`, > therefore, as `AB` is to `CD`, so is `AG` to `CH`.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "text": "And since, as the whole `AB` is to the whole `CD`, so is the part `AG` subtracted to the part `CH` subtracted,",
+            "text": "And since, as the whole `AB` is to the whole `CD`, so is the part `AG` subtracted to the part `CH` subtracted, > the remainder `GB` will also be to the remainder `HD` as the whole `AB` is to the whole `CD`. [elem.5.19]",
             "refs": [],
             "emphs": [
                 "AB",
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "text": "But `AB` is greater than `CD`;",
+            "text": "But `AB` is greater than `CD`; > therefore `GB` is also greater than `HD`.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "text": "And if, `GB`, `HD` being unequal, and `GB` greater, `AG`, `F` be added to `GB` and `CH`, `E` be added to `HD`,",
+            "text": "And if, `GB`, `HD` being unequal, and `GB` greater, `AG`, `F` be added to `GB` and `CH`, `E` be added to `HD`, > it follows that `AB`, `F` are greater than `CD`, `E`.",
             "refs": [],
             "emphs": [
                 "GB",

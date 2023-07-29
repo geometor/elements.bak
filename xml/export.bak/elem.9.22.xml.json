@@ -1,0 +1,32 @@
+{
+    "id": "elem.9.22",
+    "n": 22,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let as many odd numbers as we please, , , , , even in multitude, be added together; I say that the whole  is even.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since each of the numbers , , ,  is odd, if an unit be subtracted from each, each of the remainders will be even; [elem.7.def.7] so that the sum of them will be even. [elem.9.21]",
+            "refs": [
+                "elem.7.def.7",
+                "elem.9.21"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the multitude of the units is also even.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the whole  is also even. [elem.9.21] Q. E. D.",
+            "refs": [
+                "elem.9.21"
+            ],
+            "emphs": []
+        }
+    ]
+}

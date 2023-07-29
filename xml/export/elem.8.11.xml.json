@@ -2,68 +2,69 @@
     "id": "elem.8.11",
     "n": 11,
     "type": "proposition",
+    "enunciation": "> Between two square numbers there is one mean proportional number, and the square has to the square the ratio duplicate of that which the side has to the side.",
     "proof": [
         {
-            "text": "Let ,  be square numbers, and let  be the side of , and  of ; I say that between ,  there is one mean proportional number, and  has to  the ratio duplicate of that which  has to .",
+            "text": "Let > A, > B be square numbers, and let > C be the side of > A, and > D of > B; I say that between > A, > B there is one mean proportional number, and > A has to > B the ratio duplicate of that which > C has to > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  by multiplying  make .",
+            "text": "For let > C by multiplying > D make > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  is a square and  is its side, therefore  by multiplying itself has made .",
+            "text": "Now, since > A is a square and > C is its side, therefore > C by multiplying itself has made > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the same reason also  by multiplying itself has made .",
+            "text": "For the same reason also > D by multiplying itself has made > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "Since then > C by multiplying the numbers > C, > D has made > A, > E respectively, therefore, as > C is to > D, so is > A to > E. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason also,",
+            "text": "For the same reason also, > as > C is to > D, so is > E to > B. [elem.7.18]",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore also, as  is to , so is  to .",
+            "text": "Therefore also, as > A is to > E, so is > E to > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore between ,  there is one mean proportional number.",
+            "text": "Therefore between > A, > B there is one mean proportional number.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say next that  also has to  the ratio duplicate of that which  has to .",
+            "text": "I say next that > A also has to > B the ratio duplicate of that which > C has to > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since , ,  are three numbers in proportion, therefore  has to  the ratio duplicate of that which  has to . [elem.5.def.9]",
+            "text": "For, since > A, > E, > B are three numbers in proportion, therefore > A has to > B the ratio duplicate of that which > A has to > E. [elem.5.def.9]",
             "refs": [
                 "elem.5.def.9"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to .",
+            "text": "But, as > A is to > E, so is > C to > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  has to  the ratio duplicate of that which the side  has to . Q. E. D.",
+            "text": "Therefore > A has to > B the ratio duplicate of that which the side > C has to > D. Q. E. D.",
             "refs": [],
             "emphs": []
         }

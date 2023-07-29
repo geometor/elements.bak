@@ -117,7 +117,7 @@
             ]
         },
         {
-            "text": "For, with the same construction, since the rectangle `AB`, `F` is equal to the rectangle `CD`, `E`, and the rectangle `AB`, `F` is `BG`, for `AG` is equal to `F`, and the rectangle `CD`, `E` is `DH`, for `CH` is equal to `E`,",
+            "text": "For, with the same construction, since the rectangle `AB`, `F` is equal to the rectangle `CD`, `E`, and the rectangle `AB`, `F` is `BG`, for `AG` is equal to `F`, and the rectangle `CD`, `E` is `DH`, for `CH` is equal to `E`, > therefore `BG` is equal to `DH`.",
             "refs": [],
             "emphs": [
                 "AB",

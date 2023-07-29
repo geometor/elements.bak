@@ -1,0 +1,49 @@
+{
+    "id": "elem.7.16",
+    "n": 16,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be two numbers, and let  by multiplying  make , and  by multiplying  make ; I say that  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  by multiplying  has made , therefore  measures  according to the units in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the unit  also measures the number  according to the units in it;",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, alternately, the unit  measures the number  the same number of times that  measures . [elem.7.15]",
+            "refs": [
+                "elem.7.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  by multiplying  has made , therefore  measures  according to the units in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the unit  also measures  according to the units in it;",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the unit  measured the number  the same number of times that  measures ;",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is equal to . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+Enunciation:
+
+
+Proof:
+For from the even number  let the odd number  be subtracted; I say that the remainder  is odd.
+For let the unit  be subtracted from ; therefore  is even. [elem.7.def.7]
+But  is also even; therefore the remainder  is also even. [elem.9.24]
+And  is an unit; therefore  is odd. [elem.7.def.7] Q. E. D.

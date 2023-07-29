@@ -2,31 +2,32 @@
     "id": "elem.7.10",
     "n": 10,
     "type": "proposition",
+    "enunciation": "> If a number be parts of a number, and another be the same parts of another, alternately also, whatever parts or part the first is of the third, the same parts or the same part will the second also be of the fourth.",
     "proof": [
         {
-            "text": "For let the number  be parts of the number , and another, , the same parts of another, ; I say that, alternately also, whatever parts or part  is of , the same parts or the same part is  of  also.",
+            "text": "For let the number > AB be parts of the number > C, and another, > DE, the same parts of another, > F; I say that, alternately also, whatever parts or part > AB is of > DE, the same parts or the same part is > C of > F also.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For since, whatever parts  is of , the same parts also is  of , therefore, as many parts of  as there are in , so many parts also of  are there in .",
+            "text": "For since, whatever parts > AB is of > C, the same parts also is > DE of > F, therefore, as many parts of > C as there are in > AB, so many parts also of > F are there in > DE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  be divided into the parts of , namely , , and  into the parts of , namely , ; thus the multitude of ,  will be equal to the multitude of , .",
+            "text": "Let > AB be divided into the parts of > C, namely > AG, > GB, and > DE into the parts of > F, namely > DH, > HE; thus the multitude of > AG, > GB will be equal to the multitude of > DH, > HE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now since, whatever part  is of , the same part also is  of , alternately also, whatever part or parts  is of , the same part or the same parts is  of  also. [elem.7.9]",
+            "text": "Now since, whatever part > AG is of > C, the same part also is > DH of > F, alternately also, whatever part or parts > AG is of > DH, the same part or the same parts is > C of > F also. [elem.7.9]",
             "refs": [
                 "elem.7.9"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason also, whatever part or parts  is of , the same part or the same parts is  of  also; so that, in addition, whatever parts or part  is of , the same parts also, or the same part, is  of . [elem.7.5 elem.7.6] Q. E. D.",
+            "text": "For the same reason also, whatever part or parts > GB is of > HE, the same part or the same parts is > C of > F also; so that, in addition, whatever parts or part > AB is of > DE, the same parts also, or the same part, is > C of > F. [elem.7.5 elem.7.6] Q. E. D.",
             "refs": [
                 "elem.7.5 elem.7.6"
             ],

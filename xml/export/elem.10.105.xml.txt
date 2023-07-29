@@ -1,13 +1,13 @@
 Enunciation:
-.
+> A straight line commensurable with a minor straight line is minor.
 
 Proof:
-Let  be a minor straight line, and  commensurable with ; I say that  is also minor.
-Let the same construction be made as before; then, since ,  are incommensurable in square, [elem.10.76] therefore ,  are also incommensurable in square. [elem.10.13]
-Now since, as  is to , so is  to , [elem.5.12, elem.5.16] therefore also, as the square on  is to the square on , so is the square on  to the square on . [elem.6.22]
-Therefore, , as the squares on ,  are to the square on , so are the squares on ,  to the square on . [elem.5.18]
-But the square on  is commensurable with the square on ; therefore the sum of the squares on ,  is also commensurable with the sum of the squares on , . [elem.5.16, elem.10.11]
-But the sum of the squares on ,  is rational; [elem.10.76] therefore the sum of the squares on ,  is also rational. [elem.10.def.4]
-Again, since, as the square on  is to the rectangle , , so is the square on  to the rectangle , , while the square on  is commensurable with the square on , therefore the rectangle ,  is also commensurable with the rectangle , .
-But the rectangle ,  is medial; [elem.10.76] therefore the rectangle ,  is also medial; [elem.10.23.p.1] therefore ,  are straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial.
-Therefore  is minor. [elem.10.76] Q. E. D.
+Let > AB be a minor straight line, and > CD commensurable with > AB; I say that > CD is also minor.
+Let the same construction be made as before; then, since > AE, > EB are incommensurable in square, [elem.10.76] therefore > CF, > FD are also incommensurable in square. [elem.10.13]
+Now since, as > AE is to > EB, so is > CF to > FD, [elem.5.12, elem.5.16] therefore also, as the square on > AE is to the square on > EB, so is the square on > CF to the square on > FD. [elem.6.22]
+Therefore, , as the squares on > AE, > EB are to the square on > EB, so are the squares on > CF, > FD to the square on > FD. [elem.5.18]
+But the square on > BE is commensurable with the square on > DF; therefore the sum of the squares on > AE, > EB is also commensurable with the sum of the squares on > CF, > FD. [elem.5.16, elem.10.11]
+But the sum of the squares on > AE, > EB is rational; [elem.10.76] therefore the sum of the squares on > CF, > FD is also rational. [elem.10.def.4]
+Again, since, as the square on > AE is to the rectangle > AE, > EB, so is the square on > CF to the rectangle > CF, > FD, while the square on > AE is commensurable with the square on > CF, therefore the rectangle > AE, > EB is also commensurable with the rectangle > CF, > FD.
+But the rectangle > AE, > EB is medial; [elem.10.76] therefore the rectangle > CF, > FD is also medial; [elem.10.23.p.1] therefore > CF, > FD are straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial.
+Therefore > CD is minor. [elem.10.76] Q. E. D.

@@ -72,7 +72,7 @@
             ]
         },
         {
-            "text": "`BK` is the rectangle `A`, `BD`, for it is contained by `GB`, `BD`, and `BG` is equal to `A`;",
+            "text": "`BK` is the rectangle `A`, `BD`, for it is contained by `GB`, `BD`, and `BG` is equal to `A`; > and `DL` is the rectangle `A`, `DE`, for `DK`, that is `BG` [elem.1.34], is equal to `A`.",
             "refs": [],
             "emphs": [
                 "BK",

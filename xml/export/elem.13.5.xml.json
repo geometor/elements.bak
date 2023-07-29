@@ -2,66 +2,66 @@
     "id": "elem.13.5",
     "n": 5,
     "type": "proposition",
-    "enunciation": ", , ,",
+    "enunciation": "> If a straight line be cut in extreme and mean ratio, > and there be added to it a straight line equal to the greater segment, > the whole straight line has been cut in extreme and mean ratio, > and the original straight line is the greater segment.",
     "proof": [
         {
-            "text": "For let the straight line  be cut in extreme and mean ratio at the point , let  be the greater segment, and let  be equal to .",
+            "text": "For let the straight line > AB be cut in extreme and mean ratio at the point > C, let > AC be the greater segment, and let > AD be equal to > AC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say that the straight line  has been cut in extreme and mean ratio at , and the original straight line  is the greater segment.",
+            "text": "I say that the straight line > DB has been cut in extreme and mean ratio at > A, and the original straight line > AB is the greater segment.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let the square  be described on , and let the figure be drawn.",
+            "text": "For let the square > AE be described on > AB, and let the figure be drawn.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since  has been cut in extreme and mean ratio at , therefore the rectangle ,  is equal to the square on . [elem.6.def.3 elem.6.17, VI. 17]",
+            "text": "Since > AB has been cut in extreme and mean ratio at > C, therefore the rectangle > AB, > BC is equal to the square on > AC. [elem.6.def.3 elem.6.17, VI. 17]",
             "refs": [
                 "elem.6.def.3 elem.6.17"
             ],
             "emphs": []
         },
         {
-            "text": "And  is the rectangle , , and  the square on ; therefore  is equal to .",
+            "text": "And > CE is the rectangle > AB, > BC, and > CH the square on > AC; therefore > CE is equal to > HC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is equal to , and  is equal to ; therefore  is also equal to .",
+            "text": "But > HE is equal to > CE, and > DH is equal to > HC; therefore > DH is also equal to > HE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the whole  is equal to the whole .",
+            "text": "Therefore the whole > DK is equal to the whole > AE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is the rectangle , , for  is equal to ; and  is the square on ; therefore the rectangle ,  is equal to the square on .",
+            "text": "And > DK is the rectangle > BD, > DA, for > AD is equal to > DL; and > AE is the square on > AB; therefore the rectangle > BD, > DA is equal to the square on > AB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is  to . [elem.6.17]",
+            "text": "Therefore, as > DB is to > BA, so is > BA to > AD. [elem.6.17]",
             "refs": [
                 "elem.6.17"
             ],
             "emphs": []
         },
         {
-            "text": "And  is greater than ; therefore  is also greater than . [elem.5.14]",
+            "text": "And > DB is greater than > BA; therefore > BA is also greater than > AD. [elem.5.14]",
             "refs": [
                 "elem.5.14"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  has been cut in extreme and mean ratio at , and  is the greater segment. Q. E. D.",
+            "text": "Therefore > DB has been cut in extreme and mean ratio at > A, and > AB is the greater segment. Q. E. D.",
             "refs": [],
             "emphs": []
         }

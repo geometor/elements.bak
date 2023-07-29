@@ -23,7 +23,7 @@
             ]
         },
         {
-            "text": "Then, since the point `F` is the centre of the circle `ABC`,",
+            "text": "Then, since the point `F` is the centre of the circle `ABC`, > `FC` is equal to `FB`.",
             "refs": [],
             "emphs": [
                 "F",
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "text": "Again, since the point `F` is the centre of the circle `CDE`,",
+            "text": "Again, since the point `F` is the centre of the circle `CDE`, > `FC` is equal to `FE`.",
             "refs": [],
             "emphs": [
                 "F",
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "text": "But `FC` was proved equal to `FB`;",
+            "text": "But `FC` was proved equal to `FB`; > therefore `FE` is also equal to `FB`, the less to the greater: which is impossible.",
             "refs": [],
             "emphs": [
                 "FC",

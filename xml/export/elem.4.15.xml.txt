@@ -5,19 +5,19 @@ Proof:
 Let `ABCDEF` be the given circle; thus it is required to inscribe an equilateral and equiangular hexagon in the circle `ABCDEF`.
 Let the diameter `AD` of the circle `ABCDEF` be drawn; let the centre `G` of the circle be taken, and with centre `D` and distance `DG` let the circle `EGCH` be described;  let `EG`, `CG` be joined and carried through to the points `B`, `F`, and let `AB`, `BC`, `CD`, `DE`, `EF`, `FA` be joined.
 I say that the hexagon `ABCDEF` is equilateral and equiangular.
-For, since the point `G` is the centre of the circle `ABCDEF`,
-Again, since the point `D` is the centre of the circle `GCH`,
-But `GE` was proved equal to `GD`;  and therefore its three angles `EGD`, `GDE`, `DEG` are equal to one another, inasmuch as, in isosceles triangles, the angles at the base are equal to one another. [elem.1.5]
-And the three angles of the triangle are equal to two right angles; [elem.1.32]
+For, since the point `G` is the centre of the circle `ABCDEF`, > `GE` is equal to `GD`.
+Again, since the point `D` is the centre of the circle `GCH`, > `DE` is equal to `DG`.
+But `GE` was proved equal to `GD`; > therefore `GE` is also equal to `ED`; therefore the triangle `EGD` is equilateral; and therefore its three angles `EGD`, `GDE`, `DEG` are equal to one another, inasmuch as, in isosceles triangles, the angles at the base are equal to one another. [elem.1.5]
+And the three angles of the triangle are equal to two right angles; [elem.1.32] > therefore the angle `EGD` is one-third of two right angles.
 Similarly, the angle `DGC` can also be proved to be onethird of two right angles.
 And, since the straight line `CG` standing on `EB` makes the adjacent angles `EGC`, `CGB` equal to two right angles, therefore the remaining angle `CGB` is also one-third of two right angles.
 Therefore the angles `EGD`, `DGC`, `CGB` are equal to one another; so that the angles vertical to them, the angles `BGA`, `AGF`, `FGE` are equal. [elem.1.15]
 Therefore the six angles `EGD`, `DGC`, `CGB`, `BGA`, `AGF`, `FGE` are equal to one another.
 But equal angles stand on equal circumferences; [elem.3.26] therefore the six circumferences `AB`, `BC`, `CD`, `DE`, `EF`, `FA` are equal to one another.
-And equal circumferences are subtended by equal straight lines; [elem.3.29]
+And equal circumferences are subtended by equal straight lines; [elem.3.29] > therefore the six straight lines are equal to one another; therefore the hexagon `ABCDEF` is equilateral.
 I say next that it is also equiangular.
-For, since the circumference `FA` is equal to the circumference `ED`, 
-       and the angle `FED` stands on the circumference `FABCD`, and the angle `AFE` on the circumference `EDCBA`;
-Similarly it can be proved that the remaining angles of the hexagon `ABCDEF` are also severally equal to each of the angles `AFE`, `FED`;
+For, since the circumference `FA` is equal to the circumference `ED`, > let the circumference `ABCD` be added to each; therefore the whole `FABCD` is equal to the whole `EDCBA`;
+       and the angle `FED` stands on the circumference `FABCD`, and the angle `AFE` on the circumference `EDCBA`; > therefore the angle `AFE` is equal to the angle `DEF`. [elem.3.27]
+Similarly it can be proved that the remaining angles of the hexagon `ABCDEF` are also severally equal to each of the angles `AFE`, `FED`; > therefore the hexagon `ABCDEF` is equiangular.
 But it was also proved equilateral; and it has been inscribed in the circle `ABCDEF`.
 Therefore in the given circle an equilateral and equiangular hexagon has been inscribed. Q. E. F.

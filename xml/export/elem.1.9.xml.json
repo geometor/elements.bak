@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "For, since `AD` is equal to `AE`, and `AF` is common,",
+            "text": "For, since `AD` is equal to `AE`, and `AF` is common, > the two sides `DA`, `AF` are equal to the two sides `EA`, `AF` respectively.",
             "refs": [],
             "emphs": [
                 "AD",
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "text": "And the base `DF` is equal to the base `EF`;",
+            "text": "And the base `DF` is equal to the base `EF`; > therefore the angle `DAF` is equal to the angle `EAF`. [elem.1.8]",
             "refs": [],
             "emphs": [
                 "DF",

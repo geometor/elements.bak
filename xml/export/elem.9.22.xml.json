@@ -2,14 +2,15 @@
     "id": "elem.9.22",
     "n": 22,
     "type": "proposition",
+    "enunciation": "> If as many odd numbers as we please be added together, and their multitude be even, the whole will be even.",
     "proof": [
         {
-            "text": "For let as many odd numbers as we please, , , , , even in multitude, be added together; I say that the whole  is even.",
+            "text": "For let as many odd numbers as we please, > AB, > BC, > CD, > DE, even in multitude, be added together; I say that the whole > AE is even.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since each of the numbers , , ,  is odd, if an unit be subtracted from each, each of the remainders will be even; [elem.7.def.7] so that the sum of them will be even. [elem.9.21]",
+            "text": "For, since each of the numbers > AB, > BC, > CD, > DE is odd, if an unit be subtracted from each, each of the remainders will be even; [elem.7.def.7] so that the sum of them will be even. [elem.9.21]",
             "refs": [
                 "elem.7.def.7",
                 "elem.9.21"
@@ -22,7 +23,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore the whole  is also even. [elem.9.21] Q. E. D.",
+            "text": "Therefore the whole > AE is also even. [elem.9.21] Q. E. D.",
             "refs": [
                 "elem.9.21"
             ],

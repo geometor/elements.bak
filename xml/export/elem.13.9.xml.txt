@@ -1,18 +1,18 @@
 Enunciation:
-, ,
+> If the side of the hexagon and that of the decagon inscribed in the same circle be added together, > the whole straight line has been cut in extreme and mean ratio, > and its greater segment is the side of the hexagon.
 
 Proof:
-Let  be a circle; of the figures inscribed in the circle  let  be the side of a decagon,  that of a hexagon, and let them be in a straight line; I say that the whole straight line  has been cut in extreme and mean ratio, and  is its greater segment.
-For let the centre of the circle, the point , be taken, let , ,  be joined, and let  be carried through to .
-Since  is the side of an equilateral decagon, therefore the circumference  is five times the circumference ; therefore the circumference  is quadruple of .
-But, as the circumference  is to , so is the angle  to the angle ; [elem.6.33] therefore the angle  is quadruple of the angle .
-And, since the angle  is equal to the angle , [elem.1.5] therefore the angle  is double of the angle . [elem.1.32]
-And, since the straight line  is equal to , for each of them is equal to the side of the hexagon inscribed in the circle , [elem.4.15.p.1] the angle  is also equal to the angle ; [elem.1.5] therefore the angle  is double of the angle . [elem.1.32]
-But the angle  was proved double of the angle ; therefore the angle  is quadruple of the angle .
-But the angle  was also proved quadruple of the angle ; therefore the angle  is equal to the angle .
-But the angle  is common to the two triangles  and ; therefore the remaining angle  is also equal to the remaining angle ; [elem.1.32] therefore the triangle  is equiangular with the triangle .
-Therefore, proportionally, as  is to , so is  to . [elem.6.4]
-But  is equal to .
-Therefore, as  is to , so is  to .
-And  is greater than ; therefore  is also greater than .
-Therefore the straight line  has been cut in extreme and mean ratio, and  is its greater segment. Q. E. D.
+Let > ABC be a circle; of the figures inscribed in the circle > ABC let > BC be the side of a decagon, > CD that of a hexagon, and let them be in a straight line; I say that the whole straight line > BD has been cut in extreme and mean ratio, and > CD is its greater segment.
+For let the centre of the circle, the point > E, be taken, let > EB, > EC, > ED be joined, and let > BE be carried through to > A.
+Since > BC is the side of an equilateral decagon, therefore the circumference > ACB is five times the circumference > BC; therefore the circumference > AC is quadruple of > CB.
+But, as the circumference > AC is to > CB, so is the angle > AEC to the angle > CEB; [elem.6.33] therefore the angle > AEC is quadruple of the angle > CEB.
+And, since the angle > EBC is equal to the angle > ECB, [elem.1.5] therefore the angle > AEC is double of the angle > ECB. [elem.1.32]
+And, since the straight line > EC is equal to > CD, for each of them is equal to the side of the hexagon inscribed in the circle > ABC, [elem.4.15.p.1] the angle > CED is also equal to the angle > CDE; [elem.1.5] therefore the angle > ECB is double of the angle > EDC. [elem.1.32]
+But the angle > AEC was proved double of the angle > ECB; therefore the angle > AEC is quadruple of the angle > EDC.
+But the angle > AEC was also proved quadruple of the angle > BEC; therefore the angle > EDC is equal to the angle > BEC.
+But the angle > EBD is common to the two triangles > BEC and > BED; therefore the remaining angle > BED is also equal to the remaining angle > ECB; [elem.1.32] therefore the triangle > EBD is equiangular with the triangle > EBC.
+Therefore, proportionally, as > DB is to > BE, so is > EB to > BC. [elem.6.4]
+But > EB is equal to > CD.
+Therefore, as > BD is to > DC, so is > DC to > CB.
+And > BD is greater than > DC; therefore > DC is also greater than > CB.
+Therefore the straight line > BD has been cut in extreme and mean ratio, and > DC is its greater segment. Q. E. D.

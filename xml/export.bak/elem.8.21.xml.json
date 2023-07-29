@@ -1,0 +1,125 @@
+{
+    "id": "elem.8.21",
+    "n": 21,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let two mean proportional numbers ,  fall between the two numbers , ; I say that ,  are similar solid numbers.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let three numbers , , , the least of those which have the same ratio with , , , be taken; [elem.7.33 or elem.8.2] therefore the extremes of them ,  are prime to one another. [elem.8.3]",
+            "refs": [
+                "elem.7.33",
+                "elem.8.2",
+                "elem.8.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since one mean proportional number  has fallen between , , therefore ,  are similar plane numbers. [elem.8.20]",
+            "refs": [
+                "elem.8.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let, then, ,  be the sides of , and ,  of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore it is manifest from the theorem before this that , ,  are continuously proportional in the ratio of  to  and that of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since , ,  are the least of the numbers which have the same ratio with , , , and the multitude of the numbers , ,  is equal to the multitude of the numbers , , , therefore, , as  is to , so is  to . [elem.7.14]",
+            "refs": [
+                "elem.7.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least measure those which have the same ratio with them the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore  measures  the same number of times that  measures .",
+            "refs": [
+                "elem.7.21",
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, as many times as  measures , so many units let there be in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is the product of , ; therefore  by multiplying the product of ,  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is solid, and , ,  are its sides.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since , ,  are the least of the numbers which have the same ratio as , , , therefore  measures  the same number of times that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, as many times as  measures , so many units let there be in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  measures  according to the units in ; therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is the product of , ; therefore  by multiplying the product of ,  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is solid, and , ,  are its sides; therefore ,  are solid.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that they are also similar.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since ,  by multiplying  have made , , therefore, as  is to , so is  to , that is,  to . [elem.7.18]",
+            "refs": [
+                "elem.7.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to  and  to ; therefore also, as  is to , so is  to  and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And , ,  are the sides of , and , ,  the sides of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are similar solid numbers. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

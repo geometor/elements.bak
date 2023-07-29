@@ -1,0 +1,15 @@
+Enunciation:
+.
+
+Proof:
+For from the medial area  let the rational area  be subtracted.
+I say that the 
+ of the remainder  becomes one of two irrational straight lines, either a first apotome of a medial straight line or a straight line which produces with a rational area a medial whole.
+For let a rational straight line  be set out, and let the areas be similarly applied.
+It follows then that  is rational and incommensurable in length with , while  is rational and commensurable in length with ; therefore ,  are rational straight lines commensurable in square only; [elem.10.13] therefore  is an apotome, and  the annex to it. [elem.10.73]
+Now the square on  is greater than the square on  either by the square on a straight line commensurable with  or by the square on a straight line incommensurable with it.
+If then the square on  is greater than the square on  by the square on a straight line commensurable with , while the annex  is commensurable in length with the rational straight line  set out,  is a second apotome. [elem.10.def.3.2]
+But  is rational; so that the 
+ of , that is, of , is a first apotome of a medial straight line. [elem.10.92]
+But, if the square on  is greater than the square on  by the square on a straight line incommensurable with , while the annex  is commensurable in length with the rational straight line  set out,  is a fifth apotome; [elem.10.def.3.5] so that the 
+ of  is a straight line which produces with a rational area a medial whole. [elem.10.95]

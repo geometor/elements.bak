@@ -46,7 +46,7 @@
             ]
         },
         {
-            "text": "For, since `DC` is equal to `CE`, and `CF` is common,  and the base `DF` is equal to the base `FE`;  and they are adjacent angles.",
+            "text": "For, since `DC` is equal to `CE`, and `CF` is common, > the two sides `DC`, `CF` are equal to the two sides `EC`, `CF` respectively; and the base `DF` is equal to the base `FE`; > therefore the angle `DCF` is equal to the angle `ECF`; [elem.1.8] and they are adjacent angles.",
             "refs": [],
             "emphs": [
                 "DC",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10]",
+            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10] > therefore each of the angles `DCF`, `FCE` is right.",
             "refs": [
                 "elem.1.def.10"
             ],

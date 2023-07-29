@@ -1,0 +1,61 @@
+{
+    "id": "elem.12.13",
+    "n": 13,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the cylinder  be cut by the plane  which is parallel to the opposite planes , , and let the plane  meet the axis at the point ; I say that, as the cylinder  is to the cylinder , so is the axis  to the axis .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the axis  be produced in both directions to the points , , and let there be set out any number whatever of axes ,  equal to the axis , and any number whatever ,  equal to ; and let the cylinder  on the axis  be conceived of which the circles ,  are the bases.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let planes be carried through the points ,  parallel to ,  and to the bases of the cylinder , and let them produce the circles ,  about the centres , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then, since the axes , ,  are equal to one another, therefore the cylinders , ,  are to one another as their bases. [elem.12.11]",
+            "refs": [
+                "elem.12.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the bases are equal; therefore the cylinders , ,  are also equal to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then the axes , ,  are equal to one another, and the cylinders , ,  are also equal to one another, and the multitude of the former is equal to the multitude of the latter, therefore, whatever multiple the axis  is of the axis , the same multiple also will the cylinder  be of the cylinder .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason, whatever multiple the axis  is of the axis , the same multiple also is the cylinder  of the cylinder .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, if the axis  is equal to the axis , the cylinder  will also be equal to the cylinder , if the axis is greater than the axis, the cylinder will also be greater than the cylinder, and if less, less.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Thus, there being four magnitudes, the axes ,  and the cylinders , , there have been taken equimultiples of the axis  and of the cylinder , namely the axis  and the cylinder , and equimultiples of the axis  and of the cylinder , namely the axis  and the cylinder ; and it has been proved that, if the axis  is in excess of the axis , the cylinder  is also in excess of the cylinder , if equal, equal, and if less, less.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as the axis  is to the axis , so is the cylinder  to the cylinder . [elem.5.def.5] Q. E. D.",
+            "refs": [
+                "elem.5.def.5"
+            ],
+            "emphs": []
+        }
+    ]
+}

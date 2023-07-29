@@ -27,7 +27,7 @@
             ]
         },
         {
-            "text": "Then, since `BC` is equal to `FG` while `FG` is equal to `EH`,",
+            "text": "Then, since `BC` is equal to `FG` while `FG` is equal to `EH`, > `BC` is also equal to `EH`. [elem.1.c.n.1]",
             "refs": [],
             "emphs": [
                 "BC",

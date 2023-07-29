@@ -1,0 +1,62 @@
+{
+    "id": "elem.1.41",
+    "n": 41,
+    "type": "proposition",
+    "enunciation": "If a parallelogram have the same base with a triangle and be in the same parallels, the parallelogram is double of the triangle.",
+    "proof": [
+        {
+            "text": "For let the parallelogram `ABCD` have the same base `BC` with the triangle `EBC`, and let it be in the same parallels `BC`, `AE`;",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "BC",
+                "EBC",
+                "BC",
+                "AE"
+            ]
+        },
+        {
+            "text": "I say that the parallelogram `ABCD` is double of the triangle `BEC`.",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "BEC"
+            ]
+        },
+        {
+            "text": "For let `AC` be joined.",
+            "refs": [],
+            "emphs": [
+                "AC"
+            ]
+        },
+        {
+            "text": "Then the triangle `ABC` is equal to the triangle `EBC`; for it is on the same base `BC` with it and in the same parallels `BC`, `AE`. [elem.1.37]",
+            "refs": [
+                "elem.1.37"
+            ],
+            "emphs": [
+                "ABC",
+                "EBC",
+                "BC",
+                "BC",
+                "AE"
+            ]
+        },
+        {
+            "text": "But the parallelogram `ABCD` is double of the triangle `ABC`;  so that the parallelogram `ABCD` is also double of the triangle `EBC`.",
+            "refs": [],
+            "emphs": [
+                "ABCD",
+                "ABC",
+                "ABCD",
+                "EBC"
+            ]
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

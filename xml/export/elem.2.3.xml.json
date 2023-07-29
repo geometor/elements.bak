@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "`AD` is the rectangle `AC`, `CB`, for `DC` is equal to `CB`; . Therefore the rectangle contained by `AB`, `BC` is equal to the rectangle contained by `AC`, `CB` together with the square on `BC`.",
+            "text": "`AD` is the rectangle `AC`, `CB`, for `DC` is equal to `CB`; > and `DB` is the square on `CB`. Therefore the rectangle contained by `AB`, `BC` is equal to the rectangle contained by `AC`, `CB` together with the square on `BC`.",
             "refs": [],
             "emphs": [
                 "AD",

@@ -50,7 +50,7 @@
             ]
         },
         {
-            "text": "Then, since `AB` is equal to `DE`, and `AC` to `DG`, the two sides `BA`, `AC` are equal to the two sides `ED`, `DG`, respectively;",
+            "text": "Then, since `AB` is equal to `DE`, and `AC` to `DG`, the two sides `BA`, `AC` are equal to the two sides `ED`, `DG`, respectively; > and the angle `BAC` is equal to the angle `EDG`; therefore the base `BC` is equal to the base `EG`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "AB",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "text": "Again, since `DF` is equal to `DG`,",
+            "text": "Again, since `DF` is equal to `DG`, > the angle `DGF` is also equal to the angle `DFG`; [elem.1.5] therefore the angle `DFG` is greater than the angle `EGF`.",
             "refs": [],
             "emphs": [
                 "DF",
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "text": "And, since `EFG` is a triangle having the angle `EFG`\n        greater than the angle `EGF`,",
+            "text": "And, since `EFG` is a triangle having the angle `EFG`\n        greater than the angle `EGF`, > and the greater angle is subtended by the greater side, [elem.1.19] the side `EG` is also greater than `EF`.",
             "refs": [],
             "emphs": [
                 "EFG",
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "text": "But `EG` is equal to `BC`.",
+            "text": "But `EG` is equal to `BC`. > Therefore `BC` is also greater than `EF`.",
             "refs": [],
             "emphs": [
                 "EG",

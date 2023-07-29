@@ -5,7 +5,7 @@
     "enunciation": "`If there be three magnitudes`, `and others equal to them in multitude`, `which taken two and two together are in the same ratio`, `and the proportion of them be perturbed`, `then`, `if`\n       `the first magnitude is greater than the third`, `the fourth will also be greater than the sixth; if equal`, `equal; and if less`, `less`.",
     "proof": [
         {
-            "text": "Let there be three magnitudes `A`, `B`, `C`, and others `D`, `E`, `F` equal to them in multitude, which taken two and two are in the same ratio, and let the proportion of them be perturbed, so that,  and, as `B` is to `C`, so is `D` to `E`, and let `A` be greater than `C`\n       ; I say that `D` will also be greater than `F`; if `A` is equal to `C`, equal; and if less, less.",
+            "text": "Let there be three magnitudes `A`, `B`, `C`, and others `D`, `E`, `F` equal to them in multitude, which taken two and two are in the same ratio, and let the proportion of them be perturbed, so that, > as `A` is to `B`, so is `E` to `F`, and, as `B` is to `C`, so is `D` to `E`, and let `A` be greater than `C`\n       ; I say that `D` will also be greater than `F`; if `A` is equal to `C`, equal; and if less, less.",
             "refs": [],
             "emphs": [
                 "A",
@@ -62,14 +62,14 @@
             ]
         },
         {
-            "text": "But that to which the same has a greater ratio is less; [elem.5.10]",
+            "text": "But that to which the same has a greater ratio is less; [elem.5.10] > therefore `F` is less than `D`; therefore `D` is greater than `F`.",
             "refs": [
                 "elem.5.10"
             ],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that,  and if less, less.",
+            "text": "Similarly we can prove that, > if `A` be equal to `C`, `D` will also be equal to `F`; and if less, less.",
             "refs": [],
             "emphs": []
         },

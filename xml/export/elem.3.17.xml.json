@@ -36,7 +36,7 @@
             ]
         },
         {
-            "text": "For, since `E` is the centre of the circles `BCD`, `AFG`,  therefore the two sides `AE`, `EB` are equal to the two sides `FE`, `ED`: and they contain a common angle, the angle at `E`;",
+            "text": "For, since `E` is the centre of the circles `BCD`, `AFG`, > `EA` is equal to `EF`, and `ED` to `EB`; therefore the two sides `AE`, `EB` are equal to the two sides `FE`, `ED`: and they contain a common angle, the angle at `E`; > therefore the base `DF` is equal to the base `AB`, and the triangle `DEF` is equal to the triangle `BEA`, and the remaining angles to the remaining angles; [elem.1.4] therefore the angle `EDF` is equal to the angle `EBA`.",
             "refs": [],
             "emphs": [
                 "E",
@@ -50,14 +50,14 @@
             ]
         },
         {
-            "text": "But the angle `EDF` is right;",
+            "text": "But the angle `EDF` is right; > therefore the angle `EBA` is also right.",
             "refs": [],
             "emphs": [
                 "EDF"
             ]
         },
         {
-            "text": "Now `EB` is a radius; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [elem.3.16.p.1]",
+            "text": "Now `EB` is a radius; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [elem.3.16.p.1] > therefore `AB` touches the circle `BCD`.",
             "refs": [
                 "elem.3.16.p.1"
             ],

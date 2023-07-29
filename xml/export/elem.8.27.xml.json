@@ -2,21 +2,22 @@
     "id": "elem.8.27",
     "n": 27,
     "type": "proposition",
+    "enunciation": "> Similar solid numbers have to one another the ratio which a cube number has to a cube number.",
     "proof": [
         {
-            "text": "Let ,  be similar solid numbers; I say that  has to  the ratio which a cube number has to a cube number.",
+            "text": "Let > A, > B be similar solid numbers; I say that > A has to > B the ratio which a cube number has to a cube number.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since ,  are similar solid numbers, therefore two mean proportional numbers fall between , . [elem.8.19]",
+            "text": "For, since > A, > B are similar solid numbers, therefore two mean proportional numbers fall between > A, > B. [elem.8.19]",
             "refs": [
                 "elem.8.19"
             ],
             "emphs": []
         },
         {
-            "text": "Let ,  so fall, and let , , , , the least numbers of those which have the same ratio with , , , , and equal with them in multitude, be taken; [elem.7.33 or elem.8.2] therefore the extremes of them ,  are cube. [elem.8.2.p.1]",
+            "text": "Let > C, > D so fall, and let > E, > F, > G, > H, the least numbers of those which have the same ratio with > A, > C, > D, > B, and equal with them in multitude, be taken; [elem.7.33 or elem.8.2] therefore the extremes of them > E, > H are cube. [elem.8.2.p.1]",
             "refs": [
                 "elem.7.33",
                 "elem.8.2",
@@ -25,7 +26,7 @@
             "emphs": []
         },
         {
-            "text": "And, as  is to , so is  to ; therefore  also has to  the ratio which a cube number has to a cube number. Q. E. D.",
+            "text": "And, as > E is to > H, so is > A to > B; therefore > A also has to > B the ratio which a cube number has to a cube number. Q. E. D.",
             "refs": [],
             "emphs": []
         }

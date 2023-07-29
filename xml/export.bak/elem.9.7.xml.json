@@ -1,0 +1,41 @@
+{
+    "id": "elem.9.7",
+    "n": 7,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the composite number  by multiplying any number  make ; I say that  is solid.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is composite, it will be measured by some number. [elem.7.def.13]",
+            "refs": [
+                "elem.7.def.13"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let it be measured by ; and, as many times as  measures , so many units let there be in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]",
+            "refs": [
+                "elem.7.def.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  by multiplying  has made , and  is the product of , , therefore the product of ,  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is solid, and , ,  are its sides. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

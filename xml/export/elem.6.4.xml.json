@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "Now, since the angle `DCE` is equal to the angle `ABC`,",
+            "text": "Now, since the angle `DCE` is equal to the angle `ABC`, > `BF` is parallel to `CD`. [elem.1.28]",
             "refs": [],
             "emphs": [
                 "DCE",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "text": "Again, since the angle `ACB` is equal to the angle `DEC`,",
+            "text": "Again, since the angle `ACB` is equal to the angle `DEC`, > `AC` is parallel to `FE`. [elem.1.28]",
             "refs": [],
             "emphs": [
                 "ACB",
@@ -97,7 +97,7 @@
             ]
         },
         {
-            "text": "But `AF` is equal to `CD`;  and alternately, as `AB` is to `BC`, so is `DC` to `CE`. [elem.5.16]",
+            "text": "But `AF` is equal to `CD`; > therefore, as `BA` is to `CD`, so is `BC` to `CE`, and alternately, as `AB` is to `BC`, so is `DC` to `CE`. [elem.5.16]",
             "refs": [
                 "elem.5.16"
             ],
@@ -125,7 +125,7 @@
             ]
         },
         {
-            "text": "But `FD` is equal to `AC`;  and alternately, as `BC` is to `CA`, so is `CE` to `ED`. [elem.5.16]",
+            "text": "But `FD` is equal to `AC`; > therefore, as `BC` is to `CE`, so is `AC` to `DE`, and alternately, as `BC` is to `CA`, so is `CE` to `ED`. [elem.5.16]",
             "refs": [
                 "elem.5.16"
             ],
@@ -139,7 +139,7 @@
             ]
         },
         {
-            "text": "Since then it was proved that,  and, as `BC` is to `CA`, so is `CE` to `ED`; therefore, `ex aequali`, as `BA` is to `AC`, so is `CD` to `DE`. [elem.5.22]",
+            "text": "Since then it was proved that, > as `AB` is to `BC`, so is `DC` to `CE`, and, as `BC` is to `CA`, so is `CE` to `ED`; therefore, `ex aequali`, as `BA` is to `AC`, so is `CD` to `DE`. [elem.5.22]",
             "refs": [
                 "elem.5.22"
             ],

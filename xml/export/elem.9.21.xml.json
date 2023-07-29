@@ -2,21 +2,22 @@
     "id": "elem.9.21",
     "n": 21,
     "type": "proposition",
+    "enunciation": "> If as many even numbers as we please be added together, the whole is even.",
     "proof": [
         {
-            "text": "For let as many even numbers as we please, , , , , be added together; I say that the whole  is even.",
+            "text": "For let as many even numbers as we please, > AB, > BC, > CD, > DE, be added together; I say that the whole > AE is even.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since each of the numbers , , ,  is even, it has a half part; [elem.7.def.6] so that the whole  also has a half part.",
+            "text": "For, since each of the numbers > AB, > BC, > CD, > DE is even, it has a half part; [elem.7.def.6] so that the whole > AE also has a half part.",
             "refs": [
                 "elem.7.def.6"
             ],
             "emphs": []
         },
         {
-            "text": "But an even number is that which is divisible into two equal parts; [.] therefore  is even. Q. E. D.",
+            "text": "But an even number is that which is divisible into two equal parts; [> id.] therefore > AE is even. Q. E. D.",
             "refs": [],
             "emphs": []
         }

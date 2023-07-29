@@ -66,7 +66,7 @@
             ]
         },
         {
-            "text": "But the rectangle `AD`, `DC` was also equal to the square on `DB`; therefore the square on `DE` is equal to the square on `DB`;",
+            "text": "But the rectangle `AD`, `DC` was also equal to the square on `DB`; therefore the square on `DE` is equal to the square on `DB`; > therefore `DE` is equal to `DB`.",
             "refs": [],
             "emphs": [
                 "AD",
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "text": "And `FE` is equal to `FB`; therefore the two sides `DE`, `EF` are equal to the two sides `DB`, `BF`; and `FD` is the common base of the triangles;",
+            "text": "And `FE` is equal to `FB`; therefore the two sides `DE`, `EF` are equal to the two sides `DB`, `BF`; and `FD` is the common base of the triangles; > therefore the angle `DEF` is equal to the angle `DBF`. [elem.1.8]",
             "refs": [],
             "emphs": [
                 "FE",
@@ -90,14 +90,14 @@
             ]
         },
         {
-            "text": "But the angle `DEF` is right;",
+            "text": "But the angle `DEF` is right; > therefore the angle `DBF` is also right.",
             "refs": [],
             "emphs": [
                 "DEF"
             ]
         },
         {
-            "text": "And `FB` produced is a diameter; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [elem.3.16.p.1]",
+            "text": "And `FB` produced is a diameter; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [elem.3.16.p.1] > therefore `DB` touches the circle.",
             "refs": [
                 "elem.3.16.p.1"
             ],

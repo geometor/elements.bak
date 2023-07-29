@@ -1,0 +1,164 @@
+{
+    "id": "elem.6.4",
+    "n": 4,
+    "type": "proposition",
+    "enunciation": "`In equiangular triangles the sides about the equal angles are proportional`, `and those are corresponding sides which subtend the equal angles`.",
+    "proof": [
+        {
+            "text": "Let `ABC`, `DCE` be equiangular triangles having the angle `ABC` equal to the angle `DCE`, the angle `BAC` to the angle `CDE`, and further the angle `ACB` to the angle `CED`; I say that in the triangles `ABC`, `DCE` the sides about the equal angles are proportional, and those are corresponding sides which subtend the equal angles.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "DCE",
+                "ABC",
+                "DCE",
+                "BAC",
+                "CDE",
+                "ACB",
+                "CED",
+                "ABC",
+                "DCE"
+            ]
+        },
+        {
+            "text": "For let `BC` be placed in a straight line with `CE`.",
+            "refs": [],
+            "emphs": [
+                "BC",
+                "CE"
+            ]
+        },
+        {
+            "text": "Then, since the angles `ABC`, `ACB` are less than two right angles, [elem.1.17] and the angle `ACB` is equal to the angle `DEC`, therefore the angles `ABC`, `DEC` are less than two right angles; therefore `BA`, `ED`, when produced, will meet. [elem.1.post.5]",
+            "refs": [
+                "elem.1.17",
+                "elem.1.post.5"
+            ],
+            "emphs": [
+                "ABC",
+                "ACB",
+                "ACB",
+                "DEC",
+                "ABC",
+                "DEC",
+                "BA",
+                "ED"
+            ]
+        },
+        {
+            "text": "Let them be produced and meet at `F`.",
+            "refs": [],
+            "emphs": [
+                "F"
+            ]
+        },
+        {
+            "text": "Now, since the angle `DCE` is equal to the angle `ABC`,",
+            "refs": [],
+            "emphs": [
+                "DCE",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Again, since the angle `ACB` is equal to the angle `DEC`,",
+            "refs": [],
+            "emphs": [
+                "ACB",
+                "DEC"
+            ]
+        },
+        {
+            "text": "Therefore `FACD` is a parallelogram; therefore `FA` is equal to `DC`, and `AC` to `FD`. [elem.1.34]",
+            "refs": [
+                "elem.1.34"
+            ],
+            "emphs": [
+                "FACD",
+                "FA",
+                "DC",
+                "AC",
+                "FD"
+            ]
+        },
+        {
+            "text": "And, since `AC` has been drawn parallel to `FE`, one side of the triangle `FBE`, therefore, as `BA` is to `AF`, so is `BC` to `CE`. [elem.6.2]",
+            "refs": [
+                "elem.6.2"
+            ],
+            "emphs": [
+                "AC",
+                "FE",
+                "FBE",
+                "BA",
+                "AF",
+                "BC",
+                "CE"
+            ]
+        },
+        {
+            "text": "But `AF` is equal to `CD`;  and alternately, as `AB` is to `BC`, so is `DC` to `CE`. [elem.5.16]",
+            "refs": [
+                "elem.5.16"
+            ],
+            "emphs": [
+                "AF",
+                "CD",
+                "AB",
+                "BC",
+                "DC",
+                "CE"
+            ]
+        },
+        {
+            "text": "Again, since `CD` is parallel to `BF`, therefore, as `BC` is to `CE`, so is `FD` to `DE`. [elem.6.2]",
+            "refs": [
+                "elem.6.2"
+            ],
+            "emphs": [
+                "CD",
+                "BF",
+                "BC",
+                "CE",
+                "FD",
+                "DE"
+            ]
+        },
+        {
+            "text": "But `FD` is equal to `AC`;  and alternately, as `BC` is to `CA`, so is `CE` to `ED`. [elem.5.16]",
+            "refs": [
+                "elem.5.16"
+            ],
+            "emphs": [
+                "FD",
+                "AC",
+                "BC",
+                "CA",
+                "CE",
+                "ED"
+            ]
+        },
+        {
+            "text": "Since then it was proved that,  and, as `BC` is to `CA`, so is `CE` to `ED`; therefore, `ex aequali`, as `BA` is to `AC`, so is `CD` to `DE`. [elem.5.22]",
+            "refs": [
+                "elem.5.22"
+            ],
+            "emphs": [
+                "BC",
+                "CA",
+                "CE",
+                "ED",
+                "ex aequali",
+                "BA",
+                "AC",
+                "CD",
+                "DE"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

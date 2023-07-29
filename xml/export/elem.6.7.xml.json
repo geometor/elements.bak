@@ -84,7 +84,7 @@
             ]
         },
         {
-            "text": "But, as `DE` is to `EF`, so by hypothesis is `AB` to `BC`; therefore `AB` has the same ratio to each of the straight lines `BC`, `BG`; [elem.5.11]  so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]",
+            "text": "But, as `DE` is to `EF`, so by hypothesis is `AB` to `BC`; therefore `AB` has the same ratio to each of the straight lines `BC`, `BG`; [elem.5.11] > therefore `BC` is equal to `BG`, [elem.5.9] so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]",
             "refs": [
                 "elem.5.11",
                 "elem.1.5"
@@ -164,7 +164,7 @@
             ]
         },
         {
-            "text": "For, with the same construction, we can prove similarly that  so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]",
+            "text": "For, with the same construction, we can prove similarly that > `BC` is equal to `BG`; so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]",
             "refs": [
                 "elem.1.5"
             ],

@@ -45,7 +45,7 @@
             ]
         },
         {
-            "text": "Then since, as `AB` is to `CD`, so is `EF` to `GH`,  therefore, `ex aequali`, as `AB` is to `O`, so is `EF` to `P`. [elem.5.22]",
+            "text": "Then since, as `AB` is to `CD`, so is `EF` to `GH`, > and, as `CD` is to `O`, so is `GH` to `P`, therefore, `ex aequali`, as `AB` is to `O`, so is `EF` to `P`. [elem.5.22]",
             "refs": [
                 "elem.5.22"
             ],
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "text": "But, as `AB` is to `O`, so is `KAB` to `LCD`, [elem.6.19.p.1]  therefore also, as `KAB` is to `LCD`, so is `MF` to `NH`. [elem.5.11]",
+            "text": "But, as `AB` is to `O`, so is `KAB` to `LCD`, [elem.6.19.p.1] > and, as `EF` is to `P`, so is `MF` to `NH`; therefore also, as `KAB` is to `LCD`, so is `MF` to `NH`. [elem.5.11]",
             "refs": [
                 "elem.6.19.p.1",
                 "elem.5.11"
@@ -93,7 +93,7 @@
             ]
         },
         {
-            "text": "For, if `EF` is not to `GH` as `AB` to `CD`,  and on `QR` let the rectilineal figure `SR` be described similar and similarly situated to either of the two `MF`, `NH`. [elem.6.18]",
+            "text": "For, if `EF` is not to `GH` as `AB` to `CD`, > let `EF` be to `QR` as `AB` to `CD`, [elem.6.12] and on `QR` let the rectilineal figure `SR` be described similar and similarly situated to either of the two `MF`, `NH`. [elem.6.18]",
             "refs": [
                 "elem.6.18"
             ],
@@ -131,12 +131,12 @@
             ]
         },
         {
-            "text": "But also, by hypothesis,",
+            "text": "But also, by hypothesis, > as `KAB` is to `LCD`, so is `MF` to `NH`; therefore also, as `MF` is to `SR`, so is `MF` to `NH`. [elem.5.11]",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore `MF` has the same ratio to each of the figures `NH`, `SR`;",
+            "text": "Therefore `MF` has the same ratio to each of the figures `NH`, `SR`; > therefore `NH` is equal to `SR`. [elem.5.9]",
             "refs": [],
             "emphs": [
                 "MF",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "text": "But it is also similar and similarly situated to it;",
+            "text": "But it is also similar and similarly situated to it; > therefore `GH` is equal to `QR`.",
             "refs": [],
             "emphs": []
         },

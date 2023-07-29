@@ -2,14 +2,15 @@
     "id": "elem.8.8",
     "n": 8,
     "type": "proposition",
+    "enunciation": "> If between two numbers there fall numbers in continued proportion with them, then, however many numbers fall between them in continued proportion, so many will also fall in continued proportion between the numbers which have the same ratio with the original numbers.",
     "proof": [
         {
-            "text": "Let the numbers ,  fall between the two numbers ,  in continued proportion with them, and let  be made in the same ratio to  as  is to ; I say that, as many numbers as have fallen between ,  in continued proportion, so many will also fall between ,  in continued proportion.",
+            "text": "Let the numbers > C, > D fall between the two numbers > A, > B in continued proportion with them, and let > E be made in the same ratio to > F as > A is to > B; I say that, as many numbers as have fallen between > A, > B in continued proportion, so many will also fall between > E, > F in continued proportion.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, as many as , , ,  are in multitude, let so many numbers , , , , the least of those which have the same ratio with , , , , be taken; [elem.7.33] therefore the extremes of them ,  are prime to one another. [elem.8.3]",
+            "text": "For, as many as > A, > B, > C, > D are in multitude, let so many numbers > G, > H, > K, > L, the least of those which have the same ratio with > A, > C, > D, > B, be taken; [elem.7.33] therefore the extremes of them > G, > L are prime to one another. [elem.8.3]",
             "refs": [
                 "elem.7.33",
                 "elem.8.3"
@@ -17,19 +18,19 @@
             "emphs": []
         },
         {
-            "text": "Now, since , , ,  are in the same ratio with , , , , and the multitude of the numbers , , ,  is equal to the multitude of the numbers , , , , therefore, , as  is to , so is  to . [elem.7.14]",
+            "text": "Now, since > A, > C, > D, > B are in the same ratio with > G, > H, > K, > L, and the multitude of the numbers > A, > C, > D, > B is equal to the multitude of the numbers > G, > H, > K, > L, therefore, , as > A is to > B, so is > G to > L. [elem.7.14]",
             "refs": [
                 "elem.7.14"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to .",
+            "text": "But, as > A is to > B, so is > E to > F; therefore also, as > G is to > L, so is > E to > F.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. [elem.7.20]",
+            "text": "But > G, > L are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. [elem.7.20]",
             "refs": [
                 "elem.7.21",
                 "elem.7.20"
@@ -37,34 +38,34 @@
             "emphs": []
         },
         {
-            "text": "Therefore  measures  the same number of times as  measures .",
+            "text": "Therefore > G measures > E the same number of times as > L measures > F.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Next, as many times as  measures , so many times let ,  also measure ,  respectively; therefore , , ,  measure , , ,  the same number of times.",
+            "text": "Next, as many times as > G measures > E, so many times let > H, > K also measure > M, > N respectively; therefore > G, > H, > K, > L measure > E, > M, > N, > F the same number of times.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore , , ,  are in the same ratio with , , , . [elem.7.def.20]",
+            "text": "Therefore > G, > H, > K, > L are in the same ratio with > E, > M, > N, > F. [elem.7.def.20]",
             "refs": [
                 "elem.7.def.20"
             ],
             "emphs": []
         },
         {
-            "text": "But , , ,  are in the same ratio with , , , ; therefore , , ,  are also in the same ratio with , , , .",
+            "text": "But > G, > H, > K, > L are in the same ratio with > A, > C, > D, > B; therefore > A, > C, > D, > B are also in the same ratio with > E, > M, > N, > F.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But , , ,  are in continued proportion; therefore , , ,  are also in continued proportion.",
+            "text": "But > A, > C, > D, > B are in continued proportion; therefore > E, > M, > N, > F are also in continued proportion.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, as many numbers as have fallen between ,  in continued proportion with them, so many numbers have also fallen between ,  in continued proportion. Q. E. D.",
+            "text": "Therefore, as many numbers as have fallen between > A, > B in continued proportion with them, so many numbers have also fallen between > E, > F in continued proportion. Q. E. D.",
             "refs": [],
             "emphs": []
         }

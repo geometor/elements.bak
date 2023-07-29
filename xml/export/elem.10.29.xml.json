@@ -2,48 +2,48 @@
     "id": "elem.10.29",
     "n": 29,
     "type": "propositions i\u201447",
-    "enunciation": ".",
+    "enunciation": "> To find two rational straight lines commensurable in square only and such that the square on the greater is greater than the square on the less by the square on a straight line commensurable in length with the greater.",
     "proof": [
         {
-            "text": "For let there be set out any rational straight line , and two square numbers ,  such that their difference  is not square; [elem.10.28.l.1] let there be described on  the semicircle , and let it be contrived that,",
+            "text": "For let there be set out any rational straight line > AB, and two square numbers > CD, > DE such that their difference > CE is not square; [elem.10.28.l.1] let there be described on > AB the semicircle > AFB, and let it be contrived that, > as > DC is to > CE, so is the square on > BA to the square on > AF. [elem.10.6.p.1]",
             "refs": [
                 "elem.10.28.l.1"
             ],
             "emphs": []
         },
         {
-            "text": "Let  be joined.",
+            "text": "Let > FB be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since, as the square on  is to the square on , so is  to , therefore the square on  has to the square on  the ratio which the number  has to the number ; therefore the square on  is commensurable with the square on . [elem.10.6]",
+            "text": "Since, as the square on > BA is to the square on > AF, so is > DC to > CE, therefore the square on > BA has to the square on > AF the ratio which the number > DC has to the number > CE; therefore the square on > BA is commensurable with the square on > AF. [elem.10.6]",
             "refs": [
                 "elem.10.6"
             ],
             "emphs": []
         },
         {
-            "text": "But the square on  is rational; [elem.10.def.4] therefore the square on  is also rational; [] therefore  is also rational.",
+            "text": "But the square on > AB is rational; [elem.10.def.4] therefore the square on > AF is also rational; [> id.] therefore > AF is also rational.",
             "refs": [
                 "elem.10.def.4"
             ],
             "emphs": []
         },
         {
-            "text": "And, since  has not to  the ratio which a square number has to a square number, neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "text": "And, since > DC has not to > CE the ratio which a square number has to a square number, neither has the square on > BA to the square on > AF the ratio which a square number has to a square number; therefore > AB is incommensurable in length with > AF. [elem.10.9]",
             "refs": [
                 "elem.10.9"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are rational straight lines commensurable in square only.",
+            "text": "Therefore > BA, > AF are rational straight lines commensurable in square only.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And since, as  is to , so is the square on  to the square on , therefore, , as  is to , so is the square on  to the square on . [elem.5.19.p.1, elem.3.31, elem.1.47]",
+            "text": "And since, as > DC is to > CE, so is the square on > BA to the square on > AF, therefore, , as > CD is to > DE, so is the square on > AB to the square on > BF. [elem.5.19.p.1, elem.3.31, elem.1.47]",
             "refs": [
                 "elem.5.19.p.1",
                 "elem.3.31",
@@ -52,19 +52,19 @@
             "emphs": []
         },
         {
-            "text": "But  has to  the ratio which a square number has to a square number: therefore also the square on  has to the square on  the ratio which a square number has to a square number; therefore  is commensurable in length with . [elem.10.9]",
+            "text": "But > CD has to > DE the ratio which a square number has to a square number: therefore also the square on > AB has to the square on > BF the ratio which a square number has to a square number; therefore > AB is commensurable in length with > BF. [elem.10.9]",
             "refs": [
                 "elem.10.9"
             ],
             "emphs": []
         },
         {
-            "text": "And the square on  is equal to the squares on , ; therefore the square on  is greater than the square on  by the square on  commensurable with .",
+            "text": "And the square on > AB is equal to the squares on > AF, > FB; therefore the square on > AB is greater than the square on > AF by the square on > BF commensurable with > AB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore there have been found two rational straight lines ,  commensurable in square only and such that the square on the greater  is greater than the square on the less  by the square on  commensurable in length with .",
+            "text": "Therefore there have been found two rational straight lines > BA, > AF commensurable in square only and such that the square on the greater > AB is greater than the square on the less > AF by the square on > BF commensurable in length with > AB.",
             "refs": [],
             "emphs": []
         }

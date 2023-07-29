@@ -27,14 +27,14 @@
             ]
         },
         {
-            "text": "Now, since the angle `BFD` is at the centre,",
+            "text": "Now, since the angle `BFD` is at the centre, > and the angle `BAD` at the circumference, and they have the same circumference `BCD` as base, therefore the angle `BFD` is double of the angle `BAD`. [elem.3.20]",
             "refs": [],
             "emphs": [
                 "BFD"
             ]
         },
         {
-            "text": "For the same reason",
+            "text": "For the same reason > the angle `BFD` is also double of the angle `BED`; therefore the angle `BAD` is equal to the angle `BED`.",
             "refs": [],
             "emphs": []
         },

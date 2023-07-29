@@ -1,0 +1,14 @@
+Enunciation:
+
+
+Proof:
+For let the two numbers ,  by multiplying one another make , and let any prime number  measure ; I say that  measures one of the numbers , .
+For let it not measure .
+Now  is prime; therefore ,  are prime to one another. [elem.7.29]
+And, as many times as  measures , so many units let there be in .
+Since then  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]
+Further,  by multiplying  has also made ; therefore the product of ,  is equal to the product of , .
+Therefore, as  is to , so is  to . [elem.7.19]
+But ,  are prime to one another, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore  measures .
+Similarly we can also show that, if  do not measure , it will measure .
+Therefore  measures one of the numbers , . Q. E. D.

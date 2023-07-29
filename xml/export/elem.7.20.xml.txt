@@ -1,15 +1,15 @@
 Enunciation:
-
+> The least numbers of those which have the same ratio with them measure those which have the same ratio the same number of times, the greater the greater and the less the less.
 
 Proof:
-For let ,  be the least numbers of those which have the same ratio with , ; I say that  measures  the same number of times that  measures .
-Now  is not parts of .
-For, if possible, let it be so; therefore  is also the same parts of  that  is of . [elem.7.13 and elem.7.def.20]
-Therefore, as many parts of  as there are in , so many parts of  are there also in .
-Let  be divided into the parts of , namely , , and  into the parts of , namely , ; thus the multitude of ,  will be equal to the multitude of , .
-Now, since the numbers ,  are equal to one another, and the numbers ,  are also equal to one another, while the multitude of ,  is equal to the multitude of , , therefore, as  is to , so is  to .
+For let > CD, > EF be the least numbers of those which have the same ratio with > A, > B; I say that > CD measures > A the same number of times that > EF measures > B.
+Now > CD is not parts of > A.
+For, if possible, let it be so; therefore > EF is also the same parts of > B that > CD is of > A. [elem.7.13 and elem.7.def.20]
+Therefore, as many parts of > A as there are in > CD, so many parts of > B are there also in > EF.
+Let > CD be divided into the parts of > A, namely > CG, > GD, and > EF into the parts of > B, namely > EH, > HF; thus the multitude of > CG, > GD will be equal to the multitude of > EH, > HF.
+Now, since the numbers > CG, > GD are equal to one another, and the numbers > EH, > HF are also equal to one another, while the multitude of > CG, > GD is equal to the multitude of > EH, > HF, therefore, as > CG is to > EH, so is > GD to > HF.
 Therefore also, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents. [elem.7.12]
-Therefore, as  is to , so is  to .
-Therefore ,  are in the same ratio with , , being less than they: which is impossible, for by hypothesis ,  are the least numbers of those which have the same ratio with them.
-Therefore  is not parts of ; therefore it is a part of it. [elem.7.4]
-And  is the same part of  that  is of ; [elem.7.13 and elem.7.def.20] therefore  measures  the same number of times that  measures . Q. E. D.
+Therefore, as > CG is to > EH, so is > CD to > EF.
+Therefore > CG, > EH are in the same ratio with > CD, > EF, being less than they: which is impossible, for by hypothesis > CD, > EF are the least numbers of those which have the same ratio with them.
+Therefore > CD is not parts of > A; therefore it is a part of it. [elem.7.4]
+And > EF is the same part of > B that > CD is of > A; [elem.7.13 and elem.7.def.20] therefore > CD measures > A the same number of times that > EF measures > B. Q. E. D.

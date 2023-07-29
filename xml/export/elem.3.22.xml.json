@@ -21,7 +21,7 @@
             ]
         },
         {
-            "text": "Then, since in any triangle the three angles are equal to two right angles, [elem.1.32]",
+            "text": "Then, since in any triangle the three angles are equal to two right angles, [elem.1.32] > the three angles `CAB`, `ABC`, `BCA` of the triangle `ABC` are equal to two right angles.",
             "refs": [
                 "elem.1.32"
             ],

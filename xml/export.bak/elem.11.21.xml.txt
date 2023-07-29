@@ -1,0 +1,11 @@
+Enunciation:
+
+
+Proof:
+Let the angle at  be a solid angle contained by the plane angles , , ; I say that the angles , ,  are less than four right angles.
+For let points , ,  be taken at random on the straight lines , ,  respectively, and let , ,  be joined.
+Now, since the solid angle at  is contained by the three plane angles , , , any two are greater than the remaining one; [elem.11.20] therefore the angles ,  are greater than the angle .
+For the same reason the angles ,  are also greater than the angle , and the angles ,  are greater than the angle ; therefore the six angles , , , , ,  are greater than the three angles , , .
+But the three angles , ,  are equal to two right angles; [elem.1.32] therefore the six angles , , , , ,  are greater than two right angles.
+And, since the three angles of each of the triangles , ,  are equal to two right angles, therefore the nine angles of the three triangles, the angles , , , , , , , ,  are equal to six right angles; and of them the six angles , , , , ,  are greater than two right angles; therefore the remaining three angles , ,  containing the solid angle are less than four right angles.
+Therefore etc. Q. E. D.

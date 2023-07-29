@@ -1,0 +1,25 @@
+Enunciation:
+.
+
+Proof:
+Let  be a second apotome of a medial straight line and  an annex to ; therefore ,  are medial straight lines commensurable in square only and such that the rectangle ,  which they contain is medial. [elem.10.75]
+I say that no other medial straight line can be annexed to  which is commensurable with the whole in square only and which contains with the whole a medial rectangle.
+For, if possible, let  also be so annexed; therefore ,  are also medial straight lines commensurable in square only and such that the rectangle ,  which they contain is medial. [elem.10.75]
+Let a rational straight line  be set out, let  equal to the squares on ,  be applied to , producing  as breadth, and let  equal to twice the rectangle ,  be subtracted, producing  as breadth; therefore the remainder  is equal to the square on , [elem.2.7] so that  is the 
+ of .
+Again, let  equal to the squares on ,  be applied to , producing  as breadth.
+But  is also equal to the square on ; therefore the remainder  is equal to twice the rectangle , . [elem.2.7]
+Now, since ,  are medial straight lines, therefore the squares on ,  are also medial.
+And they are equal to ; therefore  is also medial. [elem.10.15 elem.10.23.p.1]
+And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]
+Again, since the rectangle ,  is medial, twice the rectangle ,  is also medial. [elem.10.23.p.1]
+And it is equal to ; therefore  is also medial.
+And it is applied to the rational straight line , producing  as breadth; therefore  is also rational and incommensurable in length with . [elem.10.22]
+And, since ,  are commensurable in square only, therefore  is incommensurable in length with .
+But, as  is to , so is the square on  to the rectangle , ; therefore the square on  is incommensurable with the rectangle , . [elem.10.11]
+But the squares on ,  are commensurable with the square on , while twice the rectangle ,  is commensurable with the rectangle , ; [elem.10.6] therefore the squares on ,  are incommensurable with twice the rectangle , . [elem.10.13]
+And  is equal to the squares on , , while  is equal to twice the rectangle , ; therefore  is incommensurable with .
+But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]
+And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome, and  an annex to it. [elem.10.73]
+Similarly we can prove that  is also an annex to it; therefore to an apotome different straight lines are annexed which are commensurable with the wholes in square only: which is impossible. [elem.10.79]
+Therefore etc. Q. E. D.

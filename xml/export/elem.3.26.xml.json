@@ -27,7 +27,7 @@
             ]
         },
         {
-            "text": "Now, since the circles `ABC`, `DEF` are equal,",
+            "text": "Now, since the circles `ABC`, `DEF` are equal, > the radii are equal.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -35,7 +35,7 @@
             ]
         },
         {
-            "text": "Thus the two straight lines `BG`, `GC` are equal to the two straight lines `EH`, `HF`;",
+            "text": "Thus the two straight lines `BG`, `GC` are equal to the two straight lines `EH`, `HF`; > and the angle at `G` is equal to the angle at `H`; therefore the base `BC` is equal to the base `EF`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "BG",
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "text": "And, since the angle at `A` is equal to the angle at `D`,  and they are upon equal straight lines.",
+            "text": "And, since the angle at `A` is equal to the angle at `D`, > the segment `BAC` is similar to the segment `EDF`; [elem.3.def.11] and they are upon equal straight lines.",
             "refs": [],
             "emphs": [
                 "A",
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "But similar segments of circles on equal straight lines are equal to one another; [elem.3.24]  But the whole circle `ABC` is also equal to the whole circle `DEF`; therefore the circumference `BKC` which remains is equal to the circumference `ELF`.",
+            "text": "But similar segments of circles on equal straight lines are equal to one another; [elem.3.24] > therefore the segment `BAC` is equal to `EDF`. But the whole circle `ABC` is also equal to the whole circle `DEF`; therefore the circumference `BKC` which remains is equal to the circumference `ELF`.",
             "refs": [
                 "elem.3.24"
             ],

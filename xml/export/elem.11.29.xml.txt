@@ -1,12 +1,12 @@
 Enunciation:
-, ,
+> Parallelepipedal solids which are on the same base and of the same height, > and in which the extremities of the sides which stand up are on the same straight lines, > are equal to one another.
 
 Proof:
-Let ,  be parallelepipedal solids on the same base  and of the same height, and let the extremities of their sides which stand up, namely , , , , , , , , be on the same straight lines , ; I say that the solid  is equal to the solid .
-For, since each of the figures ,  is a parallelogram,  is equal to each of the straight lines , , [elem.1.34] hence  is also equal to .
-Let  be subtracted from each; therefore the remainder  is equal to the remainder .
-Hence the triangle  is also equal to the triangle , [elem.1.8 elem.1.4] and the parallelogram  to the parallelogram . [elem.1.36]
-For the same reason the triangle  is also equal to the triangle .
-But the parallelogram  is equal to the parallelogram , and  to , for they are opposite; therefore the prism contained by the two triangles ,  and the three parallelograms , ,  is equal to the prism contained by the two triangles ,  and the three parallelograms , , .
-Let there be added to each the solid of which the parallelogram  is the base and  its opposite; therefore the whole parallelepipedal solid  is equal to the whole parallelepipedal solid .
+Let > CM, > CN be parallelepipedal solids on the same base > AB and of the same height, and let the extremities of their sides which stand up, namely > AG, > AF, > LM, > LN, > CD, > CE, > BH, > BK, be on the same straight lines > FN, > DK; I say that the solid > CM is equal to the solid > CN.
+For, since each of the figures > CH, > CK is a parallelogram, > CB is equal to each of the straight lines > DH, > EK, [elem.1.34] hence > DH is also equal to > EK.
+Let > EH be subtracted from each; therefore the remainder > DE is equal to the remainder > HK.
+Hence the triangle > DCE is also equal to the triangle > HBK, [elem.1.8 elem.1.4] and the parallelogram > DG to the parallelogram > HN. [elem.1.36]
+For the same reason the triangle > AFG is also equal to the triangle > MLN.
+But the parallelogram > CF is equal to the parallelogram > BM, and > CG to > BN, for they are opposite; therefore the prism contained by the two triangles > AFG, > DCE and the three parallelograms > AD, > DG, > CG is equal to the prism contained by the two triangles > MLN, > HBK and the three parallelograms > BM, > HN, > BN.
+Let there be added to each the solid of which the parallelogram > AB is the base and > GEHM its opposite; therefore the whole parallelepipedal solid > CM is equal to the whole parallelepipedal solid > CN.
 Therefore etc. Q. E. D.

@@ -1,0 +1,14 @@
+Enunciation:
+
+
+Proof:
+For, there being two unequal magnitudes , , and  being the less, when the less is continually subtracted in turn from the greater, let that which is left over never measure the one before it; I say that the magnitudes ,  are incommensurable.
+For, if they are commensurable, some magnitude will measure them.
+Let a magnitude measure them, if possible, and let it be ; let , measuring , leave  less than itself, let  measuring , leave  less than itself, and let this process be repeated continually, until there is left some magnitude which is less than .
+Suppose this done, and let there be left  less than .
+Then, since  measures , while  measures , therefore  will also measure .
+But it measures the whole  also; therefore it will also measure the remainder .
+But  measures ; therefore  also measures .
+But it measures the whole  also; therefore it will also measure the remainder , the greater the less: which is impossible.
+Therefore no magnitude will measure the magnitudes , ; therefore the magnitudes ,  are incommensurable.
+Therefore etc. [elem.10.def.1]

@@ -1,0 +1,56 @@
+{
+    "id": "elem.7.22",
+    "n": 22,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be the least numbers of those which have the same ratio with them; I say that ,  are prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if they are not prime to one another, some number will measure them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let some number measure them, and let it be .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, as many times as  measures , so many units let there be in , and, as many times as  measures , so many units let there be in",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since  measures  according to the units in , therefore  by multiplying  has made . [elem.7.def.15]",
+            "refs": [
+                "elem.7.def.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason also  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Thus the number  by multiplying the two numbers ,  has made , ; therefore, as  is to , so is  to ; [elem.7.17] therefore ,  are in the same ratio with , , being less than they: which is impossible.",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no number will measure the numbers , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are prime to one another. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

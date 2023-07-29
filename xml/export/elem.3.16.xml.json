@@ -24,7 +24,7 @@
             ]
         },
         {
-            "text": "Since `DA` is equal to `DC`,",
+            "text": "Since `DA` is equal to `DC`, \n       > the angle `DAC` is also equal to the angle `ACD`. [elem.1.5]",
             "refs": [],
             "emphs": [
                 "DA",
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "text": "But the angle `DAC` is right;  thus, in the triangle `ACD`, the two angles `DAC`, `ACD` are equal to two right angles: which is impossible. [elem.1.17]",
+            "text": "But the angle `DAC` is right; > therefore the angle `ACD` is also right: thus, in the triangle `ACD`, the two angles `DAC`, `ACD` are equal to two right angles: which is impossible. [elem.1.17]",
             "refs": [
                 "elem.1.17"
             ],
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that neither will it fall on the circumference;",
+            "text": "Similarly we can prove that neither will it fall on the circumference; > therefore it will fall outside.",
             "refs": [],
             "emphs": []
         },
@@ -76,14 +76,14 @@
             ]
         },
         {
-            "text": "Then, since the angle `AGD` is right,",
+            "text": "Then, since the angle `AGD` is right, > and the angle `DAG` is less than a right angle, `AD` is greater than `DG`. [elem.1.19]",
             "refs": [],
             "emphs": [
                 "AGD"
             ]
         },
         {
-            "text": "But `DA` is equal to `DH`;",
+            "text": "But `DA` is equal to `DH`; > therefore `DH` is greater than `DG`, the less than the greater: which is impossible.",
             "refs": [],
             "emphs": [
                 "DA",

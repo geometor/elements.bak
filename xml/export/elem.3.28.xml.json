@@ -35,7 +35,7 @@
             ]
         },
         {
-            "text": "Now, since the circles are equal,  and the base `AB` is equal to the base `DE`;",
+            "text": "Now, since the circles are equal, > the radii are also equal; therefore the two sides `AK`, `KB` are equal to the two sides `DL`, `LE`; and the base `AB` is equal to the base `DE`; > therefore the angle `AKB` is equal to the angle `DLE`. [elem.1.8]",
             "refs": [],
             "emphs": [
                 "AB",
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "text": "But equal angles stand on equal circumferences, when they are at the centres; [elem.3.26]",
+            "text": "But equal angles stand on equal circumferences, when they are at the centres; [elem.3.26] > therefore the circumference `AGB` is equal to `DHE`.",
             "refs": [
                 "elem.3.26"
             ],

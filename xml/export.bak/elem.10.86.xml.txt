@@ -1,0 +1,20 @@
+Enunciation:
+.
+
+Proof:
+Let a rational straight line  be set out, and  commensurable in length with ; therefore  is rational.
+Let two square numbers ,  be set out, and let their difference  not be square.
+Now let it be contrived that, as  is to , so is the square on  to the square on . [elem.10.6.p.1]
+Therefore the square on  is commensurable with the square on . [elem.10.6]
+But the square on  is rational; therefore the square on  is also rational; therefore  is rational.
+And, since the square on  has not to the square on  the ratio which a square number has to a square number,  is incommensurable in length with . [elem.10.9]
+And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]
+I say next that it is also a second apotome.
+For let the square on  be that by which the square on  is greater than the square on .
+Since then, as the square on  is to the square on , so is the number  to the number , therefore, , as the square on  is to the square on , so is  to . [elem.5.19.p.1]
+And each of the numbers ,  is square; therefore the square on  has to the square on  the ratio which a square number has to a square number; therefore  is commensurable in length with . [elem.10.9]
+And the square on  is greater than the square on  by the square on ; therefore the square on  is greater than the square on 
+       by the square on a straight line commensurable in length with .
+And , the annex, is commensurable with the rational straight line  set out.
+Therefore  is a second apotome. [elem.10.def.3.2]
+Therefore the second apotome  has been found. Q. E. D.

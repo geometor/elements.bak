@@ -1,12 +1,12 @@
 Enunciation:
-
+> If two numbers by multiplying one another make certain numbers, the numbers so produced will be equal to one another.
 
 Proof:
-Let ,  be two numbers, and let  by multiplying  make , and  by multiplying  make ; I say that  is equal to .
-For, since  by multiplying  has made , therefore  measures  according to the units in .
-But the unit  also measures the number  according to the units in it;
-Therefore, alternately, the unit  measures the number  the same number of times that  measures . [elem.7.15]
-Again, since  by multiplying  has made , therefore  measures  according to the units in .
-But the unit  also measures  according to the units in it;
-But the unit  measured the number  the same number of times that  measures ;
-Therefore  is equal to . Q. E. D.
+Let > A, > B be two numbers, and let > A by multiplying > B make > C, and > B by multiplying > A make > D; I say that > C is equal to > D.
+For, since > A by multiplying > B has made > C, therefore > B measures > C according to the units in > A.
+But the unit > E also measures the number > A according to the units in it; > therefore the unit > E measures > A the same number of times that > B measures > C.
+Therefore, alternately, the unit > E measures the number > B the same number of times that > A measures > C. [elem.7.15]
+Again, since > B by multiplying > A has made > D, therefore > A measures > D according to the units in > B.
+But the unit > E also measures > B according to the units in it; > therefore the unit > E measures the number > B the same number of times that > A measures > D.
+But the unit > E measured the number > B the same number of times that > A measures > C; > therefore > A measures each of the numbers > C, > D the same number of times.
+Therefore > C is equal to > D. Q. E. D.

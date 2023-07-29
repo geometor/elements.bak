@@ -2,38 +2,39 @@
     "id": "elem.8.25",
     "n": 25,
     "type": "proposition",
+    "enunciation": "> If two numbers have to one another the ratio which a cube number has to a cube number, and the first be cube, the second will also be cube.",
     "proof": [
         {
-            "text": "For let the two numbers ,  have to one another the ratio which the cube number  has to the cube number , and let  be cube; I say that  is also cube.",
+            "text": "For let the two numbers > A, > B have to one another the ratio which the cube number > C has to the cube number > D, and let > A be cube; I say that > B is also cube.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since ,  are cube, ,  are similar solid numbers.",
+            "text": "For, since > C, > D are cube, > C, > D are similar solid numbers.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore two mean proportional numbers fall between , . [elem.8.19]",
+            "text": "Therefore two mean proportional numbers fall between > C, > D. [elem.8.19]",
             "refs": [
                 "elem.8.19"
             ],
             "emphs": []
         },
         {
-            "text": "And, as many numbers as fall between ,  in continued proportion, so many will also fall between those which have the same ratio with them; [elem.8.8] so that two mean proportional numbers fall between ,  also.",
+            "text": "And, as many numbers as fall between > C, > D in continued proportion, so many will also fall between those which have the same ratio with them; [elem.8.8] so that two mean proportional numbers fall between > A, > B also.",
             "refs": [
                 "elem.8.8"
             ],
             "emphs": []
         },
         {
-            "text": "Let ,  so fall.",
+            "text": "Let > E, > F so fall.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since, then, the four numbers , , ,  are in continued proportion, and  is cube, therefore  is also cube. [elem.8.23] Q. E. D.",
+            "text": "Since, then, the four numbers > A, > E, > F, > B are in continued proportion, and > A is cube, therefore > B is also cube. [elem.8.23] Q. E. D.",
             "refs": [
                 "elem.8.23"
             ],
