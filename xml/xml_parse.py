@@ -143,7 +143,7 @@ def get_text_with_emph(element):
         if child.tag == "ref":
             text_parts.append(f'{child.get("target")}')
         if child.tag == "term":
-            text_parts.append(f'<term>{child.text}</term>')
+            text_parts.append(f'{{{child.text}}}')
         if child.tag == "hi":
             text_parts.append(f'> {get_text_with_emph(child)}')
         text_parts.append(child.tail or "")
