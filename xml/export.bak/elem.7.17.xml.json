@@ -1,0 +1,41 @@
+{
+    "id": "elem.7.17",
+    "n": 17,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the number  by multiplying the two numbers ,  make , ; I say that, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  by multiplying  has made , therefore  measures  according to the units in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the unit  also measures the number  according to the units in it; therefore the unit  measures the number  the same number of times that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as the unit  is to the number , so is  to . [elem.7.def.20]",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason, as the unit  is to the number , so also is  to ; therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, alternately, as  is to , so is  to . [elem.7.13] Q. E. D.",
+            "refs": [
+                "elem.7.13"
+            ],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "elem.13.5",
+    "n": 5,
+    "type": "proposition",
+    "enunciation": ", , ,",
+    "proof": [
+        {
+            "text": "For let the straight line  be cut in extreme and mean ratio at the point , let  be the greater segment, and let  be equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that the straight line  has been cut in extreme and mean ratio at , and the original straight line  is the greater segment.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the square  be described on , and let the figure be drawn.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since  has been cut in extreme and mean ratio at , therefore the rectangle ,  is equal to the square on . [elem.6.def.3 elem.6.17, VI. 17]",
+            "refs": [
+                "elem.6.def.3 elem.6.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is the rectangle , , and  the square on ; therefore  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to , and  is equal to ; therefore  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the whole  is equal to the whole .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is the rectangle , , for  is equal to ; and  is the square on ; therefore the rectangle ,  is equal to the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.6.17]",
+            "refs": [
+                "elem.6.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is greater than ; therefore  is also greater than . [elem.5.14]",
+            "refs": [
+                "elem.5.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  has been cut in extreme and mean ratio at , and  is the greater segment. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

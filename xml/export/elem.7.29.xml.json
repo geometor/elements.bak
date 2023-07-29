@@ -2,39 +2,40 @@
     "id": "elem.7.29",
     "n": 29,
     "type": "proposition",
+    "enunciation": "> Any prime number is prime to any number which it does not measure.",
     "proof": [
         {
-            "text": "Let  be a prime number, and let it not measure ; I say that ,  are prime to one another.",
+            "text": "Let > A be a prime number, and let it not measure > B; I say that > B, > A are prime to one another.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if ,  are not prime to one another, some number will measure them.",
+            "text": "For, if > B, > A are not prime to one another, some number will measure them.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  measure them.",
+            "text": "Let > C measure them.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since  measures , and  does not measure , therefore  is not the same with .",
+            "text": "Since > C measures > B, and > A does not measure > B, therefore > C is not the same with > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  measures , , therefore it also measures  which is prime, though it is not the same with it: which is impossible.",
+            "text": "Now, since > C measures > B, > A, therefore it also measures > A which is prime, though it is not the same with it: which is impossible.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore no number will measure , .",
+            "text": "Therefore no number will measure > B, > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are prime to one another. Q. E. D.",
+            "text": "Therefore > A, > B are prime to one another. Q. E. D.",
             "refs": [],
             "emphs": []
         }

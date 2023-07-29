@@ -40,7 +40,7 @@
             ]
         },
         {
-            "text": "Then, since `CB`, `BG`, `GH` are equal to one another,",
+            "text": "Then, since `CB`, `BG`, `GH` are equal to one another, > the triangles `ABC`, `AGB`, `AHG` are also equal to one another. [elem.1.38]",
             "refs": [],
             "emphs": [
                 "CB",
@@ -79,7 +79,7 @@
             ]
         },
         {
-            "text": "Thus, there being four magnitudes, two bases `BC`, `CD` and two triangles `ABC`, `ACD`, equimultiples have been taken of the base `BC` and the triangle `ABC`, namely the base `HC` and the triangle `AHC`, and of the base `CD` and the triangle `ADC` other, chance, equimultiples, namely the base `LC` and the triangle `ALC`;  if the base `HC` is in excess of the base `CL`, the triangle `AHC`\n       is also in excess of the triangle `ALC`; if equal, equal; and, if less, less.",
+            "text": "Thus, there being four magnitudes, two bases `BC`, `CD` and two triangles `ABC`, `ACD`, equimultiples have been taken of the base `BC` and the triangle `ABC`, namely the base `HC` and the triangle `AHC`, and of the base `CD` and the triangle `ADC` other, chance, equimultiples, namely the base `LC` and the triangle `ALC`; > and it has been proved that, if the base `HC` is in excess of the base `CL`, the triangle `AHC`\n       is also in excess of the triangle `ALC`; if equal, equal; and, if less, less.",
             "refs": [],
             "emphs": [
                 "BC",

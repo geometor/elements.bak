@@ -1,0 +1,114 @@
+{
+    "id": "elem.11.4",
+    "n": 4,
+    "type": "proposition",
+    "enunciation": ", ,",
+    "proof": [
+        {
+            "text": "For let a straight line  be set up at right angles to the two straight lines , , which cut one another at the point , from ; I say that  is also at right angles to the plane through , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let , , ,  be cut off equal to one another, and let any straight line  be drawn across through , at random; let ,  be joined, and further let , , , , ,  be joined from the point  taken at random <on >.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the two straight lines ,  are equal to the two straight lines , , and contain equal angles, [elem.1.15] therefore the base  is equal to the base , and the triangle  will be equal to the triangle ; [elem.1.4] so that the angle  is also equal to the angle .",
+            "refs": [
+                "elem.1.15",
+                "elem.1.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the angle  is also equal to the angle ; [elem.1.15] therefore ,  are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely that adjacent to the equal angles, that is to say,  to ; therefore they will also have the remaining sides equal to the remaining sides. [elem.1.26]",
+            "refs": [
+                "elem.1.15",
+                "elem.1.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is equal to , and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is equal to , while  is common and at right angles, therefore the base  is equal to the base . [elem.1.4]",
+            "refs": [
+                "elem.1.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is equal to , and  is also equal to , the two sides ,  are equal to the two sides ,  respectively; and the base  was proved equal to the base ; therefore the angle  is also equal to the angle . [elem.1.8]",
+            "refs": [
+                "elem.1.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And since, again,  was proved equal to , and further  also equal to , the two sides ,  are equal to the two sides , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And the angle  was proved equal to the angle ; therefore the base  is equal to the base . [elem.1.4]",
+            "refs": [
+                "elem.1.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now since, again,  was proved equal to , and  is common, the two sides ,  are equal to the two sides , ; and the base  is equal to the base ; therefore the angle  is equal to the angle . [elem.1.8]",
+            "refs": [
+                "elem.1.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore each of the angles ,  is right.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is at right angles to  drawn at random through .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that  will also make right angles with all the straight lines which meet it and are in the plane of reference.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But a straight line is at right angles to a plane when it makes right angles with all the straight lines which meet it and are in that same plane; [elem.11.def.3] therefore  is at right angles to the plane of reference.",
+            "refs": [
+                "elem.11.def.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the plane of reference is the plane through the straight lines , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is at right angles to the plane through , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

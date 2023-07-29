@@ -2,36 +2,36 @@
     "id": "elem.10.79",
     "n": 79,
     "type": "propositions 48\u201484",
-    "enunciation": ".",
+    "enunciation": "> To an apotome only one rational straight line can be annexed which is commensurable with the whole in square only.",
     "proof": [
         {
-            "text": "Let  be an apotome, and  an annex to it; therefore ,  are rational straight lines commensurable in square only. [elem.10.73]",
+            "text": "Let > AB be an apotome, and > BC an annex to it; therefore > AC, > CB are rational straight lines commensurable in square only. [elem.10.73]",
             "refs": [
                 "elem.10.73"
             ],
             "emphs": []
         },
         {
-            "text": "I say that no other rational straight line can be annexed to  which is commensurable with the whole in square only.",
+            "text": "I say that no other rational straight line can be annexed to > AB which is commensurable with the whole in square only.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let  be so annexed; therefore ,  are also rational straight lines commensurable in square only. [elem.10.73]",
+            "text": "For, if possible, let > BD be so annexed; therefore > AD, > DB are also rational straight lines commensurable in square only. [elem.10.73]",
             "refs": [
                 "elem.10.73"
             ],
             "emphs": []
         },
         {
-            "text": "Now, since the excess of the squares on ,  over twice the rectangle ,  is also the excess of the squares on ,  over twice the rectangle , , for both exceed by the same, the square on , [elem.2.7] therefore, alternately, the excess of the squares on ,  over the squares on ,  is the excess of twice the rectangle ,  over twice the rectangle , .",
+            "text": "Now, since the excess of the squares on > AD, > DB over twice the rectangle > AD, > DB is also the excess of the squares on > AC, > CB over twice the rectangle > AC, > CB, for both exceed by the same, the square on > AB, [elem.2.7] therefore, alternately, the excess of the squares on > AD, > DB over the squares on > AC, > CB is the excess of twice the rectangle > AD, > DB over twice the rectangle > AC, > CB.",
             "refs": [
                 "elem.2.7"
             ],
             "emphs": []
         },
         {
-            "text": "But the squares on ,  exceed the squares on ,  by a rational area, for both are rational; therefore twice the rectangle ,  also exceeds twice the rectangle ,  by a rational area: which is impossible, for both are medial [elem.10.21], and a medial area does not exceed a medial by a rational area. [elem.10.26]",
+            "text": "But the squares on > AD, > DB exceed the squares on > AC, > CB by a rational area, for both are rational; therefore twice the rectangle > AD, > DB also exceeds twice the rectangle > AC, > CB by a rational area: which is impossible, for both are medial [elem.10.21], and a medial area does not exceed a medial by a rational area. [elem.10.26]",
             "refs": [
                 "elem.10.21",
                 "elem.10.26"
@@ -39,7 +39,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore no other rational straight line can be annexed to  which is commensurable with the whole in square only.",
+            "text": "Therefore no other rational straight line can be annexed to > AB which is commensurable with the whole in square only.",
             "refs": [],
             "emphs": []
         },

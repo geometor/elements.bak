@@ -52,7 +52,7 @@
             ]
         },
         {
-            "text": "But the angle `ADB` is equal to the angle `ABD`,",
+            "text": "But the angle `ADB` is equal to the angle `ABD`, > since the side `AB` is equal to `AD`; therefore the angle `ABD` is also greater than the angle `ACB`; therefore the angle `ABC` is much greater than the angle `ACB`.",
             "refs": [],
             "emphs": [
                 "ADB",

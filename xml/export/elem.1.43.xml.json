@@ -26,7 +26,7 @@
             ]
         },
         {
-            "text": "For, since `ABCD` is a parallelogram, and `AC` its diameter,",
+            "text": "For, since `ABCD` is a parallelogram, and `AC` its diameter, > the triangle `ABC` is equal to the triangle `ACD`. [elem.1.34]",
             "refs": [],
             "emphs": [
                 "ABCD",
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "text": "Again, since `EH` is a parallelogram, and `AK` is its diameter, \n        \n        For the same reason",
+            "text": "Again, since `EH` is a parallelogram, and `AK` is its diameter, > the triangle `AEK` is equal to the triangle `AHK`.\n        \n        For the same reason > the triangle `KFC` is also equal to `KGC`.",
             "refs": [],
             "emphs": [
                 "EH",
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "Now, since the triangle `AEK` is equal to the triangle `AHK`, \n        the triangle `AEK` together with `KGC` is equal to the triangle `AHK` together with `KFC`. [elem.1.c.n.2]",
+            "text": "Now, since the triangle `AEK` is equal to the triangle `AHK`, > and `KFC` to `KGC`,\n        the triangle `AEK` together with `KGC` is equal to the triangle `AHK` together with `KFC`. [elem.1.c.n.2]",
             "refs": [
                 "elem.1.c.n.2"
             ],

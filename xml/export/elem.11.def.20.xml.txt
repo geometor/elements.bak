@@ -1,4 +1,4 @@
 Enunciation:
-And the  is the circle described by the straight line which is carried round.
+And the > base is the circle described by the straight line which is carried round.
 
 Proof:

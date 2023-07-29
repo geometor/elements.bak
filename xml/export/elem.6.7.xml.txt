@@ -8,7 +8,7 @@ Let the angle `ABC` be greater; and on the straight line `AB`, and at the point 
 Then, since the angle `A` is equal to `D`, and the angle `ABG` to the angle `DEF`, therefore the remaining angle `AGB` is equal to the remaining angle `DFE`. [elem.1.32]
 Therefore the triangle `ABG` is equiangular with the triangle `DEF`.
 Therefore, as `AB` is to `BG`, so is `DE` to `EF` [elem.6.4]
-But, as `DE` is to `EF`, so by hypothesis is `AB` to `BC`; therefore `AB` has the same ratio to each of the straight lines `BC`, `BG`; [elem.5.11]  so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]
+But, as `DE` is to `EF`, so by hypothesis is `AB` to `BC`; therefore `AB` has the same ratio to each of the straight lines `BC`, `BG`; [elem.5.11] > therefore `BC` is equal to `BG`, [elem.5.9] so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]
 But, by hypothesis, the angle at `C` is less than a right angle; therefore the angle `BGC` is also less than a right angle; so that the angle `AGB` adjacent to it is greater than a right angle. [elem.1.13]
 And it was proved equal to the angle at `F`; therefore the angle at `F` is also greater than a right angle.
 But it is by hypothesis less than a right angle : which is absurd.
@@ -16,7 +16,7 @@ Therefore the angle `ABC` is not unequal to the angle `DEF`; therefore it is equ
 But the angle at `A` is also equal to the angle at `D`; therefore the remaining angle at `C` is equal to the remaining angle at `F`. [elem.1.32]
 Therefore the triangle `ABC` is equiangular with the triangle `DEF`.
 But, again, let each of the angles at `C`, `F` be supposed not less than a right angle; I say again that, in this case too, the triangle `ABC` is equiangular with the triangle `DEF`.
-For, with the same construction, we can prove similarly that  so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]
+For, with the same construction, we can prove similarly that > `BC` is equal to `BG`; so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]
 But the angle at `C` is not less than a right angle; therefore neither is the angle `BGC` less than a right angle.
 Thus in the triangle `BGC` the two angles are not less than two right angles: which is impossible. [elem.1.17]
 Therefore, once more, the angle `ABC` is not unequal to the angle `DEF`; therefore it is equal to it.

@@ -1,16 +1,16 @@
 Enunciation:
-
+> Similar pyramids which have triangular bases are in the triplicate ratio of their corresponding sides.
 
 Proof:
-Let there be similar and similarly situated pyramids of which the triangles , , are the bases and the points ,  the vertices; I say that the pyramid  has to the pyramid  the ratio triplicate of that which  has to .
-For let the parallelepipedal solids ,  be completed.
-Now, since the pyramid  is similar to the pyramid , therefore the angle  is equal to the angle , the angle  to the angle , and the angle  to the angle ; and, as  is to , so is  to , and  to .
-And since, as  is to , so is  to , and the sides are proportional about equal angles, therefore the parallelogram  is similar to the parallelogram .
-For the same reason  is also similar to , and  to ; therefore the three parallelograms , ,  are similar to the three , , .
-But the three parallelograms , ,  are equal and similar to their three opposites, and the three , ,  are equal and similar to their three opposites. [elem.11.24]
-Therefore the solids ,  are contained by similar planes equal in multitude.
-Therefore the solid  is similar to the solid .
+Let there be similar and similarly situated pyramids of which the triangles > ABC, > DEF, are the bases and the points > G, > H the vertices; I say that the pyramid > ABCG has to the pyramid > DEFH the ratio triplicate of that which > BC has to > EF.
+For let the parallelepipedal solids > BGML, > EHQP be completed.
+Now, since the pyramid > ABCG is similar to the pyramid > DEFH, therefore the angle > ABC is equal to the angle > DEF, the angle > GBC to the angle > HEF, and the angle > ABG to the angle > DEH; and, as > AB is to > DE, so is > BC to > EF, and > BG to > EH.
+And since, as > AB is to > DE, so is > BC to > EF, and the sides are proportional about equal angles, therefore the parallelogram > BM is similar to the parallelogram > EQ.
+For the same reason > BN is also similar to > ER, and > BK to > EO; therefore the three parallelograms > MB, > BK, > BN are similar to the three > EQ, > EO, > ER.
+But the three parallelograms > MB, > BK, > BN are equal and similar to their three opposites, and the three > EQ, > EO, > ER are equal and similar to their three opposites. [elem.11.24]
+Therefore the solids > BGML, > EHQP are contained by similar planes equal in multitude.
+Therefore the solid > BGML is similar to the solid > EHQP.
 But similar parallelepipedal solids are in the triplicate ratio of their corresponding sides. [elem.11.33]
-Therefore the solid  has to the solid  the ratio triplicate of that which the corresponding side  has to the corresponding side .
-But, as the solid  is to the solid , so is the pyramid  to the pyramid , inasmuch as the pyramid is a sixth part of the solid, because the prism which is half of the parallelepipedal solid [elem.11.28] is also triple of the pyramid. [elem.12.7]
-Therefore the pyramid  also has to the pyramid  the ratio triplicate of that which  has to . Q. E. D.
+Therefore the solid > BGML has to the solid > EHQP the ratio triplicate of that which the corresponding side > BC has to the corresponding side > EF.
+But, as the solid > BGML is to the solid > EHQP, so is the pyramid > ABCG to the pyramid > DEFH, inasmuch as the pyramid is a sixth part of the solid, because the prism which is half of the parallelepipedal solid [elem.11.28] is also triple of the pyramid. [elem.12.7]
+Therefore the pyramid > ABCG also has to the pyramid > DEFH the ratio triplicate of that which > BC has to > EF. Q. E. D.

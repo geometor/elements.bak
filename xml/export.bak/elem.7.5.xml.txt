@@ -1,0 +1,12 @@
+Enunciation:
+
+
+Proof:
+For let the number  be a part of , and another, , the same part of another  that  is of ; I say that the sum of ,  is also the same part of the sum of ,  that  is of .
+For since, whatever part  is of ,  is also the same part of , therefore, as many numbers as there are in  equal to , so many numbers are there also in  equal to .
+Let  be divided into the numbers equal to , namely , , and  into the numbers equal to , namely , ; then the multitude of ,  will be equal to the multitude of , .
+And, since  is equal to , and  to , therefore ,  are also equal to , .
+For the same reason ,  are also equal to , .
+Therefore, as many numbers as there are in  equal to , so many are there also in ,  equal to , .
+Therefore, whatever multiple  is of , the same multiple also is the sum of ,  of the sum of , .
+Therefore, whatever part  is of , the same part also is the sum of ,  of the sum of , . Q. E. D.

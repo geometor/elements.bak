@@ -1,0 +1,144 @@
+{
+    "id": "elem.7.3",
+    "n": 3,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let , ,  be the three given numbers not prime to one another; thus it is required to find the greatest common measure of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the greatest common measure, , of the two numbers ,  be taken; [elem.7.2] then  either measures, or does not measure, .",
+            "refs": [
+                "elem.7.2"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "First, let it measure it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it measures ,  also; therefore  measures , , ; therefore  is a common measure of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that it is also the greatest.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  is not the greatest common measure of , , , some number which is greater than  will measure the numbers , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let such a number measure them, and let it be .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  measures , , , it will also measure , ; therefore it will also measure the greatest common measure of , . [elem.7.2.p.1]",
+            "refs": [
+                "elem.7.2.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the greatest common measure of ,  is ; therefore  measures , the greater the less: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no number which is greater than  will measure the numbers , , ;",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  not measure ; I say first that ,  are not prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since , ,  are not prime to one another, some number will measure them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now that which measures , ,  will also measure , , and will measure , the greatest common measure of , . [elem.7.2.p.1]",
+            "refs": [
+                "elem.7.2.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it measures  also; therefore some number will measure the numbers , ; therefore ,  are not prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let then their greatest common measure  be taken. [elem.7.2]",
+            "refs": [
+                "elem.7.2"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Then, since  measures , and  measures , , therefore  also measures , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it measures  also; therefore  measures , , ; therefore  is a common measure of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that it is also the greatest.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  is not the greatest common measure of , , , some number which is greater than  will measure the numbers , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let such a number measure them, and let it be .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  measures , , , it also measures , ; therefore it will also measure the greatest common measure of , . [elem.7.2.p.1]",
+            "refs": [
+                "elem.7.2.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the greatest common measure of ,  is ; therefore  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it measures  also; therefore  measures , ; therefore it will also measure the greatest common measure of , . [elem.7.2.p.1]",
+            "refs": [
+                "elem.7.2.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the greatest common measure of ,  is ; therefore  measures , the greater the less: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no number which is greater than  will measure the numbers , , ; therefore  is the greatest common measure of , , . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

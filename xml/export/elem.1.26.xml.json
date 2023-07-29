@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "Then, since `BG` is equal to `DE`, and `BC` to `EF`, the two sides `GB`, `BC` are equal to the two sides `DE`, `EF` respectively; and the angle `GBC` is equal to the angle `DEF`;  But the angle `DFE` is by hypothesis equal to the angle `BCA`;",
+            "text": "Then, since `BG` is equal to `DE`, and `BC` to `EF`, the two sides `GB`, `BC` are equal to the two sides `DE`, `EF` respectively; and the angle `GBC` is equal to the angle `DEF`; > therefore the base `GC` is equal to the base `DF`, and the triangle `GBC` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [elem.1.4] therefore the angle `GCB` is equal to the angle `DFE`. But the angle `DFE` is by hypothesis equal to the angle `BCA`; > therefore the angle `BCG` is equal to the angle `BCA`, the less to the greater: which is impossible. Therefore `AB` is not unequal to `DE`, and is therefore equal to it.",
             "refs": [],
             "emphs": [
                 "BG",
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "text": "But `BC` is also equal to `EF`;",
+            "text": "But `BC` is also equal to `EF`; > therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and the angle `ABC` is equal to the angle `DEF`; therefore the base `AC` is equal to the base `DF`, and the remaining angle `BAC` is equal to the remaining angle `EDF`. [elem.1.4]",
             "refs": [],
             "emphs": [
                 "BC",
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "text": "Then, since `BH` is equal to `EF`, and `AB` to `DE`, the two sides `AB`, `BH` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the triangle `ABH` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [elem.1.4]",
+            "text": "Then, since `BH` is equal to `EF`, and `AB` to `DE`, the two sides `AB`, `BH` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles; > therefore the base `AH` is equal to the base `DF`, and the triangle `ABH` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [elem.1.4] > therefore the angle `BHA` is equal to the angle `EFD`.",
             "refs": [
                 "elem.1.4"
             ],
@@ -135,7 +135,7 @@
             ]
         },
         {
-            "text": "But the angle `EFD` is equal to the angle `BCA`; therefore, in the triangle `AHC`, the exterior angle `BHA` is equal to the interior and opposite angle `BCA`:",
+            "text": "But the angle `EFD` is equal to the angle `BCA`; therefore, in the triangle `AHC`, the exterior angle `BHA` is equal to the interior and opposite angle `BCA`: > which is impossible. [elem.1.16]",
             "refs": [],
             "emphs": [
                 "EFD",
@@ -146,7 +146,7 @@
             ]
         },
         {
-            "text": "Therefore `BC` is not unequal to `EF`,",
+            "text": "Therefore `BC` is not unequal to `EF`, > and is therefore equal to it.",
             "refs": [],
             "emphs": [
                 "BC",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "text": "But `AB` is also equal to `DE`; therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles;  and the remaining angle `BAC` equal to the remaining angle `EDF`. [elem.1.4]",
+            "text": "But `AB` is also equal to `DE`; therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and they contain equal angles; > therefore the base `AC` is equal to the base `DF`, the triangle `ABC` equal to the triangle `DEF`, and the remaining angle `BAC` equal to the remaining angle `EDF`. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],

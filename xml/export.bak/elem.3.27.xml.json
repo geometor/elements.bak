@@ -1,0 +1,81 @@
+{
+    "id": "elem.3.27",
+    "n": 27,
+    "type": "proposition",
+    "enunciation": "`In equal circles angles standing on equal circumferences are equal to one another`, `whether they stand at the centres or at the circumferences`.",
+    "proof": [
+        {
+            "text": "For in equal circles `ABC`, `DEF`, on equal circumferences `BC`, `EF`, let the angles `BGC`, `EHF` stand at the centres `G`, `H`, and the angles `BAC`, `EDF` at the circumferences; I say that the angle `BGC` is equal to the angle `EHF`, and the angle `BAC` is equal to the angle `EDF`.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "DEF",
+                "BC",
+                "EF",
+                "BGC",
+                "EHF",
+                "G",
+                "H",
+                "BAC",
+                "EDF",
+                "BGC",
+                "EHF",
+                "BAC",
+                "EDF"
+            ]
+        },
+        {
+            "text": "For, if the angle `BGC` is unequal to the angle `EHF`,  Let the angle `BGC` be greater : and on the straight line `BG`, and at the point `G` on it, let the angle `BGK` be constructed equal to the angle `EHF`. [elem.1.23]",
+            "refs": [
+                "elem.1.23"
+            ],
+            "emphs": [
+                "BGC",
+                "EHF",
+                "BGC",
+                "BG",
+                "G",
+                "BGK",
+                "EHF"
+            ]
+        },
+        {
+            "text": "Now equal angles stand on equal circumferences, when they are at the centres; [elem.3.26]",
+            "refs": [
+                "elem.3.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But `EF` is equal to `BC`;",
+            "refs": [],
+            "emphs": [
+                "EF",
+                "BC"
+            ]
+        },
+        {
+            "text": "Therefore the angle `BGC` is not unequal to the angle `EHF`;",
+            "refs": [],
+            "emphs": [
+                "BGC",
+                "EHF"
+            ]
+        },
+        {
+            "text": "And the angle at `A` is half of the angle `BGC`,  therefore the angle at `A` is also equal to the angle at `D`.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "BGC",
+                "A",
+                "D"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

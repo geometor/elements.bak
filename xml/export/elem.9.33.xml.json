@@ -2,9 +2,10 @@
     "id": "elem.9.33",
     "n": 33,
     "type": "proposition",
+    "enunciation": "> If a number have its half odd, it is even-times odd only.",
     "proof": [
         {
-            "text": "For let the number  have its half odd; I say that  is even-times odd only.",
+            "text": "For let the number > A have its half odd; I say that > A is even-times odd only.",
             "refs": [],
             "emphs": []
         },
@@ -21,14 +22,14 @@
             "emphs": []
         },
         {
-            "text": "For, if  is even-times even also, it will be measured by an even number according to an even number; [elem.7.def.8] so that the half of it will also be measured by an even number though it is odd: which is absurd.",
+            "text": "For, if > A is even-times even also, it will be measured by an even number according to an even number; [elem.7.def.8] so that the half of it will also be measured by an even number though it is odd: which is absurd.",
             "refs": [
                 "elem.7.def.8"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is even-times odd only. Q. E. D.",
+            "text": "Therefore > A is even-times odd only. Q. E. D.",
             "refs": [],
             "emphs": []
         }

@@ -1,8 +1,8 @@
 Enunciation:
-
+> If there be as many numbers as we please in continued proportion, and the first measure the last, it will measure the second also.
 
 Proof:
-Let there be as many numbers as we please, , , , , in continued proportion; and let  measure ; I say that  also measures .
-For, if  does not measure , neither will any other of the numbers measure any other. [elem.8.6]
-But  measures .
-Therefore  also measures . Q. E. D.
+Let there be as many numbers as we please, > A, > B, > C, > D, in continued proportion; and let > A measure > D; I say that > A also measures > B.
+For, if > A does not measure > B, neither will any other of the numbers measure any other. [elem.8.6]
+But > A measures > D.
+Therefore > A also measures > B. Q. E. D.

@@ -1,14 +1,14 @@
 Enunciation:
-
+> Any number is either a part or parts of any number, the less of the greater.
 
 Proof:
-Let ,  be two numbers, and let  be the less; I say that  is either a part, or parts, of .
-For ,  are either prime to one another or not.
-First, let ,  be prime to one another.
-Then, if  be divided into the units in it, each unit of those in  will be some part of ; so that  is parts of .
-Next let ,  not be prime to one another; then  either measures, or does not measure, .
-If now  measures ,  is a part of .
-But, if not, let the greatest common measure  of ,  be taken; [elem.7.2] and let  be divided into the numbers equal to , namely , , .
-Now, since  measures ,  is a part of .
-But  is equal to each of the numbers , , ; therefore each of the numbers , ,  is also a part of ; so that  is parts of .
+Let > A, > BC be two numbers, and let > BC be the less; I say that > BC is either a part, or parts, of > A.
+For > A, > BC are either prime to one another or not.
+First, let > A, > BC be prime to one another.
+Then, if > BC be divided into the units in it, each unit of those in > BC will be some part of > A; so that > BC is parts of > A.
+Next let > A, > BC not be prime to one another; then > BC either measures, or does not measure, > A.
+If now > BC measures > A, > BC is a part of > A.
+But, if not, let the greatest common measure > D of > A, > BC be taken; [elem.7.2] and let > BC be divided into the numbers equal to > D, namely > BE, > EF, > FC.
+Now, since > D measures > A, > D is a part of > A.
+But > D is equal to each of the numbers > BE, > EF, > FC; therefore each of the numbers > BE, > EF, > FC is also a part of > A; so that > BC is parts of > A.
 Therefore etc. Q. E. D.

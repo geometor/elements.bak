@@ -2,91 +2,91 @@
     "id": "elem.10.44",
     "n": 44,
     "type": "propositions i\u201447",
-    "enunciation": ".",
+    "enunciation": "> A second bimedial straight line is divided at one point only.",
     "proof": [
         {
-            "text": "Let  be a second bimedial straight line divided at , so that ,  are medial straight lines commensurable in square only and containing a medial rectangle; [elem.10.38\n] it is then manifest that  is not at the point of bisection, because the segments are not commensurable in length.",
+            "text": "Let > AB be a second bimedial straight line divided at > C, so that > AC, > CB are medial straight lines commensurable in square only and containing a medial rectangle; [elem.10.38\n] it is then manifest that > C is not at the point of bisection, because the segments are not commensurable in length.",
             "refs": [
                 "elem.10.38"
             ],
             "emphs": []
         },
         {
-            "text": "I say that  is not so divided at another point.",
+            "text": "I say that > AB is not so divided at another point.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let it be divided at  also, so that  is not the same with , but  is supposed greater; it is then clear that the squares on ,  are also, as we proved above [Lemma], less than the squares on , ; and suppose that ,  are medial straight lines commensurable in square only and containing a medial rectangle.",
+            "text": "For, if possible, let it be divided at > D also, so that > AC is not the same with > DB, but > AC is supposed greater; it is then clear that the squares on > AD, > DB are also, as we proved above [Lemma], less than the squares on > AC, > CB; and suppose that > AD, > DB are medial straight lines commensurable in square only and containing a medial rectangle.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now let a rational straight line  be set out, let there be applied to  the rectangular parallelogram  equal to the square on , and let  equal to the squares on ,  be subtracted; therefore the remainder  is equal to twice the rectangle , . [elem.2.4\n]",
+            "text": "Now let a rational straight line > EF be set out, let there be applied to > EF the rectangular parallelogram > EK equal to the square on > AB, and let > EG equal to the squares on > AC, > CB be subtracted; therefore the remainder > HK is equal to twice the rectangle > AC, > CB. [elem.2.4\n]",
             "refs": [
                 "elem.2.4"
             ],
             "emphs": []
         },
         {
-            "text": "Again, let there be subtracted , equal to the squares on , , which were proved less than the squares on ,  [elem.10.41.l.1\n]; therefore the remainder  is also equal to twice the rectangle , .",
+            "text": "Again, let there be subtracted > EL, equal to the squares on > AD, > DB, which were proved less than the squares on > AC, > CB [elem.10.41.l.1\n]; therefore the remainder > MK is also equal to twice the rectangle > AD, > DB.",
             "refs": [
                 "elem.10.41.l.1"
             ],
             "emphs": []
         },
         {
-            "text": "Now, since the squares on ,  are medial, therefore  is medial.",
+            "text": "Now, since the squares on > AC, > CB are medial, therefore > EG is medial.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And it is applied to the rational straight line ; therefore  is rational and incommensurable in length with . [elem.10.22\n]",
+            "text": "And it is applied to the rational straight line > EF; therefore > EH is rational and incommensurable in length with > EF. [elem.10.22\n]",
             "refs": [
                 "elem.10.22"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason  is also rational and incommensurable in length with .",
+            "text": "For the same reason > HN is also rational and incommensurable in length with > EF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since ,  are medial straight lines commensurable in square only, therefore  is incommensurable in length with .",
+            "text": "And, since > AC, > CB are medial straight lines commensurable in square only, therefore > AC is incommensurable in length with > CB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is the square on  to the rectangle , ; therefore the square on  is incommensurable with the rectangle , . [elem.10.11\n]",
+            "text": "But, as > AC is to > CB, so is the square on > AC to the rectangle > AC, > CB; therefore the square on > AC is incommensurable with the rectangle > AC, > CB. [elem.10.11\n]",
             "refs": [
                 "elem.10.11"
             ],
             "emphs": []
         },
         {
-            "text": "But the squares on ,  are commensurable with the square on ; for ,  are commensurable in square. [elem.10.15\n]",
+            "text": "But the squares on > AC, > CB are commensurable with the square on > AC; for > AC, > CB are commensurable in square. [elem.10.15\n]",
             "refs": [
                 "elem.10.15"
             ],
             "emphs": []
         },
         {
-            "text": "And twice the rectangle ,  is commensurable with the rectangle , . [elem.10.6\n]",
+            "text": "And twice the rectangle > AC, > CB is commensurable with the rectangle > AC, > CB. [elem.10.6\n]",
             "refs": [
                 "elem.10.6"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the squares on ,  are also incommensurable with twice the rectangle , . [elem.10.13\n]",
+            "text": "Therefore the squares on > AC, > CB are also incommensurable with twice the rectangle > AC, > CB. [elem.10.13\n]",
             "refs": [
                 "elem.10.13"
             ],
             "emphs": []
         },
         {
-            "text": "But  is equal to the squares on , , and  is equal to twice the rectangle , ; therefore  is incommensurable with , so that  is also incommensurable in length with . [elem.6.1\n, elem.10.11\n]",
+            "text": "But > EG is equal to the squares on > AC, > CB, and > HK is equal to twice the rectangle > AC, > CB; therefore > EG is incommensurable with > HK, so that > EH is also incommensurable in length with > HN. [elem.6.1\n, elem.10.11\n]",
             "refs": [
                 "elem.6.1",
                 "elem.10.11"
@@ -94,7 +94,7 @@
             "emphs": []
         },
         {
-            "text": "And they are rational; therefore ,  are rational straight lines commensurable in square only.",
+            "text": "And they are rational; therefore > EH, > HN are rational straight lines commensurable in square only.",
             "refs": [],
             "emphs": []
         },
@@ -106,32 +106,32 @@
             "emphs": []
         },
         {
-            "text": "Therefore  is a binomial straight line divided at .",
+            "text": "Therefore > EN is a binomial straight line divided at > H.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "In the same way ,  will also be proved to be rational straight lines commensurable in square only; and  will be a binomial straight line divided at different points,  and .",
+            "text": "In the same way > EM, > MN will also be proved to be rational straight lines commensurable in square only; and > EN will be a binomial straight line divided at different points, > H and > M.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is not the same with .",
+            "text": "And > EH is not the same with > MN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the squares on ,  are greater than the squares on , .",
+            "text": "For the squares on > AC, > CB are greater than the squares on > AD, > DB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the squares on ,  are greater than twice the rectangle , ; therefore also the squares on , , that is, , are much greater than twice the rectangle , , that is, , so that  is also greater than .",
+            "text": "But the squares on > AD, > DB are greater than twice the rectangle > AD, > DB; therefore also the squares on > AC, > CB, that is, > EG, are much greater than twice the rectangle > AD, > DB, that is, > MK, so that > EH is also greater than > MN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is not the same with . Q. E. D.",
+            "text": "Therefore > EH is not the same with > MN. Q. E. D.",
             "refs": [],
             "emphs": []
         }

@@ -5,7 +5,7 @@
     "enunciation": "`If there be three magnitudes`, `and others equal to them in multitude`, `which taken two and two together are in the same ratio`, `and the proportion of them be perturbed`, `they will also be in the same ratio`\n       .",
     "proof": [
         {
-            "text": "Let there be three magnitudes `A`, `B`, `C`, and others equal to them in multitude, which, taken two and two together, are in the same proportion, namely `D`, `E`, `F`; and let the proportion of them be perturbed, so that,  and, as `B` is to `C`, so is `D` to `E`; I say that, as `A` is to `C`, so is `D` to `F`.",
+            "text": "Let there be three magnitudes `A`, `B`, `C`, and others equal to them in multitude, which, taken two and two together, are in the same proportion, namely `D`, `E`, `F`; and let the proportion of them be perturbed, so that, > as `A` is to `B`, so is `E` to `F`, and, as `B` is to `C`, so is `D` to `E`; I say that, as `A` is to `C`, so is `D` to `F`.",
             "refs": [],
             "emphs": [
                 "A",
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "text": "Then, since `G`, `H` are equimultiples of `A`, `B`, and parts have the same ratio as the same multiples of them, [elem.5.15]",
+            "text": "Then, since `G`, `H` are equimultiples of `A`, `B`, and parts have the same ratio as the same multiples of them, [elem.5.15] > therefore, as `A` is to `B`, so is `G` to `H`.",
             "refs": [
                 "elem.5.15"
             ],
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "text": "For the same reason also,  And, as `A` is to `B`, so is `E` to `F`;",
+            "text": "For the same reason also, > as `E` is to `F`, so is `M` to `N`. And, as `A` is to `B`, so is `E` to `F`; > therefore also, as `G` is to `H`, so is `M` to `N`. [elem.5.11]",
             "refs": [],
             "emphs": [
                 "A",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "text": "And, since `H`, `K` are equimultiples of `B`, `D`, and parts have the same ratio as their equimultiples,",
+            "text": "And, since `H`, `K` are equimultiples of `B`, `D`, and parts have the same ratio as their equimultiples, > therefore, as `B` is to `D`, so is `H` to `K`. [elem.5.15]",
             "refs": [],
             "emphs": [
                 "H",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "text": "But, as `B` is to `D`, so is `C` to `E`;",
+            "text": "But, as `B` is to `D`, so is `C` to `E`; > therefore also, as `H` is to `K`, so is `C` to `E`. [elem.5.11]",
             "refs": [],
             "emphs": [
                 "B",
@@ -101,7 +101,7 @@
             ]
         },
         {
-            "text": "Again, since `L`, `M` are equimultiples of `C`, `E`,",
+            "text": "Again, since `L`, `M` are equimultiples of `C`, `E`, > therefore, as `C` is to `E`, so is `L` to `M`. [elem.5.15]",
             "refs": [],
             "emphs": [
                 "L",
@@ -111,7 +111,7 @@
             ]
         },
         {
-            "text": "But, as `C` is to `E`, so is `H` to `K`;  and, alternately, as `H` is to `L`, so is `K` to `M`. [elem.5.16]",
+            "text": "But, as `C` is to `E`, so is `H` to `K`; > therefore also, as `H` is to `K`, so is `L` to `M`, [elem.5.11] and, alternately, as `H` is to `L`, so is `K` to `M`. [elem.5.16]",
             "refs": [
                 "elem.5.16"
             ],
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "text": "But it was also proved that,",
+            "text": "But it was also proved that, > as `G` is to `H`, so is `M` to `N`.",
             "refs": [],
             "emphs": []
         },

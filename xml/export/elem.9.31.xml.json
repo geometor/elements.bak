@@ -2,9 +2,10 @@
     "id": "elem.9.31",
     "n": 31,
     "type": "proposition",
+    "enunciation": "> If an odd number be prime to any number, it will also be prime to the double of it.",
     "proof": [
         {
-            "text": "For let the odd number  be prime to any number , and let  be double of ; I say that  is prime to .",
+            "text": "For let the odd number > A be prime to any number > B, and let > C be double of > B; I say that > A is prime to > C.",
             "refs": [],
             "emphs": []
         },
@@ -14,39 +15,39 @@
             "emphs": []
         },
         {
-            "text": "Let a number measure them, and let it be .",
+            "text": "Let a number measure them, and let it be > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now  is odd; therefore  is also odd.",
+            "text": "Now > A is odd; therefore > D is also odd.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And since  which is odd measures , and  is even, therefore [] will measure the half of  also. [elem.9.30]",
+            "text": "And since > D which is odd measures > C, and > C is even, therefore [> D] will measure the half of > C also. [elem.9.30]",
             "refs": [
                 "elem.9.30"
             ],
             "emphs": []
         },
         {
-            "text": "But  is half of ; therefore  measures .",
+            "text": "But > B is half of > C; therefore > D measures > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But it also measures ; therefore  measures ,  which are prime to one another: which is impossible.",
+            "text": "But it also measures > A; therefore > D measures > A, > B which are prime to one another: which is impossible.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  cannot but be prime to .",
+            "text": "Therefore > A cannot but be prime to > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are prime to one another. Q. E. D.",
+            "text": "Therefore > A, > C are prime to one another. Q. E. D.",
             "refs": [],
             "emphs": []
         }

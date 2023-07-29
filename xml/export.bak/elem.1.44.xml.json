@@ -1,0 +1,120 @@
+{
+    "id": "elem.1.44",
+    "n": 44,
+    "type": "proposition",
+    "enunciation": "To a given straight line to apply, in a given rectilineal angle, a parallelogram equal to a given triangle.",
+    "proof": [
+        {
+            "text": "Let `AB` be the given straight line, `C` the given triangle and `D` the given rectilineal angle; thus it is required to apply to the given straight line `AB`, in an angle equal to the angle `D`, a parallelogram equal to the given triangle `C`.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "C",
+                "D",
+                "AB",
+                "D",
+                "C"
+            ]
+        },
+        {
+            "text": "Let the parallelogram `BEFG` be constructed equal to the triangle `C`, in the angle `EBG` which is equal to `D` [elem.1.42]; let it be placed so that `BE` is in a straight line with `AB`; let`FG` be drawn through to `H`, and let `AH` be drawn through `A` parallel to either `BG` or `EF`. [elem.1.31]",
+            "refs": [
+                "elem.1.42",
+                "elem.1.31"
+            ],
+            "emphs": [
+                "BEFG",
+                "C",
+                "EBG",
+                "D",
+                "BE",
+                "AB",
+                "FG",
+                "H",
+                "AH",
+                "A",
+                "BG",
+                "EF"
+            ]
+        },
+        {
+            "text": "Let `HB` be joined.",
+            "refs": [],
+            "emphs": [
+                "HB"
+            ]
+        },
+        {
+            "text": "Then, since the straight line `HF` falls upon the parallels `AH`, `EF`,  Therefore the angles `BHG`, `GFE` are less than two right angles; and straight lines produced indefinitely from angles less than two right angles meet; [elem.1.post.5]",
+            "refs": [
+                "elem.1.post.5"
+            ],
+            "emphs": [
+                "HF",
+                "AH",
+                "EF",
+                "BHG",
+                "GFE"
+            ]
+        },
+        {
+            "text": "Let them be produced and meet at `K`; through the point `K` let `KL` be drawn parallel to either `EA` or `FH`, [elem.1.31] and let `HA`, `GB` be produced to the points `L`, `M`.",
+            "refs": [
+                "elem.1.31"
+            ],
+            "emphs": [
+                "K",
+                "K",
+                "KL",
+                "EA",
+                "FH",
+                "HA",
+                "GB",
+                "L",
+                "M"
+            ]
+        },
+        {
+            "text": "Then `HLKF` is a parallelogram, `HK` is its diameter, and `AG`, `ME` are parallelograms. and `LB`, `BF` the so-called complements, about `HK`;",
+            "refs": [],
+            "emphs": [
+                "HLKF",
+                "HK",
+                "AG",
+                "ME",
+                "LB",
+                "BF",
+                "HK"
+            ]
+        },
+        {
+            "text": "But `BF` is equal to the triangle `C`;",
+            "refs": [],
+            "emphs": [
+                "BF",
+                "C"
+            ]
+        },
+        {
+            "text": "And, since the angle `GBE` is equal to the angle `ABM`, [elem.1.15]",
+            "refs": [
+                "elem.1.15"
+            ],
+            "emphs": [
+                "GBE",
+                "ABM"
+            ]
+        },
+        {
+            "text": "Therefore the parallelogram `LB` equal to the given triangle `C` has been applied to the given straight line `AB`, in the angle `ABM` which is equal to `D`.",
+            "refs": [],
+            "emphs": [
+                "LB",
+                "C",
+                "AB",
+                "ABM",
+                "D"
+            ]
+        }
+    ]
+}

@@ -2,15 +2,15 @@
     "id": "elem.10.115",
     "n": 115,
     "type": "propositions 85\u2014115",
-    "enunciation": ".",
+    "enunciation": "> From a medial straight line there arise irrational straight lines infinite in number, and none of them is the same as any of the preceding.",
     "proof": [
         {
-            "text": "Let  be a medial straight line; I say that from  there arise irrational straight lines infinite in number, and none of them is the same as any of the preceding.",
+            "text": "Let > A be a medial straight line; I say that from > A there arise irrational straight lines infinite in number, and none of them is the same as any of the preceding.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let a rational straight line  be set out,  and let the square on  be equal to the rectangle , ; therefore  is irrational; [elem.10.def.4] for that which is contained by an irrational and a rational straight line is irrational. [deduction from elem.10.20]",
+            "text": "Let a rational straight line > B be set out,  and let the square on > C be equal to the rectangle > B, > A; therefore > C is irrational; [elem.10.def.4] for that which is contained by an irrational and a rational straight line is irrational. [deduction from elem.10.20]",
             "refs": [
                 "elem.10.def.4",
                 "elem.10.20"
@@ -23,14 +23,14 @@
             "emphs": []
         },
         {
-            "text": "Again, let the square on  be equal to the rectangle , ; therefore the square on  is irrational. [deduction from elem.10.20]",
+            "text": "Again, let the square on > D be equal to the rectangle > B, > C; therefore the square on > D is irrational. [deduction from elem.10.20]",
             "refs": [
                 "elem.10.20"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is irrational; [elem.10.def.4] and it is not the same with any of the preceding, for the square on none of the preceding, if applied to a rational straight line, produces  as breadth.",
+            "text": "Therefore > D is irrational; [elem.10.def.4] and it is not the same with any of the preceding, for the square on none of the preceding, if applied to a rational straight line, produces > C as breadth.",
             "refs": [
                 "elem.10.def.4"
             ],

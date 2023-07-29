@@ -1,0 +1,4 @@
+Enunciation:
+A rectilineal figure is said to be , when each side of the circumscribed figure touches the circumference of the circle.
+
+Proof:

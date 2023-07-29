@@ -1,11 +1,11 @@
 Enunciation:
-
+> Any solid angle is contained by plane angles less than four right angles.
 
 Proof:
-Let the angle at  be a solid angle contained by the plane angles , , ; I say that the angles , ,  are less than four right angles.
-For let points , ,  be taken at random on the straight lines , ,  respectively, and let , ,  be joined.
-Now, since the solid angle at  is contained by the three plane angles , , , any two are greater than the remaining one; [elem.11.20] therefore the angles ,  are greater than the angle .
-For the same reason the angles ,  are also greater than the angle , and the angles ,  are greater than the angle ; therefore the six angles , , , , ,  are greater than the three angles , , .
-But the three angles , ,  are equal to two right angles; [elem.1.32] therefore the six angles , , , , ,  are greater than two right angles.
-And, since the three angles of each of the triangles , ,  are equal to two right angles, therefore the nine angles of the three triangles, the angles , , , , , , , ,  are equal to six right angles; and of them the six angles , , , , ,  are greater than two right angles; therefore the remaining three angles , ,  containing the solid angle are less than four right angles.
+Let the angle at > A be a solid angle contained by the plane angles > BAC, > CAD, > DAB; I say that the angles > BAC, > CAD, > DAB are less than four right angles.
+For let points > B, > C, > D be taken at random on the straight lines > AB, > AC, > AD respectively, and let > BC, > CD, > DB be joined.
+Now, since the solid angle at > B is contained by the three plane angles > CBA, > ABD, > CBD, any two are greater than the remaining one; [elem.11.20] therefore the angles > CBA, > ABD are greater than the angle > CBD.
+For the same reason the angles > BCA, > ACD are also greater than the angle > BCD, and the angles > CDA, > ADB are greater than the angle > CDB; therefore the six angles > CBA, > ABD, > BCA, > ACD, > CDA, > ADB are greater than the three angles > CBD, > BCD, > CDB.
+But the three angles > CBD, > BDC, > BCD are equal to two right angles; [elem.1.32] therefore the six angles > CBA, > ABD, > BCA, > ACD, > CDA, > ADB are greater than two right angles.
+And, since the three angles of each of the triangles > ABC, > ACD, > ADB are equal to two right angles, therefore the nine angles of the three triangles, the angles > CBA, > ACB, > BAC, > ACD, > CDA, > CAD, > ADB, > DBA, > BAD are equal to six right angles; and of them the six angles > ABC, > BCA, > ACD, > CDA, > ADB, > DBA are greater than two right angles; therefore the remaining three angles > BAC, > CAD, > DAB containing the solid angle are less than four right angles.
 Therefore etc. Q. E. D.

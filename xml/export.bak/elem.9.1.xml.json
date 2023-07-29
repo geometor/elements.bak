@@ -1,0 +1,50 @@
+{
+    "id": "elem.9.1",
+    "n": 1,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be two similar plane numbers, and let  by multiplying  make ; I say that  is square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  by multiplying itself make .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  by multiplying itself has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "refs": [
+                "elem.7.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since ,  are similar plane numbers, therefore one mean proportional number falls between , . [elem.8.18]",
+            "refs": [
+                "elem.8.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, if numbers fall between two numbers in continued proportion, as many as fall between them, so many also fall between those which have the same ratio; [elem.8.8] so that one mean proportional number falls between ,  also.",
+            "refs": [
+                "elem.8.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is square; therefore  is also square. [elem.8.22] Q. E. D.",
+            "refs": [
+                "elem.8.22"
+            ],
+            "emphs": []
+        }
+    ]
+}

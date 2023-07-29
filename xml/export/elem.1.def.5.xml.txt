@@ -1,4 +1,4 @@
 Enunciation:
-A  is that which has length and breadth only.
+A <term>surface</term> is that which has length and breadth only.
 
 Proof:

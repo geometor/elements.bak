@@ -2,32 +2,32 @@
     "id": "elem.9.13",
     "n": 13,
     "type": "proposition",
-    "enunciation": ".",
+    "enunciation": "> If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be prime, the greatest will not be measured by any except those which have a place among the proportional numbers.",
     "proof": [
         {
-            "text": "Let there be as many numbers as we please, , , , , beginning from an unit and in continued proportion, and let , the number after the unit, be prime; I say that , the greatest of them, will not be measured by any other number except , , .",
+            "text": "Let there be as many numbers as we please, > A, > B, > C, > D, beginning from an unit and in continued proportion, and let > A, the number after the unit, be prime; I say that > D, the greatest of them, will not be measured by any other number except > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let it be measured by , and let  not be the same with any of the numbers , , .",
+            "text": "For, if possible, let it be measured by > E, and let > E not be the same with any of the numbers > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "It is then manifest that  is not prime.",
+            "text": "It is then manifest that > E is not prime.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if  is prime and measures , it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
+            "text": "For, if > E is prime and measures > D, it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
             "refs": [
                 "elem.9.12"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is not prime.",
+            "text": "Therefore > E is not prime.",
             "refs": [],
             "emphs": []
         },
@@ -37,63 +37,63 @@
             "emphs": []
         },
         {
-            "text": "But any composite number is measured by some prime number; [elem.7.31] therefore  is measured by some prime number.",
+            "text": "But any composite number is measured by some prime number; [elem.7.31] therefore > E is measured by some prime number.",
             "refs": [
                 "elem.7.31"
             ],
             "emphs": []
         },
         {
-            "text": "I say next that it will not be measured by any other prime except .",
+            "text": "I say next that it will not be measured by any other prime except > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if  is measured by another, and  measures , that other will also measure ; so that it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
+            "text": "For, if > E is measured by another, and > E measures > D, that other will also measure > D; so that it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
             "refs": [
                 "elem.9.12"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  measures .",
+            "text": "Therefore > A measures > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  measures , let it measure it according to .",
+            "text": "And, since > E measures > D, let it measure it according to > F.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say that  is not the same with any of the numbers , , .",
+            "text": "I say that > F is not the same with any of the numbers > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if  is the same with one of the numbers , , , and measures  according to , therefore one of the numbers , ,  also measures  according to .",
+            "text": "For, if > F is the same with one of the numbers > A, > B, > C, and measures > D according to > E, therefore one of the numbers > A, > B, > C also measures > D according to > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But one of the numbers , ,  measures  according to some one of the numbers , , ; [elem.9.11] therefore  is also the same with one of the numbers , , : which is contrary to the hypothesis.",
+            "text": "But one of the numbers > A, > B, > C measures > D according to some one of the numbers > A, > B, > C; [elem.9.11] therefore > E is also the same with one of the numbers > A, > B, > C: which is contrary to the hypothesis.",
             "refs": [
                 "elem.9.11"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is not the same as any one of the numbers , , .",
+            "text": "Therefore > F is not the same as any one of the numbers > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that  is measured by , by proving again that  is not prime.",
+            "text": "Similarly we can prove that > F is measured by > A, by proving again that > F is not prime.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if it is, and measures , it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible; therefore  is not prime.",
+            "text": "For, if it is, and measures > D, it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible; therefore > F is not prime.",
             "refs": [
                 "elem.9.12"
             ],
@@ -105,123 +105,123 @@
             "emphs": []
         },
         {
-            "text": "But any composite number is measured by some prime number; [elem.7.31] therefore  is measured by some prime number.",
+            "text": "But any composite number is measured by some prime number; [elem.7.31] therefore > F is measured by some prime number.",
             "refs": [
                 "elem.7.31"
             ],
             "emphs": []
         },
         {
-            "text": "I say next that it will not be measured by any other prime except .",
+            "text": "I say next that it will not be measured by any other prime except > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if any other prime number measures , and  measures , that other will also measure ; so that it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
+            "text": "For, if any other prime number measures > F, and > F measures > D, that other will also measure > D; so that it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
             "refs": [
                 "elem.9.12"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  measures .",
+            "text": "Therefore > A measures > F.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  measures  according to , therefore  by multiplying  has made .",
+            "text": "And, since > E measures > D according to > F, therefore > E by multiplying > F has made > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, further,  has also by multiplying  made ; [elem.9.11] therefore the product of ,  is equal to the product of , .",
+            "text": "But, further, > A has also by multiplying > C made > D; [elem.9.11] therefore the product of > A, > C is equal to the product of > E, > F.",
             "refs": [
                 "elem.9.11"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore, proportionally, as  is to , so is  to . [elem.7.19]",
+            "text": "Therefore, proportionally, as > A is to > E, so is > F to > C. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "But  measures ; therefore  also measures .",
+            "text": "But > A measures > E; therefore > F also measures > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let it measure it according to .",
+            "text": "Let it measure it according to > G.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly, then, we can prove that  is not the same with any of the numbers , , and that it is measured by .",
+            "text": "Similarly, then, we can prove that > G is not the same with any of the numbers > A, > B, and that it is measured by > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  measures  according to  therefore  by multiplying  has made .",
+            "text": "And, since > F measures > C according to > G therefore > F by multiplying > G has made > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, further,  has also by multiplying  made ; [elem.9.11] therefore the product of ,  is equal to the product of , .",
+            "text": "But, further, > A has also by multiplying > B made > C; [elem.9.11] therefore the product of > A, > B is equal to the product of > F, > G.",
             "refs": [
                 "elem.9.11"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore, proportionally, as  is to , so is  to . [elem.7.19]",
+            "text": "Therefore, proportionally, as > A is to > F, so is > G to > B. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "But  measures ; therefore  also measures .",
+            "text": "But > A measures > F; therefore > G also measures > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let it measure it according to .",
+            "text": "Let it measure it according to > H.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly then we can prove that  is not the same with .",
+            "text": "Similarly then we can prove that > H is not the same with > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  measures  according to , therefore  by multiplying  has made .",
+            "text": "And, since > G measures > B according to > H, therefore > G by multiplying > H has made > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But further  has also by multiplying itself made ; [elem.9.8] therefore the product of ,  is equal to the square on .",
+            "text": "But further > A has also by multiplying itself made > B; [elem.9.8] therefore the product of > H, > G is equal to the square on > A.",
             "refs": [
                 "elem.9.8"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is  to . [elem.7.19]",
+            "text": "Therefore, as > H is to > A, so is > A to > G. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "But  measures ;< therefore  also measures , which is prime, though it is not the same with it: which is absurd.",
+            "text": "But > A measures > G;< therefore > H also measures > A, which is prime, though it is not the same with it: which is absurd.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  the greatest will not be measured by any other number except , , . Q. E. D.",
+            "text": "Therefore > D the greatest will not be measured by any other number except > A, > B, > C. Q. E. D.",
             "refs": [],
             "emphs": []
         }

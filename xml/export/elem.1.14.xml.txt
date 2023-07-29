@@ -6,7 +6,7 @@ For with any straight line `AB`, and at the point `B` on it, let the two straigh
 I say that `BD` is in a straight line with `CB`.
 For, if `BD` is not in a straight line with `BC`, let `BE` be in a straight line with `CB`.
 Then, since the straight line `AB` stands on the straight line `CBE`, 
-         But the angles `ABC`, `ABD` are also equal to two right angles;
-Let the angle `CBA` be subtracted from each; therefore the remaining angle `ABE` is equal to the remaining angle `ABD`, [elem.1.c.n.3]
-Similarly we can prove that neither is any other straight line except `BD`.
+        > the angles `ABC`, `ABE` are equal to two right angles. [elem.1.13] But the angles `ABC`, `ABD` are also equal to two right angles; > therefore the angles `CBA`, `ABE` are equal to the angles `CBA`, `ABD`. [elem.1.post.4 and elem.1.c.n.1]
+Let the angle `CBA` be subtracted from each; therefore the remaining angle `ABE` is equal to the remaining angle `ABD`, [elem.1.c.n.3] > the less to the greater: which is impossible. Therefore `BE` is not in a straight line with `CB`.
+Similarly we can prove that neither is any other straight line except `BD`. > Therefore `CB` is in a straight line with `BD`.
 Therefore etc.

@@ -1,0 +1,41 @@
+{
+    "id": "elem.8.16",
+    "n": 16,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be square numbers, and let ,  be their sides; and let  not measure ; I say that neither does  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  measures ,  will also measure . [elem.8.14]",
+            "refs": [
+                "elem.8.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  does not measure ; therefore neither will  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, let  not measure ; I say that neither will  measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  measures ,  will also measure . [elem.8.14]",
+            "refs": [
+                "elem.8.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  does not measure ; therefore neither will  measure . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -2,41 +2,42 @@
     "id": "elem.9.20",
     "n": 20,
     "type": "proposition",
+    "enunciation": "> Prime numbers are more than any assigned multitude of prime numbers.",
     "proof": [
         {
-            "text": "Let , ,  be the assigned prime numbers; I say that there are more prime numbers than , , .",
+            "text": "Let > A, > B, > C be the assigned prime numbers; I say that there are more prime numbers than > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let the least number measured by , ,  be taken, and let it be ; let the unit  be added to .",
+            "text": "For let the least number measured by > A, > B, > C be taken, and let it be > DE; let the unit > DF be added to > DE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then  is either prime or not.",
+            "text": "Then > EF is either prime or not.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "First, let it be prime; then the prime numbers , , ,  have been found which are more than , , .",
+            "text": "First, let it be prime; then the prime numbers > A, > B, > C, > EF have been found which are more than > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Next, let  not be prime; therefore it is measured by some prime number. [elem.7.31]",
+            "text": "Next, let > EF not be prime; therefore it is measured by some prime number. [elem.7.31]",
             "refs": [
                 "elem.7.31"
             ],
             "emphs": []
         },
         {
-            "text": "Let it be measured by the prime number .",
+            "text": "Let it be measured by the prime number > G.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say that  is not the same with any of the numbers , , .",
+            "text": "I say that > G is not the same with any of the numbers > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
@@ -46,22 +47,22 @@
             "emphs": []
         },
         {
-            "text": "Now , ,  measure ; therefore  also will measure .",
+            "text": "Now > A, > B, > C measure > DE; therefore > G also will measure > DE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But it also measures .",
+            "text": "But it also measures > EF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore , being a number, will measure the remainder, the unit : which is absurd.",
+            "text": "Therefore > G, being a number, will measure the remainder, the unit > DF: which is absurd.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is not the same with any one of the numbers , , .",
+            "text": "Therefore > G is not the same with any one of the numbers > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
@@ -71,7 +72,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore the prime numbers , , ,  have been found which are more than the assigned multitude of , , . Q. E. D.",
+            "text": "Therefore the prime numbers > A, > B, > C, > G have been found which are more than the assigned multitude of > A, > B, > C. Q. E. D.",
             "refs": [],
             "emphs": []
         }

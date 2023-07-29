@@ -1,0 +1,31 @@
+Enunciation:
+.
+
+Proof:
+For let the area  be contained by the rational straight line  and the fourth apotome ; I say that the 
+ of the area  is minor.
+For let  be the annex to ; therefore ,  are rational straight lines commensurable in square only,  is commensurable in length with the rational straight line  set out, and the square on the whole  is greater than the square on the annex  by the square on a straight line incommensurable in length with , [elem.10.def.3.4]
+Since then the square on  is greater than the square on  by the square on a straight line incommensurable in length with , therefore, if there be applied to  a parallelogram equal to the fourth part of the square on  and deficient by a square figure, it will divide it into incommensurable parts. [elem.10.18]
+Let then  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, and let it be the rectangle , ; therefore  is incommensurable in length with .
+Let , ,  be drawn through , ,  parallel to , .
+Since then  is rational and commensurable in length with , therefore the whole  is rational. [elem.10.19]
+Again, since  is incommensurable in length with , and both are rational, therefore  is medial. [elem.10.21]
+Again, since  is incommensurable in length with , therefore  is also incommensurable with . [elem.6.1, elem.10.11]
+Now let the square  be constructed equal to , and let there be subtracted  equal to  and about the same angle, the angle .
+Therefore the squares ,  are about the same diameter. [elem.6.26]
+Let  be their diameter, and let the figure be drawn.
+Since then the rectangle ,  is equal to the square on , therefore, proportionally, as  is to , so is  to . [elem.6.17]
+But, as  is to , so is  to , and, as  is to , so is  to ; [elem.6.1] therefore  is a mean proportional between , . [elem.5.11]
+But  is also a mean proportional between the squares , , and  is equal to , and  to ; therefore  is also equal to .
+But  is equal to , and  is equal to ; therefore the whole  is equal to the gnomon  and .
+Since, then, the whole  is equal to the squares , , and, in these,  is equal to the gnomon  and the square , therefore the remainder  is equal to , that is, to the square on ; therefore  is the 
+ of the area .
+I say that  is the irrational straight line called minor.
+For, since  is rational and is equal to the squares on , , therefore the sum of the squares on ,  is rational.
+Again, since  is medial, and  is equal to twice the rectangle , , therefore twice the rectangle ,  is medial.
+And, since  was proved incommensurable with , therefore the square on  is also incommensurable with the square on .
+Therefore ,  are straight lines incommensurable in square which make the sum of the squares on them rational, but twice the rectangle contained by them medial.
+Therefore  is the irrational straight line called minor; [elem.10.76] and it is the 
+ of the area .
+Therefore the 
+ of the area  is minor. Q. E. D.

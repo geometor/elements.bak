@@ -36,7 +36,7 @@
             "emphs": []
         },
         {
-            "text": "Now the angle `BAC` is not equal to the angle `EDF`; for then the base `BC` would also have been equal to the base `EF`, [elem.1.4]",
+            "text": "Now the angle `BAC` is not equal to the angle `EDF`; for then the base `BC` would also have been equal to the base `EF`, [elem.1.4] > but it is not; therefore the angle `BAC` is not equal to the angle `EDF`.",
             "refs": [
                 "elem.1.4"
             ],
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "text": "Neither again is the angle `BAC` less than the angle `EDF`; for then the base `BC` would also have been less than the base `EF`, [elem.1.24]",
+            "text": "Neither again is the angle `BAC` less than the angle `EDF`; for then the base `BC` would also have been less than the base `EF`, [elem.1.24] > but it is not; therefore the angle `BAC` is not less than the angle `EDF`.",
             "refs": [
                 "elem.1.24"
             ],
@@ -60,7 +60,7 @@
             ]
         },
         {
-            "text": "But it was proved that it is not equal either;",
+            "text": "But it was proved that it is not equal either; > therefore the angle `BAC` is greater than the angle `EDF`.",
             "refs": [],
             "emphs": []
         },

@@ -1,0 +1,29 @@
+Enunciation:
+, , , , , , .
+
+Proof:
+Let the angles ,  be two equal rectilineal angles, and from the points ,  let the elevated straight lines ,  be set up containing, with the original straight lines, equal angles respectively, namely, the angle  to the angle  and the angle  to the angle , let points ,  be taken at random on , , let ,  be drawn from the points ,  perpendicular to the planes through ,  and , , and let them meet the planes at , , and let ,  be joined; I say that the angle  is equal to the angle .
+Let  be made equal to , and let  be drawn through the point  parallel to .
+But  is perpendicular to the plane through , ; therefore  is also perpendicular to the plane through. , . [elem.11.8]
+From the points ,  let , , ,  be drawn perpendicular to the straight lines , , , , and let , , ,  be joined.
+Since the square on  is equal to the squares on , , and the squares on ,  are equal to the square on , [elem.1.47] therefore the square on  is also equal to the squares on , , .
+But the square on  is equal to the squares on , ; [elem.1.47] therefore the square on  is equal to the squares on , .
+Therefore the angle  is right. [elem.1.48]
+For the same reason the angle  is also right.
+Therefore the angle  is equal to the angle .
+But the angle  is also equal to the angle .
+Therefore ,  are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that subtending one of the equal angles, that is,  equal to ; therefore they will also have the remaining sides equal to the remaining sides respectively. [elem.1.26]
+Therefore  is equal to .
+Similarly we can prove that  is also equal to .
+Since then  is equal to , and  to , the two sides ,  are equal to the two sides , .
+But the angle  is also equal to the angle ; therefore the base  is equal to the base , the triangle to the triangle, and the remaining angles to the remaining angles; [elem.1.4] therefore the angle  is equal to the angle .
+But the right angle  is also equal to the right angle ; therefore the remaining angle  is also equal to the remaining angle .
+For the same reason the angle  is also equal to the angle .
+Therefore ,  are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that adjacent to the equal angles, that is,  equal to ; therefore they will also have the remaining sides equal to the remaining sides. [elem.1.26]
+Therefore  is equal to .
+But  is also equal to ; therefore the two sides ,  are equal to the two sides , ; and they contain right angles.
+Therefore the base  is equal to the base . [elem.1.4]
+And, since  is equal to , the square on  is also equal to the square on .
+But the squares on ,  are equal to the square on , for the angle  is right; [elem.1.47] and the squares on ,  are equal to the square on , for the angle  is right; [elem.1.47] therefore the squares on ,  are equal to the squares on , ; and of these the square on  is equal to the square on ; therefore the remaining square on  is equal to the square on ; therefore  is equal to .
+And, since the two sides ,  are equal to the two sides ,  respectively, and the base  was proved equal to the base , therefore the angle  is equal to the angle . [elem.1.8]
+Therefore etc.

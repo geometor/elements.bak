@@ -44,14 +44,14 @@
             ]
         },
         {
-            "text": "Let the square on `AC` be added to each;",
+            "text": "Let the square on `AC` be added to each; > therefore the squares on `DA`, `AC` are equal to the squares on `BA`, `AC`.",
             "refs": [],
             "emphs": [
                 "AC"
             ]
         },
         {
-            "text": "But the square on `DC` is equal to the squares on `DA`, `AC`, for the angle `DAC` is right; [elem.1.47] and the square on `BC` is equal to the squares on `BA`, `AC`, for this is the hypothesis;",
+            "text": "But the square on `DC` is equal to the squares on `DA`, `AC`, for the angle `DAC` is right; [elem.1.47] and the square on `BC` is equal to the squares on `BA`, `AC`, for this is the hypothesis; > therefore the square on `DC` is equal to the square on `BC`, so that the side `DC` is also equal to `BC`.",
             "refs": [
                 "elem.1.47"
             ],
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "text": "And, since `DA` is equal to `AB`, and `AC` is common,  and the base `DC` is equal to the base `BC`;  But the angle `DAC` is right;",
+            "text": "And, since `DA` is equal to `AB`, and `AC` is common, > the two sides `DA`, `AC` are equal to the two sides `BA`, `AC`; and the base `DC` is equal to the base `BC`; > therefore the angle `DAC` is equal to the angle `BAC`. [elem.1.8] But the angle `DAC` is right; > therefore the angle `BAC` is also right.",
             "refs": [],
             "emphs": [
                 "DA",

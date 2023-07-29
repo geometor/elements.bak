@@ -2,26 +2,27 @@
     "id": "elem.10.21",
     "n": 21,
     "type": "propositions i\u201447",
+    "enunciation": "> The rectangle contained by rational straight lines commensurable in square only is irrational, and the side of the square equal to it is irrational. Let the latter be called\n       > medial.",
     "proof": [
         {
-            "text": "For let the rectangle  be contained by the rational straight lines ,  commensurable in square only; I say that  is irrational, and the side of the square equal to it is irrational; and let the latter be called",
+            "text": "For let the rectangle > AC be contained by the rational straight lines > AB, > BC commensurable in square only; I say that > AC is irrational, and the side of the square equal to it is irrational; and let the latter be called > medial.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For on  let the square  be described; therefore  is rational. [elem.10.def.4]",
+            "text": "For on > AB let the square > AD be described; therefore > AD is rational. [elem.10.def.4]",
             "refs": [
                 "elem.10.def.4"
             ],
             "emphs": []
         },
         {
-            "text": "And, since  is incommensurable in length with , for by hypothesis they are commensurable in square only, while  is equal to , therefore  is also incommensurable in length with .",
+            "text": "And, since > AB is incommensurable in length with > BC, for by hypothesis they are commensurable in square only, while > AB is equal to > BD, therefore > DB is also incommensurable in length with > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable with . [elem.10.11]",
+            "text": "And, as > DB is to > BC, so is > AD to > AC; [elem.6.1] therefore > DA is incommensurable with > AC. [elem.10.11]",
             "refs": [
                 "elem.6.1",
                 "elem.10.11"
@@ -29,14 +30,14 @@
             "emphs": []
         },
         {
-            "text": "But  is rational; therefore  is irrational, so that the side of the square equal to  is also irrational. [elem.10.def.4]",
+            "text": "But > DA is rational; therefore > AC is irrational, so that the side of the square equal to > AC is also irrational. [elem.10.def.4]",
             "refs": [
                 "elem.10.def.4"
             ],
             "emphs": []
         },
         {
-            "text": "And let the latter be called  Q. E. D.",
+            "text": "And let the latter be called > medial. Q. E. D.",
             "refs": [],
             "emphs": []
         }

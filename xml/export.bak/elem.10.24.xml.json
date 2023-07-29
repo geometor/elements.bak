@@ -1,0 +1,33 @@
+{
+    "id": "elem.10.24",
+    "n": 24,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let the rectangle  be contained by the medial straight lines ,  which are commensurable in length; I say that  is medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For on  let the square  be described; therefore  is medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is commensurable in length with , while  is equal to , therefore  is also commensurable in length with ; so that  is also commensurable with . [elem.6.1, elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is medial; therefore  is also medial. [elem.10.23.p.1] Q. E. D.",
+            "refs": [
+                "elem.10.23.p.1"
+            ],
+            "emphs": []
+        }
+    ]
+}

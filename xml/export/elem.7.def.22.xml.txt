@@ -1,4 +1,4 @@
 Enunciation:
-A  is that which is equal to its own parts.
+A > perfect number is that which is equal to its own parts.
 
 Proof:

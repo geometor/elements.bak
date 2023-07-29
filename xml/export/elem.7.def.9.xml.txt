@@ -1,4 +1,4 @@
 Enunciation:
-An  is that which is measured by an even number according to an odd number.
+An > even-times odd number is that which is measured by an even number according to an odd number.
 
 Proof:

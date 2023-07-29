@@ -37,7 +37,7 @@
             ]
         },
         {
-            "text": "Then, since `AB` is parallel to `CE`,",
+            "text": "Then, since `AB` is parallel to `CE`, > and `AC` has fallen upon them, the alternate angles `BAC`, `ACE` are equal to one another. [elem.1.29]",
             "refs": [],
             "emphs": [
                 "AB",
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "text": "Again, since `AB` is parallel to `CE`,  the exterior angle `ECD` is equal to the interior and opposite angle `ABC`. [elem.1.29]",
+            "text": "Again, since `AB` is parallel to `CE`, > and the straight line `BD` has fallen upon them, the exterior angle `ECD` is equal to the interior and opposite angle `ABC`. [elem.1.29]",
             "refs": [
                 "elem.1.29"
             ],
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "But the angle `ACE` was also proved equal to the angle `BAC`;",
+            "text": "But the angle `ACE` was also proved equal to the angle `BAC`; > therefore the whole angle `ACD` is equal to the two interior and opposite angles `BAC`, `ABC`.",
             "refs": [],
             "emphs": [
                 "ACE",
@@ -65,14 +65,14 @@
             ]
         },
         {
-            "text": "Let the angle `ACB` be added to each;",
+            "text": "Let the angle `ACB` be added to each; > therefore the angles `ACD`, `ACB` are equal to the three angles `ABC`, `BCA`, `CAB`.",
             "refs": [],
             "emphs": [
                 "ACB"
             ]
         },
         {
-            "text": "But the angles `ACD`, `ACB` are equal to two right angles; [elem.1.13]",
+            "text": "But the angles `ACD`, `ACB` are equal to two right angles; [elem.1.13] > therefore the angles `ABC`, `BCA`, `CAB` are also equal to two right angles.",
             "refs": [
                 "elem.1.13"
             ],

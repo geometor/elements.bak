@@ -1,0 +1,9 @@
+Enunciation:
+.
+
+Proof:
+For from the medial straight line  let there be subtracted the medial straight line  which is commensurable with  in square only and with  makes the rectangle ,  rational;  I say that the remainder  is irrational; and let it be called a  straight line.
+For, since ,  are medial, the squares on ,  are also medial.
+But twice the rectangle ,  is rational; therefore the squares on ,  are incommensurable with twice the rectangle , ; therefore twice the rectangle ,  is also incommensurable with the remainder, the square on , [Cf. elem.2.7] since, if the whole is incommensurable with one of the magnitudes, the original magnitudes will also be incommensurable. [elem.10.16]
+But twice the rectangle ,  is rational; therefore the square on  is irrational; therefore  is irrational. [elem.10.def.4]
+And let it be called a  straight line.

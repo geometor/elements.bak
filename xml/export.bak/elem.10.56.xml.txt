@@ -1,0 +1,16 @@
+Enunciation:
+
+
+Proof:
+For let the area  be contained by the rational straight line  and the third binomial  divided into its terms at , of which terms  is the greater; I say that the 
+ of the area  is the irrational straight line called a second bimedial.
+For let the same construction be made as before.
+Now, since  is a third binomial straight line, therefore ,  are rational straight lines commensurable in square only, the square on  is greater than the square on  by the square on a straight line commensurable with , and neither of the terms ,  is commensurable in length with . [elem.10.def.2.3]
+Then, in manner similar to the foregoing, we shall prove that  is the 
+ of the area , and ,  are medial straight lines commensurable in square only; so that  is bimedial.
+It is next to be proved that it is also a second bimedial straight line.
+Since  is incommensurable in length with , that is, with , and  is commensurable with , therefore  is incommensurable in length with . [elem.10.13]
+And they are rational; therefore ,  are rational straight lines commensurable in square only.
+Therefore , that is, , is medial. [elem.10.21]
+And it is contained by , ; therefore the rectangle ,  is medial.
+Therefore  is a second bimedial straight line. [elem.10.38] Q. E. D.

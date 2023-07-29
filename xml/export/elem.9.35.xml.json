@@ -2,43 +2,44 @@
     "id": "elem.9.35",
     "n": 35,
     "type": "proposition",
+    "enunciation": "> If as many numbers as we please be in continued proportion, and there be subtracted from the second and the last numbers equal to the first, then, as the excess of the second is to the first, so will the excess of the last be to all those before it.",
     "proof": [
         {
-            "text": "Let there be as many numbers as we please in continued proportion, , , , , beginning from  as least, and let there be subtracted from  and  the numbers , , each equal to ; I say that, as  is to , so is  to , , .",
+            "text": "Let there be as many numbers as we please in continued proportion, > A, > BC, > D, > EF, beginning from > A as least, and let there be subtracted from > BC and > EF the numbers > BG, > FH, each equal to > A; I say that, as > GC is to > A, so is > EH to > A, > BC, > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  be made equal to , and  equal to .",
+            "text": "For let > FK be made equal to > BC, and > FL equal to > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then, since  is equal to , and of these the part  is equal to the part , therefore the remainder  is equal to the remainder .",
+            "text": "Then, since > FK is equal to > BC, and of these the part > FH is equal to the part > BG, therefore the remainder > HK is equal to the remainder > GC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And since, as  is to , so is  to , and  to , while  is equal to ,  to , and  to , therefore, as  is to , so is  to , and  to .",
+            "text": "And since, as > EF is to > D, so is > D to > BC, and > BC to > A, while > D is equal to > FL, > BC to > FK, and > A to > FH, therefore, as > EF is to > FL, so is > LF to > FK, and > FK to > FH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": ", as  is to , so is  to , and  to . [elem.7.11 elem.7.13]",
+            "text": ", as > EL is to > LF, so is > LK to > FK, and > KH to > FH. [elem.7.11 elem.7.13]",
             "refs": [
                 "elem.7.11 elem.7.13"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore also, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.7.12] therefore, as  is to , so are , .  to , , .",
+            "text": "Therefore also, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.7.12] therefore, as > KH is to > FH, so are > EL, > LK. > KH to > LF, > FK, > HF.",
             "refs": [
                 "elem.7.12"
             ],
             "emphs": []
         },
         {
-            "text": "But  is equal to ,  to , and , ,  to , , ; therefore, as  is to , so is  to , , .",
+            "text": "But > KH is equal to > CG, > FH to > A, and > LF, > FK, > HF to > D, > BC, > A; therefore, as > CG is to > A, so is > EH to > D, > BC, > A.",
             "refs": [],
             "emphs": []
         },

@@ -33,7 +33,7 @@
             ]
         },
         {
-            "text": "Then, since a straight line `EF` through the centre cuts a straight line `AB` not through the centre at right angles, it also bisects it. [elem.3.3]",
+            "text": "Then, since a straight line `EF` through the centre cuts a straight line `AB` not through the centre at right angles, it also bisects it. [elem.3.3] \n       > Therefore `AF` is equal to `FB`; therefore `AB` is double of `AF`.",
             "refs": [
                 "elem.3.3"
             ],
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "text": "For the same reason  and `AB` is equal to `CD`;",
+            "text": "For the same reason > `CD` is also double of `CG`; and `AB` is equal to `CD`; > therefore `AF` is also equal to `CG`.",
             "refs": [],
             "emphs": [
                 "AB",
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "text": "And, since `AE` is equal to `EC`,  But the squares on `AF`, `EF` are equal to the square on `AE`, for the angle at `F` is right; and the squares on `EG`, `GC` are equal to the square on `EC`, for the angle at `G` is right; [elem.1.47]  of which the square on `AF` is equal to the square on `CG`, for `AF` is equal to `CG`;",
+            "text": "And, since `AE` is equal to `EC`, > the square on `AE` is also equal to the square on `EC`. But the squares on `AF`, `EF` are equal to the square on `AE`, for the angle at `F` is right; and the squares on `EG`, `GC` are equal to the square on `EC`, for the angle at `G` is right; [elem.1.47] > therefore the squares on `AF`, `FE` are equal to the squares on `CG`, `GE`, of which the square on `AF` is equal to the square on `CG`, for `AF` is equal to `CG`; > therefore the square on `FE` which remains is equal to the square on `EG`, therefore `EF` is equal to `EG`.",
             "refs": [
                 "elem.1.47"
             ],
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "text": "But in a circle straight lines are said to be equally distant from the centre when the perpendiculars drawn to them from the centre are equal; [elem.3.def.4]",
+            "text": "But in a circle straight lines are said to be equally distant from the centre when the perpendiculars drawn to them from the centre are equal; [elem.3.def.4] > therefore `AB`, `CD` are equally distant from the centre.",
             "refs": [
                 "elem.3.def.4"
             ],
@@ -108,7 +108,7 @@
             ]
         },
         {
-            "text": "And, since `AE` is equal to `CE`,  But the squares on `EF`, `FA` are equal to the square on `AE`, and the squares on `EG`, `GC` equal to the square on `CE`. [elem.1.47]",
+            "text": "And, since `AE` is equal to `CE`, > the square on `AE` is equal to the square on `CE`. But the squares on `EF`, `FA` are equal to the square on `AE`, and the squares on `EG`, `GC` equal to the square on `CE`. [elem.1.47]",
             "refs": [
                 "elem.1.47"
             ],
@@ -124,7 +124,7 @@
             ]
         },
         {
-            "text": "Therefore the squares on `EF`, `FA` are equal to the squares on `EG`, `GC`, of which the square on `EF` is equal to the square on `EG`, for `EF` is equal to `EG`; therefore the square on `AF` which remains is equal to the square on `CG`;  And `AB` is double of `AF`, and `CD` double of `CG`;",
+            "text": "Therefore the squares on `EF`, `FA` are equal to the squares on `EG`, `GC`, of which the square on `EF` is equal to the square on `EG`, for `EF` is equal to `EG`; therefore the square on `AF` which remains is equal to the square on `CG`; > therefore `AF` is equal to `CG`. And `AB` is double of `AF`, and `CD` double of `CG`; > therefore `AB` is equal to `CD`.",
             "refs": [],
             "emphs": [
                 "EF",

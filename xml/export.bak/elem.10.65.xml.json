@@ -1,0 +1,66 @@
+{
+    "id": "elem.10.65",
+    "n": 65,
+    "type": "propositions 48\u201484",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let  be the side of the sum of two medial areas, divided at , let  be a rational straight line, and let there be applied to  the parallelogram  equal to the square on , producing  as its breadth; I say that  is a sixth binomial straight line.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the same construction be made as before.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then, since  is the side of the sum of two medial areas, divided at , therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and moreover the sum of the squares on them incommensurable with the rectangle contained by them, [elem.10.41]  so that, in accordance with what was before proved, each of the rectangles ,  is medial.",
+            "refs": [
+                "elem.10.41"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And they are applied to the rational straight line ; therefore each of the straight lines ,  is rational and incommensurable in length with . [elem.10.22]",
+            "refs": [
+                "elem.10.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the sum of the squares on ,  is incommensurable with twice the rectangle , , therefore  is incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is also incommensurable with ; [elem.6.1, elem.10.11] therefore ,  are rational straight lines commensurable in square only; therefore  is binomial. [elem.10.36]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11",
+                "elem.10.36"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say next that it is also a sixth binomial straight line.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly again we can prove that the rectangle ,  is equal to the square on , and that  is incommensurable in length with ; and, for the same reason, the square on  is greater than the square on  by the square on a straight line incommensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And neither of the straight lines ,  is commensurable in length with the rational straight line  set out.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is a sixth binomial straight line. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -25,7 +25,7 @@
             ]
         },
         {
-            "text": "For, if the angle `BGC` is unequal to the angle `EHF`,  Let the angle `BGC` be greater : and on the straight line `BG`, and at the point `G` on it, let the angle `BGK` be constructed equal to the angle `EHF`. [elem.1.23]",
+            "text": "For, if the angle `BGC` is unequal to the angle `EHF`, > one of them is greater. Let the angle `BGC` be greater : and on the straight line `BG`, and at the point `G` on it, let the angle `BGK` be constructed equal to the angle `EHF`. [elem.1.23]",
             "refs": [
                 "elem.1.23"
             ],
@@ -40,14 +40,14 @@
             ]
         },
         {
-            "text": "Now equal angles stand on equal circumferences, when they are at the centres; [elem.3.26]",
+            "text": "Now equal angles stand on equal circumferences, when they are at the centres; [elem.3.26] > therefore the circumference `BK` is equal to the circumference `EF`.",
             "refs": [
                 "elem.3.26"
             ],
             "emphs": []
         },
         {
-            "text": "But `EF` is equal to `BC`;",
+            "text": "But `EF` is equal to `BC`; > therefore `BK` is also equal to `BC`, the less to the greater : which is impossible.",
             "refs": [],
             "emphs": [
                 "EF",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "text": "Therefore the angle `BGC` is not unequal to the angle `EHF`;",
+            "text": "Therefore the angle `BGC` is not unequal to the angle `EHF`; > therefore it is equal to it.",
             "refs": [],
             "emphs": [
                 "BGC",
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "text": "And the angle at `A` is half of the angle `BGC`,  therefore the angle at `A` is also equal to the angle at `D`.",
+            "text": "And the angle at `A` is half of the angle `BGC`, > and the angle at `D` half of the angle `EHF`; [elem.3.20] therefore the angle at `A` is also equal to the angle at `D`.",
             "refs": [],
             "emphs": [
                 "A",

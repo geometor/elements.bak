@@ -40,7 +40,7 @@
             ]
         },
         {
-            "text": "For the same reason each of the straight lines `BC`, `CD` is also equal to each of the straight lines `AB`, `AD`;",
+            "text": "For the same reason each of the straight lines `BC`, `CD` is also equal to each of the straight lines `AB`, `AD`; > therefore the quadrilateral `ABCD` is equilateral.",
             "refs": [],
             "emphs": [
                 "BC",
@@ -55,7 +55,7 @@
             "emphs": []
         },
         {
-            "text": "For, since the straight line `BD` is a diameter of the circle `ABCD`, therefore `BAD` is a semicircle;",
+            "text": "For, since the straight line `BD` is a diameter of the circle `ABCD`, therefore `BAD` is a semicircle; > therefore the angle `BAD` is right. [elem.3.31]",
             "refs": [],
             "emphs": [
                 "BD",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "text": "For the same reason each of the angles `ABC`, `BCD`, `CDA` is also right;",
+            "text": "For the same reason each of the angles `ABC`, `BCD`, `CDA` is also right; > therefore the quadrilateral `ABCD` is right-angled.",
             "refs": [],
             "emphs": [
                 "ABC",

@@ -1,0 +1,72 @@
+{
+    "id": "elem.7.20",
+    "n": 20,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let ,  be the least numbers of those which have the same ratio with , ; I say that  measures  the same number of times that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now  is not parts of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let it be so; therefore  is also the same parts of  that  is of . [elem.7.13 and elem.7.def.20]",
+            "refs": [
+                "elem.7.13",
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as many parts of  as there are in , so many parts of  are there also in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be divided into the parts of , namely , , and  into the parts of , namely , ; thus the multitude of ,  will be equal to the multitude of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the numbers ,  are equal to one another, and the numbers ,  are also equal to one another, while the multitude of ,  is equal to the multitude of , , therefore, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore also, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents. [elem.7.12]",
+            "refs": [
+                "elem.7.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are in the same ratio with , , being less than they: which is impossible, for by hypothesis ,  are the least numbers of those which have the same ratio with them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is not parts of ; therefore it is a part of it. [elem.7.4]",
+            "refs": [
+                "elem.7.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is the same part of  that  is of ; [elem.7.13 and elem.7.def.20] therefore  measures  the same number of times that  measures . Q. E. D.",
+            "refs": [
+                "elem.7.13",
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        }
+    ]
+}

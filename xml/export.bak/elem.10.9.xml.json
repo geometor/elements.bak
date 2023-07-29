@@ -1,0 +1,85 @@
+{
+    "id": "elem.10.9",
+    "n": 9,
+    "type": "propositions i\u201447",
+    "enunciation": ". .",
+    "proof": [
+        {
+            "text": "For let ,  be commensurable in length; I say that the square on  has to the square on  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is commensurable in length with , therefore  has to  the ratio which a number has to a number. [elem.10.5]",
+            "refs": [
+                "elem.10.5"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let it have to it the ratio which  has to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then, as  is to , so is  to , while the ratio of the square on  to the square on  is duplicate of the ratio of  to , for similar figures are in the duplicate ratio of their corresponding sides; [elem.6.20.p.1] and the ratio of the square on  to the square on  is duplicate of the ratio of  to , for between two square numbers there is one mean proportional number, and the square number has to the square number the ratio duplicate of that which the side has to the side; [elem.8.11] therefore also, as the square on  is to the square on , so is the square on  to the square on .",
+            "refs": [
+                "elem.6.20.p.1",
+                "elem.8.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, as the square on  is to the square on , so let the square on  be to the square on ; I say that  is commensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, as the square on  is to the square on , so is the square on  to the square on , while the ratio of the square on  to the square on  is duplicate of the ratio of  to , and the ratio of the square on  to the square on  is duplicate of the ratio of  to , therefore also, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  has to  the ratio which the number  has to the number ; therefore  is commensurable in length with . [elem.10.6]",
+            "refs": [
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  be incommensurable in length with ; I say that the square on  has not to the square on  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if the square on  has to the square on  the ratio which a square number has to a square number,  will be commensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it is not; therefore the square on  has not to the square on  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, let the square on  not have to the square on  the ratio which a square number has to a square number; I say that  is incommensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if  is commensurable with , the square on  will have to the square on  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it has not; therefore  is not commensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

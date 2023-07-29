@@ -1,0 +1,15 @@
+Enunciation:
+, , ,
+
+Proof:
+For let the straight line  be cut in extreme and mean ratio at the point , let  be the greater segment, and let  be equal to .
+I say that the straight line  has been cut in extreme and mean ratio at , and the original straight line  is the greater segment.
+For let the square  be described on , and let the figure be drawn.
+Since  has been cut in extreme and mean ratio at , therefore the rectangle ,  is equal to the square on . [elem.6.def.3 elem.6.17, VI. 17]
+And  is the rectangle , , and  the square on ; therefore  is equal to .
+But  is equal to , and  is equal to ; therefore  is also equal to .
+Therefore the whole  is equal to the whole .
+And  is the rectangle , , for  is equal to ; and  is the square on ; therefore the rectangle ,  is equal to the square on .
+Therefore, as  is to , so is  to . [elem.6.17]
+And  is greater than ; therefore  is also greater than . [elem.5.14]
+Therefore  has been cut in extreme and mean ratio at , and  is the greater segment. Q. E. D.

@@ -50,7 +50,7 @@
             ]
         },
         {
-            "text": "Then, since `AE` is equal to `EC`, and `BE` to `EF`,",
+            "text": "Then, since `AE` is equal to `EC`, and `BE` to `EF`, > the two sides `AE`, `EB` are equal to the two sides `CE`, `EF` respectively; and the angle `AEB` is equal to the angle `FEC`, for they are vertical angles. [elem.1.15] Therefore the base `AB` is equal to the base `FC`, and the triangle `ABE` is equal to the triangle `CFE`, and the remaining angles are equal to the remaining angles respectively, namely those which the equal sides subtend; [elem.1.4] therefore the angle `BAE` is equal to the angle `ECF`.",
             "refs": [],
             "emphs": [
                 "AE",
@@ -60,7 +60,7 @@
             ]
         },
         {
-            "text": "But the angle `ECD` is greater than the angle `ECF`; [. 5]",
+            "text": "But the angle `ECD` is greater than the angle `ECF`; [. 5] > therefore the angle `ACD` is greater than the angle `BAE`.",
             "refs": [],
             "emphs": [
                 "ECD",

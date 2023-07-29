@@ -30,7 +30,7 @@
             ]
         },
         {
-            "text": "Then, since a straight line `EF` touches the circle `ABC`,  the angle `FBC` is equal to the angle constructed in the alternate segment `BAC`. [elem.3.32]",
+            "text": "Then, since a straight line `EF` touches the circle `ABC`, > and `BC` has been drawn across from the point of contact at `B`, the angle `FBC` is equal to the angle constructed in the alternate segment `BAC`. [elem.3.32]",
             "refs": [
                 "elem.3.32"
             ],
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "But the angle `FBC` is equal to the angle at `D`;",
+            "text": "But the angle `FBC` is equal to the angle at `D`; > therefore the angle in the segment `BAC` is equal to the angle at `D`.",
             "refs": [],
             "emphs": [
                 "FBC",

@@ -1,0 +1,65 @@
+{
+    "id": "elem.3.19",
+    "n": 19,
+    "type": "proposition",
+    "enunciation": "`If a straight line touch a circle`, `and from the point of contact a straight line be drawn at right angles to the tangent`, `the centre of the circle will be on the straight line so drawn`.",
+    "proof": [
+        {
+            "text": "For let a straight line `DE` touch the circle `ABC` at the point `C`, and from `C` let `CA` be drawn at right angles to `DE`; I say that the centre of the circle is on `AC`.",
+            "refs": [],
+            "emphs": [
+                "DE",
+                "ABC",
+                "C",
+                "C",
+                "CA",
+                "DE",
+                "AC"
+            ]
+        },
+        {
+            "text": "For suppose it is not, but, if  possible, let `F` be the centre, and let `CF` be joined.",
+            "refs": [],
+            "emphs": [
+                "F",
+                "CF"
+            ]
+        },
+        {
+            "text": "Since a straight line `DE` touches the circle `ABC`, and `FC` has been joined from the centre to the point of contact,",
+            "refs": [],
+            "emphs": [
+                "DE",
+                "ABC",
+                "FC"
+            ]
+        },
+        {
+            "text": "But the angle `ACE` is also right;",
+            "refs": [],
+            "emphs": [
+                "ACE"
+            ]
+        },
+        {
+            "text": "Therefore `F` is not the centre of the circle `ABC`.",
+            "refs": [],
+            "emphs": [
+                "F",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that neither is any other point except a point on `AC`.",
+            "refs": [],
+            "emphs": [
+                "AC"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "elem.10.84",
+    "n": 84,
+    "type": "propositions 48\u201484",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let  be the straight line which produces with a medial area a medial whole, and  an annex to it; therefore ,  are straight lines incommensurable in square which fulfil the aforesaid conditions. [elem.10.78]",
+            "refs": [
+                "elem.10.78"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say that no other straight line can be annexed to  which fulfils the aforesaid conditions.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let  be so annexed, so that ,  are also straight lines incommensurable in square which make the squares on ,  added together medial, twice the rectangle ,  medial, and also the squares on ,  incommensurable with twice the rectangle , . [elem.10.78]",
+            "refs": [
+                "elem.10.78"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let a rational straight line  be set out, let  equal to the squares on ,  be applied to , producing  as breadth, and let  equal to twice the rectangle ,  be applied to , producing  as breadth; therefore the remainder, the square on  [elem.2.7], is equal to ; therefore  is the \n of .",
+            "refs": [
+                "elem.2.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, let  equal to the squares on ,  be applied to , producing  as breadth.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is also equal to ; therefore the remainder, twice the rectangle ,  [elem.2.7], is equal to .",
+            "refs": [
+                "elem.2.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the sum of the squares on ,  is medial and is equal to , therefore  is also medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]",
+            "refs": [
+                "elem.10.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, since twice the rectangle ,  is medial and is equal to , therefore  is also medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is applied to the rational straight line , producing  as breadth; therefore  is rational and incommensurable in length with . [elem.10.22]",
+            "refs": [
+                "elem.10.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the squares on ,  are incommensurable with twice the rectangle , ,  is also incommensurable with ; therefore  is also incommensurable in length with . [elem.6.1, elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome, and  an annex to it. [elem.10.73]",
+            "refs": [
+                "elem.10.73"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that  is again an apotome and  an annex to it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore to an apotome different rational straight lines are annexed which are commensurable with the wholes in square only: which was proved impossible. [elem.10.79]",
+            "refs": [
+                "elem.10.79"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no other straight line can be so annexed to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore to  only one straight line can be annexed which is incommensurable in square with the whole and which with the whole makes the squares on them added together medial, twice the rectangle contained by them medial, and also the squares on them incommensurable with twice the rectangle contained by them. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

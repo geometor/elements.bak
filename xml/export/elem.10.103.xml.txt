@@ -1,17 +1,17 @@
 Enunciation:
-.
+> A straight line commensurable in length with an apotome is an apotome and the same in order.
 
 Proof:
-Let  be an apotome, and let  be commensurable in length with ;  I say that  is also an apotome and the same in order with .
-For, since  is an apotome, let  be the annex to it; therefore ,  are rational straight lines commensurable in square only. [elem.10.73]
-Let it be contrived that the ratio of  to  is the same as the ratio of  to ; [elem.6.12] therefore also, as one is to one, so are all to all; [elem.5.12] therefore also, as the whole  is to the whole , so is  to .
-But  is commensurable in length with .
-Therefore  is also commensurable with , and  with . [elem.10.11]
-And ,  are rational straight lines commensurable in square only; therefore ,  are also rational straight lines commensurable in square only. [elem.10.13]
-Now since, as  is to , so is  to , alternately therefore, as  is to , so is  to . [elem.5.16]
-And the square on  is greater than the square on  either by the square on a straight line commensurable with  or by the square on a straight line incommensurable with it.
-If then the square on  is greater than the square on  by the square on a straight line commensurable with , the square on  will also be greater than the square on  by the square on a straight line commensurable with . [elem.10.14]
-And, if  is commensurable in length with the rational straight line set out,  is so also, [elem.10.12] if , then  also, [id.] and, if neither of the straight lines , , then neither of the straight lines , . [elem.10.13]
-But, if the square on  is greater than the square on  by the square on a straight line incommensurable with , the square on  will also be greater than the square on  by the square on a straight line incommensurable with . [elem.10.14]
-And, if  is commensurable in length with the rational straight line set out,  is so also, if , then  also, [elem.10.12] and, if neither of the straight lines , , then neither of the straight lines , . [elem.10.13]
-Therefore  is an apotome and the same in order with . Q. E. D.
+Let > AB be an apotome, and let > CD be commensurable in length with > AB;  I say that > CD is also an apotome and the same in order with > AB.
+For, since > AB is an apotome, let > BE be the annex to it; therefore > AE, > EB are rational straight lines commensurable in square only. [elem.10.73]
+Let it be contrived that the ratio of > BE to > DF is the same as the ratio of > AB to > CD; [elem.6.12] therefore also, as one is to one, so are all to all; [elem.5.12] therefore also, as the whole > AE is to the whole > CF, so is > AB to > CD.
+But > AB is commensurable in length with > CD.
+Therefore > AE is also commensurable with > CF, and > BE with > DF. [elem.10.11]
+And > AE, > EB are rational straight lines commensurable in square only; therefore > CF, > FD are also rational straight lines commensurable in square only. [elem.10.13]
+Now since, as > AE is to > CF, so is > BE to > DF, alternately therefore, as > AE is to > EB, so is > CF to > FD. [elem.5.16]
+And the square on > AE is greater than the square on > EB either by the square on a straight line commensurable with > AE or by the square on a straight line incommensurable with it.
+If then the square on > AE is greater than the square on > EB by the square on a straight line commensurable with > AE, the square on > CF will also be greater than the square on > FD by the square on a straight line commensurable with > CF. [elem.10.14]
+And, if > AE is commensurable in length with the rational straight line set out, > CF is so also, [elem.10.12] if > BE, then > DF also, [id.] and, if neither of the straight lines > AE, > EB, then neither of the straight lines > CF, > FD. [elem.10.13]
+But, if the square on > AE is greater than the square on > EB by the square on a straight line incommensurable with > AE, the square on > CF will also be greater than the square on > FD by the square on a straight line incommensurable with > CF. [elem.10.14]
+And, if > AE is commensurable in length with the rational straight line set out, > CF is so also, if > BE, then > DF also, [elem.10.12] and, if neither of the straight lines > AE, > EB, then neither of the straight lines > CF, > FD. [elem.10.13]
+Therefore > CD is an apotome and the same in order with > AB. Q. E. D.

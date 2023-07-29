@@ -2,14 +2,15 @@
     "id": "elem.9.18",
     "n": 18,
     "type": "proposition",
+    "enunciation": "> Given two numbers, to investigate whether it is possible to find a third proportional to them.",
     "proof": [
         {
-            "text": "Let ,  be the given two numbers, and let it be required to investigate whether it is possible to find a third proportional to them.",
+            "text": "Let > A, > B be the given two numbers, and let it be required to investigate whether it is possible to find a third proportional to them.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now ,  are either prime to one another or not.",
+            "text": "Now > A, > B are either prime to one another or not.",
             "refs": [],
             "emphs": []
         },
@@ -21,54 +22,54 @@
             "emphs": []
         },
         {
-            "text": "Next, let ,  not be prime to one another, and let  by multiplying itself make .",
+            "text": "Next, let > A, > B not be prime to one another, and let > B by multiplying itself make > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then  either measures  or does not measure it.",
+            "text": "Then > A either measures > C or does not measure it.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "First, let it measure it according to ; therefore  by multiplying  has made .",
+            "text": "First, let it measure it according to > D; therefore > A by multiplying > D has made > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, further,  has also by multiplying itself made ; therefore the product of ,  is equal to the square on .",
+            "text": "But, further, > B has also by multiplying itself made > C; therefore the product of > A, > D is equal to the square on > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is  to ; [elem.7.19] therefore a third proportional number  has been found to , .",
+            "text": "Therefore, as > A is to > B, so is > B to > D; [elem.7.19] therefore a third proportional number > D has been found to > A, > B.",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "Next, let  not measure ; I say that it is impossible to find a third proportional number to , .",
+            "text": "Next, let > A not measure > C; I say that it is impossible to find a third proportional number to > A, > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let , such third proportional, have been found.",
+            "text": "For, if possible, let > D, such third proportional, have been found.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the product of ,  is equal to the square on .",
+            "text": "Therefore the product of > A, > D is equal to the square on > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the square on  is ; therefore the product of ,  is equal to .",
+            "text": "But the square on > B is > C; therefore the product of > A, > D is equal to > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Hence  by multiplying  has made ; therefore  measures  according to .",
+            "text": "Hence > A by multiplying > D has made > C; therefore > A measures > C according to > D.",
             "refs": [],
             "emphs": []
         },
@@ -78,7 +79,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore it is not possible to find a third proportional number to ,  when  does not measure . Q. E. D.",
+            "text": "Therefore it is not possible to find a third proportional number to > A, > B when > A does not measure > C. Q. E. D.",
             "refs": [],
             "emphs": []
         }

@@ -1,0 +1,298 @@
+{
+    "id": "elem.5.8",
+    "n": 8,
+    "type": "proposition",
+    "enunciation": "`Of unequal magnitudes`, `the greater has to the same a greater ratio than the less has`; `and the same has to the less a greater ratio than it has to the greater`.",
+    "proof": [
+        {
+            "text": "Let `AB`, `C` be unequal magnitudes, and let `AB` be greater; let `D` be another, chance, magnitude; I say that `AB` has to `D` a greater ratio than `C` has to `D`, and `D` has to `C` a greater ratio than it has to `AB`.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "C",
+                "AB",
+                "D",
+                "AB",
+                "D",
+                "C",
+                "D",
+                "D",
+                "C",
+                "AB"
+            ]
+        },
+        {
+            "text": "For, since `AB` is greater than `C`, let `BE` be made equal to `C`; then the less of the magnitudes `AE`, `EB`, if multiplied, will sometime be greater than `D`. [elem.5.def.4]",
+            "refs": [
+                "elem.5.def.4"
+            ],
+            "emphs": [
+                "AB",
+                "C",
+                "BE",
+                "C",
+                "AE",
+                "EB",
+                "D"
+            ]
+        },
+        {
+            "text": "[ I.]",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let `AE` be less than `EB`; let `AE` be multiplied, and let `FG` be a multiple of it which is greater than `D`; then, whatever multiple `FG` is of `AE`, let `GH` be made the same multiple of `EB` and `K` of `C`; and let `L` be taken double of `D`, `M` triple of it, and successive multiples increasing by one, until what is taken is a multiple of `D` and the first that is greater than `K`. Let it be taken, and let it be `N` which is quadruple of `D` and the first multiple of it that is greather than `K`.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "EB",
+                "AE",
+                "FG",
+                "D",
+                "FG",
+                "AE",
+                "GH",
+                "EB",
+                "K",
+                "C",
+                "L",
+                "D",
+                "M",
+                "D",
+                "K",
+                "N",
+                "D",
+                "K"
+            ]
+        },
+        {
+            "text": "Then, since `K` is less than `N` first, therefore `K` is not less than `M`.",
+            "refs": [],
+            "emphs": [
+                "K",
+                "N",
+                "K",
+                "M"
+            ]
+        },
+        {
+            "text": "And, since `FG` is the same multiple of `AE` that `GH` is of `EB`, therefore `FG` is the same multiple of `AE` that `FH` is of `AB`. [elem.5.1]",
+            "refs": [
+                "elem.5.1"
+            ],
+            "emphs": [
+                "FG",
+                "AE",
+                "GH",
+                "EB",
+                "FG",
+                "AE",
+                "FH",
+                "AB"
+            ]
+        },
+        {
+            "text": "But `FG` is the same multiple of `AE` that `K` is of `C`;",
+            "refs": [],
+            "emphs": [
+                "FG",
+                "AE",
+                "K",
+                "C"
+            ]
+        },
+        {
+            "text": "Again, since `GH` is the same multiple of `EB` that `K` is of `C`, and `EB` is equal to `C`,",
+            "refs": [],
+            "emphs": [
+                "GH",
+                "EB",
+                "K",
+                "C",
+                "EB",
+                "C"
+            ]
+        },
+        {
+            "text": "But `K` is not less than `M`;",
+            "refs": [],
+            "emphs": [
+                "K",
+                "M"
+            ]
+        },
+        {
+            "text": "And `FG` is greater than `D`; therefore the whole `FH` is greater than `D`, `M` together.",
+            "refs": [],
+            "emphs": [
+                "FG",
+                "D",
+                "FH",
+                "D",
+                "M"
+            ]
+        },
+        {
+            "text": "But `D`, `M` together are equal to `N`, inasmuch as `M` is triple of `D`, and `M`, `D` together are quadruple of `D`, while `N` is also quadruple of `D`; whence `M`, `D` together are equal to `N`.",
+            "refs": [],
+            "emphs": [
+                "D",
+                "M",
+                "N",
+                "M",
+                "D",
+                "M",
+                "D",
+                "D",
+                "N",
+                "D",
+                "M",
+                "D",
+                "N"
+            ]
+        },
+        {
+            "text": "But `FH` is greater than `M`, `D`;  while `K` is not in excess of `N`.",
+            "refs": [],
+            "emphs": [
+                "FH",
+                "M",
+                "D",
+                "K",
+                "N"
+            ]
+        },
+        {
+            "text": "And `FH`, `K` are equimultiples of `AB`, `C`, while `N` is another, chance, multiple of `D`;",
+            "refs": [],
+            "emphs": [
+                "FH",
+                "K",
+                "AB",
+                "C",
+                "N",
+                "D"
+            ]
+        },
+        {
+            "text": "I say next, that `D` also has to `C` a greater ratio than `D` has to `AB`.",
+            "refs": [],
+            "emphs": [
+                "D",
+                "C",
+                "D",
+                "AB"
+            ]
+        },
+        {
+            "text": "For, with the same construction, we can prove similarly that `N` is in excess of `K`, while `N` is not in excess of `FH`.",
+            "refs": [],
+            "emphs": [
+                "N",
+                "K",
+                "N",
+                "FH"
+            ]
+        },
+        {
+            "text": "And `N` is a multiple of `D`, while `FH`, `K` are other, chance, equimultiples of `AB`, `C`;",
+            "refs": [],
+            "emphs": [
+                "N",
+                "D",
+                "FH",
+                "K",
+                "AB",
+                "C"
+            ]
+        },
+        {
+            "text": "[ 2.]",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, let `AE` be greater than `EB`.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "EB"
+            ]
+        },
+        {
+            "text": "Then the less, `EB`, if multiplied, will sometime be greater than `D`. [elem.5.def.4]",
+            "refs": [
+                "elem.5.def.4"
+            ],
+            "emphs": [
+                "EB",
+                "D"
+            ]
+        },
+        {
+            "text": "Let it be multiplied, and let `GH` be a multiple of `EB` and greater than `D`; and, whatever multiple `GH` is of `EB`, let `FG` be made the same multiple of `AE`, and `K`\n        of `C`.",
+            "refs": [],
+            "emphs": [
+                "GH",
+                "EB",
+                "D",
+                "GH",
+                "EB",
+                "FG",
+                "AE",
+                "K",
+                "C"
+            ]
+        },
+        {
+            "text": "Then we can prove similarly that `FH`, `K` are equimultiples of `AB`, `C`; and, similarly, let `N` be taken a multiple of `D` but the first that is greater than `FG`, so that `FG` is again not less than `M`.",
+            "refs": [],
+            "emphs": [
+                "FH",
+                "K",
+                "AB",
+                "C",
+                "N",
+                "D",
+                "FG",
+                "FG",
+                "M"
+            ]
+        },
+        {
+            "text": "But `GH` is greater than `D`; therefore the whole `FH` is in excess of `D`, `M`, that is, of `N`.",
+            "refs": [],
+            "emphs": [
+                "GH",
+                "D",
+                "FH",
+                "D",
+                "M",
+                "N"
+            ]
+        },
+        {
+            "text": "Now `K` is not in excess of `N`, inasmuch as `FG` also, which is greater than `GH`, that is, than `K`, is not in excess of `N`.",
+            "refs": [],
+            "emphs": [
+                "K",
+                "N",
+                "FG",
+                "GH",
+                "K",
+                "N"
+            ]
+        },
+        {
+            "text": "And in the same manner, by following the above argument, we complete the demonstration.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "elem.7.27",
+    "n": 27,
+    "type": "proposition",
+    "enunciation": "[].",
+    "proof": [
+        {
+            "text": "Let ,  be two numbers prime to one another, let  by multiplying itself make , and by multiplying  make , and let  by multiplying itself make , and by multiplying  make ; I say that both ,  and ,  are prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since ,  are prime to one another, and  by multiplying itself has made , therefore ,  are prime to one another. [elem.7.25]",
+            "refs": [
+                "elem.7.25"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Since then ,  are prime to one another, and  by multiplying itself has made , therefore ,  are prime to one another. [.]",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since ,  are prime to one another, and  by multiplying itself has made , therefore ,  are prime to one another. [.]",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then the two numbers ,  are prime to the two numbers , , both to each, therefore also the product of ,  is prime to the product of , . [elem.7.26]",
+            "refs": [
+                "elem.7.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the product of ,  is , and the product of ,  is .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are prime to one another. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

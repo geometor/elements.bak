@@ -2,14 +2,15 @@
     "id": "elem.8.21",
     "n": 21,
     "type": "proposition",
+    "enunciation": "> If two mean proportional numbers fall between two numbers, the numbers are similar solid numbers.",
     "proof": [
         {
-            "text": "For let two mean proportional numbers ,  fall between the two numbers , ; I say that ,  are similar solid numbers.",
+            "text": "For let two mean proportional numbers > C, > D fall between the two numbers > A, > B; I say that > A, > B are similar solid numbers.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let three numbers , , , the least of those which have the same ratio with , , , be taken; [elem.7.33 or elem.8.2] therefore the extremes of them ,  are prime to one another. [elem.8.3]",
+            "text": "For let three numbers > E, > F, > G, the least of those which have the same ratio with > A, > C, > D, be taken; [elem.7.33 or elem.8.2] therefore the extremes of them > E, > G are prime to one another. [elem.8.3]",
             "refs": [
                 "elem.7.33",
                 "elem.8.2",
@@ -18,31 +19,31 @@
             "emphs": []
         },
         {
-            "text": "Now, since one mean proportional number  has fallen between , , therefore ,  are similar plane numbers. [elem.8.20]",
+            "text": "Now, since one mean proportional number > F has fallen between > E, > G, therefore > E, > G are similar plane numbers. [elem.8.20]",
             "refs": [
                 "elem.8.20"
             ],
             "emphs": []
         },
         {
-            "text": "Let, then, ,  be the sides of , and ,  of .",
+            "text": "Let, then, > H, > K be the sides of > E, and > L, > M of > G.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore it is manifest from the theorem before this that , ,  are continuously proportional in the ratio of  to  and that of  to .",
+            "text": "Therefore it is manifest from the theorem before this that > E, > F, > G are continuously proportional in the ratio of > H to > L and that of > K to > M.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since , ,  are the least of the numbers which have the same ratio with , , , and the multitude of the numbers , ,  is equal to the multitude of the numbers , , , therefore, , as  is to , so is  to . [elem.7.14]",
+            "text": "Now, since > E, > F, > G are the least of the numbers which have the same ratio with > A, > C, > D, and the multitude of the numbers > E, > F, > G is equal to the multitude of the numbers > A, > C, > D, therefore, , as > E is to > G, so is > A to > D. [elem.7.14]",
             "refs": [
                 "elem.7.14"
             ],
             "emphs": []
         },
         {
-            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least measure those which have the same ratio with them the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore  measures  the same number of times that  measures .",
+            "text": "But > E, > G are prime, primes are also least, [elem.7.21] and the least measure those which have the same ratio with them the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore > E measures > A the same number of times that > G measures > D.",
             "refs": [
                 "elem.7.21",
                 "elem.7.20"
@@ -50,47 +51,47 @@
             "emphs": []
         },
         {
-            "text": "Now, as many times as  measures , so many units let there be in .",
+            "text": "Now, as many times as > E measures > A, so many units let there be in > N.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  by multiplying  has made .",
+            "text": "Therefore > N by multiplying > E has made > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is the product of , ; therefore  by multiplying the product of ,  has made .",
+            "text": "But > E is the product of > H, > K; therefore > N by multiplying the product of > H, > K has made > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is solid, and , ,  are its sides.",
+            "text": "Therefore > A is solid, and > H, > K, > N are its sides.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since , ,  are the least of the numbers which have the same ratio as , , , therefore  measures  the same number of times that  measures .",
+            "text": "Again, since > E, > F, > G are the least of the numbers which have the same ratio as > C, > D, > B, therefore > E measures > C the same number of times that > G measures > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, as many times as  measures , so many units let there be in .",
+            "text": "Now, as many times as > E measures > C, so many units let there be in > O.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  measures  according to the units in ; therefore  by multiplying  has made .",
+            "text": "Therefore > G measures > B according to the units in > O; therefore > O by multiplying > G has made > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is the product of , ; therefore  by multiplying the product of ,  has made .",
+            "text": "But > G is the product of > L, > M; therefore > O by multiplying the product of > L, > M has made > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is solid, and , ,  are its sides; therefore ,  are solid.",
+            "text": "Therefore > B is solid, and > L, > M, > O are its sides; therefore > A, > B are solid.",
             "refs": [],
             "emphs": []
         },
@@ -100,24 +101,24 @@
             "emphs": []
         },
         {
-            "text": "For since ,  by multiplying  have made , , therefore, as  is to , so is  to , that is,  to . [elem.7.18]",
+            "text": "For since > N, > O by multiplying > E have made > A, > C, therefore, as > N is to > O, so is > A to > C, that is, > E to > F. [elem.7.18]",
             "refs": [
                 "elem.7.18"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to  and  to ; therefore also, as  is to , so is  to  and  to .",
+            "text": "But, as > E is to > F, so is > H to > L and > K to > M; therefore also, as > H is to > L, so is > K to > M and > N to > O.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And , ,  are the sides of , and , ,  the sides of .",
+            "text": "And > H, > K, > N are the sides of > A, and > O, > L, > M the sides of > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are similar solid numbers. Q. E. D.",
+            "text": "Therefore > A, > B are similar solid numbers. Q. E. D.",
             "refs": [],
             "emphs": []
         }

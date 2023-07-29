@@ -1,0 +1,13 @@
+Enunciation:
+,
+
+Proof:
+Let  be a circle, and let the equilateral triangle  be inscribed in it; I say that the square on one side of the triangle  is triple of the square on the radius of the circle.
+For let the centre  of the circle  be taken, let  be joined and carried through to , and let  be joined.
+Then, since the triangle  is equilateral, therefore the circumference  is a third part of the circumference of the circle .
+Therefore the circumference  is a sixth part of the circumference of the circle; therefore the straight line  belongs to a hexagon; therefore it is equal to the radius . [elem.4.15.p.1]
+And, since  is double of , the square on  is quadruple of the square on , that is, of the square on .
+But the square on  is equal to the squares on , ; [elem.3.31, elem.1.47] therefore the squares on ,  are quadruple of the square on .
+Therefore, , the square on  is triple of the square on .
+But  is equal to ; therefore the square on  is triple of the square on .
+Therefore the square on the side of the triangle is triple of the square on the radius. Q. E. D.

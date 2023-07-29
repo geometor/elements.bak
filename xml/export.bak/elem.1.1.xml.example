@@ -1,0 +1,18 @@
+Enunciation:
+construct equilateral triangle on segment
+
+Proof:
+set given points `A`, `B`
+set segment `AB` as `s_1`
+construct circle `AB` as `c_1`
+construct circle `BA` as `c_2`
+set points `C`, `D` at intersection of `c_1` and `c_2`
+set segment `AC` as `s_2`
+set segment `BC` as `s_3`
+as radii on the same circle, `s_1` = `s_2`
+as radii on the same circle, `s_1` = `s_3`
+therefore, `s_2` = `s_3`
+
+since the segments of triangle `ABC` are equal, `ABC` is equilateral
+
+triangle `ABD` is also equilateral

@@ -1,4 +1,4 @@
 Enunciation:
-Straight lines are  when the squares on them are measured by the same area, and  when the squares on them cannot possibly have any area as a common measure.
+Straight lines are > commensurable in square when the squares on them are measured by the same area, and > incommensurable in square when the squares on them cannot possibly have any area as a common measure.
 
 Proof:

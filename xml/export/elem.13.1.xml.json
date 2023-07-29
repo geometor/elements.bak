@@ -2,20 +2,20 @@
     "id": "elem.13.1",
     "n": 1,
     "type": "proposition",
-    "enunciation": ",",
+    "enunciation": "> If a straight line be cut in extreme and mean ratio, > the square on the greater segment added to the half of the whole is five times the square on the half.",
     "proof": [
         {
-            "text": "For let the straight line  be cut in extreme and mean ratio at the point , and let  be the greater segment; let the straight line  be produced in a straight line with , and let  be made half of ; I say that the square on  is five times the square on .",
+            "text": "For let the straight line > AB be cut in extreme and mean ratio at the point > C, and let > AC be the greater segment; let the straight line > AD be produced in a straight line with > CA, and let > AD be made half of > AB; I say that the square on > CD is five times the square on > AD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let the squares ,  be described on , , and let the figure in  be drawn; let  be carried through to .",
+            "text": "For let the squares > AE, > DF be described on > AB, > DC, and let the figure in > DF be drawn; let > FC be carried through to > G.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  has been cut in extreme and mean ratio at , therefore the rectangle ,  is equal to the square on . [elem.6.def.3, elem.6.17]",
+            "text": "Now, since > AB has been cut in extreme and mean ratio at > C, therefore the rectangle > AB, > BC is equal to the square on > AC. [elem.6.def.3, elem.6.17]",
             "refs": [
                 "elem.6.def.3",
                 "elem.6.17"
@@ -23,49 +23,49 @@
             "emphs": []
         },
         {
-            "text": "And  is the rectangle , , and  the square on ; therefore  is equal to .",
+            "text": "And > CE is the rectangle > AB, > BC, and > FH the square on > AC; therefore > CE is equal to > FH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is double of , while  is equal to , and  to , therefore  is also double of .",
+            "text": "And, since > BA is double of > AD, while > BA is equal to > KA, and > AD to > AH, therefore > KA is also double of > AH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to ; [elem.6.1] therefore  is double of .",
+            "text": "But, as > KA is to > AH, so is > CK to > CH; [elem.6.1] therefore > CK is double of > CH.",
             "refs": [
                 "elem.6.1"
             ],
             "emphs": []
         },
         {
-            "text": "But ,  are also double of .",
+            "text": "But > LH, > HC are also double of > CH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is equal to , .",
+            "text": "Therefore > KC is equal to > LH, > HC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  was also proved equal to ; therefore the whole square  is equal to the gnomon .",
+            "text": "But > CE was also proved equal to > HF; therefore the whole square > AE is equal to the gnomon > MNO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is double of , the square on  is quadruple of the square on , that is,  is quadruple of .",
+            "text": "And, since > BA is double of > AD, the square on > BA is quadruple of the square on > AD, that is, > AE is quadruple of > DH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is equal to the gnomon ; therefore the gnomon  is also quadruple of ; therefore the whole  is five times .",
+            "text": "But > AE is equal to the gnomon > MNO; therefore the gnomon > MNO is also quadruple of > AP; therefore the whole > DF is five times > AP.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is the square on , and  the square on ; therefore the square on  is five times the square on .",
+            "text": "And > DF is the square on > DC, and > AP the square on > DA; therefore the square on > CD is five times the square on > DA.",
             "refs": [],
             "emphs": []
         },

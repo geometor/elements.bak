@@ -1,15 +1,15 @@
 Enunciation:
-,
+> If a rational straight line be cut in extreme and mean ratio, > each of the segments is the irrational straight line called apotome.
 
 Proof:
-Let  be a rational straight line, let it be cut in extreme and mean ratio at , and let  be the greater segment; I say that each of the straight lines ,  is the irrational straight line called apotome.
-For let  be produced, and let  be made half of .
-Since then the straight line  has been cut in extreme and mean ratio, and to the greater segment  is added  which is half of , therefore the square on  is five times the square on . [elem.13.1]
-Therefore the square on  has to the square on  the ratio which a number has to a number; therefore the square on  is commensurable with the square on . [elem.10.6]
-But the square on  is rational, for  is rational, being half of  which is rational; therefore the square on  is also rational; [elem.10.def.4] therefore  is also rational.
-And, since the square on  has not to the square on  the ratio which a square number has to a square number, therefore  is incommensurable in length with ; [elem.10.9] therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]
-Again, since  has been cut in extreme and mean ratio, and  is the greater segment, therefore the rectangle ,  is equal to the square on . [elem.6.def.3, elem.6.17]
-Therefore the square on the apotome , if applied to the rational straight line , produces  as breadth.
-But the square on an apotome, if applied to a rational straight line, produces as breadth a first apotome; [elem.10.97] therefore  is a first apotome.
-And  was also proved to be an apotome.
+Let > AB be a rational straight line, let it be cut in extreme and mean ratio at > C, and let > AC be the greater segment; I say that each of the straight lines > AC, > CB is the irrational straight line called apotome.
+For let > BA be produced, and let > AD be made half of > BA.
+Since then the straight line > AB has been cut in extreme and mean ratio, and to the greater segment > AC is added > AD which is half of > AB, therefore the square on > CD is five times the square on > DA. [elem.13.1]
+Therefore the square on > CD has to the square on > DA the ratio which a number has to a number; therefore the square on > CD is commensurable with the square on > DA. [elem.10.6]
+But the square on > DA is rational, for > DA is rational, being half of > AB which is rational; therefore the square on > CD is also rational; [elem.10.def.4] therefore > CD is also rational.
+And, since the square on > CD has not to the square on > DA the ratio which a square number has to a square number, therefore > CD is incommensurable in length with > DA; [elem.10.9] therefore > CD, > DA are rational straight lines commensurable in square only; therefore > AC is an apotome. [elem.10.73]
+Again, since > AB has been cut in extreme and mean ratio, and > AC is the greater segment, therefore the rectangle > AB, > BC is equal to the square on > AC. [elem.6.def.3, elem.6.17]
+Therefore the square on the apotome > AC, if applied to the rational straight line > AB, produces > BC as breadth.
+But the square on an apotome, if applied to a rational straight line, produces as breadth a first apotome; [elem.10.97] therefore > CB is a first apotome.
+And > CA was also proved to be an apotome.
 Therefore etc. Q. E. D.

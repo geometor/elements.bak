@@ -1,0 +1,33 @@
+{
+    "id": "elem.7.13",
+    "n": 13,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let the four numbers , , ,  be proportional, so that,  I say that they will also be proportional alternately, so that,",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, as  is to , so is  to , therefore, whatever part or parts  is of , the same part or the same parts is  of  also. [elem.7.def.20]",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, alternately, whatever part or parts  is of , the same part or the same parts is  of  also. [elem.7.10]",
+            "refs": [
+                "elem.7.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as  is to , so is  to . [elem.7.def.20] Q. E. D.",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "elem.10.96",
+    "n": 96,
+    "type": "propositions 85\u2014115",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let the area  be contained by the rational straight line  and the sixth apotome ; I say that the \n of the area  is a straight line which produces with a medial area a medial whole.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  be the annex to ; therefore ,  are rational straight lines commensurable in square only, neither of them is commensurable in length with the rational straight line  set out, and the square on the whole  is greater than the square on the annex  by the square on a straight line incommensurable in length with . [elem.10.def.3.6]",
+            "refs": [
+                "elem.10.def.3.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Since then the square on  is greater than the square on  by the square on a straight line incommensurable in length with , therefore, if there be applied to  a parallelogram equal to the fourth part of the square on  and deficient by a square figure, it will divide it into incommensurable parts. [elem.10.18]",
+            "refs": [
+                "elem.10.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let then  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, and let it be the rectangle , ; therefore  is incommensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to . [elem.6.1] therefore  is incommensurable with . [elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since ,  are rational straight lines commensurable in square only,  is medial. [elem.10.21]",
+            "refs": [
+                "elem.10.21"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, since ,  are rational straight lines and incommensurable in length,  is also medial. [elem.10.21]",
+            "refs": [
+                "elem.10.21"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since ,  are commensurable in square only, therefore  is incommensurable in length with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable with . [elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now let the square  be constructed equal to , and let  equal to , and about the same angle, be subtracted; therefore the squares ,  are about the same diameter. [elem.6.26]",
+            "refs": [
+                "elem.6.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let  be their diameter, and let the figure be drawn.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then in manner similar to the above we can prove that  is the \n of the area .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that  is a straight line which produces with a medial area a medial whole.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  was proved medial and is equal to the squares on , , therefore the sum of the squares on ,  is medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  was proved medial and is equal to twice the rectangle , , twice the rectangle ,  is also medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  was proved incommensurable with , the squares on ,  are also incommensurable with twice the rectangle , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is incommensurable with , therefore the square on  is also incommensurable with the square on ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, twice the rectangle contained by them medial, and further the squares on them incommensurable with twice the rectangle contained by them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is the irrational straight line called that which produces with a medial area a medial whole; [elem.10.78] and it is the \n of the area",
+            "refs": [
+                "elem.10.78"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the \n of the area is a straight line which produces with a medial area a medial whole. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

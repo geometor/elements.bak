@@ -1,10 +1,10 @@
 Enunciation:
-
+> If a cube number by multiplying a cube number make some number, the product will be cube.
 
 Proof:
-For let the cube number  by multiplying the cube number  make ; I say that  is cube.
-For let  by multiplying itself make ; therefore  is cube. [elem.9.3]
-And, since  by multiplying itself has made , and by multiplying  has made  therefore, as  is to , so is  to . [elem.7.17]
-And, since ,  are cube numbers, ,  are similar solid numbers.
-Therefore two mean proportional numbers fall between , ; [elem.8.19] so that two mean proportional numbers will fall between ,  also. [elem.8.8]
-And  is cube; therefore  is also cube [elem.8.23] Q. E. D.
+For let the cube number > A by multiplying the cube number > B make > C; I say that > C is cube.
+For let > A by multiplying itself make > D; therefore > D is cube. [elem.9.3]
+And, since > A by multiplying itself has made > D, and by multiplying > B has made > C therefore, as > A is to > B, so is > D to > C. [elem.7.17]
+And, since > A, > B are cube numbers, > A, > B are similar solid numbers.
+Therefore two mean proportional numbers fall between > A, > B; [elem.8.19] so that two mean proportional numbers will fall between > D, > C also. [elem.8.8]
+And > D is cube; therefore > C is also cube [elem.8.23] Q. E. D.

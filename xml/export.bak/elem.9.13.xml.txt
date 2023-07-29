@@ -1,0 +1,43 @@
+Enunciation:
+.
+
+Proof:
+Let there be as many numbers as we please, , , , , beginning from an unit and in continued proportion, and let , the number after the unit, be prime; I say that , the greatest of them, will not be measured by any other number except , , .
+For, if possible, let it be measured by , and let  not be the same with any of the numbers , , .
+It is then manifest that  is not prime.
+For, if  is prime and measures , it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible.
+Therefore  is not prime.
+Therefore it is composite.
+But any composite number is measured by some prime number; [elem.7.31] therefore  is measured by some prime number.
+I say next that it will not be measured by any other prime except .
+For, if  is measured by another, and  measures , that other will also measure ; so that it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible.
+Therefore  measures .
+And, since  measures , let it measure it according to .
+I say that  is not the same with any of the numbers , , .
+For, if  is the same with one of the numbers , , , and measures  according to , therefore one of the numbers , ,  also measures  according to .
+But one of the numbers , ,  measures  according to some one of the numbers , , ; [elem.9.11] therefore  is also the same with one of the numbers , , : which is contrary to the hypothesis.
+Therefore  is not the same as any one of the numbers , , .
+Similarly we can prove that  is measured by , by proving again that  is not prime.
+For, if it is, and measures , it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible; therefore  is not prime.
+Therefore it is composite.
+But any composite number is measured by some prime number; [elem.7.31] therefore  is measured by some prime number.
+I say next that it will not be measured by any other prime except .
+For, if any other prime number measures , and  measures , that other will also measure ; so that it will also measure  [elem.9.12], which is prime, though it is not the same with it: which is impossible.
+Therefore  measures .
+And, since  measures  according to , therefore  by multiplying  has made .
+But, further,  has also by multiplying  made ; [elem.9.11] therefore the product of ,  is equal to the product of , .
+Therefore, proportionally, as  is to , so is  to . [elem.7.19]
+But  measures ; therefore  also measures .
+Let it measure it according to .
+Similarly, then, we can prove that  is not the same with any of the numbers , , and that it is measured by .
+And, since  measures  according to  therefore  by multiplying  has made .
+But, further,  has also by multiplying  made ; [elem.9.11] therefore the product of ,  is equal to the product of , .
+Therefore, proportionally, as  is to , so is  to . [elem.7.19]
+But  measures ; therefore  also measures .
+Let it measure it according to .
+Similarly then we can prove that  is not the same with .
+And, since  measures  according to , therefore  by multiplying  has made .
+But further  has also by multiplying itself made ; [elem.9.8] therefore the product of ,  is equal to the square on .
+Therefore, as  is to , so is  to . [elem.7.19]
+But  measures ;< therefore  also measures , which is prime, though it is not the same with it: which is absurd.
+Therefore  the greatest will not be measured by any other number except , , . Q. E. D.

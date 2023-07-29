@@ -75,14 +75,14 @@
             ]
         },
         {
-            "text": "Therefore, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents; [elem.5.12]",
+            "text": "Therefore, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents; [elem.5.12] > therefore, as `AG` is to `DK`, so is `AB` to `DE`.",
             "refs": [
                 "elem.5.12"
             ],
             "emphs": []
         },
         {
-            "text": "But `AG` is equal to `C` and `DK` to `F`;",
+            "text": "But `AG` is equal to `C` and `DK` to `F`; > therefore, as `C` is to `F`, so is `AB` to `DE`.",
             "refs": [],
             "emphs": [
                 "AG",

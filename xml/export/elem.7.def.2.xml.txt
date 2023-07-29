@@ -1,4 +1,4 @@
 Enunciation:
-A  is a multitude composed of units.
+A > number is a multitude composed of units.
 
 Proof:

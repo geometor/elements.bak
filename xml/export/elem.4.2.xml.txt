@@ -6,5 +6,5 @@ Let `ABC` be the given circle, and `DEF` the given triangle; thus it is required
 Let `GH` be drawn touching the circle `ABC` at `A` [elem.3.16.p.1]; on the straight line `AH`, and at the point `A` on it, let the angle `HAC` be constructed equal to the angle `DEF`, and on the straight line `AG`, and at the point `A` on it, let the angle `GAB` be constructed equal to the angle `DFE`; [elem.1.23] let `BC` be joined.
 Then, since a straight line `AH` touches the circle `ABC`, and from the point of contact at `A` the straight line `AC` is drawn across in the circle, therefore the angle `HAC` is equal to the angle `ABC` in the alternate segment of the circle. [elem.3.32]
 But the angle `HAC` is equal to the angle `DEF`; therefore the angle `ABC` is also equal to the angle `DEF`.
-For the same reason  therefore the remaining angle `BAC` is also equal to the remaining angle `EDF`. [elem.1.32]
+For the same reason > the angle `ACB` is also equal to the angle `DFE`; therefore the remaining angle `BAC` is also equal to the remaining angle `EDF`. [elem.1.32]
 Therefore in the given circle there has been inscribed a triangle equiangular with the given triangle. Q. E. F.

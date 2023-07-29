@@ -2,43 +2,44 @@
     "id": "elem.12.1",
     "n": 1,
     "type": "proposition",
+    "enunciation": "> Similar polygons inscribed in circles are to one another as the squares on the diameters.",
     "proof": [
         {
-            "text": "Let ,  be circles, let ,  be similar polygons inscribed in them, and let ,  be diameters of the circles; I say that, as the square on  is to the square on , so is the polygon  to the polygon .",
+            "text": "Let > ABC, > FGH be circles, let > ABCDE, > FGHKL be similar polygons inscribed in them, and let > BM, > GN be diameters of the circles; I say that, as the square on > BM is to the square on > GN, so is the polygon > ABCDE to the polygon > FGHKL.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let , , ,  be joined.",
+            "text": "For let > BE, > AM, > GL, > FN be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since the polygon  is similar to the polygon , the angle  is equal to the angle , and, as  is to , so is  to . [VI. Def. I]",
+            "text": "Now, since the polygon > ABCDE is similar to the polygon > FGHKL, the angle > BAE is equal to the angle > GFL, and, as > BA is to > AE, so is > GF to > FL. [VI. Def. I]",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Thus ,  are two triangles which have one angle equal to one angle, namely the angle  to the angle , and the sides about the equal angles proportional; therefore the triangle  is equiangular with the triangle . [elem.6.6]",
+            "text": "Thus > BAE, > GFL are two triangles which have one angle equal to one angle, namely the angle > BAE to the angle > GFL, and the sides about the equal angles proportional; therefore the triangle > ABE is equiangular with the triangle > FGL. [elem.6.6]",
             "refs": [
                 "elem.6.6"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the angle  is equal to the angle .",
+            "text": "Therefore the angle > AEB is equal to the angle > FLG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the angle  is equal to the angle , for they stand on the same circumference; [elem.3.27] and the angle  to the angle ; therefore the angle  is also equal to the angle .",
+            "text": "But the angle > AEB is equal to the angle > AMB, for they stand on the same circumference; [elem.3.27] and the angle > FLG to the angle > FNG; therefore the angle > AMB is also equal to the angle > FNG.",
             "refs": [
                 "elem.3.27"
             ],
             "emphs": []
         },
         {
-            "text": "But the right angle  is also equal to the right angle ; [elem.3.31] therefore the remaining angle is equal to the remaining angle. [elem.1.32]",
+            "text": "But the right angle > BAM is also equal to the right angle > GFN; [elem.3.31] therefore the remaining angle is equal to the remaining angle. [elem.1.32]",
             "refs": [
                 "elem.3.31",
                 "elem.1.32"
@@ -46,19 +47,19 @@
             "emphs": []
         },
         {
-            "text": "Therefore the triangle  is equiangular with the triangle .",
+            "text": "Therefore the triangle > ABM is equiangular with the triangle > FGN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, proportionally, as  is to , so is  to . [elem.6.4]",
+            "text": "Therefore, proportionally, as > BM is to > GN, so is > BA to > GF. [elem.6.4]",
             "refs": [
                 "elem.6.4"
             ],
             "emphs": []
         },
         {
-            "text": "But the ratio of the square on  to the square on  is duplicate of the ratio of  to , and the ratio of the polygon  to the polygon  is duplicate of the ratio of  to ; [elem.6.20] therefore also, as the square on  is to the square on , so is the polygon  to the polygon .",
+            "text": "But the ratio of the square on > BM to the square on > GN is duplicate of the ratio of > BM to > GN, and the ratio of the polygon > ABCDE to the polygon > FGHKL is duplicate of the ratio of > BA to > GF; [elem.6.20] therefore also, as the square on > BM is to the square on > GN, so is the polygon > ABCDE to the polygon > FGHKL.",
             "refs": [
                 "elem.6.20"
             ],

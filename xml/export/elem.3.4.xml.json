@@ -30,7 +30,7 @@
             ]
         },
         {
-            "text": "Then, since a straight line `FE` through the centre bisects a straight line `AC` not through the centre,",
+            "text": "Then, since a straight line `FE` through the centre bisects a straight line `AC` not through the centre, > it also cuts it at right angles; [elem.3.3] therefore the angle `FEA` is right.",
             "refs": [],
             "emphs": [
                 "FE",
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "text": "Again, since a straight line `FE` bisects a straight line `BD`,",
+            "text": "Again, since a straight line `FE` bisects a straight line `BD`, > it also cuts it at right angles; [elem.3.3] therefore the angle `FEB` is right.",
             "refs": [],
             "emphs": [
                 "FE",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "text": "But the angle `FEA` was also proved right;",
+            "text": "But the angle `FEA` was also proved right; > therefore the angle `FEA` is equal to the angle `FEB`, the less to the greater: which is impossible.",
             "refs": [],
             "emphs": [
                 "FEA"

@@ -2,80 +2,80 @@
     "id": "elem.13.3",
     "n": 3,
     "type": "proposition",
-    "enunciation": ",",
+    "enunciation": "> If a straight line be cut in extreme and mean ratio, > the square on the lesser segment added to the half of the greater segment is five times the square on the half of the greater segment.",
     "proof": [
         {
-            "text": "For let any straight line  be cut in extreme and mean ratio at the point , let  be the greater segment, and let  be bisected at ; I say that the square on  is five times the square on .",
+            "text": "For let any straight line > AB be cut in extreme and mean ratio at the point > C, let > AC be the greater segment, and let > AC be bisected at > D; I say that the square on > BD is five times the square on > DC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let the square  be described on , and let the figure be drawn double.",
+            "text": "For let the square > AE be described on > AB, and let the figure be drawn double.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since  is double of , therefore the square on  is quadruple of the square on , that is,  is quadruple of .",
+            "text": "Since > AC is double of > DC, therefore the square on > AC is quadruple of the square on > DC, that is, > RS is quadruple of > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since the rectangle ,  is equal to the square on , and  is the rectangle , , therefore  is equal to .",
+            "text": "And, since the rectangle > AB, > BC is equal to the square on > AC, and > CE is the rectangle > AB, > BC, therefore > CE is equal to > RS.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is quadruple of ; therefore  is also quadruple of .",
+            "text": "But > RS is quadruple of > FG; therefore > CE is also quadruple of > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since  is equal to ,  is also equal to .",
+            "text": "Again, since > AD is equal to > DC, > HK is also equal to > KF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Hence the square  is also equal to the square .",
+            "text": "Hence the square > GF is also equal to the square > HL.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is equal to , that is,  to ; hence  is also equal to .",
+            "text": "Therefore > GK is equal to > KL, that is, > MN to > NE; hence > MF is also equal to > FE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is equal to ; therefore  is also equal to .",
+            "text": "But > MF is equal to > CG; therefore > CG is also equal to > FE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  be added to each; therefore the gnomon  is equal to .",
+            "text": "Let > CN be added to each; therefore the gnomon > OPQ is equal to > CE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  was proved quadruple of ; therefore the gnomon  is also quadruple of the square .",
+            "text": "But > CE was proved quadruple of > GF; therefore the gnomon > OPQ is also quadruple of the square > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the gnomon  and the square  are five times .",
+            "text": "Therefore the gnomon > OPQ and the square > FG are five times > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the gnomon  and the square  are the square .",
+            "text": "But the gnomon > OPQ and the square > FG are the square > DN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is the square on , and  the square on .",
+            "text": "And > DN is the square on > DB, and > GF the square on > DC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the square on  is five times the square on . Q. E. D.",
+            "text": "Therefore the square on > DB is five times the square on > DC. Q. E. D.",
             "refs": [],
             "emphs": []
         }

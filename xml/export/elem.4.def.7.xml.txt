@@ -1,4 +1,4 @@
 Enunciation:
-A straight line is said to be  when its extremities are on the circumference of the circle.
+A straight line is said to be > fitted into a circle when its extremities are on the circumference of the circle.
 
 Proof:

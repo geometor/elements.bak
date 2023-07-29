@@ -2,99 +2,100 @@
     "id": "elem.8.18",
     "n": 18,
     "type": "proposition",
+    "enunciation": "> Between two similar plane numbers there is one mean proportional number; and the plane number has to the plane number the ratio duplicate of that which the corresponding side has to the corresponding side.",
     "proof": [
         {
-            "text": "Let ,  be two similar plane numbers, and let the numbers ,  be the sides of , and ,  of .",
+            "text": "Let > A, > B be two similar plane numbers, and let the numbers > C, > D be the sides of > A, and > E, > F of > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since similar plane numbers are those which have their sides proportional, [elem.7.def.21] therefore, as  is to , so is  to .",
+            "text": "Now, since similar plane numbers are those which have their sides proportional, [elem.7.def.21] therefore, as > C is to > D, so is > E to > F.",
             "refs": [
                 "elem.7.def.21"
             ],
             "emphs": []
         },
         {
-            "text": "I say then that between ,  there is one mean proportional number, and  has to  the ratio duplicate of that which  has to , or  to , that is, of that which the corresponding side has to the corresponding side.",
+            "text": "I say then that between > A, > B there is one mean proportional number, and > A has to > B the ratio duplicate of that which > C has to > E, or > D to > F, that is, of that which the corresponding side has to the corresponding side.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now since, as  is to , so is  to , therefore, alternately, as  is to , so is  to . [elem.7.13]",
+            "text": "Now since, as > C is to > D, so is > E to > F, therefore, alternately, as > C is to > E, so is > D to > F. [elem.7.13]",
             "refs": [
                 "elem.7.13"
             ],
             "emphs": []
         },
         {
-            "text": "And, since  is plane, and ,  are its sides, therefore  by multiplying  has made .",
+            "text": "And, since > A is plane, and > C, > D are its sides, therefore > D by multiplying > C has made > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the same reason also  by multiplying  has made .",
+            "text": "For the same reason also > E by multiplying > F has made > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now let  by multiplying  make .",
+            "text": "Now let > D by multiplying > E make > G.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then, since  by multiplying  has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "Then, since > D by multiplying > C has made > A, and by multiplying > E has made > G, therefore, as > C is to > E, so is > A to > G. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to ; therefore also, as  is to , so is  to .",
+            "text": "But, as > C is to > E, so is > D to > F; therefore also, as > D is to > F, so is > A to > G.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since  by multiplying  has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]",
+            "text": "Again, since > E by multiplying > D has made > G, and by multiplying > F has made > B, therefore, as > D is to > F, so is > G to > B. [elem.7.17]",
             "refs": [
                 "elem.7.17"
             ],
             "emphs": []
         },
         {
-            "text": "But it was also proved that,  therefore also, as  is to , so is  to .",
+            "text": "But it was also proved that, > as > D is to > F, so is > A to > G; therefore also, as > A is to > G, so is > G to > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore , ,  are in continued proportion.",
+            "text": "Therefore > A, > G, > B are in continued proportion.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore between ,  there is one mean proportional number.",
+            "text": "Therefore between > A, > B there is one mean proportional number.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say next that  also has to  the ratio duplicate of that which the corresponding side has to the corresponding side, that is, of that which  has to  or  to .",
+            "text": "I say next that > A also has to > B the ratio duplicate of that which the corresponding side has to the corresponding side, that is, of that which > C has to > E or > D to > F.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since , ,  are in continued proportion,  has to  the ratio duplicate of that which it has to . [elem.5.def.9]",
+            "text": "For, since > A, > G, > B are in continued proportion, > A has to > B the ratio duplicate of that which it has to > G. [elem.5.def.9]",
             "refs": [
                 "elem.5.def.9"
             ],
             "emphs": []
         },
         {
-            "text": "And, as  is to , so is  to , and so is  to .",
+            "text": "And, as > A is to > G, so is > C to > E, and so is > D to > F.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  also has to  the ratio duplicate of that which  has to  or  to . Q. E. D.",
+            "text": "Therefore > A also has to > B the ratio duplicate of that which > C has to > E or > D to > F. Q. E. D.",
             "refs": [],
             "emphs": []
         }

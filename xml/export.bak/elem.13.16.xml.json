@@ -1,0 +1,288 @@
+{
+    "id": "elem.13.16",
+    "n": 16,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "Let the diameter  of the given sphere be set out, and let it be cut at  so that  is quadruple of , let the semicircle  be described on , let the straight line  be drawn from  at right angles to , and let  be joined;  let the circle  be set out and let its radius be equal to , let the equilateral and equiangular pentagon  be inscribed in the circle , let the circumferences , , , ,  be bisected at the points , , , , , and let , , , , ,  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the pentagon  is also equilateral, and the straight line  belongs to a decagon.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now from the points , , , ,  let the straight lines , , , ,  be set up at right angles to the plane of the circle, and let them be equal to the radius of the circle , let , , , , , , , , , , , , , ,  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since each of the straight lines ,  is at right angles to the same plane, therefore  is parallel to . [elem.11.6]",
+            "refs": [
+                "elem.11.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it is also equal to it; and the straight lines joining those extremities of equal and parallel straight lines which are in the same direction are equal and parallel. [elem.1.33]",
+            "refs": [
+                "elem.1.33"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is equal and parallel to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  belongs to an equilateral pentagon; therefore  also belongs to the equilateral pentagon inscribed in the circle .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason each of the straight lines , , ,  also belongs to the equilateral pentagon inscribed in the circle ; therefore the pentagon  is equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  belongs to a hexagon, and  to a decagon, and the angle  is right, therefore  belongs to a pentagon; for the square on the side of the pentagon is equal to the square on the side of the hexagon and the square on the side of the decagon inscribed in the same circle. [elem.13.10]",
+            "refs": [
+                "elem.13.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  is also a side of a pentagon.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  also belongs to a pentagon; therefore the triangle  is equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason each of the triangles , , ,  is also equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since each of the straight lines ,  was proved to belong to a pentagon, and  also belongs to a pentagon, therefore the triangle  is equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason each of the triangles , , ,  is also equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the centre of the circle  the point , be taken; from  let  be set up at right angles to the plane of the circle, let it be produced in the other direction, as , let there be cut off , the side of a hexagon, and each of the straight lines , , being sides of a decagon, and let , , , , , ,  be joined.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since each of the straight lines ,  is at right angles to the plane of the circle, therefore  is parallel to . [elem.11.6]",
+            "refs": [
+                "elem.11.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But they are also equal; therefore ,  are also equal and parallel. [elem.1.33]",
+            "refs": [
+                "elem.1.33"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  belongs to a hexagon; therefore  also belongs to a hexagon.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  belongs to a hexagon, and  to a decagon, and the angle  is right, therefore  belongs to a pentagon. [elem.13.10]",
+            "refs": [
+                "elem.13.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason  also belongs to a pentagon, inasmuch as, if we join , , they will be equal and opposite, and , being a radius, belongs to a hexagon; [elem.4.15.p.1] therefore  also belongs to a hexagon.",
+            "refs": [
+                "elem.4.15.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  belongs to a decagon, and the angle  is right; therefore  belongs to a pentagon. [elem.13.10]",
+            "refs": [
+                "elem.13.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  also belongs to a pentagon; therefore the triangle  is equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason each of the remaining triangles of which the straight lines , , ,  are the bases, and the point  the vertex, is also equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  belongs to a hexagon, and  to a decagon, and the angle  is right, therefore  belongs to a pentagon. [elem.13.10]",
+            "refs": [
+                "elem.13.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason, if we join , which belongs to a hexagon,  is also inferred to belong to a pentagon.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  also belongs to a pentagon; therefore the triangle  is equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly it can be proved that each of the remaining triangles of which , , ,  are the bases, and the point  the vertex, is also equilateral.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore an icosahedron has been constructed which is contained by twenty equilateral triangles.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "It is next required to comprehend it in the given sphere, and to prove that the side of the icosahedron is the irrational straight line called minor.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  belongs to a hexagon, and  to a decagon, therefore  has been cut in extreme and mean ratio at , and  is its greater segment; [elem.13.9] therefore, as  is to , so is  to .",
+            "refs": [
+                "elem.13.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to , and  to ; therefore, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And the angles ,  are right; therefore, if we join the straight line , the angle  will be right because of the similarity of the triangles , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason, since, as  is to , so is  to , and  is equal to , and  to , therefore, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And for this reason again, if we join , the angle at  will be right; [elem.6.8] therefore the semicircle described on  will also pass through . [elem.3.31]",
+            "refs": [
+                "elem.6.8",
+                "elem.3.31"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And if,  remaining fixed, the semicircle be carried round and restored to the same position from which it began to be moved, it will also pass through  and the remaining angular points of the icosahedron, and the icosahedron will have been comprehended in a sphere.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that it is also comprehended in the given sphere.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  be bisected at .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then, since the straight line  has been cut in extreme and mean ratio at , and  is its lesser segment, therefore the square on  added to the half of the greater segment, that is , is five times the square on the half of the greater segment; [elem.13.3] therefore the square on  is five times the square on .",
+            "refs": [
+                "elem.13.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is double of , and  double of ; therefore the square on  is five times the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is quadruple of , therefore  is five times .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is the square on  to the square on ; [elem.6.8, elem.5.def.9] therefore the square on  is five times the square on .",
+            "refs": [
+                "elem.6.8",
+                "elem.5.def.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  was also proved to be five times the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is equal to , for each of them is equal to the radius of the circle ; therefore  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is the diameter of the given sphere; therefore  is also equal to the diameter of the given sphere.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the icosahedron has been comprehended in the given sphere",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that the side of the icosahedron is the irrational straight line called minor.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since the diameter of the sphere is rational, and the square on it is five times the square on the radius of the circle , therefore the radius of the circle  is also rational; hence its diameter is also rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, if an equilateral pentagon be inscribed in a circle which has its diameter rational, the side of the pentagon is the irrational straight line called minor. [elem.13.11]",
+            "refs": [
+                "elem.13.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the side of the pentagon  is the side of the icosahedron.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the side of the icosahedron is the irrational straight line called minor.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

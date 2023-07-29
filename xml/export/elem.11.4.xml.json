@@ -2,20 +2,20 @@
     "id": "elem.11.4",
     "n": 4,
     "type": "proposition",
-    "enunciation": ", ,",
+    "enunciation": "> If a straight line be set up at right angles to two straight lines which cut one another, > at their common point of section, > it will also be at right angles to the plane through them.",
     "proof": [
         {
-            "text": "For let a straight line  be set up at right angles to the two straight lines , , which cut one another at the point , from ; I say that  is also at right angles to the plane through , .",
+            "text": "For let a straight line > EF be set up at right angles to the two straight lines > AB, > CD, which cut one another at the point > E, from > E; I say that > EF is also at right angles to the plane through > AB, > CD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let , , ,  be cut off equal to one another, and let any straight line  be drawn across through , at random; let ,  be joined, and further let , , , , ,  be joined from the point  taken at random <on >.",
+            "text": "For let > AE, > EB, > CE, > ED be cut off equal to one another, and let any straight line > GEH be drawn across through > E, at random; let > AD, > CB be joined, and further let > FA, > FG, > FD, > FC, > FH, > FB be joined from the point > F taken at random <on > EF>.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since the two straight lines ,  are equal to the two straight lines , , and contain equal angles, [elem.1.15] therefore the base  is equal to the base , and the triangle  will be equal to the triangle ; [elem.1.4] so that the angle  is also equal to the angle .",
+            "text": "Now, since the two straight lines > AE, > ED are equal to the two straight lines > CE, > EB, and contain equal angles, [elem.1.15] therefore the base > AD is equal to the base > CB, and the triangle > AED will be equal to the triangle > CEB; [elem.1.4] so that the angle > DAE is also equal to the angle > EBC.",
             "refs": [
                 "elem.1.15",
                 "elem.1.4"
@@ -23,7 +23,7 @@
             "emphs": []
         },
         {
-            "text": "But the angle  is also equal to the angle ; [elem.1.15] therefore ,  are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely that adjacent to the equal angles, that is to say,  to ; therefore they will also have the remaining sides equal to the remaining sides. [elem.1.26]",
+            "text": "But the angle > AEG is also equal to the angle > BEH; [elem.1.15] therefore > AGE, > BEH are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely that adjacent to the equal angles, that is to say, > AE to > EB; therefore they will also have the remaining sides equal to the remaining sides. [elem.1.26]",
             "refs": [
                 "elem.1.15",
                 "elem.1.26"
@@ -31,77 +31,77 @@
             "emphs": []
         },
         {
-            "text": "Therefore  is equal to , and  to .",
+            "text": "Therefore > GE is equal to > EH, and > AG to > BH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is equal to , while  is common and at right angles, therefore the base  is equal to the base . [elem.1.4]",
+            "text": "And, since > AE is equal to > EB, while > FE is common and at right angles, therefore the base > FA is equal to the base > FB. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason  is also equal to .",
+            "text": "For the same reason > FC is also equal to > FD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is equal to , and  is also equal to , the two sides ,  are equal to the two sides ,  respectively; and the base  was proved equal to the base ; therefore the angle  is also equal to the angle . [elem.1.8]",
+            "text": "And, since > AD is equal to > CB, and > FA is also equal to > FB, the two sides > FA, > AD are equal to the two sides > FB, > BC respectively; and the base > FD was proved equal to the base > FC; therefore the angle > FAD is also equal to the angle > FBC. [elem.1.8]",
             "refs": [
                 "elem.1.8"
             ],
             "emphs": []
         },
         {
-            "text": "And since, again,  was proved equal to , and further  also equal to , the two sides ,  are equal to the two sides , .",
+            "text": "And since, again, > AG was proved equal to > BH, and further > FA also equal to > FB, the two sides > FA, > AG are equal to the two sides > FB, > BH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And the angle  was proved equal to the angle ; therefore the base  is equal to the base . [elem.1.4]",
+            "text": "And the angle > FAG was proved equal to the angle > FBH; therefore the base > FG is equal to the base > FH. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
             "emphs": []
         },
         {
-            "text": "Now since, again,  was proved equal to , and  is common, the two sides ,  are equal to the two sides , ; and the base  is equal to the base ; therefore the angle  is equal to the angle . [elem.1.8]",
+            "text": "Now since, again, > GE was proved equal to > EH, and > EF is common, the two sides > GE, > EF are equal to the two sides > HE, > EF; and the base > FG is equal to the base > FH; therefore the angle > GEF is equal to the angle > HEF. [elem.1.8]",
             "refs": [
                 "elem.1.8"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore each of the angles ,  is right.",
+            "text": "Therefore each of the angles > GEF, > HEF is right.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is at right angles to  drawn at random through .",
+            "text": "Therefore > FE is at right angles to > GH drawn at random through > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that  will also make right angles with all the straight lines which meet it and are in the plane of reference.",
+            "text": "Similarly we can prove that > FE will also make right angles with all the straight lines which meet it and are in the plane of reference.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But a straight line is at right angles to a plane when it makes right angles with all the straight lines which meet it and are in that same plane; [elem.11.def.3] therefore  is at right angles to the plane of reference.",
+            "text": "But a straight line is at right angles to a plane when it makes right angles with all the straight lines which meet it and are in that same plane; [elem.11.def.3] therefore > FE is at right angles to the plane of reference.",
             "refs": [
                 "elem.11.def.3"
             ],
             "emphs": []
         },
         {
-            "text": "But the plane of reference is the plane through the straight lines , .",
+            "text": "But the plane of reference is the plane through the straight lines > AB, > CD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is at right angles to the plane through , .",
+            "text": "Therefore > FE is at right angles to the plane through > AB, > CD.",
             "refs": [],
             "emphs": []
         },

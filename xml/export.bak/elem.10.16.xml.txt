@@ -1,0 +1,22 @@
+Enunciation:
+.
+
+Proof:
+For let the two incommensurable magnitudes ,  be added together; I say that the whole  is also incommensurable with each of the magnitudes , .
+For, if ,  are not incommensurable, some magnitude will measure them.
+Let it measure them, if possible, and let it be .
+Since then  measures , , therefore it will also measure the remainder .
+But it measures  also; therefore  measures , .
+Therefore ,  are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.
+Therefore no magnitude will measure , ; therefore ,  are incommensurable. [elem.10.def.1]
+Similarly we can prove that ,  are also incommensurable.
+Therefore  is incommensurable with each of the magnitudes , .
+Next, let  be incommensurable with one of the magnitudes , .
+First, let it be incommensurable with ; I say that ,  are also incommensurable.
+For, if they are commensurable, some magnitude will measure them.
+Let it measure them, and let it be .
+Since then  measures , . therefore it will also measure the whole .
+But it measures  also; therefore  measures , .
+Therefore ,  are commensurable; but they were also, by hypothesis, incommensurable: which is impossible.
+Therefore no magnitude will measure , ; therefore ,  are incommensurable. [elem.10.def.1]
+Therefore etc.

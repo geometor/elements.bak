@@ -1,0 +1,33 @@
+{
+    "id": "elem.8.26",
+    "n": 26,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let ,  be similar plane numbers; I say that  has to  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since ,  are similar plane numbers, therefore one mean proportional number falls between , . [elem.8.18]",
+            "refs": [
+                "elem.8.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let it so fall, and let it be ; and let , , , the least numbers of those which have the same ratio with , , , be taken; [elem.7.33 or elem.8.2] therefore the extremes of them ,  are square. [elem.8.2.p.1]",
+            "refs": [
+                "elem.7.33",
+                "elem.8.2",
+                "elem.8.2.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And since, as  is to , so is  to , and ,  are square, therefore  has to  the ratio which a square number has to a square number. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

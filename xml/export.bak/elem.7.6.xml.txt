@@ -1,0 +1,10 @@
+Enunciation:
+
+
+Proof:
+For let the number  be parts of the number , and another, , the same parts of another, , that  is of ; I say that the sum of ,  is also the same parts of the sum of ,  that  is of .
+For since, whatever parts  is of ,  is also the same parts of , therefore, as many parts of  as there are in , so many parts of  are there also in .
+Let  be divided into the parts of , namely , , and  into the parts of , namely , ; thus the multitude of ,  will be equal to the multitude of , .
+And since, whatever part  is of , the same part is  of  also, therefore, whatever part  is of , the same part also is the sum of ,  of the sum of , . [elem.7.5]
+For the same reason, whatever part  is of , the same part also is the sum of ,  of the sum of , .
+Therefore, whatever parts  is of , the same parts also is the sum of ,  of the sum of , . Q. E. D.

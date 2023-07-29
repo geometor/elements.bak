@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "Then, since the complement `CH` is equal to the complement `HF`, [elem.1.43] let `DM` be added to each;",
+            "text": "Then, since the complement `CH` is equal to the complement `HF`, [elem.1.43] let `DM` be added to each; > therefore the whole `CM` is equal to the whole `DF`.",
             "refs": [
                 "elem.1.43"
             ],
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "text": "But `CM` is equal to `AL`,  Let `CH` be added to each;",
+            "text": "But `CM` is equal to `AL`, > since `AC` is also equal to `CB`; [elem.1.36] therefore `AL` is also equal to `DF`. Let `CH` be added to each; > therefore the whole `AH` is equal to the gnomon `NOP`.",
             "refs": [],
             "emphs": [
                 "CM",
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "text": "But `AH` is the rectangle `AD`, `DB`, for `DH` is equal to `DB`,",
+            "text": "But `AH` is the rectangle `AD`, `DB`, for `DH` is equal to `DB`, > therefore the gnomon `NOP` is also equal to the rectangle `AD`, `DB`.",
             "refs": [],
             "emphs": [
                 "AH",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "text": "Let `LG`, which is equal to the square on `CD`, be added to each;",
+            "text": "Let `LG`, which is equal to the square on `CD`, be added to each; > therefore the gnomon `NOP` and `LG` are equal to the rectangle contained by `AD`, `DB` and the square on `CD`.",
             "refs": [],
             "emphs": [
                 "LG",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "text": "But the gnomon `NOP` and `LG` are the whole square `CEFB`, which is described on `CB`;",
+            "text": "But the gnomon `NOP` and `LG` are the whole square `CEFB`, which is described on `CB`; > therefore the rectangle contained by `AD`, `DB` together with the square on `CD` is equal to the square on `CB`.",
             "refs": [],
             "emphs": [
                 "NOP",

@@ -29,7 +29,7 @@
             ]
         },
         {
-            "text": "Then, since `BC` is equal to `CD`, and `CF` common, the two sides `BC`, `CF` are equal to the two sides `DC`, `CF`;  and the angle `BCF` is equal to the angle `DCF`;  and the triangle `BCF` is equal to the triangle `DCF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend. [elem.1.4]",
+            "text": "Then, since `BC` is equal to `CD`, and `CF` common, the two sides `BC`, `CF` are equal to the two sides `DC`, `CF`;  and the angle `BCF` is equal to the angle `DCF`; > therefore the base `BF` is equal to the base `DF`, and the triangle `BCF` is equal to the triangle `DCF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "text": "And, since the angle `CDE` is double of the angle `CDF`, and the angle `CDE` is equal to the angle `ABC`, while the angle `CDF` is equal to the angle `CBF`; therefore the angle `CBA` is also double of the angle `CBF`;  therefore the angle `ABC` has been bisected by the straight line `BF`.",
+            "text": "And, since the angle `CDE` is double of the angle `CDF`, and the angle `CDE` is equal to the angle `ABC`, while the angle `CDF` is equal to the angle `CBF`; therefore the angle `CBA` is also double of the angle `CBF`; > therefore the angle `ABF` is equal to the angle `FBC`; therefore the angle `ABC` has been bisected by the straight line `BF`.",
             "refs": [],
             "emphs": [
                 "CDE",
@@ -161,7 +161,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore the circle described with centre `F` and distance one of the straight lines `FG`, `FH`, `FK`, `FL`, `FM` will not cut the straight lines `AB`, `BC`, `CD`, `DE`, `EA`;",
+            "text": "Therefore the circle described with centre `F` and distance one of the straight lines `FG`, `FH`, `FK`, `FL`, `FM` will not cut the straight lines `AB`, `BC`, `CD`, `DE`, `EA`; > therefore it will touch them.",
             "refs": [],
             "emphs": [
                 "F",

@@ -43,7 +43,7 @@
             ]
         },
         {
-            "text": "Now, since `AD` is equal to `AB`, and `AE` is half of `AD`, and `AF` half of `AB`,",
+            "text": "Now, since `AD` is equal to `AB`, and `AE` is half of `AD`, and `AF` half of `AB`, > therefore `AE` is equal to `AF`, so that the opposite sides are also equal;\n       > therefore `FG` is equal to `GE`.",
             "refs": [],
             "emphs": [
                 "AD",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that each of the straight lines `GH`, `GK` is equal to each of the straight lines `FG`, `GE`;",
+            "text": "Similarly we can prove that each of the straight lines `GH`, `GK` is equal to each of the straight lines `FG`, `GE`; > therefore the four straight lines `GE`, `GF`, `GH`, `GK` are equal to one another.",
             "refs": [],
             "emphs": [
                 "GH",

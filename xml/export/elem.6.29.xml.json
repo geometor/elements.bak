@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "Let `FL`, `FE` be produced, let `FLM` be equal to `KH`, and `FEN` to `KG`, and let `MN` be completed;",
+            "text": "Let `FL`, `FE` be produced, let `FLM` be equal to `KH`, and `FEN` to `KG`, and let `MN` be completed; > therefore `MN` is both equal and similar to `GH`.",
             "refs": [],
             "emphs": [
                 "FL",
@@ -70,7 +70,7 @@
             ]
         },
         {
-            "text": "But `GH` is similar to `EL`;  therefore `EL` is about the same diameter with `MN`. [elem.6.26]",
+            "text": "But `GH` is similar to `EL`; > therefore `MN` is also similar to `EL`; [elem.6.21] therefore `EL` is about the same diameter with `MN`. [elem.6.26]",
             "refs": [
                 "elem.6.26"
             ],
@@ -103,14 +103,14 @@
             ]
         },
         {
-            "text": "Let `EL` be subtracted from each;",
+            "text": "Let `EL` be subtracted from each; > therefore the remainder, the gnomon `XWV`, is equal to `C`.",
             "refs": [],
             "emphs": [
                 "EL"
             ]
         },
         {
-            "text": "Now, since `AE` is equal to `EB`,",
+            "text": "Now, since `AE` is equal to `EB`, > `AN` is also equal to `NB` [elem.1.36], that is, to `LP` [elem.1.43].",
             "refs": [],
             "emphs": [
                 "AE",
@@ -118,14 +118,14 @@
             ]
         },
         {
-            "text": "Let `EO` be added to each;",
+            "text": "Let `EO` be added to each; > therefore the whole `AO` is equal to the gnomon `VWX`.",
             "refs": [],
             "emphs": [
                 "EO"
             ]
         },
         {
-            "text": "But the gnomon `VWX` is equal to `C`;",
+            "text": "But the gnomon `VWX` is equal to `C`; > therefore `AO` is also equal to `C`.",
             "refs": [],
             "emphs": [
                 "VWX",

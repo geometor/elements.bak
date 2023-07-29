@@ -2,15 +2,15 @@
     "id": "elem.10.4",
     "n": 4,
     "type": "propositions i\u201447",
-    "enunciation": ", .",
+    "enunciation": "> Given three commensurable magnitudes, > to find their greatest common measure.",
     "proof": [
         {
-            "text": "Let , ,  be the three given commensurable magnitudes; thus it is required to find the greatest common measure of , , .",
+            "text": "Let > A, > B, > C be the three given commensurable magnitudes; thus it is required to find the greatest common measure of > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let the greatest common measure of the two magnitudes ,  be taken, and let it be ; [elem.10.3] then  either measures , or does not measure it.",
+            "text": "Let the greatest common measure of the two magnitudes > A, > B be taken, and let it be > D; [elem.10.3] then > D either measures > C, or does not measure it.",
             "refs": [
                 "elem.10.3"
             ],
@@ -22,51 +22,51 @@
             "emphs": []
         },
         {
-            "text": "Since then  measures , while it also measures , , therefore  is a common measure of , , .",
+            "text": "Since then > D measures > C, while it also measures > A, > B, therefore > D is a common measure of > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And it is manifest that it is also the greatest; for a greater magnitude than the magnitude  does not measure , .",
+            "text": "And it is manifest that it is also the greatest; for a greater magnitude than the magnitude > D does not measure > A, > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Next, let  not measure .",
+            "text": "Next, let > D not measure > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say first that ,  are commensurable.",
+            "text": "I say first that > C, > D are commensurable.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since , ,  are commensurable, some magnitude will measure them, and this will of course measure ,  also; so that it will also measure the greatest common measure of , , namely . [elem.10.3.p.1]",
+            "text": "For, since > A, > B, > C are commensurable, some magnitude will measure them, and this will of course measure > A, > B also; so that it will also measure the greatest common measure of > A, > B, namely > D. [elem.10.3.p.1]",
             "refs": [
                 "elem.10.3.p.1"
             ],
             "emphs": []
         },
         {
-            "text": "But it also measures ; so that the said magnitude will measure , ; therefore ,  are commensurable.",
+            "text": "But it also measures > C; so that the said magnitude will measure > C, > D; therefore > C, > D are commensurable.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now let their greatest common measure be taken, and let it be . [elem.10.3]",
+            "text": "Now let their greatest common measure be taken, and let it be > E. [elem.10.3]",
             "refs": [
                 "elem.10.3"
             ],
             "emphs": []
         },
         {
-            "text": "Since then  measures , while  measures , , therefore  will also measure , .",
+            "text": "Since then > E measures > D, while > D measures > A, > B, therefore > E will also measure > A, > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But it measures  also; therefore  measures , , ; therefore  is a common measure of , , .",
+            "text": "But it measures > C also; therefore > E measures > A, > B, > C; therefore > E is a common measure of > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
@@ -76,36 +76,36 @@
             "emphs": []
         },
         {
-            "text": "For, if possible, let there be some magnitude  greater than , and let it measure , , .",
+            "text": "For, if possible, let there be some magnitude > F greater than > E, and let it measure > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  measures , , , it will also measure , , and will measure the greatest common measure of , . [elem.10.3.p.1]",
+            "text": "Now, since > F measures > A, > B, > C, it will also measure > A, > B, and will measure the greatest common measure of > A, > B. [elem.10.3.p.1]",
             "refs": [
                 "elem.10.3.p.1"
             ],
             "emphs": []
         },
         {
-            "text": "But the greatest common measure of ,  is ; therefore  measures .",
+            "text": "But the greatest common measure of > A, > B is > D; therefore > F measures > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But it measures  also; therefore  measures , ; therefore  will also measure the greatest common measure of , . [elem.10.3.p.1]",
+            "text": "But it measures > C also; therefore > F measures > C, > D; therefore > F will also measure the greatest common measure of > C, > D. [elem.10.3.p.1]",
             "refs": [
                 "elem.10.3.p.1"
             ],
             "emphs": []
         },
         {
-            "text": "But that is ; therefore  will measure , the greater the less: which is impossible.",
+            "text": "But that is > E; therefore > F will measure > E, the greater the less: which is impossible.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore no magnitude greater than the magnitude  will measure , , ; therefore  is the greatest common measure of , ,  if  do not measure , and, if it measure it,  is itself the greatest common measure.",
+            "text": "Therefore no magnitude greater than the magnitude > E will measure > A, > B, > C; therefore > E is the greatest common measure of > A, > B, > C if > D do not measure > C, and, if it measure it, > D is itself the greatest common measure.",
             "refs": [],
             "emphs": []
         },

@@ -2,27 +2,27 @@
     "id": "elem.11.23",
     "n": 23,
     "type": "proposition",
-    "enunciation": ", ,",
+    "enunciation": "> To construct a solid angle out of three plane angles two of which, > taken together in any manner, > are greater than the remaining one: thus the three angles must be less than four right angles.",
     "proof": [
         {
-            "text": "Let the angles , ,  be the three given plane angles, and let two of these, taken together in any manner, be greater than the remaining one, while, further, the three are less than four right angles; thus it is required to construct a solid angle out of angles equal to the angles , , .",
+            "text": "Let the angles > ABC, > DEF, > GHK be the three given plane angles, and let two of these, taken together in any manner, be greater than the remaining one, while, further, the three are less than four right angles; thus it is required to construct a solid angle out of angles equal to the angles > ABC, > DEF, > GHK.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let , , , , ,  be cut off equal to one another, and let , ,  be joined; it is therefore possible to construct a triangle out of straight lines equal to , , . [elem.11.22]",
+            "text": "Let > AB, > BC, > DE, > EF, > GH, > HK be cut off equal to one another, and let > AC, > DF, > GK be joined; it is therefore possible to construct a triangle out of straight lines equal to > AC, > DF, > GK. [elem.11.22]",
             "refs": [
                 "elem.11.22"
             ],
             "emphs": []
         },
         {
-            "text": "Let  be so constructed that  is equal to ,  to , and further  to , let the circle  be described about the triangle , let its centre be taken, and let it be ; let , ,  be joined; I say that  is greater than .",
+            "text": "Let > LMN be so constructed that > AC is equal to > LM, > DF to > MN, and further > GK to > NL, let the circle > LMN be described about the triangle > LMN, let its centre be taken, and let it be > O; let > LO, > MO, > NO be joined; I say that > AB is greater than > LO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if not,  is either equal to , or less.",
+            "text": "For, if not, > AB is either equal to > LO, or less.",
             "refs": [],
             "emphs": []
         },
@@ -32,19 +32,19 @@
             "emphs": []
         },
         {
-            "text": "Then, since  is equal to , while  is equal to , and  to , the two sides ,  are equal to the two sides ,  respectively; and, by hypothesis, the base  is equal to the base ; therefore the angle  is equal to the angle . [elem.1.8]",
+            "text": "Then, since > AB is equal to > LO, while > AB is equal to > BC, and > OL to > OM, the two sides > AB, > BC are equal to the two sides > LO, > OM respectively; and, by hypothesis, the base > AC is equal to the base > LM; therefore the angle > ABC is equal to the angle > LOM. [elem.1.8]",
             "refs": [
                 "elem.1.8"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason the angle  is also equal to the angle , and further the angle  to the angle ; therefore the three angles , ,  are equal to the three angles , , .",
+            "text": "For the same reason the angle > DEF is also equal to the angle > MON, and further the angle > GHK to the angle > NOL; therefore the three angles > ABC, > DEF, > GHK are equal to the three angles > LOM, > MON, > NOL.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the three angles , ,  are equal to four right angles; therefore the angles , ,  are equal to four right angles.",
+            "text": "But the three angles > LOM, > MON, > NOL are equal to four right angles; therefore the angles > ABC, > DEF, > GHK are equal to four right angles.",
             "refs": [],
             "emphs": []
         },
@@ -54,27 +54,27 @@
             "emphs": []
         },
         {
-            "text": "Therefore  is not equal to .",
+            "text": "Therefore > AB is not equal to > LO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say next that neither is  less than .",
+            "text": "I say next that neither is > AB less than > LO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let it be so, and let  be made equal to , and  equal to , and let  be joined.",
+            "text": "For, if possible, let it be so, and let > OP be made equal to > AB, and > OQ equal to > BC, and let > PQ be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then, since  is equal to ,  is also equal to , so that the remainder  is equal to .",
+            "text": "Then, since > AB is equal to > BC, > OP is also equal to > OQ, so that the remainder > LP is equal to > QM.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is parallel to , [elem.6.2] and  is equiangular with ; [elem.1.29] therefore, as  is to , so is  to ; [elem.6.4] and alternately, as  is to , so is  to . [elem.5.16]",
+            "text": "Therefore > LM is parallel to > PQ, [elem.6.2] and > LMO is equiangular with > PQO; [elem.1.29] therefore, as > OL is to > LM, so is > OP to > PQ; [elem.6.4] and alternately, as > LO is to > OP, so is > LM to > PQ. [elem.5.16]",
             "refs": [
                 "elem.6.2",
                 "elem.1.29",
@@ -84,34 +84,34 @@
             "emphs": []
         },
         {
-            "text": "But  is greater than ; therefore  is also greater than .",
+            "text": "But > LO is greater than > OP; therefore > LM is also greater than > PQ.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  was made equal to ; therefore  is also greater than .",
+            "text": "But > LM was made equal to > AC; therefore > AC is also greater than > PQ.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since, then, the two sides ,  are equal to the two sides , , and the base  is greater than the base , therefore the angle  is greater than the angle . [elem.1.25]",
+            "text": "Since, then, the two sides > AB, > BC are equal to the two sides > PO, > OQ, and the base > AC is greater than the base > PQ, therefore the angle > ABC is greater than the angle > POQ. [elem.1.25]",
             "refs": [
                 "elem.1.25"
             ],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that the angle  is also greater than the angle , and the angle  greater than the angle .",
+            "text": "Similarly we can prove that the angle > DEF is also greater than the angle > MON, and the angle > GHK greater than the angle > NOL.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the three angles , ,  are greater than the three angles , , .",
+            "text": "Therefore the three angles > ABC, > DEF, > GHK are greater than the three angles > LOM, > MON, > NOL.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, by hypothesis, the angles , ,  are less than four right angles; therefore the angles , ,  are much less than four right angles.",
+            "text": "But, by hypothesis, the angles > ABC, > DEF, > GHK are less than four right angles; therefore the angles > LOM, > MON, > NOL are much less than four right angles.",
             "refs": [],
             "emphs": []
         },
@@ -121,70 +121,70 @@
             "emphs": []
         },
         {
-            "text": "Therefore  is not less than .",
+            "text": "Therefore > AB is not less than > LO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And it was proved that neither is it equal; therefore  is greater than .",
+            "text": "And it was proved that neither is it equal; therefore > AB is greater than > LO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let then  be set up from the point  at right angles to the plane of the circle , [elem.11.12] and let the square on  be equal to that area by which the square on  is greater than the square on ; [Lemma] let , ,  be joined.",
+            "text": "Let then > OR be set up from the point > O at right angles to the plane of the circle > LMN, [elem.11.12] and let the square on > OR be equal to that area by which the square on > AB is greater than the square on > LO; [Lemma] let > RL, > RM, > RN be joined.",
             "refs": [
                 "elem.11.12"
             ],
             "emphs": []
         },
         {
-            "text": "Then, since  is at right angles to the plane of the circle , therefore  is also at right angles to each of the straight lines , , .",
+            "text": "Then, since > RO is at right angles to the plane of the circle > LMN, therefore > RO is also at right angles to each of the straight lines > LO, > MO, > NO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is equal to , while  is common and at right angles, therefore the base  is equal to the base . [elem.1.4]",
+            "text": "And, since > LO is equal to > OM, while > OR is common and at right angles, therefore the base > RL is equal to the base > RM. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason  is also equal to each of the straight lines , ; therefore the three straight lines , ,  are equal to one another.",
+            "text": "For the same reason > RN is also equal to each of the straight lines > RL, > RM; therefore the three straight lines > RL, > RM, > RN are equal to one another.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Next, since by hypothesis the square on  is equal to that area by which the square on  is greater than the square on , therefore the square on  is equal to the squares on , .",
+            "text": "Next, since by hypothesis the square on > OR is equal to that area by which the square on > AB is greater than the square on > LO, therefore the square on > AB is equal to the squares on > LO, > OR.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the square on  is equal to the squares on , , for the angle  is right; [elem.1.47] therefore the square on  is equal to the square on ; therefore  is equal to .",
+            "text": "But the square on > LR is equal to the squares on > LO, > OR, for the angle > LOR is right; [elem.1.47] therefore the square on > AB is equal to the square on > RL; therefore > AB is equal to > RL.",
             "refs": [
                 "elem.1.47"
             ],
             "emphs": []
         },
         {
-            "text": "But each of the straight lines , , , ,  is equal to , while each of the straight lines ,  is equal to ; therefore each of the straight lines , , , , ,  is equal to each of the straight lines , , .",
+            "text": "But each of the straight lines > BC, > DE, > EF, > GH, > HK is equal to > AB, while each of the straight lines > RM, > RN is equal to > RL; therefore each of the straight lines > AB, > BC, > DE, > EF, > GH, > HK is equal to each of the straight lines > RL, > RM, > RN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since the two sides ,  are equal to the two sides , , and the base  is by hypothesis equal to the base , therefore the angle  is equal to the angle . [elem.1.8]",
+            "text": "And, since the two sides > LR, > RM are equal to the two sides > AB, > BC, and the base > LM is by hypothesis equal to the base > AC, therefore the angle > LRM is equal to the angle > ABC. [elem.1.8]",
             "refs": [
                 "elem.1.8"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason the angle  is also equal to the angle , and the angle  to the angle .",
+            "text": "For the same reason the angle > MRN is also equal to the angle > DEF, and the angle > LRN to the angle > GHK.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, out of the three plane angles , , , which are equal to the three given angles , , , the solid angle at  has been constructed, which is contained by the angles , , . Q. E. F.",
+            "text": "Therefore, out of the three plane angles > LRM, > MRN, > LRN, which are equal to the three given angles > ABC, > DEF, > GHK, the solid angle at > R has been constructed, which is contained by the angles > LRM, > MRN, > LRN. Q. E. F.",
             "refs": [],
             "emphs": []
         }

@@ -3,5 +3,5 @@ Enunciation:
 
 Proof:
 For, if possible, on the same straight line `AB` let two similar and unequal segments of circles `ACB`, `ADB` be constructed on the same side;  let `ACD` be drawn through, and let `CB`, `DB` be joined.
-Then, since the segment `ACB` is similar to the segment `ADB`, and similar segments of circles are those which admit equal angles, [elem.3.def.11]
+Then, since the segment `ACB` is similar to the segment `ADB`, and similar segments of circles are those which admit equal angles, [elem.3.def.11] > the angle `ACB` is equal to the angle `ADB`, the exterior to the interior: which is impossible. [elem.1.16]
 Therefore etc. Q. E. D.

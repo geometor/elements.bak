@@ -93,7 +93,7 @@
             ]
         },
         {
-            "text": "But `FG` is the same multiple of `AE` that `K` is of `C`;",
+            "text": "But `FG` is the same multiple of `AE` that `K` is of `C`; > therefore `FH` is the same multiple of `AB` that `K` is of `C`; therefore `FH`, `K` are equimultiples of `AB`, `C`.",
             "refs": [],
             "emphs": [
                 "FG",
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "text": "Again, since `GH` is the same multiple of `EB` that `K` is of `C`, and `EB` is equal to `C`,",
+            "text": "Again, since `GH` is the same multiple of `EB` that `K` is of `C`, and `EB` is equal to `C`, > therefore `GH` is equal to `K`.",
             "refs": [],
             "emphs": [
                 "GH",
@@ -115,7 +115,7 @@
             ]
         },
         {
-            "text": "But `K` is not less than `M`;",
+            "text": "But `K` is not less than `M`; > therefore neither is `GH` less than `M`.",
             "refs": [],
             "emphs": [
                 "K",
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "text": "But `FH` is greater than `M`, `D`;  while `K` is not in excess of `N`.",
+            "text": "But `FH` is greater than `M`, `D`; > therefore `FH` is in excess of `N`, while `K` is not in excess of `N`.",
             "refs": [],
             "emphs": [
                 "FH",
@@ -164,7 +164,7 @@
             ]
         },
         {
-            "text": "And `FH`, `K` are equimultiples of `AB`, `C`, while `N` is another, chance, multiple of `D`;",
+            "text": "And `FH`, `K` are equimultiples of `AB`, `C`, while `N` is another, chance, multiple of `D`; > therefore `AB` has to `D` a greater ratio than `C` has to `D`. [elem.5.def.7]",
             "refs": [],
             "emphs": [
                 "FH",
@@ -196,7 +196,7 @@
             ]
         },
         {
-            "text": "And `N` is a multiple of `D`, while `FH`, `K` are other, chance, equimultiples of `AB`, `C`;",
+            "text": "And `N` is a multiple of `D`, while `FH`, `K` are other, chance, equimultiples of `AB`, `C`; > therefore `D` has to `C` a greater ratio than `D` has to `AB`. [elem.5.def.7]",
             "refs": [],
             "emphs": [
                 "N",

@@ -15,7 +15,7 @@
             ]
         },
         {
-            "text": "For let a point `D` be taken at random on the other side of the straight line `AB`, and with centre `C` and distance `CD` let the circle `EFG` be described; [elem.1.post.3]",
+            "text": "For let a point `D` be taken at random on the other side of the straight line `AB`, and with centre `C` and distance `CD` let the circle `EFG` be described; [elem.1.post.3] \n        > let the straight line `EG`\n         be bisected at `H`, [elem.1.10] and let the straight lines `CG`, `CH`, `CE` be joined. [elem.1.post.1]",
             "refs": [
                 "elem.1.post.3"
             ],
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "text": "For, since `GH` is equal to `HE`, and `HC` is common,  and the base `CG` is equal to the base `CE`;",
+            "text": "For, since `GH` is equal to `HE`, and `HC` is common, > the two sides `GH`, `HC` are equal to the two sides `EH`, `HC` respectively; and the base `CG` is equal to the base `CE`; > therefore the angle `CHG` is equal to the angle `EHC`. [elem.1.8] And they are adjacent angles.",
             "refs": [],
             "emphs": [
                 "GH",

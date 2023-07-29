@@ -12,7 +12,7 @@ For the same reason also, as the triangle `CDE` is to `ADE`, so is `CE` to `EA`.
 Therefore also, as `BD` is to `DA`, so is `CE` to `EA`. [elem.5.11]
 Again, let the sides `AB`, `AC` of the triangle `ABC` be cut proportionally, so that, as `BD` is to `DA`, so is `CE` to `EA`; and let `DE` be joined.
 I say that `DE` is parallel to `BC`.
-For, with the same construction, since, as `BD` is to `DA`, so is `CE` to `EA`, but, as `BD` is to `DA`, so is the triangle `BDE` to the triangle `ADE`, and, as `CE` is to `EA`, so is the triangle `CDE` to the triangle `ADE`, [elem.6.1] therefore also,
+For, with the same construction, since, as `BD` is to `DA`, so is `CE` to `EA`, but, as `BD` is to `DA`, so is the triangle `BDE` to the triangle `ADE`, and, as `CE` is to `EA`, so is the triangle `CDE` to the triangle `ADE`, [elem.6.1] therefore also, > as the triangle `BDE` is to the triangle `ADE`, so is the triangle `CDE` to the triangle `ADE`. [elem.5.11]
 Therefore each of the triangles `BDE`, `CDE` has the same ratio to `ADE`.
 Therefore the triangle `BDE` is equal to the triangle `CDE`; [elem.5.9] and they are on the same base `DE`.
 But equal triangles which are on the same base are also in the same parallels. [elem.1.39]

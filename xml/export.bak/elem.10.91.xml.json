@@ -1,0 +1,173 @@
+{
+    "id": "elem.10.91",
+    "n": 91,
+    "type": "propositions 85\u2014115",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let the area  be contained by the rational straight line  and the first apotome ;",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that the \n of the area  is an apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is a first apotome, let  be its annex; therefore ,  are rational straight lines commensurable in square only. [elem.10.73]",
+            "refs": [
+                "elem.10.73"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the whole  is commensurable with the rational straight line  set out, and the square on  is greater than the square on  by the square on a straight line commensurable in length with ; [elem.10.def.3.1] if therefore there be applied to  a parallelogram equal to the fourth part of the square on  and deficient by a square figure, it divides it into commensurable parts. [elem.10.17]",
+            "refs": [
+                "elem.10.def.3.1",
+                "elem.10.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, and let it be the rectangle , ; therefore  is commensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And through the points , ,  let , ,  be drawn parallel to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is commensurable in length with , therefore  is also commensurable in length with each of the straight lines , . [elem.10.15]",
+            "refs": [
+                "elem.10.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is commensurable with ; therefore each of the straight lines ,  is commensurable in length with . [elem.10.12]",
+            "refs": [
+                "elem.10.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is rational; therefore each of the straight lines ,  is also rational, so that each of the rectangles ,  is also rational. [elem.10.19]",
+            "refs": [
+                "elem.10.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  is commensurable in length with , therefore  is also commensurable in length with each of the straight lines , . [elem.10.15]",
+            "refs": [
+                "elem.10.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is rational and incommensurable in length with ; therefore each of the straight lines ,  is also rational and incommensurable in length with ; [elem.10.13] therefore each of the rectangles ,  is medial. [elem.10.21]",
+            "refs": [
+                "elem.10.13",
+                "elem.10.21"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Now let the square  be made equal to , and let there be subtracted the square  having a common angle with it, the angle , and equal to ; therefore the squares ,  are about the same diameter. [elem.6.26]",
+            "refs": [
+                "elem.6.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let  be their diameter, and let the figure be drawn.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then the rectangle contained by ,  is equal to the square on , therefore, as  is to , so is  to . [elem.6.17]",
+            "refs": [
+                "elem.6.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to , and, as  is to , so is  to ; [elem.6.1] therefore  is a mean proportional between , . [elem.5.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.5.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is also a mean proportional between , , as was before proved, [elem.10.53.l.1] and  is equal to the square , and  to ; therefore  is also equal to .",
+            "refs": [
+                "elem.10.53.l.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to , and  to ; therefore  is equal to the gnomon  and .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is also equal to the squares , ; therefore the remainder  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is the square on ; therefore the square on  is equal to ; therefore  is the \n of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that  is an apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since each of the rectangles ,  is rational, and they are equal to , , therefore each of the squares , , that is, the squares on ,  respectively, is also rational; therefore each of the straight lines ,  is also rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  is medial and is equal to , therefore  is also medial.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  is medial, while  is rational, therefore  is incommensurable with .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as  is to , so is  to ; [elem.6.1] therefore  is incommensurable in length with . [elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]",
+            "refs": [
+                "elem.10.73"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And it is the \n of the area ; therefore the \n of the area  is an apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

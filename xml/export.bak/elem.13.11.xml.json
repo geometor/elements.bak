@@ -1,0 +1,185 @@
+{
+    "id": "elem.13.11",
+    "n": 11,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "For in the circle  which has its diameter rational let the equilateral pentagon  be inscribed; I say that the side of the pentagon is the irrational straight line called minor.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the centre of the circle, the point , be taken, let ,  be joined and carried through to the points, , , let  be joined, and let  be made a fourth part of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now  is rational; therefore  is also rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is also rational; therefore the whole  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since the circumference  is equal to the circumference , and in them  is equal to , therefore the remainder  is equal to the remainder .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, if we join , we conclude that the angles at  are right, and  is double of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason the angles at  are also right, and  is double of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then the angle  is equal to the angle , and the angle  is common to the two triangles  and , therefore the remaining angle  is equal to the remaining angle ; [elem.1.32] therefore the triangle  is equiangular with the triangle ; therefore, proportionally, as  is to , so is  to .",
+            "refs": [
+                "elem.1.32"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the doubles of the antecedents may be taken; therefore, as the double of  is to , so is the double of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, as the double of  is to , so is  to the half of ; therefore also, as the double of  is to , so is  to the half of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And the halves of the consequents may be taken; therefore, as the double of  is to the half of , so is  to the fourth of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is double of ,  is half of , and  a fourth part of ; therefore, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "also, as the sum of ,  is to , so is  to ; [elem.5.18] therefore also, as the square on the sum of ,  is to the square on , so is the square on  to the square on .",
+            "refs": [
+                "elem.5.18"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And since, when the straight line subtending two sides of the pentagon, as , is cut in extreme and mean ratio, the greater segment is equal to the side of the pentagon, that is, to , [elem.13.8] while the square on the greater segment added to the half of the whole is five times the square on the half of the whole, [elem.13.1] and  is half of the whole , therefore the square on ,  taken as one straight line is five times the square on .",
+            "refs": [
+                "elem.13.8",
+                "elem.13.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it was proved that, as the square on ,  taken as one straight line is to the square on , so is the square on  to the square on ; therefore the square on  is five times the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is rational, for the diameter is rational; therefore the square on  is also rational; therefore  is rational",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is quadruple of , therefore  is five times ; therefore the square on  is twenty-five times the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is five times the square on ; therefore the square on  is five times the square on ; therefore the square on  has not to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And each of them is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are rational straight lines commensurable in square only.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, if from a rational straight line there be subtracted a rational straight line which is commensurable with the whole in square only, the remainder is irrational, namely an apotome; therefore  is an apotome and  the annex to it. [elem.10.73]",
+            "refs": [
+                "elem.10.73"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say next that  is also a fourth apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the square on  be equal to that by which the square on  is greater than the square on ; therefore the square on  is greater than the square on  by the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is commensurable with ,  also,  is commensurable with . [elem.10.15]",
+            "refs": [
+                "elem.10.15"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is commensurable with ; therefore  is also commensurable with . [elem.10.12]",
+            "refs": [
+                "elem.10.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the square on  is five times the square on , therefore the square on  has to the square on  the ratio which 5 has to 1.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, , the square on  has to the square on  the ratio which 5 has to 4 [elem.5.19.p.1], and this is not the ratio which a square number has to a square number; therefore  is incommensurable with ; [elem.10.9] therefore the square on  is greater than the square on  by the square on a straight line incommensurable with .",
+            "refs": [
+                "elem.5.19.p.1",
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Since then the square on the whole  is greater than the square on the annex  by the square on a straight line incommensurable with , and the whole  is commensurable with the rational straight line, , set out, therefore  is a fourth apotome. [elem.10.def.3.4]",
+            "refs": [
+                "elem.10.def.3.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the rectangle contained by a rational straight line and a fourth apotome is irrational, and its square root is irrational, and is called minor. [elem.10.94]",
+            "refs": [
+                "elem.10.94"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is equal to the rectangle , , because, when  is joined, the triangle  is equiangular with the triangle , and, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the side  of the pentagon is the irrational straight line called minor. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

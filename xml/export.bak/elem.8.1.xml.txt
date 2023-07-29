@@ -1,0 +1,11 @@
+Enunciation:
+
+
+Proof:
+Let there be as many numbers as we please, , , , , in continued proportion, and let the extremes of them ,  be prime to one another; I say that , , ,  are the least of those which have the same ratio with them.
+For, if not, let , , ,  be less than , , , , and in the same ratio with them.
+Now, since , , ,  are in the same ratio with , , , , and the multitude of the numbers , , ,  is equal to the multitude of the numbers , , , , therefore, ,
+But ,  are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. [elem.7.20]
+Therefore  measures , the greater the less: which is impossible.
+Therefore , , ,  which are less than , , ,  are not in the same ratio with them.
+Therefore , , ,  are the least of those which have the same ratio with them. Q. E. D.

@@ -17,7 +17,7 @@
             ]
         },
         {
-            "text": "For, if the segment `AEB` be applied to `CFD`, and if the point `A` be placed on `C` and the straight line `AB` on `CD`,",
+            "text": "For, if the segment `AEB` be applied to `CFD`, and if the point `A` be placed on `C` and the straight line `AB` on `CD`, > the point `B` will also coincide with the point `D`, because `AB` is equal to `CD`;\n       > and, `AB` coinciding with `CD`, the segment `AEB` will also coincide with `CFD`.",
             "refs": [],
             "emphs": [
                 "AEB",
@@ -42,7 +42,7 @@
             ]
         },
         {
-            "text": "Therefore, if the straight line `AB` be applied to `CD`, the segment `AEB` will not fail to coincide with `CFD` also;",
+            "text": "Therefore, if the straight line `AB` be applied to `CD`, the segment `AEB` will not fail to coincide with `CFD` also; > therefore it will coincide with it and will be equal to it.",
             "refs": [],
             "emphs": [
                 "AB",

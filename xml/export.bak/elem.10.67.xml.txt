@@ -1,0 +1,16 @@
+Enunciation:
+.
+
+Proof:
+Let  be bimedial, and let  be commensurable in length with ; I say that  is bimedial and the same in order with .
+For, since  is bimedial, let it be divided into its medials at ; therefore ,  are medial straight lines commensurable in square only. [elem.10.37 elem.10.38]
+And let it be contrived that, as  is to , so is  to ; therefore also the remainder  is to the remainder  as  is to . [elem.5.19]
+But  is commensurable in length with ; therefore ,  are also commensurable with ,  respectively. [elem.10.11]
+But ,  are medial; therefore ,  are also medial. [elem.10.23]
+And since, as  is to , so is  to , [elem.5.11] and ,  are commensurable in square only, ,  are also commensurable in square only. [elem.10.11]
+But they were also proved medial; therefore  is bimedial.
+I say next that it is also the same in order with .
+For since, as  is to , so is  to , therefore also, as the square on  is to the rectangle , , so is the square on  to the rectangle , ; therefore, alternately, as the square on  is to the square on , so is the rectangle ,  to the rectangle , . [elem.5.16]
+But the square on  is commensurable with the square on ; therefore the rectangle ,  is also commensurable with the rectangle , .
+If therefore the rectangle ,  is rational, the rectangle ,  is also rational, [and for this reason  is a first bimedial]; [elem.10.37] but if medial, medial, [elem.10.23.p.1] and each of the straight lines ,  is a second bimedial. [elem.10.38]
+And for this reason  will be the same in order with . Q. E. D.

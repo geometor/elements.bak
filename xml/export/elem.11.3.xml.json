@@ -2,30 +2,30 @@
     "id": "elem.11.3",
     "n": 3,
     "type": "proposition",
-    "enunciation": ",",
+    "enunciation": "> If two planes cut one another, > their common section is a straight line.",
     "proof": [
         {
-            "text": "For let the two planes ,  cut one another, and let the line  be their common section; I say that the line  is a straight line.",
+            "text": "For let the two planes > AB, > BC cut one another, and let the line > DB be their common section; I say that the line > DB is a straight line.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if not, from  to  let the straight line  be joined in the plane , and in the plane  the straight line .",
+            "text": "For, if not, from > D to > B let the straight line > DEB be joined in the plane > AB, and in the plane > BC the straight line > DFB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then the two straight lines ,  will have the same extremities, and will clearly enclose an area: which is absurd.",
+            "text": "Then the two straight lines > DEB, > DFB will have the same extremities, and will clearly enclose an area: which is absurd.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are not straight lines.",
+            "text": "Therefore > DEB, > DFB are not straight lines.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that neither will there be any other straight line joined from  to  except  the common section of the planes , .",
+            "text": "Similarly we can prove that neither will there be any other straight line joined from > D to > B except > DB the common section of the planes > AB, > BC.",
             "refs": [],
             "emphs": []
         },

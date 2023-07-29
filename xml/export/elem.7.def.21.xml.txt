@@ -1,4 +1,4 @@
 Enunciation:
-and  numbers are those which have their sides proportional.
+> Similar plane and > solid numbers are those which have their sides proportional.
 
 Proof:

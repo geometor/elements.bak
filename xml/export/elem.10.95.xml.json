@@ -2,91 +2,92 @@
     "id": "elem.10.95",
     "n": 95,
     "type": "propositions 85\u2014115",
+    "enunciation": "> If an area be contained by a rational straight line and a fifth apotome, the \n of the area is a straight line which produces with a rational area a medial whole.",
     "proof": [
         {
-            "text": "For let the area  be contained by the rational straight line  and the fifth apotome ; I say that the \n of the area  is a straight line which produces with a rational area a medial whole.",
+            "text": "For let the area > AB be contained by the rational straight line > AC and the fifth apotome > AD; I say that the \n of the area > AB is a straight line which produces with a rational area a medial whole.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  be the annex to ; therefore ,  are rational straight lines commensurable in square only,  the annex  is commensurable in length with the rational straight line  set out, and the square on the whole  is greater than the square on the annex  by the square on a straight line incommensurable with . [elem.10.def.3.5]",
+            "text": "For let > DG be the annex to > AD; therefore > AG, > GD are rational straight lines commensurable in square only,  the annex > GD is commensurable in length with the rational straight line > AC set out, and the square on the whole > AG is greater than the square on the annex > DG by the square on a straight line incommensurable with > AG. [elem.10.def.3.5]",
             "refs": [
                 "elem.10.def.3.5"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore, if there be applied to  a parallelogram equal to the fourth part of the square on  and deficient by a square figure, it will divide it into incommensurable parts. [elem.10.18]",
+            "text": "Therefore, if there be applied to > AG a parallelogram equal to the fourth part of the square on > DG and deficient by a square figure, it will divide it into incommensurable parts. [elem.10.18]",
             "refs": [
                 "elem.10.18"
             ],
             "emphs": []
         },
         {
-            "text": "Let then  be bisected at the point , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, and let it be the rectangle , ; therefore  is incommensurable in length with .",
+            "text": "Let then > DG be bisected at the point > E, let there be applied to > AG a parallelogram equal to the square on > EG and deficient by a square figure, and let it be the rectangle > AF, > FG; therefore > AF is incommensurable in length with > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  is incommensurable in length with , and both are rational, therefore  is medial. [elem.10.21]",
+            "text": "Now, since > AG is incommensurable in length with > CA, and both are rational, therefore > AK is medial. [elem.10.21]",
             "refs": [
                 "elem.10.21"
             ],
             "emphs": []
         },
         {
-            "text": "Again, since  is rational and commensurable in length with ,  is rational. [elem.10.19]",
+            "text": "Again, since > DG is rational and commensurable in length with > AC, > DK is rational. [elem.10.19]",
             "refs": [
                 "elem.10.19"
             ],
             "emphs": []
         },
         {
-            "text": "Now let the square  be constructed equal to , and let the square  equal to  and about the same angle, the angle , be subtracted; therefore the squares ,  are about the same diameter. [elem.6.26]",
+            "text": "Now let the square > LM be constructed equal to > AI, and let the square > NO equal to > FK and about the same angle, the angle > LPM, be subtracted; therefore the squares > LM, > NO are about the same diameter. [elem.6.26]",
             "refs": [
                 "elem.6.26"
             ],
             "emphs": []
         },
         {
-            "text": "Let  be their diameter, and let the figure be drawn.",
+            "text": "Let > PR be their diameter, and let the figure be drawn.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly then we can prove that  is the \n of the area .",
+            "text": "Similarly then we can prove that > LN is the \n of the area > AB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say that  is the straight line which produces with a rational area a medial whole.",
+            "text": "I say that > LN is the straight line which produces with a rational area a medial whole.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  was proved medial and is equal to the squares on , , therefore the sum of the squares on ,  is medial.",
+            "text": "For, since > AK was proved medial and is equal to the squares on > LP, > PN, therefore the sum of the squares on > LP, > PN is medial.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since  is rational and is equal to twice the rectangle , , the latter is itself also rational.",
+            "text": "Again, since > DK is rational and is equal to twice the rectangle > LP, > PN, the latter is itself also rational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  is incommensurable with , therefore the square on  is also incommensurable with the square on ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial but twice the rectangle contained by them rational.",
+            "text": "And, since > AI is incommensurable with > FK, therefore the square on > LP is also incommensurable with the square on > PN; therefore > LP, > PN are straight lines incommensurable in square which make the sum of the squares on them medial but twice the rectangle contained by them rational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the remainder  is the irrational straight line called that which produces with a rational area a medial whole; [elem.10.77] and it is the \n of the area .",
+            "text": "Therefore the remainder > LN is the irrational straight line called that which produces with a rational area a medial whole; [elem.10.77] and it is the \n of the area > AB.",
             "refs": [
                 "elem.10.77"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the \n of the area  is a straight line which produces with a rational area a medial whole. Q. E. D.",
+            "text": "Therefore the \n of the area > AB is a straight line which produces with a rational area a medial whole. Q. E. D.",
             "refs": [],
             "emphs": []
         }

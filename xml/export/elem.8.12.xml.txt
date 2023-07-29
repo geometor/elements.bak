@@ -1,20 +1,20 @@
 Enunciation:
-
+> Between two cube numbers there are two mean proportional numbers, and the cube has to the cube the ratio triplicate of that which the side has to the side.
 
 Proof:
-Let ,  be cube numbers, and let  be the side of , and  of ; I say that between ,  there are two mean proportional numbers, and  has to  the ratio triplicate of that which  has to .
-For let  by multiplying itself make , and by multiplying  let it make ; let  by multiplying itself make , and let the numbers ,  by multiplying  make ,  respectively.
-Now, since  is a cube, and  its side, and  by multiplying itself has made , therefore  by multiplying itself has made  and by multiplying  has made .
-For the same reason also  by multiplying itself has made  and by multiplying  has made .
-And, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
-For the same reason also,
-Again, since  by multiplying the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
-But, as  is to , so is  to .
-Therefore also, as  is to , so is  to .
-Again, since the numbers ,  by multiplying  have made ,  respectively, therefore, as  is to , so is  to . [elem.7.18]
-Again, since  by multiplying each of the numbers ,  has made ,  respectively, therefore, as  is to , so is  to . [elem.7.17]
-But, as  is to , so is  to ; therefore also, as  is to , so is  to ,  to , and  to .
-Therefore ,  are two mean proportionals between , .
-I say next that  also has to  the ratio triplicate of that which  has to .
-For, since , , ,  are four numbers in proportion, therefore  has to  the ratio triplicate of that which  has to . [elem.5.def.10]
-But, as  is to , so is  to ; therefore  also has to  the ratio triplicate of that which  has to . Q. E. D.
+Let > A, > B be cube numbers, and let > C be the side of > A, and > D of > B; I say that between > A, > B there are two mean proportional numbers, and > A has to > B the ratio triplicate of that which > C has to > D.
+For let > C by multiplying itself make > E, and by multiplying > D let it make > F; let > D by multiplying itself make > G, and let the numbers > C, > D by multiplying > F make > H, > K respectively.
+Now, since > A is a cube, and > C its side, and > C by multiplying itself has made > E, therefore > C by multiplying itself has made > E and by multiplying > E has made > A.
+For the same reason also > D by multiplying itself has made > G and by multiplying > G has made > B.
+And, since > C by multiplying the numbers > C, > D has made > E, > F respectively, therefore, as > C is to > D, so is > E to > F. [elem.7.17]
+For the same reason also, > as > C is to > D, so is > F to > G. [elem.7.18]
+Again, since > C by multiplying the numbers > E, > F has made > A, > H respectively, therefore, as > E is to > F, so is > A to > H. [elem.7.17]
+But, as > E is to > F, so is > C to > D.
+Therefore also, as > C is to > D, so is > A to > H.
+Again, since the numbers > C, > D by multiplying > F have made > H, > K respectively, therefore, as > C is to > D, so is > H to > K. [elem.7.18]
+Again, since > D by multiplying each of the numbers > F, > G has made > K, > B respectively, therefore, as > F is to > G, so is > K to > B. [elem.7.17]
+But, as > F is to > G, so is > C to > D; therefore also, as > C is to > D, so is > A to > H, > H to > K, and > K to > B.
+Therefore > H, > K are two mean proportionals between > A, > B.
+I say next that > A also has to > B the ratio triplicate of that which > C has to > D.
+For, since > A, > H, > K, > B are four numbers in proportion, therefore > A has to > B the ratio triplicate of that which > A has to > H. [elem.5.def.10]
+But, as > A is to > H, so is > C to > D; therefore > A also has to > B the ratio triplicate of that which > C has to > D. Q. E. D.

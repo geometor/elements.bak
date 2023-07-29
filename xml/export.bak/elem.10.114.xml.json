@@ -1,0 +1,83 @@
+{
+    "id": "elem.10.114",
+    "n": 114,
+    "type": "propositions 85\u2014115",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "For let an area, the rectangle , , be contained by the apotome  and the binomial straight line , and let  be the greater term of the latter; let the terms ,  of the binomial straight line be commensurable with the terms ,  of the apotome and in the same ratio; and let the \n of the rectangle ,  be ; I say that  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let a rational straight line  be set out, and to  let there be applied a rectangle equal to the square on  and producing  as breadth.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is an apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let its terms be ,  commensurable with the terms ,  of the binomial straight line and in the same ratio. [elem.10.112]",
+            "refs": [
+                "elem.10.112"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are also commensurable with ,  and in the same ratio; therefore, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, alternately, as  is to , so is  to ; therefore also the remainder  is to the remainder  as  is to . [elem.5.19]",
+            "refs": [
+                "elem.5.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is commensurable with ; [elem.10.12] therefore  is also commensurable with . [elem.10.11]",
+            "refs": [
+                "elem.10.12",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is the rectangle ,  to the rectangle , ; [elem.6.1] therefore the rectangle ,  is also commensurable with the rectangle , . [elem.10.11]",
+            "refs": [
+                "elem.6.1",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the rectangle ,  is equal to the square on ; therefore the rectangle ,  is commensurable with the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is equal to the rectangle , ; therefore the square on  is commensurable with the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is rational; therefore the square on  is also rational; therefore  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is the \n of the rectangle , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

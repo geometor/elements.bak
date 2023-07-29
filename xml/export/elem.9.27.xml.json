@@ -2,28 +2,29 @@
     "id": "elem.9.27",
     "n": 27,
     "type": "proposition",
+    "enunciation": "> If from an odd number an even number be subtracted, the remainder will be odd.",
     "proof": [
         {
-            "text": "For from the odd number  let the even number  be subtracted; I say that the remainder  is odd.",
+            "text": "For from the odd number > AB let the even number > BC be subtracted; I say that the remainder > CA is odd.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let the unit  be subtracted; therefore  is even. [elem.7.def.7]",
+            "text": "Let the unit > AD be subtracted; therefore > DB is even. [elem.7.def.7]",
             "refs": [
                 "elem.7.def.7"
             ],
             "emphs": []
         },
         {
-            "text": "But  is also even; therefore the remainder  is even. [elem.9.24]",
+            "text": "But > BC is also even; therefore the remainder > CD is even. [elem.9.24]",
             "refs": [
                 "elem.9.24"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is odd. [elem.7.def.7] Q. E. D.",
+            "text": "Therefore > CA is odd. [elem.7.def.7] Q. E. D.",
             "refs": [
                 "elem.7.def.7"
             ],

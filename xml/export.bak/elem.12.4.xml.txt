@@ -1,0 +1,17 @@
+Enunciation:
+, , , , , ,
+
+Proof:
+Let there be two pyramids of the same height which have the triangular bases , , and vertices the points , , and let each of them be divided into two pyramids equal to one another and similar to the whole and into two equal prisms; [elem.12.3] I say that, as the base  is to the base , so are all the prisms in the pyramid  to all the prisms, being equal in multitude, in the pyramid ,
+For, since  is equal to , and  to , therefore  is parallel to , and the triangle  is similar to the triangle .
+For the same reason the triangle  is also similar to the triangle .
+And, since  is double of , and  of , therefore, as  is to , so is  to .
+And on ,  are described the similar and similarly situated rectilineal figures , , and on ,  the similar and similarly situated figures , ; therefore, as the triangle  is to the triangle , so is the triangle  to the triangle ; [elem.6.22] therefore, alternately, as the triangle  is to the triangle , so is the triangle  to the triangle . [elem.5.16]
+But, as the triangle  is to the triangle , so is the prism in which the triangle  is the base and  its opposite to the prism in which the triangle  is the base and  its opposite; [Lemma following] therefore also, as the triangle  is to the triangle , so is the prism in which the triangle  is the base and  its opposite to the prism in which the triangle  is the base and  its opposite.
+But, as the said prisms are to one another, so is the prism in which the parallelogram  is the base and the straight line  its opposite to the prism in which the parallelogram  is the base and the straight line  its opposite. [elem.11.39; cf. elem.12.3]
+Therefore also the two prisms, that in which the parallelogram  is the base and  its opposite, and that in which the triangle  is the base and  its opposite, are to the prisms in which  is the base and the straight line  its opposite and in which the triangle  is the base and  its opposite in the same ratio [elem.5.12]
+Therefore also, as the base  is to the base , so are the said two prisms to the said two prisms.
+And similarly, if the pyramids ,  be divided into two prisms and two pyramids, as the base  is to the base , so will the two prisms in the pyramid  be to the two prisms in the pyramid .
+But, as the base  is to the base , so is the base  to the base ; for the triangles ,  are equal to the triangles ,  respectively.
+Therefore also, as the base  is to the base , so are the four prisms to the four prisms.
+And similarly also, if we divide the remaining pyramids into two pyramids and into two prisms, then, as the base  is to the base , so will all the prisms in the pyramid  be to all the prisms, being equal in multitude, in the pyramid . Q. E. D.

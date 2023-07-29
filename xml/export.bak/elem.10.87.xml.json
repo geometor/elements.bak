@@ -1,0 +1,125 @@
+{
+    "id": "elem.10.87",
+    "n": 87,
+    "type": "propositions 85\u2014115",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let a rational straight line  be set out, let three numbers , ,  be set out which have not to one another the ratio which a square number has to a square number, but let  have to  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let it be contrived that, as  is to , so is the square on  to the square on , and, as  is to , so is the square on  to the square on . [elem.10.6.p.1]",
+            "refs": [
+                "elem.10.6.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Since then, as  is to , so is the square on  to the square on , therefore the square on  is commensurable with the square on . [elem.10.6]",
+            "refs": [
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is rational; therefore the square on  is also rational; therefore  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  has not to  the ratio which a square number has to a square number, therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Again, since, as  is to , so is the square on  to the square on , therefore the square on  is commensurable with the square on . [elem.10.6]",
+            "refs": [
+                "elem.10.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the square on  is rational; therefore the square on  is also rational; therefore  is rational.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  has not to  the ratio which a square number has to a square number, therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And both are rational; therefore ,  are rational straight lines commensurable in square only; therefore  is an apotome. [elem.10.73]",
+            "refs": [
+                "elem.10.73"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "I say next that it is also a third apotome.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, as  is to , so is the square on  to the square on , and, as  is to , so is the square on  to the square on , therefore, , as  is to , so is the square on  to the square on . [elem.5.22]",
+            "refs": [
+                "elem.5.22"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  has not to  the ratio which a square number has to a square number; therefore neither has the square on  to the square on  the ratio which a square number has to a square number; therefore  is incommensurable in length with . [elem.10.9]",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore neither of the straight lines ,  is commensurable in length with the rational straight line  set out.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now let the square on  be that by which the square on  is greater than the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then, as  is to , so is the square on  to the square on , therefore, , as  is to , so is the square on  to the square on . [elem.5.19.p.1]",
+            "refs": [
+                "elem.5.19.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  has to  the ratio which a square number has to a square number; therefore the square on  also has to the square on  the ratio which a square number has to a square number.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is commensurable in length with , [elem.10.9] and the square on  is greater than the square on  by the square on a straight line commensurable with .",
+            "refs": [
+                "elem.10.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And neither of the straight lines ,  is commensurable in length with the rational straight line  set out; therefore  is a third apotome. [elem.10.def.3.3]",
+            "refs": [
+                "elem.10.def.3.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the third apotome  has been found. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

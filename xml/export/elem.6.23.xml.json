@@ -17,7 +17,7 @@
             ]
         },
         {
-            "text": "For let them be placed so that `BC` is in a straight line with `CG`;",
+            "text": "For let them be placed so that `BC` is in a straight line with `CG`; > therefore `DC` is also in a straight line with `CE`.",
             "refs": [],
             "emphs": [
                 "BC",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "text": "Let the parallelogram `DG` be completed; let a straight line `K` be set out, and let it be contrived that,  and, as `DC` is to `CE`, so is `L` to `M`. [elem.6.12]",
+            "text": "Let the parallelogram `DG` be completed; let a straight line `K` be set out, and let it be contrived that, > as `BC` is to `CG`, so is `K` to `L`, and, as `DC` is to `CE`, so is `L` to `M`. [elem.6.12]",
             "refs": [
                 "elem.6.12"
             ],
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "text": "But `K` has to `M` the ratio compounded of the ratios of the sides;",
+            "text": "But `K` has to `M` the ratio compounded of the ratios of the sides; > therefore `AC` also has to `CF` the ratio compounded of the ratios of the sides.",
             "refs": [],
             "emphs": [
                 "K",

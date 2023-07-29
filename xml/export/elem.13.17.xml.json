@@ -2,59 +2,59 @@
     "id": "elem.13.17",
     "n": 17,
     "type": "proposition",
-    "enunciation": ",",
+    "enunciation": "> To construct a dodecahedron and comprehend it in a sphere, > like the aforesaid figures, and to prove that the side of the dodecahedron is the irrational straight line called apotome.",
     "proof": [
         {
-            "text": "Let , , two planes of the aforesaid cube at right angles to one another, be set out, let the sides , , , , , ,  be bisected at , , , , , ,  respectively, let , , ,  be joined, let the straight lines , ,  be cut in extreme and mean ratio at the points , ,  respectively, and let , ,  be their greater segments; from the points , ,  let , ,  be set up at right angles to the planes of the cube towards the outside of the cube, let them be made equal to , , , and let , , , ,  be joined.",
+            "text": "Let > ABCD, > CBEF, two planes of the aforesaid cube at right angles to one another, be set out, let the sides > AB, > BC, > CD, > DA, > EF, > EB, > FC be bisected at > G, > H, > K, > L, > M, > N, > O respectively, let > GK, > HL, > MH, > NO be joined, let the straight lines > NP, > PO, > HQ be cut in extreme and mean ratio at the points > R, > S, > T respectively, and let > RP, > PS, > TQ be their greater segments; from the points > R, > S, > T let > RU, > SV, > TW be set up at right angles to the planes of the cube towards the outside of the cube, let them be made equal to > RP, > PS, > TQ, and let > UB, > BW, > WC, > CV, > VU be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say that the pentagon  is equilateral, and in one plane, and is further equiangular.",
+            "text": "I say that the pentagon > UBWCV is equilateral, and in one plane, and is further equiangular.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let , ,  be joined.",
+            "text": "For let > RB, > SB, > VB be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Then, since the straight line  has been cut in extreme and mean ratio at , and  is the greater segment, therefore the squares on ,  are triple of the square on . [elem.13.4]",
+            "text": "Then, since the straight line > NP has been cut in extreme and mean ratio at > R, and > RP is the greater segment, therefore the squares on > PN, > NR are triple of the square on > RP. [elem.13.4]",
             "refs": [
                 "elem.13.4"
             ],
             "emphs": []
         },
         {
-            "text": "But  is equal to , and  to ; therefore the squares on ,  are triple of the square on .",
+            "text": "But > PN is equal to > NB, and > PR to > RU; therefore the squares on > BN, > NR are triple of the square on > RU.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the square on  is equal to the squares on , ; [elem.1.47] therefore the square on  is triple of the square on ; hence the squares on ,  are quadruple of the square on .",
+            "text": "But the square on > BR is equal to the squares on > BN, > NR; [elem.1.47] therefore the square on > BR is triple of the square on > RU; hence the squares on > BR, > RU are quadruple of the square on > RU.",
             "refs": [
                 "elem.1.47"
             ],
             "emphs": []
         },
         {
-            "text": "But the square on  is equal to the squares on , ; therefore the square on  is quadruple of the square on ; therefore  is double of .",
+            "text": "But the square on > BU is equal to the squares on > BR, > RU; therefore the square on > BU is quadruple of the square on > RU; therefore > BU is double of > RU.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is also double of , inasmuch as  is also double of , that is, of ; therefore  is equal to .",
+            "text": "But > VU is also double of > UR, inasmuch as > SR is also double of > PR, that is, of > RU; therefore > BU is equal to > UV.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly it can be proved that each of the straight lines , ,  is also equal to each of the straight lines , .",
+            "text": "Similarly it can be proved that each of the straight lines > BW, > WC, > CV is also equal to each of the straight lines > BU, > UV.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the pentagon  is equilateral.",
+            "text": "Therefore the pentagon > BUVCW is equilateral.",
             "refs": [],
             "emphs": []
         },
@@ -64,36 +64,36 @@
             "emphs": []
         },
         {
-            "text": "For let  be drawn from  parallel to each of the straight lines ,  and towards the outside of the cube, and let ,  be joined; I say that  is a straight line.",
+            "text": "For let > PX be drawn from > P parallel to each of the straight lines > RU, > SV and towards the outside of the cube, and let > XH, > HW be joined; I say that > XHW is a straight line.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  has been cut in extreme and mean ratio at , and  is its greater segment, therefore, as  is to , so is  to .",
+            "text": "For, since > HQ has been cut in extreme and mean ratio at > T, and > QT is its greater segment, therefore, as > HQ is to > QT, so is > QT to > TH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is equal to , and  to each of the straight lines , ; therefore, as  is to , so is  to .",
+            "text": "But > HQ is equal to > HP, and > QT to each of the straight lines > TW, > PX; therefore, as > HP is to > PX, so is > WT to > TH.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is parallel to , for each of them is at right angles to the plane ; [elem.11.6] and  is parallel to , for each of them is at right angles to the plane . [.]",
+            "text": "And > HP is parallel to > TW, for each of them is at right angles to the plane > BD; [elem.11.6] and > TH is parallel to > PX, for each of them is at right angles to the plane > BF. [> id.]",
             "refs": [
                 "elem.11.6"
             ],
             "emphs": []
         },
         {
-            "text": "But if two triangles, as , , which have two sides proportional to two sides be placed together at one angle so that their corresponding sides are also parallel, the remaining straight lines will be in a straight line; [elem.6.32] therefore  is in a straight line with .",
+            "text": "But if two triangles, as > XPH, > HTW, which have two sides proportional to two sides be placed together at one angle so that their corresponding sides are also parallel, the remaining straight lines will be in a straight line; [elem.6.32] therefore > XH is in a straight line with > HW.",
             "refs": [
                 "elem.6.32"
             ],
             "emphs": []
         },
         {
-            "text": "But every straight line is in one plane; [elem.11.1] therefore the pentagon  is in one plane.",
+            "text": "But every straight line is in one plane; [elem.11.1] therefore the pentagon > UBWCV is in one plane.",
             "refs": [
                 "elem.11.1"
             ],
@@ -105,7 +105,7 @@
             "emphs": []
         },
         {
-            "text": "For, since the straight line  has been cut in extreme and mean ratio at , and  is the greater segment, while  is equal to , therefore  has also been cut in extreme and mean ratio at , and  is the greater segment; [elem.13.5] therefore the squares on ,  are triple of the square on . [elem.13.4]",
+            "text": "For, since the straight line > NP has been cut in extreme and mean ratio at > R, and > PR is the greater segment, while > PR is equal to > PS, therefore > NS has also been cut in extreme and mean ratio at > P, and > NP is the greater segment; [elem.13.5] therefore the squares on > NS, > SP are triple of the square on > NP. [elem.13.4]",
             "refs": [
                 "elem.13.5",
                 "elem.13.4"
@@ -113,41 +113,41 @@
             "emphs": []
         },
         {
-            "text": "But  is equal to , and  to ; therefore the squares on ,  are triple of the square on ; hence the squares on , ,  are quadruple of the square on .",
+            "text": "But > NP is equal to > NB, and > PS to > SV; therefore the squares on > NS, > SV are triple of the square on > NB; hence the squares on > VS, > SN, > NB are quadruple of the square on > NB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the square on  is equal to the squares on , ; therefore the squares on , , that is, the square on  \u2014for the angle  is right\u2014is quadruple of the square on ; therefore  is double of .",
+            "text": "But the square on > SB is equal to the squares on > SN, > NB; therefore the squares on > BS, > SV, that is, the square on > BV \u2014for the angle > VSB is right\u2014is quadruple of the square on > NB; therefore > VB is double of > BN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is also double of ; therefore  is equal to .",
+            "text": "But > BC is also double of > BN; therefore > BV is equal to > BC.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since the two sides ,  are equal to the two sides , , and the base  is equal to the base , therefore the angle  is equal to the angle . [elem.1.8]",
+            "text": "And, since the two sides > BU, > UV are equal to the two sides > BW, > WC, and the base > BV is equal to the base > BC, therefore the angle > BUV is equal to the angle > BWC. [elem.1.8]",
             "refs": [
                 "elem.1.8"
             ],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that the angle  is also equal to the angle ; therefore the three angles , ,  are equal to one another.",
+            "text": "Similarly we can prove that the angle > UVC is also equal to the angle > BWC; therefore the three angles > BWC, > BUV, > UVC are equal to one another.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But if in an equilateral pentagon three angles are equal to one another, the pentagon will be equiangular, [elem.13.7] therefore the pentagon  is equiangular.",
+            "text": "But if in an equilateral pentagon three angles are equal to one another, the pentagon will be equiangular, [elem.13.7] therefore the pentagon > BUVCW is equiangular.",
             "refs": [
                 "elem.13.7"
             ],
             "emphs": []
         },
         {
-            "text": "And it was also proved equilateral; therefore the pentagon  is equilateral and equiangular, and it is on one side  of the cube.",
+            "text": "And it was also proved equilateral; therefore the pentagon > BUVCW is equilateral and equiangular, and it is on one side > BC of the cube.",
             "refs": [],
             "emphs": []
         },
@@ -162,41 +162,41 @@
             "emphs": []
         },
         {
-            "text": "For let  be produced, and let the produced straight line be ; therefore  meets the diameter of the cube, and they bisect one another, for this has been proved in the last theorem but one of the eleventh book. [elem.11.38]",
+            "text": "For let > XP be produced, and let the produced straight line be > XZ; therefore > PZ meets the diameter of the cube, and they bisect one another, for this has been proved in the last theorem but one of the eleventh book. [elem.11.38]",
             "refs": [
                 "elem.11.38"
             ],
             "emphs": []
         },
         {
-            "text": "Let them cut at ; therefore  is the centre of the sphere which comprehends the cube, and  is half of the side of the cube.",
+            "text": "Let them cut at > Z; therefore > Z is the centre of the sphere which comprehends the cube, and > ZP is half of the side of the cube.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  be joined.",
+            "text": "Let > UZ be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since the straight line  has been cut in extreme and mean ratio at , and  is its greater segment, therefore the squares on ,  are triple of the square on . [elem.13.4]",
+            "text": "Now, since the straight line > NS has been cut in extreme and mean ratio at > P, and > NP is its greater segment, therefore the squares on > NS, > SP are triple of the square on > NP. [elem.13.4]",
             "refs": [
                 "elem.13.4"
             ],
             "emphs": []
         },
         {
-            "text": "But  is equal to , inasmuch as  is also equal to , and  to .",
+            "text": "But > NS is equal to > XZ, inasmuch as > NP is also equal to > PZ, and > XP to > PS.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But further  is also equal to , since it is also equal to ; therefore the squares on ,  are triple of the square on .",
+            "text": "But further > PS is also equal to > XU, since it is also equal to > RP; therefore the squares on > ZX, > XU are triple of the square on > NP.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the square on  is equal to the squares on , ; therefore the square on  is triple of the square on .",
+            "text": "But the square on > UZ is equal to the squares on > ZX, > XU; therefore the square on > UZ is triple of the square on > NP.",
             "refs": [],
             "emphs": []
         },
@@ -208,12 +208,12 @@
             "emphs": []
         },
         {
-            "text": "But, if whole is so related to whole, so is half to half also; and  is half of the side of the cube; therefore  is equal to the radius of the sphere which comprehends the cube.",
+            "text": "But, if whole is so related to whole, so is half to half also; and > NP is half of the side of the cube; therefore > UZ is equal to the radius of the sphere which comprehends the cube.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is the centre of the sphere which comprehends the cube; therefore the point  is on the surface of the sphere.",
+            "text": "And > Z is the centre of the sphere which comprehends the cube; therefore the point > U is on the surface of the sphere.",
             "refs": [],
             "emphs": []
         },
@@ -228,29 +228,29 @@
             "emphs": []
         },
         {
-            "text": "For since, when  has been cut in extreme and mean ratio,  is the greater segment, and, when  has been cut in extreme and mean ratio,  is the greater segment, therefore, when the whole  is cut in extreme and mean ratio,  is the greater segment.",
+            "text": "For since, when > NP has been cut in extreme and mean ratio, > RP is the greater segment, and, when > PO has been cut in extreme and mean ratio, > PS is the greater segment, therefore, when the whole > NO is cut in extreme and mean ratio, > RS is the greater segment.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "[Thus, since, as  is to , so is  to , the same is true of the doubles also, for parts have the same ratio as their equimultiples; [elem.5.15] therefore as  is to , so is  to the sum of , .",
+            "text": "[Thus, since, as > NP is to > PR, so is > PR to > RN, the same is true of the doubles also, for parts have the same ratio as their equimultiples; [elem.5.15] therefore as > NO is to > RS, so is > RS to the sum of > NR, > SO.",
             "refs": [
                 "elem.5.15"
             ],
             "emphs": []
         },
         {
-            "text": "But  is greater than ; therefore  is also greater than the sum of , ; therefore  has been cut in extreme and mean ratio, and  is its greater segment.]",
+            "text": "But > NO is greater than > RS; therefore > RS is also greater than the sum of > NR, > SO; therefore > NO has been cut in extreme and mean ratio, and > RS is its greater segment.]",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is equal to ; therefore, when  is cut in extreme and mean ratio,  is the greater segment.",
+            "text": "But > RS is equal to > UV; therefore, when > NO is cut in extreme and mean ratio, > UV is the greater segment.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since the diameter of the sphere is rational, and the square on it is triple of the square on the side of the cube, therefore , being a side of the cube, is rational.",
+            "text": "And, since the diameter of the sphere is rational, and the square on it is triple of the square on the side of the cube, therefore > NO, being a side of the cube, is rational.",
             "refs": [],
             "emphs": []
         },
@@ -260,7 +260,7 @@
             "emphs": []
         },
         {
-            "text": "Therefore , being a side of the dodecahedron, is an irrational apotome. [elem.13.6]",
+            "text": "Therefore > UV, being a side of the dodecahedron, is an irrational apotome. [elem.13.6]",
             "refs": [
                 "elem.13.6"
             ],

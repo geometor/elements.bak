@@ -1,4 +1,4 @@
 Enunciation:
-A  is a solid figure contained by six equal squares.
+A > cube is a solid figure contained by six equal squares.
 
 Proof:

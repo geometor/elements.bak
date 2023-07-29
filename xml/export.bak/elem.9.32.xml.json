@@ -1,0 +1,46 @@
+{
+    "id": "elem.9.32",
+    "n": 32,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let as many numbers as we please, , , , have been continually doubled beginning from the dyad ; I say that , ,  are eventimes even only.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now that each of the numbers , ,  is even-times even is manifest; for it is doubled from a dyad.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that it is also even-times even only.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let an unit be set out.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then as many numbers as we please beginning from an unit are in continued proportion, and the number  after the unit is prime, therefore , the greatest of the numbers , , , , will not be measured by any other number except , , . [elem.9.13]",
+            "refs": [
+                "elem.9.13"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And each of the numbers , ,  is even; therefore  is even-times even only. [elem.7.def.8]",
+            "refs": [
+                "elem.7.def.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that each of the numbers ,  is even-times even only. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

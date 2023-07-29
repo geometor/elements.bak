@@ -1,23 +1,23 @@
 Enunciation:
-
+> To find numbers in continued proportion, as many as may be prescribed, and the least that are in a given ratio.
 
 Proof:
-Let the ratio of  to  be the given ratio in least numbers; thus it is required to find numbers in continued proportion, as many as may be prescribed, and the least that are in the ratio of  to .
-Let four be prescribed; let  by multiplying itself make , and by multiplying  let it make ; let  by multiplying itself make ; further, let  by multiplying , ,  make , , , and let  by multiplying  make .
-Now, since  by multiplying itself has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
-Again, since  by multiplying  has made , and  by multiplying itself has made , therefore the numbers ,  by multiplying  have made the numbers ,  respectively.
-Therefore, as  is to , so is  to . [elem.7.18]
-But, as  is to , so is  to ; therefore also, as  is to , so is  to .
-And, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]
-But, as  is to , so was  to ; therefore also, as  is to , so is  to .
-Again, since  by multiplying ,  has made , , therefore, as  is to , so is  to . [elem.7.17]
-But, as  is to , so is  to .
-Therefore also, as  is to , so is  to .
-And, since ,  by multiplying  have made , , therefore, as  is to , so is  to . [elem.7.18]
-But, as  is to , so is  to , and  to .
-Therefore also, as  is to , so is  to , and  to ; therefore , , , and , , ,  are proportional in the ratio of  to .
+Let the ratio of > A to > B be the given ratio in least numbers; thus it is required to find numbers in continued proportion, as many as may be prescribed, and the least that are in the ratio of > A to > B.
+Let four be prescribed; let > A by multiplying itself make > C, and by multiplying > B let it make > D; let > B by multiplying itself make > E; further, let > A by multiplying > C, > D, > E make > F, > G, > H, and let > B by multiplying > E make > K.
+Now, since > A by multiplying itself has made > C, and by multiplying > B has made > D, therefore, as > A is to > B, so is > C to > D. [elem.7.17]
+Again, since > A by multiplying > B has made > D, and > B by multiplying itself has made > E, therefore the numbers > A, > B by multiplying > B have made the numbers > D, > E respectively.
+Therefore, as > A is to > B, so is > D to > E. [elem.7.18]
+But, as > A is to > B, so is > C to > D; therefore also, as > C is to > D, so is > D to > E.
+And, since > A by multiplying > C, > D has made > F, > G, therefore, as > C is to > D, so is > F to > G. [elem.7.17]
+But, as > C is to > D, so was > A to > B; therefore also, as > A is to > B, so is > F to > G.
+Again, since > A by multiplying > D, > E has made > G, > H, therefore, as > D is to > E, so is > G to > H. [elem.7.17]
+But, as > D is to > E, so is > A to > B.
+Therefore also, as > A is to > B, so is > G to > H.
+And, since > A, > B by multiplying > E have made > H, > K, therefore, as > A is to > B, so is > H to > K. [elem.7.18]
+But, as > A is to > B, so is > F to > G, and > G to > H.
+Therefore also, as > F is to > G, so is > G to > H, and > H to > K; therefore > C, > D, > E, and > F, > G, > H, > K are proportional in the ratio of > A to > B.
 I say next that they are the least numbers that are so.
-For, since ,  are the least of those which have the same ratio with them, and the least of those which have the same ratio are prime to one another, [elem.7.22] therefore ,  are prime to one another.
-And the numbers ,  by multiplying themselves respectively have made the numbers , , and by multiplying the numbers ,  respectively have made the numbers , ; therefore ,  and ,  are prime to one another respectively. [elem.7.27]
+For, since > A, > B are the least of those which have the same ratio with them, and the least of those which have the same ratio are prime to one another, [elem.7.22] therefore > A, > B are prime to one another.
+And the numbers > A, > B by multiplying themselves respectively have made the numbers > C, > E, and by multiplying the numbers > C, > E respectively have made the numbers > F, > K; therefore > C, > E and > F, > K are prime to one another respectively. [elem.7.27]
 But, if there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, they are the least of those which have the same ratio with them. [elem.8.1]
-Therefore , ,  and , , ,  are the least of those which have the same ratio with , . Q. E. D.
+Therefore > C, > D, > E and > F, > G, > H, > K are the least of those which have the same ratio with > A, > B. Q. E. D.

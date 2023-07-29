@@ -25,7 +25,7 @@
             ]
         },
         {
-            "text": "Then, since `EA` is equal to `EB`,  therefore the angles `EAB`, `EBA` are double of the angle `EAB`.",
+            "text": "Then, since `EA` is equal to `EB`, > the angle `EAB` is also equal to the angle `EBA`; [elem.1.5] therefore the angles `EAB`, `EBA` are double of the angle `EAB`.",
             "refs": [],
             "emphs": [
                 "EA",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "text": "For the same reason",
+            "text": "For the same reason > the angle `FEC` is also double of the angle `EAC`.",
             "refs": [],
             "emphs": []
         },
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "text": "Similarly then we can prove that the angle `GEC` is double of the angle `EDC`,",
+            "text": "Similarly then we can prove that the angle `GEC` is double of the angle `EDC`, > of which the angle `GEB` is double of the angle `EDB`; therefore the angle `BEC` which remains is double of the angle `BDC`.",
             "refs": [],
             "emphs": [
                 "GEC",

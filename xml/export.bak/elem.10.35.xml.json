@@ -1,0 +1,70 @@
+{
+    "id": "elem.10.35",
+    "n": 35,
+    "type": "propositions i\u201447",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let there be set out two medial straight lines ,  commensurable in square only, containing a medial rectangle, and such that the square on  is greater than the square on  by the square on a straight line incommensurable with ; [elem.10.32\n, .] let the semicircle  be described on , and let the rest of the construction be as above.",
+            "refs": [
+                "elem.10.32"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Then, since  is incommensurable in length with , [elem.10.18\n]  is also incommensurable in square with . [elem.10.11\n]",
+            "refs": [
+                "elem.10.18",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the square on  is medial, therefore the sum of the squares on ,  is also medial. [elem.3.31\n, elem.1.47\n]",
+            "refs": [
+                "elem.3.31",
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since the rectangle ,  is equal to the square on each of the straight lines , , therefore  is equal to ; therefore  is double of , so that the rectangle ,  is also double of the rectangle , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the rectangle ,  is medial; therefore the rectangle ,  is also medial. [elem.10.32.p.1]",
+            "refs": [
+                "elem.10.32.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And it is equal to the rectangle , ; [elem.10.32.l.1\n] therefore the rectangle ,  is also medial.",
+            "refs": [
+                "elem.10.32.l.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is incommensurable in length with , while  is commensurable with , therefore  is also incommensurable in length with , [elem.10.13\n] so that the square on  is also incommensurable with the rectangle , . [elem.10.11\n]",
+            "refs": [
+                "elem.10.13",
+                "elem.10.11"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the squares on ,  are equal to the square on , [elem.1.47\n] and the rectangle , , that is, the rectangle , , is equal to the rectangle , ; therefore the sum of the squares on ,  is incommensurable with the rectangle , .",
+            "refs": [
+                "elem.1.47"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore two straight lines ,  incommensurable in square have been found which make the sum of the squares on them medial and the rectangle contained by them medial and moreover incommensurable with the sum of the squares on them. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

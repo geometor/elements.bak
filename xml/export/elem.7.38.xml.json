@@ -2,26 +2,27 @@
     "id": "elem.7.38",
     "n": 38,
     "type": "proposition",
+    "enunciation": "> If a number have any part whatever, it will be measured by a number called by the same name as the part.",
     "proof": [
         {
-            "text": "For let the number  have any part whatever, , and let  be a number called by the same name as the part ; I say that  measures .",
+            "text": "For let the number > A have any part whatever, > B, and let > C be a number called by the same name as the part > B; I say that > C measures > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  is a part of  called by the same name as , and the unit  is also a part of  called by the same name as it, therefore, whatever part the unit  is of the number , the same part is  of  also; therefore the unit  measures the number  the same number of times that  measures .",
+            "text": "For, since > B is a part of > A called by the same name as > C, and the unit > D is also a part of > C called by the same name as it, therefore, whatever part the unit > D is of the number > C, the same part is > B of > A also; therefore the unit > D measures the number > C the same number of times that > B measures > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, alternately, the unit  measures the number  the same number of times that  measures . [elem.7.15]",
+            "text": "Therefore, alternately, the unit > D measures the number > B the same number of times that > C measures > A. [elem.7.15]",
             "refs": [
                 "elem.7.15"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  measures . Q. E. D.",
+            "text": "Therefore > C measures > A. Q. E. D.",
             "refs": [],
             "emphs": []
         }

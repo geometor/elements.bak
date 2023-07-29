@@ -2,7 +2,7 @@ Enunciation:
 `In equal triangles which have one angle equal to one angle the sides about the equal angles are reciprocally proportional; and those triangles which have one angle equal to one angle`, `and in which the sides about the equal angles are reciprocally proportional`, `are equal`.
 
 Proof:
-Let `ABC`, `ADE` be equal triangles having one angle equal to one angle, namely the angle `BAC` to the angle `DAE`; I say that in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional, that is to say, that,
+Let `ABC`, `ADE` be equal triangles having one angle equal to one angle, namely the angle `BAC` to the angle `DAE`; I say that in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional, that is to say, that, > as `CA` is to `AD`, so is `EA` to `AB`.
 For let them be placed so that `CA` is in a straight line with `AD`; therefore `EA` is also in a straight line with `AB`. [elem.1.14]
 Let `BD` be joined.
 Since then the triangle `ABC` is equal to the triangle `ADE`, and `BAD` is another area, therefore, as the triangle `CAB` is to the triangle `BAD`, so is the triangle `EAD` to the triangle `BAD`. [elem.5.7]

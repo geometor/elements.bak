@@ -1,0 +1,35 @@
+{
+    "id": "elem.10.70",
+    "n": 70,
+    "type": "propositions 48\u201484",
+    "enunciation": ".",
+    "proof": [
+        {
+            "text": "Let  be the side of the sum of two medial areas, and  commensurable with ; it is to be proved that  is also the side of the sum of two medial areas.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since  is the side of the sum of two medial areas,  let it be divided into its straight lines at ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and furthermore the sum of the squares on ,  incommensurable with the rectangle , . [elem.10.41]",
+            "refs": [
+                "elem.10.41"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Let the same construction be made as before.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "We can then prove similarly that ,  are also incommensurable in square, the sum of the squares on ,  is commensurable with the sum of the squares on , , and the rectangle ,  with the rectangle , ; so that the sum of the squares on ,  is also medial, the rectangle ,  is medial, and moreover the sum of the squares on ,  is incommensurable with the rectangle , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is the side of the sum of two medial areas. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

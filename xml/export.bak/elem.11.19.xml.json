@@ -1,0 +1,47 @@
+{
+    "id": "elem.11.19",
+    "n": 19,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "For let the two planes ,  be at right angles to the plane of reference, and let  be their common section; I say that  is at right angles to the plane of reference.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For suppose it is not, and from the point  let  be drawn in the plane  at right angles to the straight line , and  in the plane  at right angles to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since the plane  is at right angles to the plane of reference, and  has been drawn in the plane  at right angles to , their common section, therefore  is at right angles to the plane of reference. [elem.11.def.4]",
+            "refs": [
+                "elem.11.def.4"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that  is also at right angles to the plane of reference.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore from the same point  two straight lines have been set up at right angles to the plane of reference on the same side: which is impossible. [elem.11.13]",
+            "refs": [
+                "elem.11.13"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no straight line except the common section  of the planes ,  can be set up from the point  at right angles to the plane of reference.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

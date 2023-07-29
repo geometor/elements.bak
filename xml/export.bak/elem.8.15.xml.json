@@ -1,0 +1,55 @@
+{
+    "id": "elem.8.15",
+    "n": 15,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the cube number  measure the cube , and let  be the side of  and  of ; I say that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  by multiplying itself make , and let  by multiplying itself make ; further, let  by multiplying  make , and let ,  by multiplying  make ,  respectively.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now it is manifest that , ,  and , , ,  are continuously proportional in the ratio of  to . [elem.8.11 elem.8.12]",
+            "refs": [
+                "elem.8.11 elem.8.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, since , , ,  are continuously proportional, and  measures , therefore it also measures . [elem.8.7]",
+            "refs": [
+                "elem.8.7"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore  also measures . [elem.7.def.20]",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  measure ; I say that  will also measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, with the same construction, we can prove in a similar manner that , , ,  are continuously proportional in the ratio of  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  measures , and, as  is to , so is  to , therefore  also measures , [elem.7.def.20] so that  measures  also. Q. E. D.",
+            "refs": [
+                "elem.7.def.20"
+            ],
+            "emphs": []
+        }
+    ]
+}

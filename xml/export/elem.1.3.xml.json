@@ -22,7 +22,7 @@
             ]
         },
         {
-            "text": "At the point `A` let `AD` be placed equal to the straight line `C`; [elem.1.2] and with centre `A` and distance `AD` let the circle `DEF` be described. [elem.1.post.3]",
+            "text": "At the point `A` let `AD` be placed equal to the straight line `C`; [elem.1.2] and with centre `A` and distance `AD` let the circle `DEF` be described. [elem.1.post.3] > Now, since the point `A` is the centre of the circle `DEF`, `AE` is equal to `AD`. [elem.1.def.15] But `C` is also equal to `AD`. Therefore each of the straight lines `AE`, `C` is equal to `AD`; so that `AE` is also equal to `C`. [elem.1.c.n.1]",
             "refs": [
                 "elem.1.2",
                 "elem.1.post.3"

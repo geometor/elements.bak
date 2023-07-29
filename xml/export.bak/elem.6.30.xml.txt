@@ -1,0 +1,13 @@
+Enunciation:
+`To cut a given finite straight line in extreme and mean ratio`.
+
+Proof:
+Let `AB` be the given finite straight line;
+On `AB` let the square `BC` be described; and let there be applied to `AC` the parallelogram `CD` equal to `BC` and exceeding by the figure `AD` similar to `BC`. [elem.6.29]
+Now `BC` is a square;
+And, since `BC` is equal to `CD`, let `CE` be subtracted from each;
+But it is also equiangular with it; therefore in `BF`, `AD` the sides about the equal angles are reciprocally proportional; [elem.6.14]
+But `FE` is equal to `AB`, and `ED` to `AE`.
+Therefore, as `BA` is to `AE`, so is `AE` to `EB`.
+And `AB` is greater than `AE`;
+Therefore the straight line `AB` has been cut in extreme and mean ratio at `E`, and the greater segment of it is `AE`. Q. E. F.

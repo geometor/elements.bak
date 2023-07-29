@@ -1,9 +1,9 @@
 Enunciation:
-.
+> A first bimedial straight line is divided at one point only.
 
 Proof:
-Let  be a first bimedial straight line divided at , so that ,  are medial straight lines commensurable in square only and containing a rational rectangle;  I say that  is not so divided at another point.
-For, if possible, let it be divided at  also, so that ,  are also medial straight lines commensurable in square only and containing a rational rectangle.
-Since, then, that by which twice the rectangle ,  differs from twice the rectangle ,  is that by which the squares on ,  differ from the squares on , , while twice the rectangle ,  differs from twice the rectangle ,  by a rational area—for both are rational— therefore the squares on ,  also differ from the squares on ,  by a rational area, though they are medial: which is absurd. [elem.10.26
+Let > AB be a first bimedial straight line divided at > C, so that > AC, > CB are medial straight lines commensurable in square only and containing a rational rectangle;  I say that > AB is not so divided at another point.
+For, if possible, let it be divided at > D also, so that > AD, > DB are also medial straight lines commensurable in square only and containing a rational rectangle.
+Since, then, that by which twice the rectangle > AD, > DB differs from twice the rectangle > AC, > CB is that by which the squares on > AC, > CB differ from the squares on > AD, > DB, while twice the rectangle > AD, > DB differs from twice the rectangle > AC, > CB by a rational area—for both are rational— therefore the squares on > AC, > CB also differ from the squares on > AD, > DB by a rational area, though they are medial: which is absurd. [elem.10.26
 ]
 Therefore a first bimedial straight line is not divided into its terms at different points; therefore it is so divided at one point only.

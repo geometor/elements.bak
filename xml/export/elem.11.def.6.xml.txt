@@ -1,4 +1,4 @@
 Enunciation:
-The  is the acute angle contained by the straight lines drawn at right angles to the common section at the same point, one in each of the planes.
+The > inclination of a plane to a plane is the acute angle contained by the straight lines drawn at right angles to the common section at the same point, one in each of the planes.
 
 Proof:

@@ -1,0 +1,7 @@
+Enunciation:
+
+
+Proof:
+For from the even number  let the even number  be subtracted: I say that the remainder  is even.
+For, since  is even, it has a half part. [elem.7.def.6]
+For the same reason  also has a half part; so that the remainder [ also has a half part, and]  is therefore even. Q. E. D.

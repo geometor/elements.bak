@@ -31,7 +31,7 @@
             ]
         },
         {
-            "text": "Now, since the polygon `ABCDE` is similar to the polygon `FGHKL`, the angle `BAE` is equal to the angle `GFL`;",
+            "text": "Now, since the polygon `ABCDE` is similar to the polygon `FGHKL`, the angle `BAE` is equal to the angle `GFL`; > and, as `BA` is to `AE`, so is `GF` to `FL`. [elem.6.def.1]",
             "refs": [],
             "emphs": [
                 "ABCDE",
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "text": "Since then `ABE`, `FGL` are two triangles having one angle equal to one angle and the sides about the equal angles proportional, therefore the triangle `ABE` is equiangular with the triangle `FGL`; [elem.6.6]  therefore the angle `ABE` is equal to the angle `FGL`.",
+            "text": "Since then `ABE`, `FGL` are two triangles having one angle equal to one angle and the sides about the equal angles proportional, therefore the triangle `ABE` is equiangular with the triangle `FGL`; [elem.6.6] > so that it is also similar; [elem.6.4 elem.6.def.1] therefore the angle `ABE` is equal to the angle `FGL`.",
             "refs": [
                 "elem.6.6"
             ],
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "text": "And, since, because of the similarity of the triangles `ABE`, `FGL`,  and moreover also, because of the similarity of the polygons,  therefore, , as `EB` is to `BC`, so is `LG` to `GH`; [elem.5.22] that is, the sides about the equal angles `EBC`, `LGH` are proportional; therefore the triangle `EBC` is equiangular with the triangle `LGH`, [elem.6.6]",
+            "text": "And, since, because of the similarity of the triangles `ABE`, `FGL`, > as `EB` is to `BA`, so is `LG` to `GF`, and moreover also, because of the similarity of the polygons, > as `AB` is to `BC`, so is `FG` to `GH`, therefore, , as `EB` is to `BC`, so is `LG` to `GH`; [elem.5.22] that is, the sides about the equal angles `EBC`, `LGH` are proportional; therefore the triangle `EBC` is equiangular with the triangle `LGH`, [elem.6.6] > so that the triangle `EBC` is also similar to the triangle `LGH`. [elem.6.4 elem.6.def.1]",
             "refs": [
                 "elem.5.22",
                 "elem.6.6"
@@ -124,7 +124,7 @@
             ]
         },
         {
-            "text": "Then since, because of the similarity of the polygons, the angle `ABC` is equal to the angle `FGH`, and, as `AB` is to `BC`, so is `FG` to `GH`,",
+            "text": "Then since, because of the similarity of the polygons, the angle `ABC` is equal to the angle `FGH`, and, as `AB` is to `BC`, so is `FG` to `GH`, > the triangle `ABC` is equiangular with the triangle `FGH`; [elem.6.6] therefore the angle `BAC` is equal to the angle `GFH`, and the angle `BCA` to the angle `GHF`.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -160,7 +160,7 @@
             ]
         },
         {
-            "text": "Therefore, proportionally, as `AM` is to `MB`, so is `FN` to `NG`, and, as `BM` is to `MC`, so is `GN` to `NH`; so that, in addition, ,",
+            "text": "Therefore, proportionally, as `AM` is to `MB`, so is `FN` to `NG`, and, as `BM` is to `MC`, so is `GN` to `NH`; so that, in addition, , > as `AM` is to `MC`, so is `FN` to `NH`.",
             "refs": [],
             "emphs": [
                 "AM",

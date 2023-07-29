@@ -4,7 +4,7 @@ Parallelograms which are on equal bases and in the same parallels are equal to o
 Proof:
 Let `ABCD`, `EFGH` be parallelograms which are on equal bases `BC`, `FG` and in the same parallels `AH`, `BG`;  I say that the parallelogram `ABCD` is equal to `EFGH`.
 For let `BE`, `CH` be joined.
-Then, since `BC` is equal to `FG` while `FG` is equal to `EH`,
+Then, since `BC` is equal to `FG` while `FG` is equal to `EH`, > `BC` is also equal to `EH`. [elem.1.c.n.1]
 But they are also parallel.
 And `EB`, `HC` join them; but straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are equal and parallel. [elem.1.33]
 Therefore `EBCH` is a parallelogram. [elem.1.34]

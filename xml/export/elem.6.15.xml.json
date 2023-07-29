@@ -5,7 +5,7 @@
     "enunciation": "`In equal triangles which have one angle equal to one angle the sides about the equal angles are reciprocally proportional; and those triangles which have one angle equal to one angle`, `and in which the sides about the equal angles are reciprocally proportional`, `are equal`.",
     "proof": [
         {
-            "text": "Let `ABC`, `ADE` be equal triangles having one angle equal to one angle, namely the angle `BAC` to the angle `DAE`; I say that in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional, that is to say, that,",
+            "text": "Let `ABC`, `ADE` be equal triangles having one angle equal to one angle, namely the angle `BAC` to the angle `DAE`; I say that in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional, that is to say, that, > as `CA` is to `AD`, so is `EA` to `AB`.",
             "refs": [],
             "emphs": [
                 "ABC",

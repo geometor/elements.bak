@@ -2,136 +2,136 @@
     "id": "elem.11.35",
     "n": 35,
     "type": "proposition",
-    "enunciation": ", , , , , , .",
+    "enunciation": "> If there be two equal plane angles, > and on their vertices there be set up elevated straight lines containing equal angles with the original straight lines respectively, > if on the elevated straight lines points be taken at random and perpendiculars be drawn from them to the planes in which the original angles are, > and if from the points so arising in the planes straight lines be joined to the vertices of the original angles, > they will contain, > with the elevated straight lines, > equal angles.",
     "proof": [
         {
-            "text": "Let the angles ,  be two equal rectilineal angles, and from the points ,  let the elevated straight lines ,  be set up containing, with the original straight lines, equal angles respectively, namely, the angle  to the angle  and the angle  to the angle , let points ,  be taken at random on , , let ,  be drawn from the points ,  perpendicular to the planes through ,  and , , and let them meet the planes at , , and let ,  be joined; I say that the angle  is equal to the angle .",
+            "text": "Let the angles > BAC, > EDF be two equal rectilineal angles, and from the points > A, > D let the elevated straight lines > AG, > DM be set up containing, with the original straight lines, equal angles respectively, namely, the angle > MDE to the angle > GAB and the angle > MDF to the angle > GAC, let points > G, > M be taken at random on > AG, > DM, let > GL, > MN be drawn from the points > G, > M perpendicular to the planes through > BA, > AC and > ED, > DF, and let them meet the planes at > L, > N, and let > LA, > ND be joined; I say that the angle > GAL is equal to the angle > MDN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let  be made equal to , and let  be drawn through the point  parallel to .",
+            "text": "Let > AH be made equal to > DM, and let > HK be drawn through the point > H parallel to > GL.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is perpendicular to the plane through , ; therefore  is also perpendicular to the plane through. , . [elem.11.8]",
+            "text": "But > GL is perpendicular to the plane through > BA, > AC; therefore > HK is also perpendicular to the plane through. > BA, > AC. [elem.11.8]",
             "refs": [
                 "elem.11.8"
             ],
             "emphs": []
         },
         {
-            "text": "From the points ,  let , , ,  be drawn perpendicular to the straight lines , , , , and let , , ,  be joined.",
+            "text": "From the points > K, > N let > KC, > NF, > KB, > NE be drawn perpendicular to the straight lines > AC, > DF, > AB, > DE, and let > HC, > CB, > MF, > FE be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since the square on  is equal to the squares on , , and the squares on ,  are equal to the square on , [elem.1.47] therefore the square on  is also equal to the squares on , , .",
+            "text": "Since the square on > HA is equal to the squares on > HK, > KA, and the squares on > KC, > CA are equal to the square on > KA, [elem.1.47] therefore the square on > HA is also equal to the squares on > HK, > KC, > CA.",
             "refs": [
                 "elem.1.47"
             ],
             "emphs": []
         },
         {
-            "text": "But the square on  is equal to the squares on , ; [elem.1.47] therefore the square on  is equal to the squares on , .",
+            "text": "But the square on > HC is equal to the squares on > HK, > KC; [elem.1.47] therefore the square on > HA is equal to the squares on > HC, > CA.",
             "refs": [
                 "elem.1.47"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the angle  is right. [elem.1.48]",
+            "text": "Therefore the angle > HCA is right. [elem.1.48]",
             "refs": [
                 "elem.1.48"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason the angle  is also right.",
+            "text": "For the same reason the angle > DFM is also right.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the angle  is equal to the angle .",
+            "text": "Therefore the angle > ACH is equal to the angle > DFM.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the angle  is also equal to the angle .",
+            "text": "But the angle > HAC is also equal to the angle > MDF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that subtending one of the equal angles, that is,  equal to ; therefore they will also have the remaining sides equal to the remaining sides respectively. [elem.1.26]",
+            "text": "Therefore > MDF, > HAC are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that subtending one of the equal angles, that is, > HA equal to > MD; therefore they will also have the remaining sides equal to the remaining sides respectively. [elem.1.26]",
             "refs": [
                 "elem.1.26"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is equal to .",
+            "text": "Therefore > AC is equal to > DF.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Similarly we can prove that  is also equal to .",
+            "text": "Similarly we can prove that > AB is also equal to > DE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then  is equal to , and  to , the two sides ,  are equal to the two sides , .",
+            "text": "Since then > AC is equal to > DF, and > AB to > DE, the two sides > CA, > AB are equal to the two sides > FD, > DE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the angle  is also equal to the angle ; therefore the base  is equal to the base , the triangle to the triangle, and the remaining angles to the remaining angles; [elem.1.4] therefore the angle  is equal to the angle .",
+            "text": "But the angle > CAB is also equal to the angle > FDE; therefore the base > BC is equal to the base > EF, the triangle to the triangle, and the remaining angles to the remaining angles; [elem.1.4] therefore the angle > ACB is equal to the angle > DFE.",
             "refs": [
                 "elem.1.4"
             ],
             "emphs": []
         },
         {
-            "text": "But the right angle  is also equal to the right angle ; therefore the remaining angle  is also equal to the remaining angle .",
+            "text": "But the right angle > ACK is also equal to the right angle > DFN; therefore the remaining angle > BCK is also equal to the remaining angle > EFN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For the same reason the angle  is also equal to the angle .",
+            "text": "For the same reason the angle > CBK is also equal to the angle > FEN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that adjacent to the equal angles, that is,  equal to ; therefore they will also have the remaining sides equal to the remaining sides. [elem.1.26]",
+            "text": "Therefore > BCK, > EFN are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that adjacent to the equal angles, that is, > BC equal to > EF; therefore they will also have the remaining sides equal to the remaining sides. [elem.1.26]",
             "refs": [
                 "elem.1.26"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is equal to .",
+            "text": "Therefore > CK is equal to > FN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is also equal to ; therefore the two sides ,  are equal to the two sides , ; and they contain right angles.",
+            "text": "But > AC is also equal to > DF; therefore the two sides > AC, > CK are equal to the two sides > DF, > FN; and they contain right angles.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the base  is equal to the base . [elem.1.4]",
+            "text": "Therefore the base > AK is equal to the base > DN. [elem.1.4]",
             "refs": [
                 "elem.1.4"
             ],
             "emphs": []
         },
         {
-            "text": "And, since  is equal to , the square on  is also equal to the square on .",
+            "text": "And, since > AH is equal to > DM, the square on > AH is also equal to the square on > DM.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the squares on ,  are equal to the square on , for the angle  is right; [elem.1.47] and the squares on ,  are equal to the square on , for the angle  is right; [elem.1.47] therefore the squares on ,  are equal to the squares on , ; and of these the square on  is equal to the square on ; therefore the remaining square on  is equal to the square on ; therefore  is equal to .",
+            "text": "But the squares on > AK, > KH are equal to the square on > AH, for the angle > AKH is right; [elem.1.47] and the squares on > DN, > NM are equal to the square on > DM, for the angle > DNM is right; [elem.1.47] therefore the squares on > AK, > KH are equal to the squares on > DN, > NM; and of these the square on > AK is equal to the square on > DN; therefore the remaining square on > KH is equal to the square on > NM; therefore > HK is equal to > MN.",
             "refs": [
                 "elem.1.47",
                 "elem.1.47"
@@ -139,7 +139,7 @@
             "emphs": []
         },
         {
-            "text": "And, since the two sides ,  are equal to the two sides ,  respectively, and the base  was proved equal to the base , therefore the angle  is equal to the angle . [elem.1.8]",
+            "text": "And, since the two sides > HA, > AK are equal to the two sides > MD, > DN respectively, and the base > HK was proved equal to the base > MN, therefore the angle > HAK is equal to the angle > MDN. [elem.1.8]",
             "refs": [
                 "elem.1.8"
             ],

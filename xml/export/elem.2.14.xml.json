@@ -66,7 +66,7 @@
             ]
         },
         {
-            "text": "Then, since the straight line `BF` has been cut into equal segments at `G`, and into unequal segments at `E`,",
+            "text": "Then, since the straight line `BF` has been cut into equal segments at `G`, and into unequal segments at `E`, > the rectangle contained by `BE`, `EF` together with the square on `EG` is equal to the square on `GF`. [elem.2.5]",
             "refs": [],
             "emphs": [
                 "BF",
@@ -103,14 +103,14 @@
             ]
         },
         {
-            "text": "Let the square on `GE` be subtracted from each;",
+            "text": "Let the square on `GE` be subtracted from each; > therefore the rectangle contained by `BE`, `EF` which remains is equal to the square on `EH`.",
             "refs": [],
             "emphs": [
                 "GE"
             ]
         },
         {
-            "text": "But the rectangle `BE`, `EF` is `BD`, for `EF` is equal to `ED`;",
+            "text": "But the rectangle `BE`, `EF` is `BD`, for `EF` is equal to `ED`; > therefore the parallelogram `BD` is equal to the square on `HE`.",
             "refs": [],
             "emphs": [
                 "BE",

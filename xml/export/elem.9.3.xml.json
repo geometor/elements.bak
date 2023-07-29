@@ -2,68 +2,69 @@
     "id": "elem.9.3",
     "n": 3,
     "type": "proposition",
+    "enunciation": "> If a cube number by multiplying itself make some number, the product will be cube.",
     "proof": [
         {
-            "text": "For let the cube number  by multiplying itself make ; I say that  is cube.",
+            "text": "For let the cube number > A by multiplying itself make > B; I say that > B is cube.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let , the side of , be taken, and let  by multiplying itself make .",
+            "text": "For let > C, the side of > A, be taken, and let > C by multiplying itself make > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "It is then manifest that  by multiplying  has made .",
+            "text": "It is then manifest that > C by multiplying > D has made > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  by multiplying itself has made , therefore  measures  according to the units in itself.",
+            "text": "Now, since > C by multiplying itself has made > D, therefore > C measures > D according to the units in itself.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But further the unit also measures  according to the units in it; therefore, as the unit is to , so is  to . [elem.7.def.20]",
+            "text": "But further the unit also measures > C according to the units in it; therefore, as the unit is to > C, so is > C to > D. [elem.7.def.20]",
             "refs": [
                 "elem.7.def.20"
             ],
             "emphs": []
         },
         {
-            "text": "Again, since  by multiplying  has made , therefore  measures  according to the units in .",
+            "text": "Again, since > C by multiplying > D has made > A, therefore > D measures > A according to the units in > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the unit also measures  according to the units in it; therefore, as the unit is to , so is  to .",
+            "text": "But the unit also measures > C according to the units in it; therefore, as the unit is to > C, so is > D to > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, as the unit is to , so is  to ; therefore also, as the unit is to , so is  to , and  to .",
+            "text": "But, as the unit is to > C, so is > C to > D; therefore also, as the unit is to > C, so is > C to > D, and > D to > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore between the unit and the number  two mean proportional numbers ,  have fallen in continued proportion.",
+            "text": "Therefore between the unit and the number > A two mean proportional numbers > C, > D have fallen in continued proportion.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since  by multiplying itself has made , therefore  measures  according to the units in itself.",
+            "text": "Again, since > A by multiplying itself has made > B, therefore > A measures > B according to the units in itself.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But the unit also measures  according to the units in it; therefore, as the unit is to , so is  to . [elem.7.def.20]",
+            "text": "But the unit also measures > A according to the units in it; therefore, as the unit is to > A, so is > A to > B. [elem.7.def.20]",
             "refs": [
                 "elem.7.def.20"
             ],
             "emphs": []
         },
         {
-            "text": "But between the unit and  two mean proportional numbers have fallen; therefore two mean proportional numbers will also fall between , . [elem.8.8]",
+            "text": "But between the unit and > A two mean proportional numbers have fallen; therefore two mean proportional numbers will also fall between > A, > B. [elem.8.8]",
             "refs": [
                 "elem.8.8"
             ],
@@ -77,7 +78,7 @@
             "emphs": []
         },
         {
-            "text": "And  is cube; therefore  is also cube. Q. E. D.",
+            "text": "And > A is cube; therefore > B is also cube. Q. E. D.",
             "refs": [],
             "emphs": []
         }

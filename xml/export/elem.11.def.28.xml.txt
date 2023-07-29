@@ -1,4 +1,4 @@
 Enunciation:
-A  is a solid figure contained by twelve equal, equilateral, and equiangular pentagons.
+A > dodecahedron is a solid figure contained by twelve equal, equilateral, and equiangular pentagons.
 
 Proof:

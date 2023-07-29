@@ -1,15 +1,15 @@
 Enunciation:
-,
+> If two parallel planes be cut by any plane, > their common sections are parallel.
 
 Proof:
-For let the two parallel planes ,  be cut by the plane , and let ,  be their common sections; I say that  is parallel to .
-For, if not, ,  will, when produced, meet either in the direction of ,  or of , .
-Let them be produced, as in the direction of , , and let them, first, meet at .
-Now, since  is in the plane , therefore all the points on  are also in the plane . [elem.11.1]
-But  is one of the points on the straight line ; therefore  is in the plane .
-For the same reason  is also in the plane ; therefore the planes ,  will meet when produced.
-But they do not meet, because they are, by hypothesis, parallel; therefore the straight lines ,  will not meet when produced in the direction of , .
-Similarly we can prove that neither will the straight lines ,  meet when produced in the direction of , .
+For let the two parallel planes > AB, > CD be cut by the plane > EFGH, and let > EF, > GH be their common sections; I say that > EF is parallel to > GH.
+For, if not, > EF, > GH will, when produced, meet either in the direction of > F, > H or of > E, > G.
+Let them be produced, as in the direction of > F, > H, and let them, first, meet at > K.
+Now, since > EFK is in the plane > AB, therefore all the points on > EFK are also in the plane > AB. [elem.11.1]
+But > K is one of the points on the straight line > EFK; therefore > K is in the plane > AB.
+For the same reason > K is also in the plane > CD; therefore the planes > AB, > CD will meet when produced.
+But they do not meet, because they are, by hypothesis, parallel; therefore the straight lines > EF, > GH will not meet when produced in the direction of > F, > H.
+Similarly we can prove that neither will the straight lines > EF, > GH meet when produced in the direction of > E, > G.
 But straight lines which do not meet in either direction are parallel. [elem.1.def.23]
-Therefore  is parallel to .
+Therefore > EF is parallel to > GH.
 Therefore etc. Q. E. D.

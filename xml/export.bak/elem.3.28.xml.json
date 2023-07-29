@@ -1,0 +1,68 @@
+{
+    "id": "elem.3.28",
+    "n": 28,
+    "type": "proposition",
+    "enunciation": "`In equal circles equal straight lines cut off equal circumferences`, `the greater equal to the greater and the less to the less`.",
+    "proof": [
+        {
+            "text": "Let `ABC`, `DEF` be equal circles, and in the circles let `AB`, `DE` be equal straight lines cutting off `ACB`, `DFE` as greater circumferences and `AGB`, `DHE` as lesser; I say that the greater circumference `ACB` is equal to the greater circumference `DFE`, and the less circumference `AGB` to `DHE`.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "DEF",
+                "AB",
+                "DE",
+                "ACB",
+                "DFE",
+                "AGB",
+                "DHE",
+                "ACB",
+                "DFE",
+                "AGB",
+                "DHE"
+            ]
+        },
+        {
+            "text": "For let the centres `K`, `L` of the circles be taken, and let `AK`, `KB`, `DL`, `LE` be joined.",
+            "refs": [],
+            "emphs": [
+                "K",
+                "L",
+                "AK",
+                "KB",
+                "DL",
+                "LE"
+            ]
+        },
+        {
+            "text": "Now, since the circles are equal,  and the base `AB` is equal to the base `DE`;",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "DE"
+            ]
+        },
+        {
+            "text": "But equal angles stand on equal circumferences, when they are at the centres; [elem.3.26]",
+            "refs": [
+                "elem.3.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And the whole circle `ABC` is also equal to the whole circle `DEF`; therefore the circumference `ACB` which remains is also equal to the circumference `DFE` which remains.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "DEF",
+                "ACB",
+                "DFE"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

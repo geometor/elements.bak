@@ -7,9 +7,9 @@ For from the centre `E` let `EH`, `EK`
         be drawn perpendicular to `BC`, `FG`.
 Then, since `BC` is nearer to the centre and `FG` more remote, `EK` is greater than `EH`. [elem.3.def.5]
 Let `EL` be made equal to `EH`, through `L` let `LM` be drawn at right angles to `EK` and carried through to `N`, and let `ME`, `EN`, `FE`, `EG` be joined.
-Then, since `EH` is equal to `EL`,
-Again, since `AE` is equal to `EM`, and `ED` to `EN`,
-But `ME`, `EN` are greater than `MN`, [elem.1.20] and `MN` is equal to `BC`;
+Then, since `EH` is equal to `EL`, > `BC` is also equal to `MN`. [elem.3.14]
+Again, since `AE` is equal to `EM`, and `ED` to `EN`, > `AD` is equal to `ME`, `EN`.
+But `ME`, `EN` are greater than `MN`, [elem.1.20] and `MN` is equal to `BC`; > therefore `AD` is greater than `BC`.
 And, since the two sides `ME`, `EN` are equal to the two sides `FE`, `EG`, and the angle `MEN` greater than the angle `FEG`, therefore the base `MN` is greater than the base `FG`. [elem.1.24]
 But `MN` was proved equal to `BC`.
 Therefore the diameter `AD` is greatest and `BC` greater than `FG`.

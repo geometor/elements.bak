@@ -1,0 +1,161 @@
+{
+    "id": "elem.4.5",
+    "n": 5,
+    "type": "proposition",
+    "enunciation": "`About a given triangle to circumscribe a circle`.",
+    "proof": [
+        {
+            "text": "Let `ABC` be the given triangle; thus it is required to circumscribe a circle about the given triangle `ABC`.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Let the straight lines `AB`, `AC` be bisected at the points `D`, `E` [elem.1.10], and from the points `D`, `E` let `DF`, `EF` be drawn at right angles to `AB`, `AC`; they will then meet within the triangle `ABC`, or on the straight line `BC`, or outside `BC`.",
+            "refs": [
+                "elem.1.10"
+            ],
+            "emphs": [
+                "AB",
+                "AC",
+                "D",
+                "E",
+                "D",
+                "E",
+                "DF",
+                "EF",
+                "AB",
+                "AC",
+                "ABC",
+                "BC",
+                "BC"
+            ]
+        },
+        {
+            "text": "First let them meet within at `F`, and let `FB`, `FC`, `FA` be joined.",
+            "refs": [],
+            "emphs": [
+                "F",
+                "FB",
+                "FC",
+                "FA"
+            ]
+        },
+        {
+            "text": "Then, since `AD` is equal to `DB`, and `DF` is common and at right angles, therefore the base `AF` is equal to the base `FB`. [elem.1.4]",
+            "refs": [
+                "elem.1.4"
+            ],
+            "emphs": [
+                "AD",
+                "DB",
+                "DF",
+                "AF",
+                "FB"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that  so that `FB` is also equal to `FC`;",
+            "refs": [],
+            "emphs": [
+                "FB",
+                "FC"
+            ]
+        },
+        {
+            "text": "Therefore the circle described with centre `F` and distance one of the straight lines `FA`, `FB`, `FC` will pass also through the remaining points, and the circle will have been circumscribed about the triangle `ABC`.",
+            "refs": [],
+            "emphs": [
+                "F",
+                "FA",
+                "FB",
+                "FC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Let it be circumscribed, as `ABC`.",
+            "refs": [],
+            "emphs": [
+                "ABC"
+            ]
+        },
+        {
+            "text": "Next, let `DF`, `EF` meet on the straight line `BC` at `F`, as is the case in the second figure; and let `AF` be joined.",
+            "refs": [],
+            "emphs": [
+                "DF",
+                "EF",
+                "BC",
+                "F",
+                "AF"
+            ]
+        },
+        {
+            "text": "Then, similarly, we shall prove that the point `F` is the centre of the circle circumscribed about the triangle `ABC`.",
+            "refs": [],
+            "emphs": [
+                "F",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Again, let `DF`, `EF` meet outside the triangle `ABC` at `F`, as is the case in the third figure, and let `AF`, `BF`, `CF` be joined.",
+            "refs": [],
+            "emphs": [
+                "DF",
+                "EF",
+                "ABC",
+                "F",
+                "AF",
+                "BF",
+                "CF"
+            ]
+        },
+        {
+            "text": "Then again, since `AD` is equal to `DB`, and `DF` is common and at right angles, therefore the base `AF` is equal to the base `BF`. [elem.1.4]",
+            "refs": [
+                "elem.1.4"
+            ],
+            "emphs": [
+                "AD",
+                "DB",
+                "DF",
+                "AF",
+                "BF"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that  so that `BF` is also equal to `FC`; therefore the circle described with centre `F` and distance one of the straight lines `FA`, `FB`, `FC` will pass also through the remaining points, and will have been circumscribed about the triangle `ABC`.",
+            "refs": [],
+            "emphs": [
+                "BF",
+                "FC",
+                "F",
+                "FA",
+                "FB",
+                "FC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Therefore about the given triangle a circle has been circumscribed. Q. E. F.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is manifest that, when the centre of the circle falls within the triangle, the angle `BAC`, being in a segment greater than the semicircle, is less than a right angle; when the centre falls on the straight line `BC`, the angle `BAC`, being in a semicircle, is right; and when the centre of the circle falls outside the triangle, the angle `BAC`, being in a segment less than the semicircle, is greater than a right angle. [elem.3.31]",
+            "refs": [
+                "elem.3.31"
+            ],
+            "emphs": [
+                "BAC",
+                "BC",
+                "BAC",
+                "BAC"
+            ]
+        }
+    ]
+}

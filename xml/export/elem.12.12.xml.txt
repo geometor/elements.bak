@@ -1,48 +1,48 @@
 Enunciation:
-
+> Similar cones and cylinders are to one another in the triplicate ratio of the diameters in their bases.
 
 Proof:
-Let there be similar cones and cylinders, let the circles ,  be their bases, ,  the diameters of the bases, and ,  the axes of the cones and cylinders; I say that the cone of which the circle  is the base and the point  the vertex has to the cone of which the circle  is the base and the point  the vertex the ratio triplicate of that which  has to .
-For, if the cone  has not to the cone  the ratio triplicate of that which  has to , the cone  will have that triplicate ratio either to some solid less than the cone  or to a greater.
-First, let it have that triplicate ratio to a less solid .
-Let the square  be inscribed in the circle ; [elem.4.6] therefore the square  is greater than the half of the circle .
-Now let there be set up on the square  a pyramid having the same vertex with the cone; therefore the pyramid so set up is greater than the half part of the cone.
-Let the circumferences , , ,  be bisected at the points , , , , and let , , , , , , ,  be joined.
-Therefore each of the triangles , , ,  is also greater than the half part of that segment of the circle  which is about it.
-Now on each of the triangles , , ,  let a pyramid be set up having the same vertex with the cone; therefore each of the pyramids so set up is also greater than the half part of that segment of the cone which is about it.
-Thus, bisecting the circumferences so left, joining straight lines, setting up on each of the triangles pyramids having the same vertex with the cone, and doing this continually, we shall leave some segments of the cone which will be less than the excess by which the cone  exceeds the solid . [elem.10.1]
-Let such be left, and let them be the segments on , , , , , , , ; therefore the remainder, the pyramid of which the polygon  is the base and the point  the vertex, is greater than the solid .
-Let there be also inscribed in the circle  the polygon  similar and similarly situated to the polygon , and let there be set up on the polygon  a pyramid having the same vertex with the cone; of the triangles containing the pyramid of which the polygon  is the base and the point  the vertex let  be one, and of the triangles containing the pyramid of which the polygon  is the base and the point  the vertex let  be one; and let ,  be joined.
-Now, since the cone  is similar to the cone , therefore, as  is to , so is the axis  to the axis . [elem.11.def.24]
-But, as  is to , so is  to ; therefore also, as  is to , so is  to .
-And, alternately, as  is to , so is  to . [elem.5.16]
-And the sides are proportional about equal angles, namely the angles , ; therefore the triangle  is similar to the triangle . [elem.6.6]
-Again, since, as  is to , so is  to , and they are about equal angles, namely the angles , , inasmuch as, whatever part the angle  is of the four right angles at the centre , the same part also is the angle  of the four right angles at the centre ; since then the sides are proportional about equal angles, therefore the triangle  is similar to the triangle . [elem.6.6]
-Again, since it was proved that, as  is to , so is  to , while  is equal to , and  to , therefore, as  is to , so is  to ; and the sides are proportional about equal angles, namely the angles , , for they are right; therefore the triangle  is similar to the triangle . [elem.6.6]
-And since, owing to the similarity of the triangles , , as  is to , so is  to , and, owing to the similarity of the triangles , , as  is to , so is  to , therefore, , as  is to , so is  to . [elem.5.22]
-Again since, owing to the similarity of the triangles , , as  is to , so is  to , and, owing to the similarity of the triangles , , as  is to , so is  to ; therefore, , as  is to , so is  to . [elem.5.22]
-But it was also proved that, as  is to , so is  to .
-Therefore, , as  is to , so is  to . [elem.5.22]
-Therefore in the triangles ,  the sides are proportional; therefore the triangles ,  are equiangular; [elem.6.5] hence they are also similar. [elem.6.def.1]
-Therefore the pyramid of which the triangle  is the base and the point  the vertex is also similar to the pyramid of which the triangle  is the base and the point  the vertex, for they are contained by similar planes equal in multitude. [elem.11.def.9]
+Let there be similar cones and cylinders, let the circles > ABCD, > EFGH be their bases, > BD, > FH the diameters of the bases, and > KL, > MN the axes of the cones and cylinders; I say that the cone of which the circle > ABCD is the base and the point > L the vertex has to the cone of which the circle > EFGH is the base and the point > N the vertex the ratio triplicate of that which > BD has to > FH.
+For, if the cone > ABCDL has not to the cone > EFGHN the ratio triplicate of that which > BD has to > FH, the cone > ABCDL will have that triplicate ratio either to some solid less than the cone > EFGHN or to a greater.
+First, let it have that triplicate ratio to a less solid > O.
+Let the square > EFGH be inscribed in the circle > EFGH; [elem.4.6] therefore the square > EFGH is greater than the half of the circle > EFGH.
+Now let there be set up on the square > EFGH a pyramid having the same vertex with the cone; therefore the pyramid so set up is greater than the half part of the cone.
+Let the circumferences > EF, > FG, > GH, > HE be bisected at the points > P, > Q, > R, > S, and let > EP, > PF, > FQ, > QG, > GR, > RH, > HS, > SE be joined.
+Therefore each of the triangles > EPF, > FQG, > GRH, > HSE is also greater than the half part of that segment of the circle > EFGH which is about it.
+Now on each of the triangles > EPF, > FQG, > GRH, > HSE let a pyramid be set up having the same vertex with the cone; therefore each of the pyramids so set up is also greater than the half part of that segment of the cone which is about it.
+Thus, bisecting the circumferences so left, joining straight lines, setting up on each of the triangles pyramids having the same vertex with the cone, and doing this continually, we shall leave some segments of the cone which will be less than the excess by which the cone > EFGHN exceeds the solid > O. [elem.10.1]
+Let such be left, and let them be the segments on > EP, > PF, > FQ, > QG, > GR, > RH, > HS, > SE; therefore the remainder, the pyramid of which the polygon > EPFQGRHS is the base and the point > N the vertex, is greater than the solid > O.
+Let there be also inscribed in the circle > ABCD the polygon > ATBUCVDW similar and similarly situated to the polygon > EPFQGRHS, and let there be set up on the polygon > ATBUCVDW a pyramid having the same vertex with the cone; of the triangles containing the pyramid of which the polygon > ATBUCVDW is the base and the point > L the vertex let > LBT be one, and of the triangles containing the pyramid of which the polygon > EPFQGRHS is the base and the point > N the vertex let > NFP be one; and let > KT, > MP be joined.
+Now, since the cone > ABCDL is similar to the cone > EFGHN, therefore, as > BD is to > FH, so is the axis > KL to the axis > MN. [elem.11.def.24]
+But, as > BD is to > FH, so is > BK to > FM; therefore also, as > BK is to > FM, so is > KL to > MN.
+And, alternately, as > BK is to > KL, so is > FM to > MN. [elem.5.16]
+And the sides are proportional about equal angles, namely the angles > BKL, > FMN; therefore the triangle > BKL is similar to the triangle > FMN. [elem.6.6]
+Again, since, as > BK is to > KT, so is > FM to > MP, and they are about equal angles, namely the angles > BKT, > FMP, inasmuch as, whatever part the angle > BKT is of the four right angles at the centre > K, the same part also is the angle > FMP of the four right angles at the centre > M; since then the sides are proportional about equal angles, therefore the triangle > BKT is similar to the triangle > FMP. [elem.6.6]
+Again, since it was proved that, as > BK is to > KL, so is > FM to > MN, while > BK is equal to > KT, and > FM to > PM, therefore, as > TK is to > KL, so is > PM to > MN; and the sides are proportional about equal angles, namely the angles > TKL, > PMN, for they are right; therefore the triangle > LKT is similar to the triangle > NMP. [elem.6.6]
+And since, owing to the similarity of the triangles > LKB, > NMF, as > LB is to > BK, so is > NF to > FM, and, owing to the similarity of the triangles > BKT, > FMP, as > KB is to > BT, so is > MF to > FP, therefore, > ex aequali, as > LB is to > BT, so is > NF to > FP. [elem.5.22]
+Again since, owing to the similarity of the triangles > LTK, > NPM, as > LT is to > TK, so is > NP to > PM, and, owing to the similarity of the triangles > TKB, > PMF, as > KT is to > TB, so is > MP to > PF; therefore, > ex aequali, as > LT is to > TB, so is > NP to > PF. [elem.5.22]
+But it was also proved that, as > TB is to > BL, so is > PF to > FN.
+Therefore, , as > TL is to > LB, so is > PN to > NF. [elem.5.22]
+Therefore in the triangles > LTB, > NPF the sides are proportional; therefore the triangles > LTB, > NPF are equiangular; [elem.6.5] hence they are also similar. [elem.6.def.1]
+Therefore the pyramid of which the triangle > BKT is the base and the point > L the vertex is also similar to the pyramid of which the triangle > FMP is the base and the point > N the vertex, for they are contained by similar planes equal in multitude. [elem.11.def.9]
 But similar pyramids which have triangular bases are to one another in the triplicate ratio of their corresponding sides. [elem.12.8]
-Therefore the pyramid  has to the pyramid  the ratio triplicate of that which  has to .
-Similarly, by joining straight lines from , , , , ,  to , and from , , , , ,  to , and setting up on each of the triangles pyramids which have the same vertex with the cones, we can prove that each of the similarly arranged pyramids will also have to each similarly arranged pyramid the ratio triplicate of that which the corresponding side  has to the corresponding side , that is, which  has to .
-And, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.5.12] therefore also, as the pyramid  is to the pyramid , so is the whole pyramid of which the polygon  is the base and the point  the vertex to the whole pyramid of which the polygon  is the base and the point  the vertex; hence also the pyramid of which  is the base and the point  the vertex has to the pyramid of which the polygon  is the base and the point  the vertex the ratio triplicate of that which  has to .
-But, by hypothesis, the cone of which the circle 
-       is the base and the point  the vertex has also to the solid  the ratio triplicate of that which  has to ; therefore, as the cone of which the circle  is the base and the point  the vertex is to the solid , so is the pyramid of which the polygon  is the base and  the vertex to the pyramid of which the polygon  is the base and the point  the vertex; therefore, alternately, as the cone of which the circle  is the base and  the vertex is to the pyramid contained in it of which the polygon  is the base and  the vertex, so is the solid  to the pyramid of which the polygon  is the base and  the vertex. [elem.5.16]
+Therefore the pyramid > BKTL has to the pyramid > FMPN the ratio triplicate of that which > BK has to > FM.
+Similarly, by joining straight lines from > A, > W, > D, > V, > C, > U to > K, and from > E, > S, > H, > R, > G, > Q to > M, and setting up on each of the triangles pyramids which have the same vertex with the cones, we can prove that each of the similarly arranged pyramids will also have to each similarly arranged pyramid the ratio triplicate of that which the corresponding side > BK has to the corresponding side > FM, that is, which > BD has to > FH.
+And, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.5.12] therefore also, as the pyramid > BKTL is to the pyramid > FMPN, so is the whole pyramid of which the polygon > ATBUCVDW is the base and the point > L the vertex to the whole pyramid of which the polygon > EPFQGRHS is the base and the point > N the vertex; hence also the pyramid of which > ATBUCVDW is the base and the point > L the vertex has to the pyramid of which the polygon > EPFQGRHS is the base and the point > N the vertex the ratio triplicate of that which > BD has to > FH.
+But, by hypothesis, the cone of which the circle > ABCD
+       is the base and the point > L the vertex has also to the solid > O the ratio triplicate of that which > BD has to > FH; therefore, as the cone of which the circle > ABCD is the base and the point > L the vertex is to the solid > O, so is the pyramid of which the polygon > ATBUCVDW is the base and > L the vertex to the pyramid of which the polygon > EPFQGRHS is the base and the point > N the vertex; therefore, alternately, as the cone of which the circle > ABCD is the base and > L the vertex is to the pyramid contained in it of which the polygon > ATBUCVDW is the base and > L the vertex, so is the solid > O to the pyramid of which the polygon > EPFQGRHS is the base and > N the vertex. [elem.5.16]
 But the said cone is greater than the pyramid in it; for it encloses it.
-Therefore the solid  is also greater than the pyramid of which the polygon  is the base and  the vertex.
+Therefore the solid > O is also greater than the pyramid of which the polygon > EPFQGRHS is the base and > N the vertex.
 But it is also less: which is impossible.
-Therefore the cone of which the circle  is the base and  the vertex has not to any solid less than the cone of which the circle  is the base and the point  the vertex the ratio triplicate of that which  has to :
-Similarly we can prove that neither has the cone  to any solid less than the cone  the ratio triplicate of that which  has to .
-I say next that neither has the cone  to any solid greater than the cone  the ratio triplicate of that which  has to .
-For, if possible, let it have that ratio to a greater solid .
-Therefore, inversely, the solid  has to the cone  the ratio triplicate of that which  has to .
-But, as the solid  is to the cone , so is the cone  to some solid less than the cone .
-Therefore the cone  also has to some solid less than the cone  the ratio triplicate of that which  has to : which was proved impossible.
-Therefore the cone  has not to any solid greater than the cone  the ratio triplicate of that which  has to .
-But it was proved that neither has it this ratio to a less solid than the cone .
-Therefore the cone  has to the cone  the ratio triplicate of that which  has to .
-But, as the cone is to the cone, so is the cylinder to the cylinder, for the cylinder which is on the same base as the cone and of equal height with it is triple of the cone; [elem.12.10] therefore the cylinder also has to the cylinder the ratio triplicate of that which  has to .
+Therefore the cone of which the circle > ABCD is the base and > L the vertex has not to any solid less than the cone of which the circle > EFGH is the base and the point > N the vertex the ratio triplicate of that which > BD has to > FH:
+Similarly we can prove that neither has the cone > EFGHN to any solid less than the cone > ABCDL the ratio triplicate of that which > FH has to > BD.
+I say next that neither has the cone > ABCDL to any solid greater than the cone > EFGHN the ratio triplicate of that which > BD has to > FH.
+For, if possible, let it have that ratio to a greater solid > O.
+Therefore, inversely, the solid > O has to the cone > ABCDL the ratio triplicate of that which > FH has to > BD.
+But, as the solid > O is to the cone > ABCDL, so is the cone > EFGHN to some solid less than the cone > ABCDL.
+Therefore the cone > EFGHN also has to some solid less than the cone > ABCDL the ratio triplicate of that which > FH has to > BD: which was proved impossible.
+Therefore the cone > ABCDL has not to any solid greater than the cone > EFGHN the ratio triplicate of that which > BD has to > FH.
+But it was proved that neither has it this ratio to a less solid than the cone > EFGHN.
+Therefore the cone > ABCDL has to the cone > EFGHN the ratio triplicate of that which > BD has to > FH.
+But, as the cone is to the cone, so is the cylinder to the cylinder, for the cylinder which is on the same base as the cone and of equal height with it is triple of the cone; [elem.12.10] therefore the cylinder also has to the cylinder the ratio triplicate of that which > BD has to > FH.
 Therefore etc. Q. E. D.

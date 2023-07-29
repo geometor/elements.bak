@@ -44,7 +44,7 @@
             ]
         },
         {
-            "text": "Then, since the two sides `DC`, `CE` are equal to the two sides `FA`, `AG` respectively,",
+            "text": "Then, since the two sides `DC`, `CE` are equal to the two sides `FA`, `AG` respectively, > and the base `DE` is equal to the base `FG`, the angle `DCE` is equal to the angle `FAG`. [elem.1.8]",
             "refs": [],
             "emphs": [
                 "DC",

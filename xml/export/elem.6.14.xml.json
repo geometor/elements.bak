@@ -5,7 +5,7 @@
     "enunciation": "`In equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional; and equiangular parallelograms in which the sides about the equal angles are reciprocally proportional are equal`.",
     "proof": [
         {
-            "text": "Let `AB`, `BC` be equal and equiangular parallelograms having the angles at `B` equal, and let `DB`, `BE` be placed in a straight line;",
+            "text": "Let `AB`, `BC` be equal and equiangular parallelograms having the angles at `B` equal, and let `DB`, `BE` be placed in a straight line; > therefore `FB`, `BG` are also in a straight line. [elem.1.14]",
             "refs": [],
             "emphs": [
                 "AB",
@@ -35,7 +35,7 @@
             ]
         },
         {
-            "text": "Since, then, the parallelogram `AB` is equal to the parallelogram `BC`,  therefore, as `AB` is to `FE`, so is `BC` to `FE`. [elem.5.7]",
+            "text": "Since, then, the parallelogram `AB` is equal to the parallelogram `BC`, > and `FE` is another area, therefore, as `AB` is to `FE`, so is `BC` to `FE`. [elem.5.7]",
             "refs": [
                 "elem.5.7"
             ],

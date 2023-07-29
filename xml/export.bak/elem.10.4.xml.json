@@ -1,0 +1,118 @@
+{
+    "id": "elem.10.4",
+    "n": 4,
+    "type": "propositions i\u201447",
+    "enunciation": ", .",
+    "proof": [
+        {
+            "text": "Let , ,  be the three given commensurable magnitudes; thus it is required to find the greatest common measure of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let the greatest common measure of the two magnitudes ,  be taken, and let it be ; [elem.10.3] then  either measures , or does not measure it.",
+            "refs": [
+                "elem.10.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "First, let it measure it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  measures , while it also measures , , therefore  is a common measure of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is manifest that it is also the greatest; for a greater magnitude than the magnitude  does not measure , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  not measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say first that ,  are commensurable.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since , ,  are commensurable, some magnitude will measure them, and this will of course measure ,  also; so that it will also measure the greatest common measure of , , namely . [elem.10.3.p.1]",
+            "refs": [
+                "elem.10.3.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But it also measures ; so that the said magnitude will measure , ; therefore ,  are commensurable.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now let their greatest common measure be taken, and let it be . [elem.10.3]",
+            "refs": [
+                "elem.10.3"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Since then  measures , while  measures , , therefore  will also measure , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it measures  also; therefore  measures , , ; therefore  is a common measure of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say next that it is also the greatest.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let there be some magnitude  greater than , and let it measure , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since  measures , , , it will also measure , , and will measure the greatest common measure of , . [elem.10.3.p.1]",
+            "refs": [
+                "elem.10.3.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the greatest common measure of ,  is ; therefore  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it measures  also; therefore  measures , ; therefore  will also measure the greatest common measure of , . [elem.10.3.p.1]",
+            "refs": [
+                "elem.10.3.p.1"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But that is ; therefore  will measure , the greater the less: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore no magnitude greater than the magnitude  will measure , , ; therefore  is the greatest common measure of , ,  if  do not measure , and, if it measure it,  is itself the greatest common measure.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the greatest common measure of the three given commensurable magnitudes has been found.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

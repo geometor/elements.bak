@@ -1,0 +1,8 @@
+Enunciation:
+
+
+Proof:
+Let ,  be similar solid numbers; I say that  has to  the ratio which a cube number has to a cube number.
+For, since ,  are similar solid numbers, therefore two mean proportional numbers fall between , . [elem.8.19]
+Let ,  so fall, and let , , , , the least numbers of those which have the same ratio with , , , , and equal with them in multitude, be taken; [elem.7.33 or elem.8.2] therefore the extremes of them ,  are cube. [elem.8.2.p.1]
+And, as  is to , so is  to ; therefore  also has to  the ratio which a cube number has to a cube number. Q. E. D.

@@ -1,0 +1,138 @@
+{
+    "id": "elem.9.19",
+    "n": 19,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let , ,  be the given three numbers, and let it be required to investigate when it is possible to find a fourth proportional to them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now either they are not in continued proportion, and the extremes of them are prime to one another; or they are in continued proportion, and the extremes of them are not prime to one another; or they are not in continued proportion, nor are the extremes of them prime to one another; or they are in continued proportion, and the extremes of them are prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "If then , ,  are in continued proportion, and the extremes of them ,  are prime to one another, it has been proved that it is impossible to find a fourth proportional number to them. [elem.9.17]",
+            "refs": [
+                "elem.9.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "<*>Next, let , ,  not be in continued proportion, the extremes being again prime to one another; I say that in this case also it is impossible to find a fourth proportional to them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let  have been found, so that,  and let it be contrived that, as  is to , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now, since, as  is to , so is  to , and, as  is to , so is  to , therefore, , as  is to , so is  to . [elem.7.14]",
+            "refs": [
+                "elem.7.14"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio, the antecedent the antecedent and the consequent the consequent. [elem.7.20]",
+            "refs": [
+                "elem.7.21",
+                "elem.7.20"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  measures  as antecedent antecedent.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it also measures itself; therefore  measures ,  which are prime to one another: which is impossible.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore it is not possible to find a fourth proportional to , , .<*>",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let , ,  be again in continued proportion, but let ,  not be prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that it is possible to find a fourth proportional to them.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  by multiplying  make ; therefore  either measures  or does not measure it.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "First, let it measure it according to ; therefore  by multiplying  has made .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, further,  has also by multiplying  made ; therefore the product of ,  is equal to the product of , ; therefore, proportionally, as  is to , so is  to ; [elem.7.19] therefore  has been found a fourth proportional to , , .",
+            "refs": [
+                "elem.7.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  not measure ; I say that it is impossible to find a fourth proportional number to , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let  have been found; therefore the product of ,  is equal to the product of , . [elem.7.19]",
+            "refs": [
+                "elem.7.19"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the product of ,  is ; therefore the product of ,  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  by multiplying  has made ; therefore  measures  according to , so that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But it also does not measure it: which is absurd.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore it is not possible to find a fourth proportional number to , ,  when  does not measure .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let , ,  not be in continued proportion, nor the extremes prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And let  by multiplying  make .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly then it can be proved that, if  measures , it is possible to find a fourth proportional to them, but, if it does not measure it, impossible. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

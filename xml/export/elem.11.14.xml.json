@@ -2,9 +2,10 @@
     "id": "elem.11.14",
     "n": 14,
     "type": "proposition",
+    "enunciation": "> Planes to which the same straight line is at right angles will be parallel.",
     "proof": [
         {
-            "text": "For let any straight line  be at right angles to each of the planes , ; I say that the planes are parallel.",
+            "text": "For let any straight line > AB be at right angles to each of the planes > CD, > EF; I say that the planes are parallel.",
             "refs": [],
             "emphs": []
         },
@@ -21,31 +22,31 @@
             "emphs": []
         },
         {
-            "text": "Let them make ; let a point  be taken at random on , and let ,  be joined.",
+            "text": "Let them make > GH; let a point > K be taken at random on > GH, and let > AK, > BK be joined.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now, since  is at right angles to the plane , therefore  is also at right angles to  which is a straight line in the plane  produced; [elem.11.def.3] therefore the angle  is right.",
+            "text": "Now, since > AB is at right angles to the plane > EF, therefore > AB is also at right angles to > BK which is a straight line in the plane > EF produced; [elem.11.def.3] therefore the angle > ABK is right.",
             "refs": [
                 "elem.11.def.3"
             ],
             "emphs": []
         },
         {
-            "text": "For the same reason the angle  is also right.",
+            "text": "For the same reason the angle > BAK is also right.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Thus, in the triangle , the two angles ,  are equal to two right angles: which is impossible. [elem.1.17]",
+            "text": "Thus, in the triangle > ABK, the two angles > ABK, > BAK are equal to two right angles: which is impossible. [elem.1.17]",
             "refs": [
                 "elem.1.17"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the planes ,  will not meet when produced; therefore the planes ,  are parallel. [elem.11.def.8]",
+            "text": "Therefore the planes > CD, > EF will not meet when produced; therefore the planes > CD, > EF are parallel. [elem.11.def.8]",
             "refs": [
                 "elem.11.def.8"
             ],

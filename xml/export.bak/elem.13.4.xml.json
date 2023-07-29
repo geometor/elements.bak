@@ -1,0 +1,56 @@
+{
+    "id": "elem.13.4",
+    "n": 4,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "Let  be a straight line, let it be cut in extreme and mean ratio at , and let  be the greater segment; I say that the squares on ,  are triple of the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the square  be described on , and let the figure be drawn.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since then  has been cut in extreme and mean ratio at , and  is the greater segment, therefore the rectangle ,  is equal to the square on . [elem.6.def.3, elem.6.17]",
+            "refs": [
+                "elem.6.def.3",
+                "elem.6.17"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is the rectangle , , and  the square on ; therefore  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since  is equal to , let  be added to each; therefore the whole  is equal to the whole ; therefore ,  are double of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But ,  are the gnomon  and the square ; therefore the gnomon  and the square  are double of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, further,  was also proved equal to ; therefore the gnomon  and the squares ,  are triple of the square .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And the gnomon  and the squares ,  are the whole square  and , which are the squares on , , while  is the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the squares on ,  are triple of the square on . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

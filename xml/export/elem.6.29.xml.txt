@@ -6,12 +6,12 @@ Let `AB` be the given straight line, `C` the given rectilineal figure to which t
 Let `AB` be bisected at `E`; let there be described on `EB` the parallelogram `BF` similar and similarly situated to `D`; and let `GH` be constructed at once equal to the sum of `BF`, `C` and similar and similarly situated to `D`. [elem.6.25]
 Let `KH` correspond to `FL` and `KG` to `FE`.
 Now, since `GH` is greater than `FB`, therefore `KH` is also greater than `FL`, and `KG` than `FE`.
-Let `FL`, `FE` be produced, let `FLM` be equal to `KH`, and `FEN` to `KG`, and let `MN` be completed;
-But `GH` is similar to `EL`;  therefore `EL` is about the same diameter with `MN`. [elem.6.26]
+Let `FL`, `FE` be produced, let `FLM` be equal to `KH`, and `FEN` to `KG`, and let `MN` be completed; > therefore `MN` is both equal and similar to `GH`.
+But `GH` is similar to `EL`; > therefore `MN` is also similar to `EL`; [elem.6.21] therefore `EL` is about the same diameter with `MN`. [elem.6.26]
 Let their diameter `FO` be drawn, and let the figure be described.
 Since `GH` is equal to `EL`, `C`, while `GH` is equal to `MN`, therefore `MN` is also equal to `EL`, `C`.
-Let `EL` be subtracted from each;
-Now, since `AE` is equal to `EB`,
-Let `EO` be added to each;
-But the gnomon `VWX` is equal to `C`;
+Let `EL` be subtracted from each; > therefore the remainder, the gnomon `XWV`, is equal to `C`.
+Now, since `AE` is equal to `EB`, > `AN` is also equal to `NB` [elem.1.36], that is, to `LP` [elem.1.43].
+Let `EO` be added to each; > therefore the whole `AO` is equal to the gnomon `VWX`.
+But the gnomon `VWX` is equal to `C`; > therefore `AO` is also equal to `C`.
 Therefore to the given straight line `AB` there has been applied the parallelogram `AO` equal to the given rectilineal figure `C` and exceeding by a parallelogrammic figure `QP` which is similar to `D`, since `PQ` is also similar to `EL` [elem.6.24]. Q. E. F.

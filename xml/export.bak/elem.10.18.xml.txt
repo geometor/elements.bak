@@ -1,0 +1,17 @@
+Enunciation:
+
+
+Proof:
+.
+Let ,  be two unequal straight lines, of which  is the greater, and to  let there be applied a parallelogram equal to the fourth part of the square on the less, , and deficient by a square figure. Let this be the rectangle , , [cf. elem.10.16.l.1]  and let  be incommensurable in length with ; I say that the square on  is greater than the square on  by the square on a straight line incommensurable with .
+For, with the same construction as before, we can prove similarly that the square on  is greater than the square on  by the square on .
+It is to be proved that  is incommensurable in length with .
+Since  is incommensurable in length with , therefore  is also incommensurable in length with . [elem.10.16]
+But  is commensurable with the sum of , ; [elem.10.6] therefore  is also incommensurable with the sum of , ; [elem.10.13] so that  is also incommensurable in length with the remainder . [elem.10.16]
+And the square on  is greater than the square on  by the square on ; therefore the square on  is greater than the square on  by the square on a straight line incommensurable with .
+Again, let the square on  be greater than the square on  by the square on a straight line incommensurable with , and let there be applied to  a parallelogram equal to the fourth part of the square on  and deficient by a square figure. Let this be the rectangle , .
+It is to be proved that  is incommensurable in length with .
+For, with the same construction, we can prove similarly that the square on  is greater than the square on  by the square on .
+But the square on  is greater than the square on  by the square on a straight line incommensurable with ; therefore  is incommensurable in length with . so that  is also incommensurable with the remainder, the sum of , . [elem.10.16]
+But the sum of ,  is commensurable in length with ; [elem.10.6] therefore  is also incommensurable in length with , [elem.10.13] so that, ,  is also incommensurable in length with . [elem.10.16]
+Therefore etc.

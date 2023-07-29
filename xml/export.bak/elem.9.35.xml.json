@@ -1,0 +1,51 @@
+{
+    "id": "elem.9.35",
+    "n": 35,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let there be as many numbers as we please in continued proportion, , , , , beginning from  as least, and let there be subtracted from  and  the numbers , , each equal to ; I say that, as  is to , so is  to , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let  be made equal to , and  equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Then, since  is equal to , and of these the part  is equal to the part , therefore the remainder  is equal to the remainder .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And since, as  is to , so is  to , and  to , while  is equal to ,  to , and  to , therefore, as  is to , so is  to , and  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": ", as  is to , so is  to , and  to . [elem.7.11 elem.7.13]",
+            "refs": [
+                "elem.7.11 elem.7.13"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore also, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.7.12] therefore, as  is to , so are , .  to , , .",
+            "refs": [
+                "elem.7.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to ,  to , and , ,  to , , ; therefore, as  is to , so is  to , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as the excess of the second is to the first, so is the excess of the last to all those before it. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

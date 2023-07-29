@@ -700,25 +700,20 @@ Proof:
 Enunciation:
 And when the lines containing the angle are straight, the angle is called .
 
-Proof:
-Enunciation:
-Let the following be postulated:
+Postulates
 
-Proof:
+1
 To draw a straight line from any point to any point.
-Enunciation:
+
 To produce a finite straight line continuously in a straight line.
 
-Proof:
-Enunciation:
+2
 To describe a circle with any centre and distance.
 
-Proof:
-Enunciation:
+3
 That all right angles are equal to one another.
 
-Proof:
-Enunciation:
+4
 That, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles.
 
 Proof:

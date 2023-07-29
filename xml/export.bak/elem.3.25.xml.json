@@ -1,0 +1,126 @@
+{
+    "id": "elem.3.25",
+    "n": 25,
+    "type": "proposition",
+    "enunciation": "`Given a segment of a circle`, `to describe the complete circle of which it is a segment`.",
+    "proof": [
+        {
+            "text": "Let `ABC` be the given segment of a circle; thus it is required to describe the complete circle belonging to the segment `ABC`, that is, of which it is a segment.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "For let `AC` be bisected at `D`, let `DB` be drawn from the point `D` at right angles to `AC`, and let `AB`. be joined;",
+            "refs": [],
+            "emphs": [
+                "AC",
+                "D",
+                "DB",
+                "D",
+                "AC",
+                "AB"
+            ]
+        },
+        {
+            "text": "First let it be greater; and on the straight line `BA`, and at the point `A` on it, let the angle `BAE` be constructed equal to the angle `ABD`; let `DB` be drawn through to `E`, and let `EC` be joined.",
+            "refs": [],
+            "emphs": [
+                "BA",
+                "A",
+                "BAE",
+                "ABD",
+                "DB",
+                "E",
+                "EC"
+            ]
+        },
+        {
+            "text": "Then, since the angle `ABE` is equal to the angle `BAE`,",
+            "refs": [],
+            "emphs": [
+                "ABE",
+                "BAE"
+            ]
+        },
+        {
+            "text": "And, since `AD` is equal to `DC`, and `DE` is common,  and the angle `ADE` is equal to the angle `CDE`, for each is right;",
+            "refs": [],
+            "emphs": [
+                "AD",
+                "DC",
+                "DE",
+                "ADE",
+                "CDE"
+            ]
+        },
+        {
+            "text": "But `AE` was proved equal to `BE`;  therefore the three straight lines `AE`, `EB`, `EC` are equal to one another.",
+            "refs": [],
+            "emphs": [
+                "AE",
+                "BE",
+                "AE",
+                "EB",
+                "EC"
+            ]
+        },
+        {
+            "text": "Therefore the circle drawn with centre `E` and distance one of the straight lines `AE`, `EB`, `EC` will also pass through the remaining points and will have been completed. [elem.3.9]",
+            "refs": [
+                "elem.3.9"
+            ],
+            "emphs": [
+                "E",
+                "AE",
+                "EB",
+                "EC"
+            ]
+        },
+        {
+            "text": "Therefore, given a segment of a circle, the complete circle has been described.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And it is manifest that the segment `ABC` is less than a semicircle, because the centre `E` happens to be outside it.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "E"
+            ]
+        },
+        {
+            "text": "Similarly, even if the angle `ABD` be equal to the angle `BAD`, `AD` being equal to each of the two `BD`, `DC`,",
+            "refs": [],
+            "emphs": [
+                "ABD",
+                "BAD",
+                "AD",
+                "BD",
+                "DC"
+            ]
+        },
+        {
+            "text": "But, if the angle `ABD` be less than the angle `BAD`, and if we construct, on the straight line `BA` and at the point `A` on it, an angle equal to the angle `ABD`, the centre will fall on `DB` within the segment `ABC`, and the segment \n       `ABC` will clearly be greater than a semicircle.",
+            "refs": [],
+            "emphs": [
+                "ABD",
+                "BAD",
+                "BA",
+                "A",
+                "ABD",
+                "DB",
+                "ABC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Therefore, given a segment of a circle, the complete circle has been described. Q. E. F.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

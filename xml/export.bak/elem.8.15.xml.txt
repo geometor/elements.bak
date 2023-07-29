@@ -1,0 +1,12 @@
+Enunciation:
+
+
+Proof:
+For let the cube number  measure the cube , and let  be the side of  and  of ; I say that  measures .
+For let  by multiplying itself make , and let  by multiplying itself make ; further, let  by multiplying  make , and let ,  by multiplying  make ,  respectively.
+Now it is manifest that , ,  and , , ,  are continuously proportional in the ratio of  to . [elem.8.11 elem.8.12]
+And, since , , ,  are continuously proportional, and  measures , therefore it also measures . [elem.8.7]
+And, as  is to , so is  to ; therefore  also measures . [elem.7.def.20]
+Next, let  measure ; I say that  will also measure .
+For, with the same construction, we can prove in a similar manner that , , ,  are continuously proportional in the ratio of  to .
+And, since  measures , and, as  is to , so is  to , therefore  also measures , [elem.7.def.20] so that  measures  also. Q. E. D.

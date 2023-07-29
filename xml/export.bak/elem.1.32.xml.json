@@ -1,0 +1,90 @@
+{
+    "id": "elem.1.32",
+    "n": 32,
+    "type": "proposition",
+    "enunciation": "In any triangle, if one of the sides be produced, the exterior angle is equal to the two interior and opposite angles, and the three interior angles of the triangle are equal to two right angles.",
+    "proof": [
+        {
+            "text": "Let `ABC` be a triangle, and let one side of it `BC` be produced to `D`;",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "BC",
+                "D"
+            ]
+        },
+        {
+            "text": "I say that the exterior angle `ACD` is equal to the two interior and opposite angles `CAB`, `ABC`, and the three interior angles of the triangle `ABC`, `BCA`, `CAB` are equal to two right angles.",
+            "refs": [],
+            "emphs": [
+                "ACD",
+                "CAB",
+                "ABC",
+                "ABC",
+                "BCA",
+                "CAB"
+            ]
+        },
+        {
+            "text": "For let `CE` be drawn through the point `C` parallel to the straight line `AB`. [elem.1.31]",
+            "refs": [
+                "elem.1.31"
+            ],
+            "emphs": [
+                "CE",
+                "C",
+                "AB"
+            ]
+        },
+        {
+            "text": "Then, since `AB` is parallel to `CE`,",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "CE"
+            ]
+        },
+        {
+            "text": "Again, since `AB` is parallel to `CE`,  the exterior angle `ECD` is equal to the interior and opposite angle `ABC`. [elem.1.29]",
+            "refs": [
+                "elem.1.29"
+            ],
+            "emphs": [
+                "AB",
+                "CE",
+                "ECD",
+                "ABC"
+            ]
+        },
+        {
+            "text": "But the angle `ACE` was also proved equal to the angle `BAC`;",
+            "refs": [],
+            "emphs": [
+                "ACE",
+                "BAC"
+            ]
+        },
+        {
+            "text": "Let the angle `ACB` be added to each;",
+            "refs": [],
+            "emphs": [
+                "ACB"
+            ]
+        },
+        {
+            "text": "But the angles `ACD`, `ACB` are equal to two right angles; [elem.1.13]",
+            "refs": [
+                "elem.1.13"
+            ],
+            "emphs": [
+                "ACD",
+                "ACB"
+            ]
+        },
+        {
+            "text": "Therefore etc.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

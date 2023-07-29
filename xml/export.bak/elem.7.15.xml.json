@@ -1,0 +1,54 @@
+{
+    "id": "elem.7.15",
+    "n": 15,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the unit  measure any number , and let another number  measure any other number  the same number of times; I say that, alternately also, the unit  measures the number  the same number of times that  measures .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since the unit  measures the number  the same number of times that  measures , therefore, as many units as there are in , so many numbers equal to  are there in  also.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be divided into the units in it, , , , and  into the numbers , ,  equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Thus the multitude of , ,  will be equal to the multitude of , , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since the units , ,  are equal to one another, and the numbers , ,  are also equal to one another, while the multitude of the units , ,  is equal to the multitude of the numbers , , , therefore, as the unit  is to the number , so will the unit  be to the number , and the unit  to the number .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore also, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents; [elem.7.12] therefore, as the unit  is to the number , so is  to .",
+            "refs": [
+                "elem.7.12"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the unit  is equal to the unit , and the number  to the number .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore, as the unit  is to the number , so is  to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the unit  measures the number  the same number of times that  measures . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

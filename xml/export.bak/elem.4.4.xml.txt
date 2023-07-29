@@ -1,0 +1,13 @@
+Enunciation:
+`In a given triangle to inscribe a circle`.
+
+Proof:
+Let `ABC` be the given triangle; thus it is required to inscribe a circle in the triangle `ABC`.
+Let the angles `ABC`, `ACB`
+       be bisected by the straight lines `BD`, `CD` [elem.1.9], and let these meet one another at the point `D`; from `D` let `DE`, `DF`, `DG` be drawn perpendicular to the straight lines `AB`, `BC`, `CA`.
+Now, since the angle `ABD` is equal to the angle `CBD`, and the right angle `BED` is also equal to the right angle `BFD`, `EBD`, `FBD` are two triangles having two angles equal to two angles and one side equal to one side, namely that subtending one of the equal angles, which is `BD` common to the triangles;
+For the same reason
+Therefore the three straight lines `DE`, `DF`, `DG` are equal to one another;
+For, if it cuts them, the straight line drawn at right angles to the diameter of the circle from its extremity will be found to fall within the circle : which was proved absurd; [elem.3.16]
+Let it be inscribed, as `FGE`.
+Therefore in the given triangle `ABC` the circle `EFG` has been inscribed. Q. E. F.

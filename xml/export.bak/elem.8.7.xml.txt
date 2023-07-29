@@ -1,0 +1,8 @@
+Enunciation:
+
+
+Proof:
+Let there be as many numbers as we please, , , , , in continued proportion; and let  measure ; I say that  also measures .
+For, if  does not measure , neither will any other of the numbers measure any other. [elem.8.6]
+But  measures .
+Therefore  also measures . Q. E. D.

@@ -2,128 +2,129 @@
     "id": "elem.9.36",
     "n": 36,
     "type": "proposition",
+    "enunciation": "> If as many numbers as we please beginning from an unit be set out continuously in double proportion, until the sum of all becomes prime, and if the sum multiplied into the last make some number, the product will be perfect.",
     "proof": [
         {
-            "text": "For let as many numbers as we please, , , , , beginning from an unit be set out in double proportion, until the sum of all becomes prime, let  be equal to the sum, and let  by multiplying  make ; I say that  is perfect.",
+            "text": "For let as many numbers as we please, > A, > B, > C, > D, beginning from an unit be set out in double proportion, until the sum of all becomes prime, let > E be equal to the sum, and let > E by multiplying > D make > FG; I say that > FG is perfect.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, however many , , ,  are in multitude, let so many , , ,  be taken in double proportion beginning from ; therefore, , as  is to , so is  to . [elem.7.14]",
+            "text": "For, however many > A, > B, > C, > D are in multitude, let so many > E, > HK, > L, > M be taken in double proportion beginning from > E; therefore, , as > A is to > D, so is > E to > M. [elem.7.14]",
             "refs": [
                 "elem.7.14"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the product of ,  is equal to the product of , . [elem.7.19]",
+            "text": "Therefore the product of > E, > D is equal to the product of > A, > M. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "And the product of ,  is ; therefore the product of ,  is also .",
+            "text": "And the product of > E, > D is > FG; therefore the product of > A, > M is also > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  by multiplying  has made ; therefore  measures  according to the units in .",
+            "text": "Therefore > A by multiplying > M has made > FG; therefore > M measures > FG according to the units in > A.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is a dyad; therefore  is double of .",
+            "text": "And > A is a dyad; therefore > FG is double of > M.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But , , ,  are continuously double of each other; therefore , , , ,  are continuously proportional in double proportion.",
+            "text": "But > M, > L, > HK, > E are continuously double of each other; therefore > E, > HK, > L, > M, > FG are continuously proportional in double proportion.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now let there be subtracted from the second  and the last  the numbers , , each equal to the first ; therefore, as the excess of the second is to the first, so is the excess of the last to all those before it. [elem.9.35]",
+            "text": "Now let there be subtracted from the second > HK and the last > FG the numbers > HN, > FO, each equal to the first > E; therefore, as the excess of the second is to the first, so is the excess of the last to all those before it. [elem.9.35]",
             "refs": [
                 "elem.9.35"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is  to , , , .",
+            "text": "Therefore, as > NK is to > E, so is > OG to > M, > L, > KH, > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  is equal to ; therefore  is also equal to , , , .",
+            "text": "And > NK is equal to > E; therefore > OG is also equal to > M, > L, > HK, > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is also equal to , and  is equal to , , ,  and the unit.",
+            "text": "But > FO is also equal to > E, and > E is equal to > A, > B, > C, > D and the unit.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the whole  is equal to , , ,  and , , ,  and the unit; and it is measured by them.",
+            "text": "Therefore the whole > FG is equal to > E, > HK, > L, > M and > A, > B, > C, > D and the unit; and it is measured by them.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say also that  will not be measured by any other number except , , , , , , ,  and the unit.",
+            "text": "I say also that > FG will not be measured by any other number except > A, > B, > C, > D, > E, > HK, > L, > M and the unit.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let some number  measure , and let  not be the same with any of the numbers , , , , , , , .",
+            "text": "For, if possible, let some number > P measure > FG, and let > P not be the same with any of the numbers > A, > B, > C, > D, > E, > HK, > L, > M.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, as many times as  measures , so many units let there be in ; therefore  by multiplying  has made .",
+            "text": "And, as many times as > P measures > FG, so many units let there be in > Q; therefore > Q by multiplying > P has made > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, further,  has also by multiplying  made ; therefore, as  is to , so is  to . [elem.7.19]",
+            "text": "But, further, > E has also by multiplying > D made > FG; therefore, as > E is to > Q, so is > P to > D. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "And, since , , ,  are continuously proportional beginning from an unit, therefore  will not be measured by any other number except , , . [elem.9.13]",
+            "text": "And, since > A, > B, > C, > D are continuously proportional beginning from an unit, therefore > D will not be measured by any other number except > A, > B, > C. [elem.9.13]",
             "refs": [
                 "elem.9.13"
             ],
             "emphs": []
         },
         {
-            "text": "And, by hypothesis,  is not the same with any of the numbers , , ; therefore  will not measure .",
+            "text": "And, by hypothesis, > P is not the same with any of the numbers > A, > B, > C; therefore > P will not measure > D.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to ; therefore neither does  measure . [elem.7.def.20]",
+            "text": "But, as > P is to > D, so is > E to > Q; therefore neither does > E measure > Q. [elem.7.def.20]",
             "refs": [
                 "elem.7.def.20"
             ],
             "emphs": []
         },
         {
-            "text": "And  is prime; and any prime number is prime to any number which it does not measure. [elem.7.29]",
+            "text": "And > E is prime; and any prime number is prime to any number which it does not measure. [elem.7.29]",
             "refs": [
                 "elem.7.29"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are prime to one another.",
+            "text": "Therefore > E, > Q are prime to one another.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] and, as  is to , so is  to ; therefore  measures  the same number of times that  measures .",
+            "text": "But primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] and, as > E is to > Q, so is > P to > D; therefore > E measures > P the same number of times that > Q measures > D.",
             "refs": [
                 "elem.7.21",
                 "elem.7.20"
@@ -131,58 +132,58 @@
             "emphs": []
         },
         {
-            "text": "But  is not measured by any other number except , , ; therefore  is the same with one of the numbers , , .",
+            "text": "But > D is not measured by any other number except > A, > B, > C; therefore > Q is the same with one of the numbers > A, > B, > C.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let it be the same with .",
+            "text": "Let it be the same with > B.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, however many , ,  are in multitude, let so many , ,  be taken beginning from .",
+            "text": "And, however many > B, > C, > D are in multitude, let so many > E, > HK, > L be taken beginning from > E.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Now , ,  are in the same ratio with , , ; therefore, , as  is to , so is  to . [elem.7.14]",
+            "text": "Now > E, > HK, > L are in the same ratio with > B, > C, > D; therefore, , as > B is to > D, so is > E to > L. [elem.7.14]",
             "refs": [
                 "elem.7.14"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the product of ,  is equal to the product of , . [elem.7.19]",
+            "text": "Therefore the product of > B, > L is equal to the product of > D, > E. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "But the product of ,  is equal to the product of , ; therefore the product of ,  is also equal to the product of , .",
+            "text": "But the product of > D, > E is equal to the product of > Q, > P; therefore the product of > Q, > P is also equal to the product of > B, > L.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore, as  is to , so is  to . [elem.7.19]",
+            "text": "Therefore, as > Q is to > B, so is > L to > P. [elem.7.19]",
             "refs": [
                 "elem.7.19"
             ],
             "emphs": []
         },
         {
-            "text": "And  is the same with ; therefore  is also the same with ; which is impossible, for by hypothesis  is not the same with any of the numbers set out.",
+            "text": "And > Q is the same with > B; therefore > L is also the same with > P; which is impossible, for by hypothesis > P is not the same with any of the numbers set out.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore no number will measure  except , , , , , , ,  and the unit.",
+            "text": "Therefore no number will measure > FG except > A, > B, > C, > D, > E, > HK, > L, > M and the unit.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And  was proved equal to , , , , , , ,  and the unit; and a perfect number is that which is equal to its own parts; [elem.7.def.22] therefore  is perfect. Q. E. D.",
+            "text": "And > FG was proved equal to > A, > B, > C, > D, > E, > HK, > L, > M and the unit; and a perfect number is that which is equal to its own parts; [elem.7.def.22] therefore > FG is perfect. Q. E. D.",
             "refs": [
                 "elem.7.def.22"
             ],

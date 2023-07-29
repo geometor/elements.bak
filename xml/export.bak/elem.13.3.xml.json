@@ -1,0 +1,83 @@
+{
+    "id": "elem.13.3",
+    "n": 3,
+    "type": "proposition",
+    "enunciation": ",",
+    "proof": [
+        {
+            "text": "For let any straight line  be cut in extreme and mean ratio at the point , let  be the greater segment, and let  be bisected at ; I say that the square on  is five times the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For let the square  be described on , and let the figure be drawn double.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Since  is double of , therefore the square on  is quadruple of the square on , that is,  is quadruple of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And, since the rectangle ,  is equal to the square on , and  is the rectangle , , therefore  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is quadruple of ; therefore  is also quadruple of .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Again, since  is equal to ,  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Hence the square  is also equal to the square .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is equal to , that is,  to ; hence  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is equal to ; therefore  is also equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be added to each; therefore the gnomon  is equal to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  was proved quadruple of ; therefore the gnomon  is also quadruple of the square .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the gnomon  and the square  are five times .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But the gnomon  and the square  are the square .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is the square on , and  the square on .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the square on  is five times the square on . Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

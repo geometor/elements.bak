@@ -5,7 +5,7 @@
     "enunciation": "`To cut a given finite straight line in extreme and mean ratio`.",
     "proof": [
         {
-            "text": "Let `AB` be the given finite straight line;",
+            "text": "Let `AB` be the given finite straight line; > thus it is required to cut `AB` in extreme and mean ratio.",
             "refs": [],
             "emphs": [
                 "AB"
@@ -27,14 +27,14 @@
             ]
         },
         {
-            "text": "Now `BC` is a square;",
+            "text": "Now `BC` is a square; > therefore `AD` is also a square.",
             "refs": [],
             "emphs": [
                 "BC"
             ]
         },
         {
-            "text": "And, since `BC` is equal to `CD`, let `CE` be subtracted from each;",
+            "text": "And, since `BC` is equal to `CD`, let `CE` be subtracted from each; > therefore the remainder `BF` is equal to the remainder `AD`.",
             "refs": [],
             "emphs": [
                 "BC",
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "text": "But it is also equiangular with it; therefore in `BF`, `AD` the sides about the equal angles are reciprocally proportional; [elem.6.14]",
+            "text": "But it is also equiangular with it; therefore in `BF`, `AD` the sides about the equal angles are reciprocally proportional; [elem.6.14] > therefore, as `FE` is to `ED`, so is `AE` to `EB`.",
             "refs": [
                 "elem.6.14"
             ],
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "text": "And `AB` is greater than `AE`;",
+            "text": "And `AB` is greater than `AE`; > therefore `AE` is also greater than `EB`.",
             "refs": [],
             "emphs": [
                 "AB",

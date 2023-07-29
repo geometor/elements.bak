@@ -7,5 +7,5 @@ Let `ABC` be an obtuse-angled triangle having the angle `BAC` obtuse, and let `B
 I say that the square on `BC` is greater than the squares on `BA`, `AC` by twice the rectangle contained by `CA`, `AD`.
 For, since the straight line `CD` has been cut at random at the point `A`, the square on `DC` is equal to the squares on `CA`, `AD` and twice the rectangle contained by `CA`, `AD`. [elem.2.4]
 Let the square on `DB` be added to each; therefore the squares on `CD`, `DB` are equal to the squares on `CA`, `AD`, `DB` and twice the rectangle `CA`, `AD`.
-But the square on `CB` is equal to the squares on `CD`, `DB`, for the angle at `D` is right; [elem.1.47]  therefore the square on `CB` is equal to the squares on `CA`, `AB` and twice the rectangle contained by `CA`, `AD`;
+But the square on `CB` is equal to the squares on `CD`, `DB`, for the angle at `D` is right; [elem.1.47] > and the square on `AB` is equal to the squares on `AD`, `DB`; [elem.1.47] therefore the square on `CB` is equal to the squares on `CA`, `AB` and twice the rectangle contained by `CA`, `AD`; > so that the square on `CB` is greater than the squares on `CA`, `AB` by twice the rectangle contained by `CA`, `AD`.
 Therefore etc. Q. E. D.

@@ -30,7 +30,7 @@
             ]
         },
         {
-            "text": "First let it be through the centre, and let `F` be the centre of the circle `ABC`; let `FB` be joined;",
+            "text": "First let it be through the centre, and let `F` be the centre of the circle `ABC`; let `FB` be joined; > therefore the angle `FBD` is right. [elem.3.18]",
             "refs": [],
             "emphs": [
                 "F",
@@ -116,7 +116,7 @@
             ]
         },
         {
-            "text": "And, since a straight line `EF` through the centre cuts a straight line `AC` not through the centre at right angles,",
+            "text": "And, since a straight line `EF` through the centre cuts a straight line `AC` not through the centre at right angles, > it also bisects it; [elem.3.3] therefore `AF` is equal to `FC`.",
             "refs": [],
             "emphs": [
                 "EF",

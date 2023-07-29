@@ -1,0 +1,107 @@
+{
+    "id": "elem.9.10",
+    "n": 10,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "Let there be as many numbers as we please, , , , , , , beginning from an unit and in continued proportion, and let , the number after the unit, not be square; I say that neither will any other be square except the third from the unit <and those which leave out one>.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let  be square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But  is also square; [elem.9.8] [therefore ,  have to one another the ratio which a square number has to a square number].",
+            "refs": [
+                "elem.9.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore ,  have to one another the ratio which a square number has to a square number; [so that ,  are similar plane numbers]. [elem.8.26, converse]",
+            "refs": [
+                "elem.8.26"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And  is square; therefore  is also square: which is contrary to the hypothesis.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is not square.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that neither is any other of the numbers square except the third from the unit and those which leave out one.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Next, let  not be cube.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "I say that neither will any other be cube except the fourth from the unit and those which leave out two.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, if possible, let  be cube.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now  is also cube; for it is fourth from the unit. [elem.9.8]",
+            "refs": [
+                "elem.9.8"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And, as  is to , so is  to ; therefore  also has to  the ratio which a cube has to a cube.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "And  is cube; therefore  is also cube. [elem.8.25]",
+            "refs": [
+                "elem.8.25"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "And since, as the unit is to , so is  to , and the unit measures  according to the units in it, therefore  also measures  according to the units in itself; therefore  by multiplying itself has made the cube number .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "But, if a number by multiplying itself make a cube number, it is also itself cube. [elem.9.6]",
+            "refs": [
+                "elem.9.6"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is also cube: which is contrary to the hypothesis.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore  is not cube.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that neither is any other of the numbers cube except the fourth from the unit and those which leave out two. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

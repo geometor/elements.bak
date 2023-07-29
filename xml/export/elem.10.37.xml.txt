@@ -1,11 +1,13 @@
 Enunciation:
-.
+> If two medial straight lines commensurable in square only and containing a rational rectangle be added together, the whole is irrational; and let it be called
+       > a first bimedial
+       > straight line.
 
 Proof:
-For let two medial straight lines ,  commensurable in square only and containing a rational rectangle be added together;  I say that the whole  is irrational.
-For, since  is incommensurable in length with , therefore the squares on ,  are also incommensurable with twice the rectangle , ; [cf. elem.10.36]
-and, , the squares on ,  together with twice the rectangle , , that is, the square on  [elem.2.4], is incommensurable with the rectangle , . [elem.10.16
+For let two medial straight lines > AB, > BC commensurable in square only and containing a rational rectangle be added together;  I say that the whole > AC is irrational.
+For, since > AB is incommensurable in length with > BC, therefore the squares on > AB, > BC are also incommensurable with twice the rectangle > AB, > BC; [cf. elem.10.36]
+and, , the squares on > AB, > BC together with twice the rectangle > AB, > BC, that is, the square on > AC [elem.2.4], is incommensurable with the rectangle > AB, > BC. [elem.10.16
 ]
-But the rectangle ,  is rational, for, by hypothesis, ,  are straight lines containing a rational rectangle; therefore the square on  is irrational; therefore  is irrational. [elem.10.def.4
+But the rectangle > AB, > BC is rational, for, by hypothesis, > AB, > BC are straight lines containing a rational rectangle; therefore the square on > AC is irrational; therefore > AC is irrational. [elem.10.def.4
 ]
-And let it be called a  straight line. Q. E. D.
+And let it be called a > first bimedial straight line. Q. E. D.

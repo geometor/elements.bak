@@ -1,4 +1,4 @@
 Enunciation:
-A  is that which has no part.
+A <term>point</term> is that which has no part.
 
 Proof:

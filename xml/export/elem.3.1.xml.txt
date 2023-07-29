@@ -5,7 +5,7 @@ Proof:
 Let `ABC` be the given circle; thus it is required to find the centre of the circle `ABC`.
 Let a straight line `AB` be drawn through it at random, and let it be bisected at the point `D`; from `D` let `DC` be drawn at right angles to `AB` and let it be drawn through to `E`; let `CE` be bisected at `F`; I say that `F` is the centre of the circle `ABC`.
 For suppose it is not, but, if possible, let `G` be the centre, and let `GA`, `GD`, `GB` be joined.
-Then, since `AD` is equal to `DB`, and `DG` is common,  and the base `GA` is equal to the base `GB`, for they are radii;
-But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10]
-But the angle `FDB` is also right; therefore the angle `FDB` is equal to the angle `GDB`, the greater to the less: which is impossible.
-Similarly we can prove that neither is any other point except `F`.
+Then, since `AD` is equal to `DB`, and `DG` is common, > the two sides `AD`, `DG` are equal to the two sides `BD`, `DG` respectively; and the base `GA` is equal to the base `GB`, for they are radii; > therefore the angle `ADG` is equal to the angle `GDB`. [elem.1.8]
+But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10] > therefore the angle `GDB` is right.
+But the angle `FDB` is also right; therefore the angle `FDB` is equal to the angle `GDB`, the greater to the less: which is impossible. > Therefore `G` is not the centre of the circle `ABC`.
+Similarly we can prove that neither is any other point except `F`. > Therefore the point `F` is the centre of the circle `ABC`.

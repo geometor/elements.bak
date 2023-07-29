@@ -1,0 +1,36 @@
+{
+    "id": "elem.7.10",
+    "n": 10,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the number  be parts of the number , and another, , the same parts of another, ; I say that, alternately also, whatever parts or part  is of , the same parts or the same part is  of  also.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For since, whatever parts  is of , the same parts also is  of , therefore, as many parts of  as there are in , so many parts also of  are there in .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Let  be divided into the parts of , namely , , and  into the parts of , namely , ; thus the multitude of ,  will be equal to the multitude of , .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Now since, whatever part  is of , the same part also is  of , alternately also, whatever part or parts  is of , the same part or the same parts is  of  also. [elem.7.9]",
+            "refs": [
+                "elem.7.9"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason also, whatever part or parts  is of , the same part or the same parts is  of  also; so that, in addition, whatever parts or part  is of , the same parts also, or the same part, is  of . [elem.7.5 elem.7.6] Q. E. D.",
+            "refs": [
+                "elem.7.5 elem.7.6"
+            ],
+            "emphs": []
+        }
+    ]
+}

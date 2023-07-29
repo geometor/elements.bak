@@ -48,7 +48,7 @@
             ]
         },
         {
-            "text": "Then, since the point `C` is the centre of the circle `EAF`,",
+            "text": "Then, since the point `C` is the centre of the circle `EAF`, > `CA` is equal to `CE`.",
             "refs": [],
             "emphs": [
                 "C",
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "text": "But `CE` is equal to `D`;",
+            "text": "But `CE` is equal to `D`; > therefore `D` is also equal to `CA`.",
             "refs": [],
             "emphs": [
                 "CE",

@@ -1,4 +1,4 @@
 Enunciation:
-are those which do not meet.
+> Parallel planes are those which do not meet.
 
 Proof:

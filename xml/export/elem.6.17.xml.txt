@@ -12,5 +12,5 @@ Next, let the rectangle `A`, `C` be equal to the square on `B`; I say that, as `
 For, with the same construction, since the rectangle `A`, `C` is equal to the square on `B`, while the square on `B` is the rectangle `B`, `D`, for `B` is equal to `D`, therefore the rectangle `A`, `C` is equal to the rectangle `B`, `D`.
 But, if the rectangle contained by the extremes be equal to that contained by the means, the four straight lines are proportional. [elem.6.16]
 Therefore, as `A` is to `B`, so is `D` to `C`.
-But `B` is equal to `D`;
+But `B` is equal to `D`; > therefore, as `A` is to `B`, so is `B` to `C`.
 Therefore etc. Q. E. D.

@@ -22,7 +22,7 @@
             ]
         },
         {
-            "text": "Then, since `DA` is equal to `AB`, and `AC` is common, therefore the two sides `DA`, `AC` are equal to the two sides `BA`, `AC`; and the base `DC` is equal to the base `BC`;",
+            "text": "Then, since `DA` is equal to `AB`, and `AC` is common, therefore the two sides `DA`, `AC` are equal to the two sides `BA`, `AC`; and the base `DC` is equal to the base `BC`; > therefore the angle `DAC` is equal to the angle `BAC`. [elem.1.8]",
             "refs": [],
             "emphs": [
                 "DA",

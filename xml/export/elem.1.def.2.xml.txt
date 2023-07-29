@@ -1,4 +1,4 @@
 Enunciation:
-A  is breadthless length.
+A <term>line</term> is breadthless length.
 
 Proof:

@@ -1,0 +1,87 @@
+{
+    "id": "elem.5.20",
+    "n": 20,
+    "type": "proposition",
+    "enunciation": "`If there be three magnitudes`, `and others equal to them in multitude`, `which taken two and two are in the same ratio`, `and if`\n       \n       `the first be greater than the third`, `the fourth will also be greater than the sixth`; `if equal`, `equal`; `and`, `if less`, `less`.",
+    "proof": [
+        {
+            "text": "Let there be three magnitudes `A`, `B`, `C`, and others `D`, `E`, `F` equal to them in multitude, which taken two and two are in the same ratio, so that,  and as `B` is to `C`, so is `E` to `F`; and let `A` be greater than `C`; I say that `D` will also be greater than `F`; if `A` is equal to `C`, equal; and, if less, less.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "B",
+                "C",
+                "E",
+                "F",
+                "A",
+                "C",
+                "D",
+                "F",
+                "A",
+                "C"
+            ]
+        },
+        {
+            "text": "For, since `A` is greater than `C`, and `B` is some other magnitude, and the greater has to the same a greater ratio than the less has, [elem.5.8] therefore `A` has to `B` a greater ratio than `C` has to `B`.",
+            "refs": [
+                "elem.5.8"
+            ],
+            "emphs": [
+                "A",
+                "C",
+                "B",
+                "A",
+                "B",
+                "C",
+                "B"
+            ]
+        },
+        {
+            "text": "But, as `A` is to `B`, so is `D` to `E`, and, as `C` is to `B`, inversely, so is `F` to `E`; therefore `D` has also to `E` a greater ratio than `F` has to `E`. [elem.5.13]",
+            "refs": [
+                "elem.5.13"
+            ],
+            "emphs": [
+                "A",
+                "B",
+                "D",
+                "E",
+                "C",
+                "B",
+                "F",
+                "E",
+                "D",
+                "E",
+                "F",
+                "E"
+            ]
+        },
+        {
+            "text": "But, of magnitudes which have a ratio to the same, that which has a greater ratio is greater; [elem.5.10]",
+            "refs": [
+                "elem.5.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "Similarly we can prove that, if `A` be equal to `C`, `D` will also be equal to `F`; and if less, less.",
+            "refs": [],
+            "emphs": [
+                "A",
+                "C",
+                "D",
+                "F"
+            ]
+        },
+        {
+            "text": "Therefore etc. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

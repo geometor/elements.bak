@@ -142,6 +142,10 @@ def get_text_with_emph(element):
             text_parts.append(f'`{child.text}`')
         if child.tag == "ref":
             text_parts.append(f'{child.get("target")}')
+        if child.tag == "term":
+            text_parts.append(f'<term>{child.text}</term>')
+        if child.tag == "hi":
+            text_parts.append(f'> {get_text_with_emph(child)}')
         text_parts.append(child.tail or "")
     return "".join(text_parts).strip()
 
@@ -186,11 +190,7 @@ def convert_xml_to_json(folder='.'):
 
         txt_file_path = f'{file_path}.txt'
         extract_texts(json_file_path, txt_file_path)
-        
-        #  if i > max:
-            #  break
-        #  else:
-            #  i += 1
+
 
 if __name__ == "__main__":
     files = glob.glob(os.path.join('.', f'*.xml'))
@@ -198,14 +198,4 @@ if __name__ == "__main__":
         create_files_from_xml(xml_file)
 
     convert_xml_to_json('export')
-    
-    #  file_path = 'export/elem.1.1.xml'
-    #  file_path = 'export/elem.1.def.1.xml'
-    #  print(file_path)
 
-    #  with open(file_path, 'r', encoding='utf-8') as file:
-        #  file_contents = file.read()
-
-    #  parsed_data = parse_element(file_contents)
-
-    #  print(parsed_data)

@@ -5,7 +5,7 @@
     "enunciation": "In any triangle two sides taken together in any manner are greater than the remaining one.",
     "proof": [
         {
-            "text": "For let `ABC` be a triangle; I say that in the triangle `ABC` two sides taken together in any manner are greater than the remaining one, namely",
+            "text": "For let `ABC` be a triangle; I say that in the triangle `ABC` two sides taken together in any manner are greater than the remaining one, namely > `BA`, `AC` greater than `BC`, `AB`, `BC` greater than `AC`, `BC`, `CA` greater than `AB`.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -24,7 +24,7 @@
             ]
         },
         {
-            "text": "Then, since `DA` is equal to `AC`, the angle `ADC` is also equal to the angle `ACD`; [elem.1.5]",
+            "text": "Then, since `DA` is equal to `AC`, the angle `ADC` is also equal to the angle `ACD`; [elem.1.5] \n        > therefore the angle `BCD` is greater than the angle `ADC`. [elem.1.c.n.5]",
             "refs": [
                 "elem.1.5"
             ],
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "text": "And, since `DCB` is a triangle having the angle `BCD` greater than the angle `BDC`,",
+            "text": "And, since `DCB` is a triangle having the angle `BCD` greater than the angle `BDC`, > and the greater angle is subtended by the greater side, [elem.1.19] therefore `DB` is greater than `BC`.",
             "refs": [],
             "emphs": [
                 "DCB",
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "text": "But `DA` is equal to `AC`;",
+            "text": "But `DA` is equal to `AC`; > therefore `BA`, `AC` are greater than `BC`.",
             "refs": [],
             "emphs": [
                 "DA",

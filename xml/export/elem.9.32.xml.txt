@@ -1,11 +1,11 @@
 Enunciation:
-
+> Each of the numbers which are continually doubled beginning from a dyad is even-times even only.
 
 Proof:
-For let as many numbers as we please, , , , have been continually doubled beginning from the dyad ; I say that , ,  are eventimes even only.
-Now that each of the numbers , ,  is even-times even is manifest; for it is doubled from a dyad.
+For let as many numbers as we please, > B, > C, > D, have been continually doubled beginning from the dyad > A; I say that > B, > C, > D are eventimes even only.
+Now that each of the numbers > B, > C, > D is even-times even is manifest; for it is doubled from a dyad.
 I say that it is also even-times even only.
 For let an unit be set out.
-Since then as many numbers as we please beginning from an unit are in continued proportion, and the number  after the unit is prime, therefore , the greatest of the numbers , , , , will not be measured by any other number except , , . [elem.9.13]
-And each of the numbers , ,  is even; therefore  is even-times even only. [elem.7.def.8]
-Similarly we can prove that each of the numbers ,  is even-times even only. Q. E. D.
+Since then as many numbers as we please beginning from an unit are in continued proportion, and the number > A after the unit is prime, therefore > D, the greatest of the numbers > A, > B, > C, > D, will not be measured by any other number except > A, > B, > C. [elem.9.13]
+And each of the numbers > A, > B, > C is even; therefore > D is even-times even only. [elem.7.def.8]
+Similarly we can prove that each of the numbers > B, > C is even-times even only. Q. E. D.

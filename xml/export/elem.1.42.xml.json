@@ -44,7 +44,7 @@
             ]
         },
         {
-            "text": "And, since `BE` is equal to `EC`,",
+            "text": "And, since `BE` is equal to `EC`, > the triangle `ABE` is also equal to the triangle `AEC`, for they are on equal bases `BE`, `EC` and in the same parallels `BC`, `AG`; [elem.1.38] therefore the triangle `ABC` is double of the triangle `AEC`.",
             "refs": [],
             "emphs": [
                 "BE",
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "text": "But the parallelogram `FECG` is also double of the triangle `AEC`, for it has the same base with it and is in the same parallels with it; [elem.1.41]",
+            "text": "But the parallelogram `FECG` is also double of the triangle `AEC`, for it has the same base with it and is in the same parallels with it; [elem.1.41] > therefore the parallelogram `FECG` is equal to the triangle `ABC`.",
             "refs": [
                 "elem.1.41"
             ],

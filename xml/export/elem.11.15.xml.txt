@@ -1,14 +1,14 @@
 Enunciation:
-, ,
+> If two straight lines meeting one another be parallel to two straight lines meeting one another, > not being in the same plane, > the planes through them are parallel.
 
 Proof:
-For let the two straight lines ,  meeting one another be parallel to the two straight lines ,  meeting one another, not being in the same plane; I say that the planes produced through ,  and ,  will not meet one another.
-For let  be drawn from the point  perpendicular to the plane through ,  [elem.11.11], and let it meet the plane at the point ; through  let  be drawn parallel to , and  parallel to . [elem.1.31]
-Now, since  is at right angles to the plane through , , therefore it will also make right angles with all the straight lines which meet it and are in the plane through , . [elem.11.def.3]
-But each of the straight lines ,  meets it and is in the plane through , ; therefore each of the angles ,  is right.
-And, since  is parallel to , [elem.11.9] therefore the angles ,  are equal to two right angles. [elem.1.29]
-But the angle  is right; therefore the angle  is also right; therefore  is at right angles to .
-For the same reason  is also at right angles to .
-Since then the straight line  is set up at right angles to the two straight lines ,  which cut one another, therefore  is also at right angles to the plane through , . [elem.11.4]
-But planes to which the same straight line is at right angles are parallel; [elem.11.14] therefore the plane through ,  is parallel to the plane through , .
+For let the two straight lines > AB, > BC meeting one another be parallel to the two straight lines > DE, > EF meeting one another, not being in the same plane; I say that the planes produced through > AB, > BC and > DE, > EF will not meet one another.
+For let > BG be drawn from the point > B perpendicular to the plane through > DE, > EF [elem.11.11], and let it meet the plane at the point > G; through > G let > GH be drawn parallel to > ED, and > GK parallel to > EF. [elem.1.31]
+Now, since > BG is at right angles to the plane through > DE, > EF, therefore it will also make right angles with all the straight lines which meet it and are in the plane through > DE, > EF. [elem.11.def.3]
+But each of the straight lines > GH, > GK meets it and is in the plane through > DE, > EF; therefore each of the angles > BGH, > BGK is right.
+And, since > BA is parallel to > GH, [elem.11.9] therefore the angles > GBA, > BGH are equal to two right angles. [elem.1.29]
+But the angle > BGH is right; therefore the angle > GBA is also right; therefore > GB is at right angles to > BA.
+For the same reason > GB is also at right angles to > BC.
+Since then the straight line > GB is set up at right angles to the two straight lines > BA, > BC which cut one another, therefore > GB is also at right angles to the plane through > BA, > BC. [elem.11.4]
+But planes to which the same straight line is at right angles are parallel; [elem.11.14] therefore the plane through > AB, > BC is parallel to the plane through > DE, > EF.
 Therefore, if two straight lines meeting one another be parallel to two straight lines meeting one another, not in the same plane, the planes through them are parallel. Q. E. D.

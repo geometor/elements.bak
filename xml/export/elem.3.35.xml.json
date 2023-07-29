@@ -55,7 +55,7 @@
             ]
         },
         {
-            "text": "Then, since a straight line `GF` through the centre cuts a straight line `AC` not through the centre at right angles,",
+            "text": "Then, since a straight line `GF` through the centre cuts a straight line `AC` not through the centre at right angles, > it also bisects it; [elem.3.3] therefore `AG` is equal to `GC`.",
             "refs": [],
             "emphs": [
                 "GF",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "text": "But the square on `FE` is equal to the squares on `EG`, `GF`, and the square on `FC` is equal to the squares on `CG`, `GF`; [elem.1.47]",
+            "text": "But the square on `FE` is equal to the squares on `EG`, `GF`, and the square on `FC` is equal to the squares on `CG`, `GF`; [elem.1.47] > therefore the rectangle `AE`, `EC` together with the square on `FE` is equal to the square on `FC`.",
             "refs": [
                 "elem.1.47"
             ],

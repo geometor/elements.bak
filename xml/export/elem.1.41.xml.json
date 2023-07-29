@@ -44,7 +44,7 @@
             ]
         },
         {
-            "text": "But the parallelogram `ABCD` is double of the triangle `ABC`;  so that the parallelogram `ABCD` is also double of the triangle `EBC`.",
+            "text": "But the parallelogram `ABCD` is double of the triangle `ABC`; > for the diameter `AC` bisects it; [elem.1.34] so that the parallelogram `ABCD` is also double of the triangle `EBC`.",
             "refs": [],
             "emphs": [
                 "ABCD",

@@ -1,0 +1,15 @@
+Enunciation:
+`If a point be taken outside a circle and from the point there fall on the circle two straight lines`, `if one of them cut the circle`, `and the other fall on it`, `and if further the rectangle contained by the whole of the straight line which cuts `, `the straight line which falls on it will touch the circle`.
+
+Proof:
+For let a point `D` be taken outside the circle `ABC`; from `D` let the two straight lines `DCA`, `DB` fall on the circle `ACB`; let `DCA` cut the circle and `DB` fall on it; and let the rectangle `AD`, `DC` be equal to the square on `DB`.
+I say that `DB` touches the circle `ABC`.
+For let `DE` be drawn touching `ABC`; let the centre of the circle `ABC` be taken, and let it be `F`; let `FE`, `FB`, `FD` be joined.
+Thus the angle `FED` is right. [elem.3.18]
+Now, since `DE` touches the circle `ABC`, and `DCA` cuts it, the rectangle `AD`, `DC` is equal to the square on `DE`. [elem.3.36]
+But the rectangle `AD`, `DC` was also equal to the square on `DB`; therefore the square on `DE` is equal to the square on `DB`;
+And `FE` is equal to `FB`; therefore the two sides `DE`, `EF` are equal to the two sides `DB`, `BF`; and `FD` is the common base of the triangles;
+But the angle `DEF` is right;
+And `FB` produced is a diameter; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [elem.3.16.p.1]
+Similarly this can be proved to be the case even if the centre be on `AC`.
+Therefore etc. Q. E. D.

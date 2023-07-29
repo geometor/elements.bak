@@ -4,8 +4,8 @@ Enunciation:
 Proof:
 For let the two circles `ABC`, `CDE` touch one another at the point `C`; I say that they will not have the same centre.
 For, if possible, let it be `F`; let `FC` be joined, and let `FEB` be drawn through at random.
-Then, since the point `F` is the centre of the circle `ABC`,
-Again, since the point `F` is the centre of the circle `CDE`,
-But `FC` was proved equal to `FB`;
+Then, since the point `F` is the centre of the circle `ABC`, > `FC` is equal to `FB`.
+Again, since the point `F` is the centre of the circle `CDE`, > `FC` is equal to `FE`.
+But `FC` was proved equal to `FB`; > therefore `FE` is also equal to `FB`, the less to the greater: which is impossible.
 Therefore `F` is not the centre of the circles `ABC`, `CDE`.
 Therefore etc. Q. E. D.

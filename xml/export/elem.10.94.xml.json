@@ -2,53 +2,53 @@
     "id": "elem.10.94",
     "n": 94,
     "type": "propositions 85\u2014115",
-    "enunciation": ".",
+    "enunciation": "> If an area be contained by a rational straight line and a fourth apotome, the \n of the area is minor.",
     "proof": [
         {
-            "text": "For let the area  be contained by the rational straight line  and the fourth apotome ; I say that the \n of the area  is minor.",
+            "text": "For let the area > AB be contained by the rational straight line > AC and the fourth apotome > AD; I say that the \n of the area > AB is minor.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For let  be the annex to ; therefore ,  are rational straight lines commensurable in square only,  is commensurable in length with the rational straight line  set out, and the square on the whole  is greater than the square on the annex  by the square on a straight line incommensurable in length with , [elem.10.def.3.4]",
+            "text": "For let > DG be the annex to > AD; therefore > AG, > GD are rational straight lines commensurable in square only, > AG is commensurable in length with the rational straight line > AC set out, and the square on the whole > AG is greater than the square on the annex > DG by the square on a straight line incommensurable in length with > AG, [elem.10.def.3.4]",
             "refs": [
                 "elem.10.def.3.4"
             ],
             "emphs": []
         },
         {
-            "text": "Since then the square on  is greater than the square on  by the square on a straight line incommensurable in length with , therefore, if there be applied to  a parallelogram equal to the fourth part of the square on  and deficient by a square figure, it will divide it into incommensurable parts. [elem.10.18]",
+            "text": "Since then the square on > AG is greater than the square on > GD by the square on a straight line incommensurable in length with > AG, therefore, if there be applied to > AG a parallelogram equal to the fourth part of the square on > DG and deficient by a square figure, it will divide it into incommensurable parts. [elem.10.18]",
             "refs": [
                 "elem.10.18"
             ],
             "emphs": []
         },
         {
-            "text": "Let then  be bisected at , let there be applied to  a parallelogram equal to the square on  and deficient by a square figure, and let it be the rectangle , ; therefore  is incommensurable in length with .",
+            "text": "Let then > DG be bisected at > E, let there be applied to > AG a parallelogram equal to the square on > EG and deficient by a square figure, and let it be the rectangle > AF, > FG; therefore > AF is incommensurable in length with > FG.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Let , ,  be drawn through , ,  parallel to , .",
+            "text": "Let > EH, > FI, > GK be drawn through > E, > F, > G parallel to > AC, > BD.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then  is rational and commensurable in length with , therefore the whole  is rational. [elem.10.19]",
+            "text": "Since then > AG is rational and commensurable in length with > AC, therefore the whole > AK is rational. [elem.10.19]",
             "refs": [
                 "elem.10.19"
             ],
             "emphs": []
         },
         {
-            "text": "Again, since  is incommensurable in length with , and both are rational, therefore  is medial. [elem.10.21]",
+            "text": "Again, since > DG is incommensurable in length with > AC, and both are rational, therefore > DK is medial. [elem.10.21]",
             "refs": [
                 "elem.10.21"
             ],
             "emphs": []
         },
         {
-            "text": "Again, since  is incommensurable in length with , therefore  is also incommensurable with . [elem.6.1, elem.10.11]",
+            "text": "Again, since > AF is incommensurable in length with > FG, therefore > AI is also incommensurable with > FK. [elem.6.1, elem.10.11]",
             "refs": [
                 "elem.6.1",
                 "elem.10.11"
@@ -56,31 +56,31 @@
             "emphs": []
         },
         {
-            "text": "Now let the square  be constructed equal to , and let there be subtracted  equal to  and about the same angle, the angle .",
+            "text": "Now let the square > LM be constructed equal to > AI, and let there be subtracted > NO equal to > FK and about the same angle, the angle > LPM.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore the squares ,  are about the same diameter. [elem.6.26]",
+            "text": "Therefore the squares > LM, > NO are about the same diameter. [elem.6.26]",
             "refs": [
                 "elem.6.26"
             ],
             "emphs": []
         },
         {
-            "text": "Let  be their diameter, and let the figure be drawn.",
+            "text": "Let > PR be their diameter, and let the figure be drawn.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since then the rectangle ,  is equal to the square on , therefore, proportionally, as  is to , so is  to . [elem.6.17]",
+            "text": "Since then the rectangle > AF, > FG is equal to the square on > EG, therefore, proportionally, as > AF is to > EG, so is > EG to > FG. [elem.6.17]",
             "refs": [
                 "elem.6.17"
             ],
             "emphs": []
         },
         {
-            "text": "But, as  is to , so is  to , and, as  is to , so is  to ; [elem.6.1] therefore  is a mean proportional between , . [elem.5.11]",
+            "text": "But, as > AF is to > EG, so is > AI to > EK, and, as > EG is to > FG, so is > EK to > FK; [elem.6.1] therefore > EK is a mean proportional between > AI, > FK. [elem.5.11]",
             "refs": [
                 "elem.6.1",
                 "elem.5.11"
@@ -88,54 +88,54 @@
             "emphs": []
         },
         {
-            "text": "But  is also a mean proportional between the squares , , and  is equal to , and  to ; therefore  is also equal to .",
+            "text": "But > MN is also a mean proportional between the squares > LM, > NO, and > AI is equal to > LM, and > FK to > NO; therefore > EK is also equal to > MN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "But  is equal to , and  is equal to ; therefore the whole  is equal to the gnomon  and .",
+            "text": "But > DH is equal to > EK, and > LO is equal to > MN; therefore the whole > DK is equal to the gnomon > UVW and > NO.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Since, then, the whole  is equal to the squares , , and, in these,  is equal to the gnomon  and the square , therefore the remainder  is equal to , that is, to the square on ; therefore  is the \n of the area .",
+            "text": "Since, then, the whole > AK is equal to the squares > LM, > NO, and, in these, > DK is equal to the gnomon > UVW and the square > NO, therefore the remainder > AB is equal to > ST, that is, to the square on > LN; therefore > LN is the \n of the area > AB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "I say that  is the irrational straight line called minor.",
+            "text": "I say that > LN is the irrational straight line called minor.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, since  is rational and is equal to the squares on , , therefore the sum of the squares on ,  is rational.",
+            "text": "For, since > AK is rational and is equal to the squares on > LP, > PN, therefore the sum of the squares on > LP, > PN is rational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Again, since  is medial, and  is equal to twice the rectangle , , therefore twice the rectangle ,  is medial.",
+            "text": "Again, since > DK is medial, and > DK is equal to twice the rectangle > LP, > PN, therefore twice the rectangle > LP, > PN is medial.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And, since  was proved incommensurable with , therefore the square on  is also incommensurable with the square on .",
+            "text": "And, since > AI was proved incommensurable with > FK, therefore the square on > LP is also incommensurable with the square on > PN.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore ,  are straight lines incommensurable in square which make the sum of the squares on them rational, but twice the rectangle contained by them medial.",
+            "text": "Therefore > LP, > PN are straight lines incommensurable in square which make the sum of the squares on them rational, but twice the rectangle contained by them medial.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is the irrational straight line called minor; [elem.10.76] and it is the \n of the area .",
+            "text": "Therefore > LN is the irrational straight line called minor; [elem.10.76] and it is the \n of the area > AB.",
             "refs": [
                 "elem.10.76"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore the \n of the area  is minor. Q. E. D.",
+            "text": "Therefore the \n of the area > AB is minor. Q. E. D.",
             "refs": [],
             "emphs": []
         }

@@ -1,4 +1,4 @@
 Enunciation:
-An  is that which is not divisible into two equal parts, or that which differs by an unit from an even number.
+An > odd number is that which is not divisible into two equal parts, or that which differs by an unit from an even number.
 
 Proof:

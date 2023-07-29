@@ -1,33 +1,33 @@
 Enunciation:
-
+> Between two similar solid numbers there fall two mean proportional numbers; and the solid number has to the similar solid number the ratio triplicate of that which the corresponding side has to the corresponding side.
 
 Proof:
-Let ,  be two similar solid numbers, and let , ,  be the sides of , and , ,  of .
-Now, since similar solid numbers are those which have their sides proportional, [elem.7.def.21] therefore, as  is to , so is  to ,
-I say that between ,  there fall two mean proportional numbers, and  has to  the ratio triplicate of that which  has to ,  to , and also  to .
-For let  by multiplying  make , and let  by multiplying  make .
-Now, since ,  are in the same ratio with , , and  is the product of , , and  the product of , , ,  are similar plane numbers; [elem.7.def.21] therefore between ,  there is one mean proportional number. [elem.8.18]
-Let it be
-Therefore  is the product of , , as was proved in the theorem preceding this. [elem.8.18]
-Now, since  by multiplying  has made , and by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
-But, as  is to , so is  to .
-Therefore , ,  are continuously proportional in the ratio of  to .
-And since, as  is to , so is  to , alternately therefore, as  is to , so is  to . [elem.7.13]
-For the same reason also,
-Therefore , ,  are continuously proportional in the ratio of  to , in the ratio of  to , and also in the ratio of  to .
-Next, let ,  by multiplying  make ,  respectively.
-Now, since  is a solid number, and , ,  are its sides, therefore  by multiplying the product of ,  has made .
-But the product of ,  is ; therefore  by multiplying  has made .
-For the same reason also
-Now, since  by multiplying  has made , and further also by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
-But, as  is to , so is  to ,  to , and also  to ; therefore also, as  is to ,  to , and  to , so is  to .
-Again, since ,  by multiplying  have made ,  respectively, therefore, as  is to , so is  to . [elem.7.18]
-But, as  is to , so is  to  and  to ; therefore also, as  is to ,  to , and  to , so is  to  and  to .
-Again, since  by multiplying  has made , and further also by multiplying  has made , therefore, as  is to , so is  to . [elem.7.17]
-But, as  is to , so is  to ,  to , and  to .
-Therefore also, as  is to ,  to , and  to , so not only is  to , but also  to  and  to .
-Therefore , , ,  are continuously proportional in the aforesaid ratios of the sides.
-I say that  also has to  the ratio triplicate of that which the corresponding side has to the corresponding side, that is, of the ratio which the number  has to , or  to , and also  to .
-For, since , , ,  are four numbers in continued proportion, therefore  has to  the ratio triplicate of that which  has to . [elem.5.def.10]
-But, as  is to , so it was proved that  is to ,  to , and also  to .
-Therefore  also has to  the ratio triplicate of that which the corresponding side has to the corresponding side, that is, of the ratio which the number  has to ,  to , and also  to . Q. E. D.
+Let > A, > B be two similar solid numbers, and let > C, > D, > E be the sides of > A, and > F, > G, > H of > B.
+Now, since similar solid numbers are those which have their sides proportional, [elem.7.def.21] therefore, as > C is to > D, so is > F to > G, > and, as > D is to > E, so is > G to > H.
+I say that between > A, > B there fall two mean proportional numbers, and > A has to > B the ratio triplicate of that which > C has to > F, > D to > G, and also > E to > H.
+For let > C by multiplying > D make > K, and let > F by multiplying > G make > L.
+Now, since > C, > D are in the same ratio with > F, > G, and > K is the product of > C, > D, and > L the product of > F, > G, > K, > L are similar plane numbers; [elem.7.def.21] therefore between > K, > L there is one mean proportional number. [elem.8.18]
+Let it be > M
+Therefore > M is the product of > D, > F, as was proved in the theorem preceding this. [elem.8.18]
+Now, since > D by multiplying > C has made > K, and by multiplying > F has made > M, therefore, as > C is to > F, so is > K to > M. [elem.7.17]
+But, as > K is to > M, so is > M to > L.
+Therefore > K, > M, > L are continuously proportional in the ratio of > C to > F.
+And since, as > C is to > D, so is > F to > G, alternately therefore, as > C is to > F, so is > D to > G. [elem.7.13]
+For the same reason also, > as > D is to > G, so is > E to > H.
+Therefore > K, > M, > L are continuously proportional in the ratio of > C to > F, in the ratio of > D to > G, and also in the ratio of > E to > H.
+Next, let > E, > H by multiplying > M make > N, > O respectively.
+Now, since > A is a solid number, and > C, > D, > E are its sides, therefore > E by multiplying the product of > C, > D has made > A.
+But the product of > C, > D is > K; therefore > E by multiplying > K has made > A.
+For the same reason also > > H by multiplying > L has made > B.
+Now, since > E by multiplying > K has made > A, and further also by multiplying > M has made > N, therefore, as > K is to > M, so is > A to > N. [elem.7.17]
+But, as > K is to > M, so is > C to > F, > D to > G, and also > E to > H; therefore also, as > C is to > F, > D to > G, and > E to > H, so is > A to > N.
+Again, since > E, > H by multiplying > M have made > N, > O respectively, therefore, as > E is to > H, so is > N to > O. [elem.7.18]
+But, as > E is to > H, so is > C to > F and > D to > G; therefore also, as > C is to > F, > D to > G, and > E to > H, so is > A to > N and > N to > O.
+Again, since > H by multiplying > M has made > O, and further also by multiplying > L has made > B, therefore, as > M is to > L, so is > O to > B. [elem.7.17]
+But, as > M is to > L, so is > C to > F, > D to > G, and > E to > H.
+Therefore also, as > C is to > F, > D to > G, and > E to > H, so not only is > O to > B, but also > A to > N and > N to > O.
+Therefore > A, > N, > O, > B are continuously proportional in the aforesaid ratios of the sides.
+I say that > A also has to > B the ratio triplicate of that which the corresponding side has to the corresponding side, that is, of the ratio which the number > C has to > F, or > D to > G, and also > E to > H.
+For, since > A, > N, > O, > B are four numbers in continued proportion, therefore > A has to > B the ratio triplicate of that which > A has to > N. [elem.5.def.10]
+But, as > A is to > N, so it was proved that > C is to > F, > D to > G, and also > E to > H.
+Therefore > A also has to > B the ratio triplicate of that which the corresponding side has to the corresponding side, that is, of the ratio which the number > C has to > F, > D to > G, and also > E to > H. Q. E. D.

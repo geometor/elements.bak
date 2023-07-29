@@ -5,7 +5,7 @@
     "enunciation": "`If there be three magnitudes`, `and others equal to them in multitude`, `which taken two and two are in the same ratio`, `and if`\n       \n       `the first be greater than the third`, `the fourth will also be greater than the sixth`; `if equal`, `equal`; `and`, `if less`, `less`.",
     "proof": [
         {
-            "text": "Let there be three magnitudes `A`, `B`, `C`, and others `D`, `E`, `F` equal to them in multitude, which taken two and two are in the same ratio, so that,  and as `B` is to `C`, so is `E` to `F`; and let `A` be greater than `C`; I say that `D` will also be greater than `F`; if `A` is equal to `C`, equal; and, if less, less.",
+            "text": "Let there be three magnitudes `A`, `B`, `C`, and others `D`, `E`, `F` equal to them in multitude, which taken two and two are in the same ratio, so that, > as `A` is to `B`, so is `D` to `E`, and as `B` is to `C`, so is `E` to `F`; and let `A` be greater than `C`; I say that `D` will also be greater than `F`; if `A` is equal to `C`, equal; and, if less, less.",
             "refs": [],
             "emphs": [
                 "A",
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "text": "But, of magnitudes which have a ratio to the same, that which has a greater ratio is greater; [elem.5.10]",
+            "text": "But, of magnitudes which have a ratio to the same, that which has a greater ratio is greater; [elem.5.10] > therefore `D` is greater than `F`.",
             "refs": [
                 "elem.5.10"
             ],

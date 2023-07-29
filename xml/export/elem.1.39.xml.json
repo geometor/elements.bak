@@ -46,7 +46,7 @@
             ]
         },
         {
-            "text": "But `ABC` is equal to `DBC`;",
+            "text": "But `ABC` is equal to `DBC`; > therefore `DBC` is also equal to `EBC`, [elem.1.c.n.1] the greater to the less: which is impossible.",
             "refs": [],
             "emphs": [
                 "ABC",
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that neither is any other straight line except `AD`;",
+            "text": "Similarly we can prove that neither is any other straight line except `AD`; > therefore `AD` is parallel to `BC`.",
             "refs": [],
             "emphs": [
                 "AD"

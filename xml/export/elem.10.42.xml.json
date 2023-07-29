@@ -5,24 +5,24 @@
     "enunciation": "A binomial straight line is divided into its terms at one point only.",
     "proof": [
         {
-            "text": "Let  be a binomial straight line divided into its terms at ; therefore ,  are rational straight lines commensurable in square only. [elem.10.36\n]",
+            "text": "Let > AB be a binomial straight line divided into its terms at > C; therefore > AC, > CB are rational straight lines commensurable in square only. [elem.10.36\n]",
             "refs": [
                 "elem.10.36"
             ],
             "emphs": []
         },
         {
-            "text": "I say that  is not divided at another point into two rational straight lines commensurable in square only.",
+            "text": "I say that > AB is not divided at another point into two rational straight lines commensurable in square only.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For, if possible, let it be divided at  also, so that ,  are also rational straight lines commensurable in square only.",
+            "text": "For, if possible, let it be divided at > D also, so that > AD, > DB are also rational straight lines commensurable in square only.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "It is then manifest that  is not the same with .",
+            "text": "It is then manifest that > AC is not the same with > DB.",
             "refs": [],
             "emphs": []
         },
@@ -32,29 +32,29 @@
             "emphs": []
         },
         {
-            "text": "Then  will also be the same as , and, as  is to , so will  be to ; thus  will be divided at  also in the same way as by the division at : which is contrary to the hypothesis.",
+            "text": "Then > AD will also be the same as > CB, and, as > AC is to > CB, so will > BD be to > DA; thus > AB will be divided at > D also in the same way as by the division at > C: which is contrary to the hypothesis.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is not the same with .",
+            "text": "Therefore > AC is not the same with > DB.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "For this reason also the points ,  are not equidistant from the point of bisection.",
+            "text": "For this reason also the points > C, > D are not equidistant from the point of bisection.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore that by which the squares on ,  differ from the squares on ,  is also that by which twice the rectangle ,  differs from twice the rectangle , , because both the squares on ,  together with twice the rectangle , , and the squares on ,  together with twice the rectangle , , are equal to the square on . [elem.2.4\n]",
+            "text": "Therefore that by which the squares on > AC, > CB differ from the squares on > AD, > DB is also that by which twice the rectangle > AD, > DB differs from twice the rectangle > AC, > CB, because both the squares on > AC, > CB together with twice the rectangle > AC, > CB, and the squares on > AD, > DB together with twice the rectangle > AD, > DB, are equal to the square on > AB. [elem.2.4\n]",
             "refs": [
                 "elem.2.4"
             ],
             "emphs": []
         },
         {
-            "text": "But the squares on ,  differ from the squares on ,  by a rational area, for both are rational; therefore twice the rectangle ,  also differs from twice the rectangle ,  by a rational area, though they are medial [elem.10.21\n]: which is absurd, for a medial area does not exceed a medial by a rational area. [elem.10.26\n]",
+            "text": "But the squares on > AC, > CB differ from the squares on > AD, > DB by a rational area, for both are rational; therefore twice the rectangle > AD, > DB also differs from twice the rectangle > AC, > CB by a rational area, though they are medial [elem.10.21\n]: which is absurd, for a medial area does not exceed a medial by a rational area. [elem.10.26\n]",
             "refs": [
                 "elem.10.21",
                 "elem.10.26"

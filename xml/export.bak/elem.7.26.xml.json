@@ -1,0 +1,51 @@
+{
+    "id": "elem.7.26",
+    "n": 26,
+    "type": "proposition",
+    "proof": [
+        {
+            "text": "For let the two numbers ,  be prime to the two numbers , ; both to each, and let  by multiplying  make , and let  by multiplying  make ; I say that ,  are prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For, since each of the numbers ,  is prime to , therefore the product of ,  will also be prime to . [elem.7.24]",
+            "refs": [
+                "elem.7.24"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the product of ,  is ; therefore ,  are prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "For the same reason ,  are also prime to one another.",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore each of the numbers ,  is prime to .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore the product of ,  will also be prime to . [elem.7.24]",
+            "refs": [
+                "elem.7.24"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the product of ,  is .",
+            "refs": [],
+            "emphs": []
+        },
+        {
+            "text": "Therefore ,  are prime to one another. Q. E. D.",
+            "refs": [],
+            "emphs": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+Enunciation:
+
+
+Proof:
+For, the less of two unequal numbers ,  being continually subtracted from the greater, let the number which is left never measure the one before it until an unit is left; I say that ,  are prime to one another, that is, that an unit alone measures , .
+For, if ,  are not prime to one another, some number will measure them.
+Let a number measure them, and let it be ; let , measuring , leave  less than itself, let , measuring , leave  less than itself, and let , measuring , leave an unit .
+Since, then,  measures , and  measures , therefore  also measures .
+But it also measures the whole ; therefore it will also measure the remainder .
+But  measures ; therefore  also measures .
+But it also measures the whole  therefore it will also measure the remainder .
+But  measures ; therefore  also measures .
+But it also measures the whole ; therefore it will also measure the remainder, the unit , though it is a number: which is impossible.
+Therefore no number will measure the numbers , ; therefore ,  are prime to one another. [elem.7.def.12] Q. E. D.

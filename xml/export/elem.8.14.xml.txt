@@ -1,13 +1,13 @@
 Enunciation:
-
+> If a square measure a square, the side will also measure the side; and, if the side measure the side, the square will also measure the square.
 
 Proof:
-Let ,  be square numbers, let ,  be their sides, and let  measure ; I say that  also measures .
-For let  by multiplying  make ; therefore , ,  are continuously proportional in the ratio of  to . [elem.8.11]
-And, since , ,  are continuously proportional, and  measures , therefore  also measures . [elem.8.7]
-And, as  is to , so is  to ; therefore also  measures . [elem.7.def.20]
-Again, let  measure ; I say that  also measures .
-For, with the same construction, we can in a similar manner prove that , ,  are continuously proportional in the ratio of  to .
-And since, as  is to , so is  to , and  measures , therefore  also measures . [elem.7.def.20]
-And , ,  are continuously proportional; therefore  also measures .
+Let > A, > B be square numbers, let > C, > D be their sides, and let > A measure > B; I say that > C also measures > D.
+For let > C by multiplying > D make > E; therefore > A, > E, > B are continuously proportional in the ratio of > C to > D. [elem.8.11]
+And, since > A, > E, > B are continuously proportional, and > A measures > B, therefore > A also measures > E. [elem.8.7]
+And, as > A is to > E, so is > C to > D; therefore also > C measures > D. [elem.7.def.20]
+Again, let > C measure > D; I say that > A also measures > B.
+For, with the same construction, we can in a similar manner prove that > A, > E, > B are continuously proportional in the ratio of > C to > D.
+And since, as > C is to > D, so is > A to > E, and > C measures > D, therefore > A also measures > E. [elem.7.def.20]
+And > A, > E, > B are continuously proportional; therefore > A also measures > B.
 Therefore etc. Q. E. D.

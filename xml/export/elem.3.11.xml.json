@@ -49,7 +49,7 @@
             ]
         },
         {
-            "text": "But `AG` is equal to `GD`;",
+            "text": "But `AG` is equal to `GD`; > therefore `GD` is also greater than `GH`, the less than the greater: which is impossible.",
             "refs": [],
             "emphs": [
                 "AG",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "text": "Therefore the straight line joined from `F` to `G` will not fall outside;",
+            "text": "Therefore the straight line joined from `F` to `G` will not fall outside; > therefore it will fall at `A` on the point of contact.",
             "refs": [],
             "emphs": [
                 "F",

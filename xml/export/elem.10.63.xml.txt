@@ -1,16 +1,16 @@
 Enunciation:
-.
+> The square on the major straight line applied to a rational straight line produces as breadth the fourth binomial.
 
 Proof:
-Let  be a major straight line divided at , so that  is greater than ; let  be a rational straight line, and to  let there be applied the parallelogram  equal to the square on  and producing  as its breadth; I say that  is a fourth binomial straight line.
+Let > AB be a major straight line divided at > C, so that > AC is greater than > CB; let > DE be a rational straight line, and to > DE let there be applied the parallelogram > DF equal to the square on > AB and producing > DG as its breadth; I say that > DG is a fourth binomial straight line.
 Let the same construction be made as before shown.
-Then, since  is a major straight line divided at , ,  are straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial. [elem.10.39]
-Since then the sum of the squares on ,  is rational, therefore  is rational; therefore  is also rational and commensurable in length with . [elem.10.20]
-Again, since twice the rectangle , , that is, , is medial, and it is applied to the rational straight line , therefore  is also rational and incommensurable in length with ; [elem.10.22] therefore  is also incommensurable in length with . [elem.10.13]
-Therefore ,  are rational straight lines commensurable in square only; therefore  is binomial. [elem.10.36]
+Then, since > AB is a major straight line divided at > C, > AC, > CB are straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial. [elem.10.39]
+Since then the sum of the squares on > AC, > CB is rational, therefore > DL is rational; therefore > DM is also rational and commensurable in length with > DE. [elem.10.20]
+Again, since twice the rectangle > AC, > CB, that is, > MF, is medial, and it is applied to the rational straight line > ML, therefore > MG is also rational and incommensurable in length with > DE; [elem.10.22] therefore > DM is also incommensurable in length with > MG. [elem.10.13]
+Therefore > DM, > MG are rational straight lines commensurable in square only; therefore > DG is binomial. [elem.10.36]
 It is to be proved that it is also a fourth binomial straight line.
-In manner similar to the foregoing we can prove that  is greater than , and that the rectangle ,  is equal to the square on .
-Since then the square on  is incommensurable with the square on , therefore  is also incommensurable with , so that  is also incommensurable with . [elem.6.1, elem.10.11]
-But, if there be two unequal straight lines, and to the greater there be applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divide it into incommensurable parts, then the square on the greater will be greater than the square on the less by the square on a straight line incommensurable in length with the greater; [elem.10.18] therefore the square on  is greater than the square on  by the square on a straight line incommensurable with .
-And ,  are rational straight lines commensurable in square only, and  is commensurable with the rational straight line  set out.
-Therefore  is a fourth binomial straight line. [elem.10.def.2.4] Q. E. D.
+In manner similar to the foregoing we can prove that > DM is greater than > MG, and that the rectangle > DK, > KM is equal to the square on > MN.
+Since then the square on > AC is incommensurable with the square on > CB, therefore > DH is also incommensurable with > KL, so that > DK is also incommensurable with > KM. [elem.6.1, elem.10.11]
+But, if there be two unequal straight lines, and to the greater there be applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divide it into incommensurable parts, then the square on the greater will be greater than the square on the less by the square on a straight line incommensurable in length with the greater; [elem.10.18] therefore the square on > DM is greater than the square on > MG by the square on a straight line incommensurable with > DM.
+And > DM, > MG are rational straight lines commensurable in square only, and > DM is commensurable with the rational straight line > DE set out.
+Therefore > DG is a fourth binomial straight line. [elem.10.def.2.4] Q. E. D.

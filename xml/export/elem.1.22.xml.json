@@ -5,7 +5,7 @@
     "enunciation": "Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary that two of the straight lines taken together in any manner should be greater than the remaining one. [elem.1.20]",
     "proof": [
         {
-            "text": "Let the three given straight lines be `A`, `B`, `C`, and of these let two taken together in any manner be greater than the remaining one, namely `A`, `B` greater than `C`,  and `B`, `C` greater than `A`; thus it is required to construct a triangle out of straight lines equal to `A`, `B`, `C`.",
+            "text": "Let the three given straight lines be `A`, `B`, `C`, and of these let two taken together in any manner be greater than the remaining one, namely `A`, `B` greater than `C`, > `A`, `C` greater than `B`, and `B`, `C` greater than `A`; thus it is required to construct a triangle out of straight lines equal to `A`, `B`, `C`.",
             "refs": [],
             "emphs": [
                 "A",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "text": "For, since the point `F` is the centre of the circle `DKL`,",
+            "text": "For, since the point `F` is the centre of the circle `DKL`, > `FD` is equal to `FK`.",
             "refs": [],
             "emphs": [
                 "F",
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "text": "But `FD` is equal to `A`;",
+            "text": "But `FD` is equal to `A`; > therefore `KF` is also equal to `A`.",
             "refs": [],
             "emphs": [
                 "FD",
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "text": "Again, since the point `G` is the centre of the circle `LKH`,",
+            "text": "Again, since the point `G` is the centre of the circle `LKH`, > `GH` is equal to `GK`.",
             "refs": [],
             "emphs": [
                 "G",
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "text": "But `GH` is equal to `C`;  therefore the three straight lines `KF`, `FG`, `GK` are equal to the three straight lines `A`, `B`, `C`.",
+            "text": "But `GH` is equal to `C`; > therefore `KG` is also equal to `C`. And `FG` is also equal to `B`; therefore the three straight lines `KF`, `FG`, `GK` are equal to the three straight lines `A`, `B`, `C`.",
             "refs": [],
             "emphs": [
                 "GH",

@@ -45,7 +45,7 @@
             ]
         },
         {
-            "text": "For, since the straight line `AC` has been bisected at `E`, and `FA` is added to it,",
+            "text": "For, since the straight line `AC` has been bisected at `E`, and `FA` is added to it, > the rectangle contained by `CF`, `FA` together with the square on `AE` is equal to the square on `EF`. [elem.2.6]",
             "refs": [],
             "emphs": [
                 "AC",
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "text": "But `EF` is equal to `EB`;",
+            "text": "But `EF` is equal to `EB`; > therefore the rectangle `CF`, `FA` together with the square on `AE` is equal to the square on `EB`.",
             "refs": [],
             "emphs": [
                 "EF",
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "text": "But the squares on `BA`, `AE` are equal to the square on `EB`, for the angle at `A` is right; [elem.1.47]",
+            "text": "But the squares on `BA`, `AE` are equal to the square on `EB`, for the angle at `A` is right; [elem.1.47] > therefore the rectangle `CF`, `FA` together with the square on `AE` is equal to the squares on `BA`, `AE`.",
             "refs": [
                 "elem.1.47"
             ],
@@ -74,14 +74,14 @@
             ]
         },
         {
-            "text": "Let the square on `AE` be subtracted from each;",
+            "text": "Let the square on `AE` be subtracted from each; > therefore the rectangle `CF`, `FA` which remains is equal to the square on `AB`.",
             "refs": [],
             "emphs": [
                 "AE"
             ]
         },
         {
-            "text": "Now the rectangle `CF`, `FA` is `FK`, for `AF` is equal to `FG`; and the square on `AB` is `AD`;",
+            "text": "Now the rectangle `CF`, `FA` is `FK`, for `AF` is equal to `FG`; and the square on `AB` is `AD`; > therefore `FK` is equal to `AD`.",
             "refs": [],
             "emphs": [
                 "CF",
@@ -94,14 +94,14 @@
             ]
         },
         {
-            "text": "Let `AK` be subtracted from each;",
+            "text": "Let `AK` be subtracted from each; > therefore `FH` which remains is equal to `HD`.",
             "refs": [],
             "emphs": [
                 "AK"
             ]
         },
         {
-            "text": "And `HD` is the rectangle `AB`, `BH`, for `AB` is equal to `BD`; and `FH` is the square on `AH`;",
+            "text": "And `HD` is the rectangle `AB`, `BH`, for `AB` is equal to `BD`; and `FH` is the square on `AH`; > therefore the rectangle contained by `AB`, `BH` is equal to the square on `HA`. therefore the given straight line `AB` has been cut at `H` so as to make the rectangle contained by `AB`, `BH` equal to the square on `HA`. Q. E. F.",
             "refs": [],
             "emphs": [
                 "HD",

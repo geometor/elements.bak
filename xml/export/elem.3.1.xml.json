@@ -39,7 +39,7 @@
             ]
         },
         {
-            "text": "Then, since `AD` is equal to `DB`, and `DG` is common,  and the base `GA` is equal to the base `GB`, for they are radii;",
+            "text": "Then, since `AD` is equal to `DB`, and `DG` is common, > the two sides `AD`, `DG` are equal to the two sides `BD`, `DG` respectively; and the base `GA` is equal to the base `GB`, for they are radii; > therefore the angle `ADG` is equal to the angle `GDB`. [elem.1.8]",
             "refs": [],
             "emphs": [
                 "AD",
@@ -50,14 +50,14 @@
             ]
         },
         {
-            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10]",
+            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10] > therefore the angle `GDB` is right.",
             "refs": [
                 "elem.1.def.10"
             ],
             "emphs": []
         },
         {
-            "text": "But the angle `FDB` is also right; therefore the angle `FDB` is equal to the angle `GDB`, the greater to the less: which is impossible.",
+            "text": "But the angle `FDB` is also right; therefore the angle `FDB` is equal to the angle `GDB`, the greater to the less: which is impossible. > Therefore `G` is not the centre of the circle `ABC`.",
             "refs": [],
             "emphs": [
                 "FDB",
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that neither is any other point except `F`.",
+            "text": "Similarly we can prove that neither is any other point except `F`. > Therefore the point `F` is the centre of the circle `ABC`.",
             "refs": [],
             "emphs": [
                 "F"

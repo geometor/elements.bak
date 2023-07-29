@@ -1,0 +1,13 @@
+Enunciation:
+`In a circle the angle at the centre is double of the angle at the circumference`, `when the angles have the same circumference as base`.
+
+Proof:
+Let `ABC` be a circle, let the angle `BEC` be an angle at its centre, and the angle `BAC` an angle at the circumference, and let them have the same circumference `BC` as base; I say that the angle `BEC` is double of the angle `BAC`.
+For let `AE` be joined and drawn through to `F`.
+Then, since `EA` is equal to `EB`,  therefore the angles `EAB`, `EBA` are double of the angle `EAB`.
+But the angle `BEF` is equal to the angles `EAB`, `EBA`; [elem.1.32] therefore the angle `BEF` is also double of the angle `EAB`.
+For the same reason
+Therefore the whole angle `BEC` is double of the whole angle `BAC`.
+Again let another straight line be inflected, and let there be another angle `BDC`; let `DE` be joined and produced to `G`.
+Similarly then we can prove that the angle `GEC` is double of the angle `EDC`,
+Therefore etc. Q. E. D.

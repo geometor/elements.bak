@@ -1,0 +1,76 @@
+{
+    "id": "elem.3.1",
+    "n": 1,
+    "type": "proposition",
+    "enunciation": "`To find the centre of a given circle`.",
+    "proof": [
+        {
+            "text": "Let `ABC` be the given circle; thus it is required to find the centre of the circle `ABC`.",
+            "refs": [],
+            "emphs": [
+                "ABC",
+                "ABC"
+            ]
+        },
+        {
+            "text": "Let a straight line `AB` be drawn through it at random, and let it be bisected at the point `D`; from `D` let `DC` be drawn at right angles to `AB` and let it be drawn through to `E`; let `CE` be bisected at `F`; I say that `F` is the centre of the circle `ABC`.",
+            "refs": [],
+            "emphs": [
+                "AB",
+                "D",
+                "D",
+                "DC",
+                "AB",
+                "E",
+                "CE",
+                "F",
+                "F",
+                "ABC"
+            ]
+        },
+        {
+            "text": "For suppose it is not, but, if possible, let `G` be the centre, and let `GA`, `GD`, `GB` be joined.",
+            "refs": [],
+            "emphs": [
+                "G",
+                "GA",
+                "GD",
+                "GB"
+            ]
+        },
+        {
+            "text": "Then, since `AD` is equal to `DB`, and `DG` is common,  and the base `GA` is equal to the base `GB`, for they are radii;",
+            "refs": [],
+            "emphs": [
+                "AD",
+                "DB",
+                "DG",
+                "GA",
+                "GB"
+            ]
+        },
+        {
+            "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10]",
+            "refs": [
+                "elem.1.def.10"
+            ],
+            "emphs": []
+        },
+        {
+            "text": "But the angle `FDB` is also right; therefore the angle `FDB` is equal to the angle `GDB`, the greater to the less: which is impossible.",
+            "refs": [],
+            "emphs": [
+                "FDB",
+                "FDB",
+                "GDB"
+            ]
+        },
+        {
+            "text": "Similarly we can prove that neither is any other point except `F`.",
+            "refs": [],
+            "emphs": [
+                "F"
+            ]
+        }
+    ]
+}

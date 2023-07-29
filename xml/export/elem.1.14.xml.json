@@ -35,7 +35,7 @@
             ]
         },
         {
-            "text": "Then, since the straight line `AB` stands on the straight line `CBE`, \n         But the angles `ABC`, `ABD` are also equal to two right angles;",
+            "text": "Then, since the straight line `AB` stands on the straight line `CBE`, \n        > the angles `ABC`, `ABE` are equal to two right angles. [elem.1.13] But the angles `ABC`, `ABD` are also equal to two right angles; > therefore the angles `CBA`, `ABE` are equal to the angles `CBA`, `ABD`. [elem.1.post.4 and elem.1.c.n.1]",
             "refs": [],
             "emphs": [
                 "AB",
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "text": "Let the angle `CBA` be subtracted from each; therefore the remaining angle `ABE` is equal to the remaining angle `ABD`, [elem.1.c.n.3]",
+            "text": "Let the angle `CBA` be subtracted from each; therefore the remaining angle `ABE` is equal to the remaining angle `ABD`, [elem.1.c.n.3] > the less to the greater: which is impossible. Therefore `BE` is not in a straight line with `CB`.",
             "refs": [
                 "elem.1.c.n.3"
             ],
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "text": "Similarly we can prove that neither is any other straight line except `BD`.",
+            "text": "Similarly we can prove that neither is any other straight line except `BD`. > Therefore `CB` is in a straight line with `BD`.",
             "refs": [],
             "emphs": [
                 "BD"

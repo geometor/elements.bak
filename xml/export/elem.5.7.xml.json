@@ -32,7 +32,7 @@
             ]
         },
         {
-            "text": "Then, since `D` is the same multiple of `A` that `E` is of `B`, while `A` is equal to `B`,",
+            "text": "Then, since `D` is the same multiple of `A` that `E` is of `B`, while `A` is equal to `B`, > therefore `D` is equal to `E`.",
             "refs": [],
             "emphs": [
                 "D",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "text": "And `D`, `E` are equimultiples of `A`, `B`, while `F` is another, chance, multiple of `C`;",
+            "text": "And `D`, `E` are equimultiples of `A`, `B`, while `F` is another, chance, multiple of `C`; > therefore, as `A` is to `C`, so is `B` to `C`. [elem.5.def.5]",
             "refs": [],
             "emphs": [
                 "D",
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "text": "And `F` is a multiple of `C`, while `D`, `E` are other, chance, equimultiples of `A`, `B`;",
+            "text": "And `F` is a multiple of `C`, while `D`, `E` are other, chance, equimultiples of `A`, `B`; > therefore, as `C` is to `A`, so is `C` to `B`. [elem.5.def.5]",
             "refs": [],
             "emphs": [
                 "F",

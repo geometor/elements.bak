@@ -1,0 +1,17 @@
+Enunciation:
+
+
+Proof:
+Let  be a composite number; I say that  is measured by some prime number.
+For, since  is composite, some number will measure it.
+Let a number measure it, and let it be .
+Now, if  is prime, what was enjoined will have been done.
+But if it is composite, some number will measure it.
+Let a number measure it, and let it be .
+Then, since  measures , and  measures , therefore  also measures .
+And, if  is prime, what was enjoined will have been done.
+But if it is composite, some number will measure it.
+Thus, if the investigation be continued in this way, some prime number will be found which will measure the number before it, which will also measure .
+For, if it is not found, an infinite series of numbers will measure the number , each of which is less than the other: which is impossible in numbers.
+Therefore some prime number will be found which will measure the one before it, which will also measure .
+Therefore any composite number is measured by some prime number.

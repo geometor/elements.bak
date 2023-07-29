@@ -1,4 +1,4 @@
 Enunciation:
-Those magnitudes are said to be  which are measured by the same measure, and those  which cannot have any common measure.
+Those magnitudes are said to be > commensurable which are measured by the same measure, and those > incommensurable which cannot have any common measure.
 
 Proof:

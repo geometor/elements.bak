@@ -2,10 +2,10 @@
     "id": "elem.10.64",
     "n": 64,
     "type": "propositions 48\u201484",
-    "enunciation": ".",
+    "enunciation": "> The square on the side of a rational plus a medial area applied to a rational straight line produces as breadth the fifth binomial.",
     "proof": [
         {
-            "text": "Let  be the side of a rational plus a medial area, divided into its straight lines at , so that  is the greater; let a rational straight line  be set out, and let there be applied to  the parallelogram  equal to the square on , producing  as its breadth; I say that  is a fifth binomial straight line.",
+            "text": "Let > AB be the side of a rational plus a medial area, divided into its straight lines at > C, so that > AC is the greater; let a rational straight line > DE be set out, and let there be applied to > DE the parallelogram > DF equal to the square on > AB, producing > DG as its breadth; I say that > DG is a fifth binomial straight line.",
             "refs": [],
             "emphs": []
         },
@@ -15,28 +15,28 @@
             "emphs": []
         },
         {
-            "text": "Since then  is the side of a rational plus a medial area, divided at , therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational. [elem.10.40]",
+            "text": "Since then > AB is the side of a rational plus a medial area, divided at > C, therefore > AC, > CB are straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational. [elem.10.40]",
             "refs": [
                 "elem.10.40"
             ],
             "emphs": []
         },
         {
-            "text": "Since then the sum of the squares on ,  is medial, therefore  is medial, so that  is rational and incommensurable in length with . [elem.10.22]",
+            "text": "Since then the sum of the squares on > AC, > CB is medial, therefore > DL is medial, so that > DM is rational and incommensurable in length with > DE. [elem.10.22]",
             "refs": [
                 "elem.10.22"
             ],
             "emphs": []
         },
         {
-            "text": "Again, since twice the rectangle , , that is , is rational, therefore  is rational and commensurable with . [elem.10.20]",
+            "text": "Again, since twice the rectangle > AC, > CB, that is > MF, is rational, therefore > MG is rational and commensurable with > DE. [elem.10.20]",
             "refs": [
                 "elem.10.20"
             ],
             "emphs": []
         },
         {
-            "text": "Therefore  is incommensurable with ; [elem.10.13] therefore ,  are rational straight lines commensurable in square only; therefore  is binomial. [elem.10.36]",
+            "text": "Therefore > DM is incommensurable with > MG; [elem.10.13] therefore > DM, > MG are rational straight lines commensurable in square only; therefore > DG is binomial. [elem.10.36]",
             "refs": [
                 "elem.10.13",
                 "elem.10.36"
@@ -49,19 +49,19 @@
             "emphs": []
         },
         {
-            "text": "For it can be proved similarly that the rectangle ,  is equal to the square on , and that  is incommensurable in length with ; therefore the square on  is greater than the square on  by the square on a straight line incommensurable with . [elem.10.18]",
+            "text": "For it can be proved similarly that the rectangle > DK, > KM is equal to the square on > MN, and that > DK is incommensurable in length with > KM; therefore the square on > DM is greater than the square on > MG by the square on a straight line incommensurable with > DM. [elem.10.18]",
             "refs": [
                 "elem.10.18"
             ],
             "emphs": []
         },
         {
-            "text": "And ,  are commensurable in square only, and the less, , is commensurable in length with .",
+            "text": "And > DM, > MG are commensurable in square only, and the less, > MG, is commensurable in length with > DE.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "Therefore  is a fifth binomial. Q. E. D.",
+            "text": "Therefore > DG is a fifth binomial. Q. E. D.",
             "refs": [],
             "emphs": []
         }

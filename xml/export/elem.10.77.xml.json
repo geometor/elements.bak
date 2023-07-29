@@ -2,29 +2,29 @@
     "id": "elem.10.77",
     "n": 77,
     "type": "propositions 48\u201484",
-    "enunciation": ".",
+    "enunciation": "> If from a straight line there be subtracted a straight line which is incommensurable in square with the whole, and which with the whole makes the sum of the squares on them medial, but twice the rectangle contained by them rational, the remainder is irrational: and let it be called\n       > that which produces with a rational area a medial whole.",
     "proof": [
         {
-            "text": "For from the straight line  let there be subtracted the straight line  which is incommensurable in square with  and fulfils the given conditions; [elem.10.34] I say that the remainder  is the irrational straight line aforesaid.",
+            "text": "For from the straight line > AB let there be subtracted the straight line > BC which is incommensurable in square with > AB and fulfils the given conditions; [elem.10.34] I say that the remainder > AC is the irrational straight line aforesaid.",
             "refs": [
                 "elem.10.34"
             ],
             "emphs": []
         },
         {
-            "text": "For, since the sum of the squares on ,  is medial, while twice the rectangle ,  is rational, therefore the squares on ,  are incommensurable with twice the rectangle , ; therefore the remainder also, the square on , is incommensurable with twice the rectangle , . [elem.2.7 elem.10.16, X. 16]",
+            "text": "For, since the sum of the squares on > AB, > BC is medial, while twice the rectangle > AB, > BC is rational, therefore the squares on > AB, > BC are incommensurable with twice the rectangle > AB, > BC; therefore the remainder also, the square on > AC, is incommensurable with twice the rectangle > AB, > BC. [elem.2.7 elem.10.16, X. 16]",
             "refs": [
                 "elem.2.7 elem.10.16"
             ],
             "emphs": []
         },
         {
-            "text": "And twice the rectangle ,  is rational; therefore the square on  is irrational; therefore  is irrational.",
+            "text": "And twice the rectangle > AB, > BC is rational; therefore the square on > AC is irrational; therefore > AC is irrational.",
             "refs": [],
             "emphs": []
         },
         {
-            "text": "And let it be called . Q. E. D.",
+            "text": "And let it be called > that which produces with a rational area a medial whole. Q. E. D.",
             "refs": [],
             "emphs": []
         }
