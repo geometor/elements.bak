@@ -1,0 +1,100 @@
+{
+    "elem.1.37": {
+        "id": "elem.1.37",
+        "n": 37,
+        "type": "proposition",
+        "enunciation": "Triangles which are on the same base and in the same parallels are equal to one another.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DBC` be triangles on the same base `BC` and in the same parallels `AD`, `BC`; I say that the triangle `ABC` is equal to the triangle `DBC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DBC",
+                    "BC",
+                    "AD",
+                    "BC",
+                    "ABC",
+                    "DBC"
+                ]
+            },
+            {
+                "text": "Let `AD` be produced in both directions to `E`, `F`; through `B` let `BE` be drawn parallel to `CA`, [elem.1.31] and through `C` let `CF` be drawn parallel to `BD`. [elem.1.31]",
+                "refs": [
+                    "elem.1.31",
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "AD",
+                    "E",
+                    "F",
+                    "B",
+                    "BE",
+                    "CA",
+                    "C",
+                    "CF",
+                    "BD"
+                ]
+            },
+            {
+                "text": "Then each of the figures `EBCA`, `DBCF` is a parallelogram; and they are equal,",
+                "refs": [],
+                "emphs": [
+                    "EBCA",
+                    "DBCF"
+                ]
+            },
+            {
+                "text": "for they are on the same base `BC` and in the same parallels `BC`, `EF`. [elem.1.35]",
+                "refs": [
+                    "elem.1.35"
+                ],
+                "emphs": [
+                    "BC",
+                    "BC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Moreover the triangle `ABC` is half of the parallelogram `EBCA`; for the diameter `AB` bisects it. [elem.1.34]",
+                "refs": [
+                    "elem.1.34"
+                ],
+                "emphs": [
+                    "ABC",
+                    "EBCA",
+                    "AB"
+                ]
+            },
+            {
+                "text": "And the triangle `DBC` is half of the parallelogram `DBCF`; for the diameter `DC` bisects it. [elem.1.34]",
+                "refs": [
+                    "elem.1.34"
+                ],
+                "emphs": [
+                    "DBC",
+                    "DBCF",
+                    "DC"
+                ]
+            },
+            {
+                "text": "[But the halves of equal things are equal to one another.]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the triangle `ABC` is equal to the triangle `DBC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DBC"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

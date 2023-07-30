@@ -1,4 +1,0 @@
-Enunciation:
-An > odd-times odd number is that which is measured by an odd number according to an odd number.
-
-Proof:

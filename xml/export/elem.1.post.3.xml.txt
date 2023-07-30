@@ -1,4 +1,0 @@
-Enunciation:
-To describe a circle with any centre and distance.
-
-Proof:

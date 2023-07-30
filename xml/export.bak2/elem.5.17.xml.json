@@ -1,0 +1,201 @@
+{
+    "elem.5.17": {
+        "id": "elem.5.17",
+        "n": 17,
+        "type": "proposition",
+        "enunciation": "`If magnitudes be proportional`\n       , `they will also be proportional`\n       .",
+        "proof": [
+            {
+                "text": "Let `AB`, `BE`, `CD`, `DF` be magnitudes proportional , so that, as `AB` is to `BE`, so is `CD` to `DF`; I say that they will also be proportional , that is, as `AE` is to `EB`, so is `CF` to `DF`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BE",
+                    "CD",
+                    "DF",
+                    "AB",
+                    "BE",
+                    "CD",
+                    "DF",
+                    "AE",
+                    "EB",
+                    "CF",
+                    "DF"
+                ]
+            },
+            {
+                "text": "For of `AE`, `EB`, `CF`, `FD` let equimultiples `GH`, `HK`, `LM`, `MN` be taken, and of `EB`, `FD` other, chance, equimultiples, `KO`, `NP`.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "EB",
+                    "CF",
+                    "FD",
+                    "GH",
+                    "HK",
+                    "LM",
+                    "MN",
+                    "EB",
+                    "FD",
+                    "KO",
+                    "NP"
+                ]
+            },
+            {
+                "text": "Then, since `GH` is the same multiple of `AE` that `HK` is of `EB`, therefore `GH` is the same multiple of `AE` that `GK` is of `AB`. [elem.5.1]",
+                "refs": [
+                    "elem.5.1"
+                ],
+                "emphs": [
+                    "GH",
+                    "AE",
+                    "HK",
+                    "EB",
+                    "GH",
+                    "AE",
+                    "GK",
+                    "AB"
+                ]
+            },
+            {
+                "text": "But `GH` is the same multiple of `AE` that `LM` is of `CF`; therefore `GK` is the same multiple of `AB` that `LM` is of `CF`.",
+                "refs": [],
+                "emphs": [
+                    "GH",
+                    "AE",
+                    "LM",
+                    "CF",
+                    "GK",
+                    "AB",
+                    "LM",
+                    "CF"
+                ]
+            },
+            {
+                "text": "Again, since `LM` is the same multiple of `CF` that `MN` is of `FD`, therefore `LM` is the same multiple of `CF` that `LN` is of `CD`. [elem.5.1]",
+                "refs": [
+                    "elem.5.1"
+                ],
+                "emphs": [
+                    "LM",
+                    "CF",
+                    "MN",
+                    "FD",
+                    "LM",
+                    "CF",
+                    "LN",
+                    "CD"
+                ]
+            },
+            {
+                "text": "But `LM` was the same multiple of `CF` that `GK` is of `AB`; therefore `GK` is the same multiple of `AB` that `LN` is of `CD`.",
+                "refs": [],
+                "emphs": [
+                    "LM",
+                    "CF",
+                    "GK",
+                    "AB",
+                    "GK",
+                    "AB",
+                    "LN",
+                    "CD"
+                ]
+            },
+            {
+                "text": "Therefore `GK`, `LN` are equimultiples of `AB`, `CD`.",
+                "refs": [],
+                "emphs": [
+                    "GK",
+                    "LN",
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "Again, since `HK` is the same multiple of `EB` that `MN` is of `FD`, > and `KO` is also the same multiple of `EB` that `NP` is of `FD`, therefore the sum `HO` is also the same multiple of `EB` that `MP` is of `FD`. [elem.5.2]",
+                "refs": [],
+                "emphs": [
+                    "HK",
+                    "EB",
+                    "MN",
+                    "FD"
+                ]
+            },
+            {
+                "text": "And, since, as `AB` is to `BE`, so is `CD` to `DF`, and of `AB`, `CD` equimultiples `GK`, `LN` have been taken, and of `EB`, `FD` equimultiples `HO`, `MP`, therefore, if `GK` is in excess of `HO`, `LN` is also in excess of `MP`, if equal, equal, and if less, less.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BE",
+                    "CD",
+                    "DF",
+                    "AB",
+                    "CD",
+                    "GK",
+                    "LN",
+                    "EB",
+                    "FD",
+                    "HO",
+                    "MP",
+                    "GK",
+                    "HO",
+                    "LN",
+                    "MP"
+                ]
+            },
+            {
+                "text": "Let `GK` be in excess of `HO`; then, if `HK` be subtracted from each, > `GH` is also in excess of `KO`.",
+                "refs": [],
+                "emphs": [
+                    "GK",
+                    "HO",
+                    "HK"
+                ]
+            },
+            {
+                "text": "But we saw that, if `GK` was in excess of `HO`, `LN` was also in excess of `MP`; > therefore `LN` is also in excess of `MP`,\n       and, if `MN` be subtracted from each, > `LM` is also in excess of `NP`; so that, if `GH` is in excess of `KO`, `LM` is also in excess of `NP`.",
+                "refs": [],
+                "emphs": [
+                    "GK",
+                    "HO",
+                    "LN",
+                    "MP",
+                    "MN",
+                    "GH",
+                    "KO",
+                    "LM",
+                    "NP"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that, if `GH` be equal to `KO`, `LM` will also be equal to `NP`, and if less, less.",
+                "refs": [],
+                "emphs": [
+                    "GH",
+                    "KO",
+                    "LM",
+                    "NP"
+                ]
+            },
+            {
+                "text": "And `GH`, `LM` are equimultiples of `AE`, `CF`, while `KO`, `NP` are other, chance, equimultiples of `EB`, `FD`; > therefore, as `AE` is to `EB`, so is `CF` to `FD`.",
+                "refs": [],
+                "emphs": [
+                    "GH",
+                    "LM",
+                    "AE",
+                    "CF",
+                    "KO",
+                    "NP",
+                    "EB",
+                    "FD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

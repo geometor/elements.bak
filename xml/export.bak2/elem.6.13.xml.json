@@ -1,0 +1,64 @@
+{
+    "elem.6.13": {
+        "id": "elem.6.13",
+        "n": 13,
+        "type": "proposition",
+        "enunciation": "`To two given straight lines to find a mean proportional`.",
+        "proof": [
+            {
+                "text": "Let `AB`, `BC` be the two given straight lines; thus it is required to find a mean proportional to `AB`, `BC`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "AB",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Let them be placed in a straight line, and let the semicircle `ADC` be described on `AC`;  let `BD` be drawn from the point `B` at right angles to the straight line `AC`, and let `AD`, `DC` be joined.",
+                "refs": [],
+                "emphs": [
+                    "ADC",
+                    "AC",
+                    "BD",
+                    "B",
+                    "AC",
+                    "AD",
+                    "DC"
+                ]
+            },
+            {
+                "text": "Since the angle `ADC` is an angle in a semicircle, it is right. [elem.3.31]",
+                "refs": [
+                    "elem.3.31"
+                ],
+                "emphs": [
+                    "ADC"
+                ]
+            },
+            {
+                "text": "And, since, in the right-angled triangle `ADC`, `DB` has been drawn from the right angle perpendicular to the base, therefore `DB` is a mean proportional between the segments of the base, `AB`, `BC`. [elem.6.8.p.1]",
+                "refs": [
+                    "elem.6.8.p.1"
+                ],
+                "emphs": [
+                    "ADC",
+                    "DB",
+                    "DB",
+                    "AB",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Therefore to the two given straight lines `AB`, `BC` a mean proportional `DB` has been found. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "DB"
+                ]
+            }
+        ]
+    }
+}

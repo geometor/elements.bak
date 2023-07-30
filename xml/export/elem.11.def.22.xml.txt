@@ -1,4 +1,0 @@
-Enunciation:
-The > axis of the cylinder is the straight line which remains fixed and about which the parallelogram is turned.
-
-Proof:

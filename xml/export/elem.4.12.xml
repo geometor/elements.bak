@@ -2,11 +2,11 @@
       <head>PROPOSITION 12.</head>
       <p><emph>About a given circle to circumscribe an equilateral and equiangular pentagon</emph>. </p>
       <p>Let <emph>ABCDE</emph> be the given circle; thus it is required to circumscribe an equilateral and equiangular pentagon about the circle <emph>ABCDE</emph>. </p>
-      <p>Let <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, <emph>D</emph>, <emph>E</emph> be conceived to be the angular points of the inscribed pentagon, so that the circumferences <emph>AB</emph>, <emph>BC</emph>, <emph>CD</emph>, <emph>DE</emph>, <emph>EA</emph> are equal; [<ref target="elem.4.11" targOrder="U">IV. 11</ref>] <figure/> through <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, <emph>D</emph>, <emph>E</emph> let <emph>GH</emph>, <emph>HK</emph>, <emph>KL</emph>, <emph>LM</emph>, <emph>MG</emph> be drawn touching the circle; [<ref target="elem.3.16.p.1" targOrder="U">III. 16, Por.</ref>] let the centre <emph>F</emph> of the circle <emph>ABCDE</emph> be taken [<ref target="elem.3.1" targOrder="U">III. 1</ref>], and let <emph>FB</emph>, <emph>FK</emph>, <emph>FC</emph>, <emph>FL</emph>, <emph>FD</emph> be joined. </p>
+      <p>Let <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, <emph>D</emph>, <emph>E</emph> be conceived to be the angular points of the inscribed pentagon, so that the circumferences <emph>AB</emph>, <emph>BC</emph>, <emph>CD</emph>, <emph>DE</emph>, <emph>EA</emph> are equal; [<ref target="elem.4.11" targOrder="U">IV. 11</ref>] <emph>A</emph>, <emph>B</emph>, <emph>C</emph>, <emph>D</emph>, <emph>E</emph> let <emph>GH</emph>, <emph>HK</emph>, <emph>KL</emph>, <emph>LM</emph>, <emph>MG</emph> be drawn touching the circle; [<ref target="elem.3.16.p.1" targOrder="U">III. 16, Por.</ref>] let the centre <emph>F</emph> of the circle <emph>ABCDE</emph> be taken [<ref target="elem.3.1" targOrder="U">III. 1</ref>], and let <emph>FB</emph>, <emph>FK</emph>, <emph>FC</emph>, <emph>FL</emph>, <emph>FD</emph> be joined. </p>
       <p>Then, since the straight line <emph>KL</emph> touches the circle <emph>ABCDE</emph> at <emph>C</emph>, and <emph>FC</emph> has been joined from the centre <emph>F</emph> to the point of contact at <emph>C</emph>, <hi rend="center">therefore <emph>FC</emph> is perpendicular to <emph>KL</emph>; [<ref target="elem.3.18" targOrder="U">III. 18</ref>] therefore each of the angles at <emph>C</emph> is right.</hi>
       </p>
       <p>For the same reason <hi rend="center">the angles at the points <emph>B</emph>, <emph>D</emph> are also right.</hi>
-       <pb n="103"/></p>
+       </p>
       <p>And, since the angle <emph>FCK</emph> is right, therefore the square on <emph>FK</emph> is equal to the squares on <emph>FC</emph>, <emph>CK</emph>. </p>
       <p>For the same reason [<ref target="elem.1.47" targOrder="U">I. 47</ref>] <hi rend="center">the square on <emph>FK</emph> is also equal to the squares on <emph>FB</emph>, <emph>BK</emph>; so that the squares on <emph>FC</emph>, <emph>CK</emph> are equal to the squares on <emph>FB</emph>, <emph>BK</emph>, of which the square on <emph>FC</emph> is equal to the square on <emph>FB</emph>;</hi> therefore the square on <emph>CK</emph> which remains is equal to the square on <emph>BK</emph>. </p>
       <p>Therefore <emph>BK</emph> is equal to <emph>CK</emph>. </p>
@@ -19,7 +19,7 @@
       </p>
       <p>But the angle <emph>FCK</emph> is also equal to the angle <emph>FCL</emph>; therefore <emph>FKC</emph>, <emph>FLC</emph> are two triangles having two angles equal to two angles and one side equal to one side, namely <emph>FC</emph> which is common to them; therefore they will also have the remaining sides equal to the remaining sides, and the remaining angle to the remaining angle; [<ref target="elem.1.26" targOrder="U">I. 26</ref>] <hi rend="center">therefore the straight line <emph>KC</emph> is equal to <emph>CL</emph>, and the angle <emph>FKC</emph> to the angle <emph>FLC</emph>.</hi>
       </p>
-      <p>And, since <emph>KC</emph> is equal to <emph>CL</emph>, therefore <emph>KL</emph> is double of <emph>KC</emph>. <pb n="104"/></p>
+      <p>And, since <emph>KC</emph> is equal to <emph>CL</emph>, therefore <emph>KL</emph> is double of <emph>KC</emph>. </p>
       <p>For the same reason it can be proved that <hi rend="center"><emph>HK</emph> is also double of <emph>BK</emph>.</hi>
       </p>
       <p>And <emph>BK</emph> is equal to <emph>KC</emph>; <hi rend="center">therefore <emph>HK</emph> is also equal to <emph>KL</emph>.</hi>

@@ -1,4 +1,0 @@
-Enunciation:
-A {line} is breadthless length.
-
-Proof:

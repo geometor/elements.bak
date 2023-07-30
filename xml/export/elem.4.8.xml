@@ -1,9 +1,7 @@
 <div3 id="elem.4.8" n="8" type="proposition">
-      <pb n="94"/>
       <head>PROPOSITION 8.</head>
       <p><emph>In a given square to inscribe a circle</emph>. </p>
-      <p>Let <emph>ABCD</emph> be the given square; thus it is required to inscribe a circle in the given square <emph>ABCD</emph>. <figure/>
-      </p>
+      <p>Let <emph>ABCD</emph> be the given square; thus it is required to inscribe a circle in the given square <emph>ABCD</emph>. </p>
       <p>Let the straight lines <emph>AD</emph>, <emph>AB</emph> be bisected at the points <emph>E</emph>, <emph>F</emph> respectively [<ref target="elem.1.10" targOrder="U">I. 10</ref>], through <emph>E</emph> let <emph>EH</emph> be drawn parallel to either <emph>AB</emph> or <emph>CD</emph>, and through <emph>F</emph> let <emph>FK</emph> be drawn parallel to either <emph>AD</emph> or <emph>BC</emph>; [<ref target="elem.1.31" targOrder="U">I. 31</ref>] therefore each of the figures <emph>AK</emph>, <emph>KB</emph>, <emph>AH</emph>, <emph>HD</emph>, <emph>AG</emph>, <emph>GC</emph>, <emph>BG</emph>, <emph>GD</emph> is a parallelogram, and their opposite sides are evidently equal. [<ref target="elem.1.34" targOrder="U">I. 34</ref>] </p>
       <p>Now, since <emph>AD</emph> is equal to <emph>AB</emph>, and <emph>AE</emph> is half of <emph>AD</emph>, and <emph>AF</emph> half of <emph>AB</emph>, <hi rend="center">therefore <emph>AE</emph> is equal to <emph>AF</emph>, so that the opposite sides are also equal;</hi>
        <hi rend="center">therefore <emph>FG</emph> is equal to <emph>GE</emph>.</hi>

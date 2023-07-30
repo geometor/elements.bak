@@ -1,0 +1,87 @@
+{
+    "elem.10.6": {
+        "id": "elem.10.6",
+        "n": 6,
+        "type": "propositions i\u201447",
+        "enunciation": "> If two magnitudes have to one another the ratio which a number has to a number, > the magnitudes will be commensurable.",
+        "proof": [
+            {
+                "text": "For let the two magnitudes > A, > B have to one another the ratio which the number > D has to the number > E; I say that the magnitudes > A, > B are commensurable.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A be divided into as many equal parts as there are units in > D, and let > C be equal to one of them; and let > F be made up of as many magnitudes equal to > C as there are units in > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then there are in > A as many magnitudes equal to > C as there are units in > D, whatever part the unit is of > D, the same part is > C of > A also; therefore, as > C is to > A, so is the unit to > D. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the unit measures the number > D; therefore > C also measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And since, as > C is to > A, so is the unit to > D, therefore, inversely, as > A is to > C, so is the number > D to the unit. [cf. elem.5.7.p.1]",
+                "refs": [
+                    "elem.5.7.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since there are in > F as many magnitudes equal to > C as there are units in > E, therefore, as > C is to > F, so is the unit to > E. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But it was also proved that, > as > A is to > C, so is > D to the unit;\n       therefore, , as > A is to > F, so is > D to > E. [elem.5.22]",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, as > D is to > E, so is > A to > B; therefore also, as > A is to > B, so is it to > F also. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A has the same ratio to each of the magnitudes > B, > F; therefore > B is equal to > F. A[elem.5.9]",
+                "refs": [
+                    "elem.5.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > C measures > F; therefore it measures > B also.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Further it measures > A also; therefore > C measures > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A is commensurable with > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

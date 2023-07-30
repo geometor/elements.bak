@@ -1,0 +1,85 @@
+{
+    "elem.10.26": {
+        "id": "elem.10.26",
+        "n": 26,
+        "type": "propositions i\u201447",
+        "enunciation": "> 4 medial area does not exceed a medial area by a rational area.",
+        "proof": [
+            {
+                "text": "For, if possible, let the medial area > AB exceed the medial area > AC by the rational area > DB,  and let a rational straight line > EF be set out; to > EF let there be applied the rectangular parallelogram > FH equal to > AB, producing > EH as breadth, and let the rectangle > FG equal to > AC be subtracted; therefore the remainder > BD is equal to the remainder > KH.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > DB is rational; therefore > KH is also rational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since, then, each of the rectangles > AB, > AC is medial, and > AB is equal to > FH, and > AC to > FG, therefore each of the rectangles > FH, > FG is also medial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And they are applied to the rational straight line > EF; therefore each of the straight lines > HE, > EG is rational and incommensurable in length with > EF. [elem.10.22]",
+                "refs": [
+                    "elem.10.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since [> DB is rational and is equal to > KH, therefore] > KH is [also] rational; and it is applied to the rational straight line > EF; therefore > GH is rational and commensurable in length with > EF. [elem.10.20]",
+                "refs": [
+                    "elem.10.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > EG is also rational, and is incommensurable in length with > EF; therefore > EG is incommensurable in length with > GH. [elem.10.13]",
+                "refs": [
+                    "elem.10.13"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as > EG is to > GH, so is the square on > EG to the rectangle > EG, > GH; therefore the square on > EG is incommensurable with the rectangle > EG, > GH. [elem.10.11]",
+                "refs": [
+                    "elem.10.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the squares on > EG, > GH are commensurable with the square on > EG, for both are rational; and twice the rectangle > EG, > GH is commensurable with the rectangle > EG, > GH, for it is double of it; [elem.10.6] therefore the squares on > EG, > GH are incommensurable with twice the rectangle > EG, > GH; [elem.10.13] therefore also the sum of the squares on > EG, > GH and twice the rectangle > EG, > GH, that is, the square on > EH [elem.2.4], is incommensurable with the squares on > EG, > GH. [elem.10.16]",
+                "refs": [
+                    "elem.10.6",
+                    "elem.10.13",
+                    "elem.2.4",
+                    "elem.10.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the squares on > EG, > GH are rational; therefore the square on > EH is irrational. [elem.10.def.4]",
+                "refs": [
+                    "elem.10.def.4"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > EH is irrational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it is also rational: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

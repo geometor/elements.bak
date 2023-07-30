@@ -1,0 +1,79 @@
+{
+    "elem.13.6": {
+        "id": "elem.13.6",
+        "n": 6,
+        "type": "proposition",
+        "enunciation": "> If a rational straight line be cut in extreme and mean ratio, > each of the segments is the irrational straight line called apotome.",
+        "proof": [
+            {
+                "text": "Let > AB be a rational straight line, let it be cut in extreme and mean ratio at > C, and let > AC be the greater segment; I say that each of the straight lines > AC, > CB is the irrational straight line called apotome.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > BA be produced, and let > AD be made half of > BA.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then the straight line > AB has been cut in extreme and mean ratio, and to the greater segment > AC is added > AD which is half of > AB, therefore the square on > CD is five times the square on > DA. [elem.13.1]",
+                "refs": [
+                    "elem.13.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the square on > CD has to the square on > DA the ratio which a number has to a number; therefore the square on > CD is commensurable with the square on > DA. [elem.10.6]",
+                "refs": [
+                    "elem.10.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the square on > DA is rational, for > DA is rational, being half of > AB which is rational; therefore the square on > CD is also rational; [elem.10.def.4] therefore > CD is also rational.",
+                "refs": [
+                    "elem.10.def.4"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since the square on > CD has not to the square on > DA the ratio which a square number has to a square number, therefore > CD is incommensurable in length with > DA; [elem.10.9] therefore > CD, > DA are rational straight lines commensurable in square only; therefore > AC is an apotome. [elem.10.73]",
+                "refs": [
+                    "elem.10.9",
+                    "elem.10.73"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > AB has been cut in extreme and mean ratio, and > AC is the greater segment, therefore the rectangle > AB, > BC is equal to the square on > AC. [elem.6.def.3, elem.6.17]",
+                "refs": [
+                    "elem.6.def.3",
+                    "elem.6.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the square on the apotome > AC, if applied to the rational straight line > AB, produces > BC as breadth.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the square on an apotome, if applied to a rational straight line, produces as breadth a first apotome; [elem.10.97] therefore > CB is a first apotome.",
+                "refs": [
+                    "elem.10.97"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > CA was also proved to be an apotome.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

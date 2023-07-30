@@ -1,0 +1,69 @@
+{
+    "elem.1.19": {
+        "id": "elem.1.19",
+        "n": 19,
+        "type": "proposition",
+        "enunciation": "In any triangle the greater angle is subtended by the greater side.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a triangle having the angle `ABC` greater than the angle `BCA`;",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ABC",
+                    "BCA"
+                ]
+            },
+            {
+                "text": "I say that the side `AC` is also greater than the side `AB`.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "AB"
+                ]
+            },
+            {
+                "text": "For, if not, `AC` is either equal to `AB` or less.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Now `AC` is not equal to `AB`; for then the angle `ABC` would also have been equal to the angle `ACB`; [elem.1.5] but it is not; \n        > therefore `AC` is not equal to `AB`.",
+                "refs": [
+                    "elem.1.5"
+                ],
+                "emphs": [
+                    "AC",
+                    "AB",
+                    "ABC",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "Neither is `AC` less than `AB`, for then the angle `ABC` would also have been less than the angle `ACB`; [elem.1.18] but it is not; > therefore `AC` is not less than `AB`.",
+                "refs": [
+                    "elem.1.18"
+                ],
+                "emphs": [
+                    "AC",
+                    "AB",
+                    "ABC",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "And it was proved that it is not equal either. > Therefore `AC` is greater than `AB`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "elem.11.31": {
+        "id": "elem.11.31",
+        "n": 31,
+        "type": "proposition",
+        "enunciation": "> Parallelepipedal solids which are on equal bases and of the same height are equal to one another.",
+        "proof": [
+            {
+                "text": "Let the parallelepipedal solids > AE, > CF, of the same height, be on equal bases > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that the solid > AE is equal to the solid > CF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let the sides which stand up, > HK, > BE, > AG, > LM, > PQ, > DF, > CO, > RS, be at right angles to the bases > AB, > CD; let the straight line > RT be produced in a straight line with > CR; on the straight line > RT, and at the point > R on it, let the angle > TRU be constructed equal to the angle > ALB, [elem.1.23] let > RT be made equal to > AL, and > RU equal to > LB, and let the base > RW and the solid > XU be completed.",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now, since the two sides > TR, > RU are equal to the two sides > AL, > LB, and they contain equal angles, therefore the parallelogram > RW is equal and similar to the parallelogram > HL.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since again > AL is equal to > RT, and > LM to > RS, and they contain right angles, therefore the parallelogram > RX is equal and similar to the parallelogram > AM.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > LE is also equal and similar to > SU; therefore three parallelograms of the solid > AE are equal and similar to three parallelograms of the solid > XU.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the former three are equal and similar to the three opposite, and the latter three to the three opposite; [elem.11.24] therefore the whole parallelepipedal solid > AE is equal to the whole parallelepipedal solid > XU. [elem.11.def.10]",
+                "refs": [
+                    "elem.11.24",
+                    "elem.11.def.10"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let > DR, > WU be drawn through and meet one another at > Y, let > aTb be drawn through > T parallel to > DY, let > PD be produced to > a, and let the solids > YX, > RI be completed.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then the solid > XY, of which the parallelogram > RX is the base and > Yc its opposite, is equal to the solid > XU of which the parallelogram > RX is the base and > UV its opposite, for they are on the same base > RX and of the same height, and the extremities of their sides which stand up, namely > RY, > RU, > Tb, > TW, > Se, > Sd, > Xc, > XV, are on the same straight lines > YW, > eV. [elem.11.29]",
+                "refs": [
+                    "elem.11.29"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the solid > XU is equal to > AE: therefore the solid > XY is also equal to the solid > AE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since the parallelogram > RUWT is equal to the parallelogram > YT for they are on the same base > RT and in the same parallels > RT, > YW, [elem.1.35] while > RUWT is equal to > CD, since it is also equal to > AB, therefore the parallelogram > YT is also equal to > CD.",
+                "refs": [
+                    "elem.1.35"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > DT is another parallelogram; therefore, as the base > CD is to > DT, so is > YT to > DT. [elem.5.7]",
+                "refs": [
+                    "elem.5.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since the parallelepipedal solid > CI has been cut by the plane > RF which is parallel to opposite planes, as the base > CD is to the base > DT, so is the solid > CF to the solid > RI. [elem.11.25]",
+                "refs": [
+                    "elem.11.25"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason, since the parallelepipedal solid > YI has been cut by the plane > RX which is parallel to opposite planes, as the base > YT is to the base > TD, so is the solid > YX to the solid > RI. [elem.11.25]",
+                "refs": [
+                    "elem.11.25"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, as the base > CD is to > DT, so is > YT to > DT; therefore also, as the solid > CF is to the solid > RI, so is the solid > YX to > RI. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore each of the solids > CF, > YX has to > RI the same ratio; therefore the solid > CF is equal to the solid > YX. [elem.5.9]",
+                "refs": [
+                    "elem.5.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > YX was proved equal to > AE; therefore > AE is also equal to > CF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let the sides standing up, > AG, > HK, > BE, > LM, > CN, > PQ, > DF, > RS, not be at right angles to the bases > AB, > CD; I say again that the solid > AE is equal to the solid > CF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For from the points > K, > E, > G, > M, > Q, > F, > N, > S let > KO, > ET, > GU, > MV, > QW, > FX, > NY, > SI be drawn perpendicular to the plane of reference, and let them meet the plane at the points > O, > T, > U, > V, > W, > X, > Y, > I, and let > OT, > OU, > UV, > TV, > WX, > WY, > YI, > IX be joined.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then the solid > KV is equal to the solid > QI, for they are on the equal bases > KM, > QS and of the same height, and their sides which stand up are at right angles to their bases. [First part of this Prop.]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the solid > KV is equal to the solid > AE, and > QI to > CF; for they are on the same base and of the same height, while the extremities of their sides which stand up are not on the same straight lines. [elem.11.30]",
+                "refs": [
+                    "elem.11.30"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the solid > AE is also equal to the solid > CF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

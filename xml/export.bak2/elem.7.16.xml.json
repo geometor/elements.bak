@@ -1,0 +1,52 @@
+{
+    "elem.7.16": {
+        "id": "elem.7.16",
+        "n": 16,
+        "type": "proposition",
+        "enunciation": "> If two numbers by multiplying one another make certain numbers, the numbers so produced will be equal to one another.",
+        "proof": [
+            {
+                "text": "Let > A, > B be two numbers, and let > A by multiplying > B make > C, and > B by multiplying > A make > D; I say that > C is equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A by multiplying > B has made > C, therefore > B measures > C according to the units in > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > E also measures the number > A according to the units in it; > therefore the unit > E measures > A the same number of times that > B measures > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, the unit > E measures the number > B the same number of times that > A measures > C. [elem.7.15]",
+                "refs": [
+                    "elem.7.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > B by multiplying > A has made > D, therefore > A measures > D according to the units in > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > E also measures > B according to the units in it; > therefore the unit > E measures the number > B the same number of times that > A measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > E measured the number > B the same number of times that > A measures > C; > therefore > A measures each of the numbers > C, > D the same number of times.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C is equal to > D. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

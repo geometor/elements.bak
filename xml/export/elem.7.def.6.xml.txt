@@ -1,4 +1,0 @@
-Enunciation:
-An > even number is that which is divisible into two equal parts.
-
-Proof:

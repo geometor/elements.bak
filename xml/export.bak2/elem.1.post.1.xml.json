@@ -1,0 +1,15 @@
+{
+    "elem.1.post.1": {
+        "id": "elem.1.post.1",
+        "n": 1,
+        "type": "postulate",
+        "enunciation": "Let the following be postulated:",
+        "proof": [
+            {
+                "text": "To draw a straight line from any point to any point.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

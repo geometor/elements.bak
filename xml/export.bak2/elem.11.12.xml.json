@@ -1,0 +1,35 @@
+{
+    "elem.11.12": {
+        "id": "elem.11.12",
+        "n": 12,
+        "type": "proposition",
+        "enunciation": "> To set up a straight line at right angles to a given plane from a given point in it.",
+        "proof": [
+            {
+                "text": "Let the plane of reference be the given plane, and > A the point in it; thus it is required to set up from the point > A a straight line at right angles to the plane of reference.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let any elevated point > B be conceived, from > B let > BC be drawn perpendicular to the plane of reference, [elem.11.11] and through the point > A let > AD be drawn parallel to > BC. [elem.1.31]",
+                "refs": [
+                    "elem.11.11",
+                    "elem.1.31"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Then, since > AD, > CB are two parallel straight lines, while one of them, > BC, is at right angles to the plane of reference, therefore the remaining one, > AD, is also at right angles to the plane of reference. [elem.11.8]",
+                "refs": [
+                    "elem.11.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > AD has been set up at right angles to the given plane from the point > A in it.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

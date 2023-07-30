@@ -1,0 +1,49 @@
+{
+    "elem.7.27": {
+        "id": "elem.7.27",
+        "n": 27,
+        "type": "proposition",
+        "enunciation": "> If two numbers be prime to one another, and each by multiplying itself make a certain number, the products will be prime to one another; and, if the original numbers by multiplying the products make certain numbers, the latter will also be prime to one another [> and this is always the case with the extremes].",
+        "proof": [
+            {
+                "text": "Let > A, > B be two numbers prime to one another, let > A by multiplying itself make > C, and by multiplying > C make > D, and let > B by multiplying itself make > E, and by multiplying > E make > F; I say that both > C, > E and > D, > F are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A, > B are prime to one another, and > A by multiplying itself has made > C, therefore > C, > B are prime to one another. [elem.7.25]",
+                "refs": [
+                    "elem.7.25"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Since then > C, > B are prime to one another, and > B by multiplying itself has made > E, therefore > C, > E are prime to one another. [> id.]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > A, > B are prime to one another, and > B by multiplying itself has made > E, therefore > A, > E are prime to one another. [> id.]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then the two numbers > A, > C are prime to the two numbers > B, > E, both to each, therefore also the product of > A, > C is prime to the product of > B, > E. [elem.7.26]",
+                "refs": [
+                    "elem.7.26"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the product of > A, > C is > D, and the product of > B, > E is > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D, > F are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

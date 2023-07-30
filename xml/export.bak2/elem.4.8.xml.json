@@ -1,0 +1,128 @@
+{
+    "elem.4.8": {
+        "id": "elem.4.8",
+        "n": 8,
+        "type": "proposition",
+        "enunciation": "`In a given square to inscribe a circle`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be the given square; thus it is required to inscribe a circle in the given square `ABCD`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "Let the straight lines `AD`, `AB` be bisected at the points `E`, `F` respectively [elem.1.10], through `E` let `EH` be drawn parallel to either `AB` or `CD`, and through `F` let `FK` be drawn parallel to either `AD` or `BC`; [elem.1.31] therefore each of the figures `AK`, `KB`, `AH`, `HD`, `AG`, `GC`, `BG`, `GD` is a parallelogram, and their opposite sides are evidently equal. [elem.1.34]",
+                "refs": [
+                    "elem.1.10",
+                    "elem.1.31",
+                    "elem.1.34"
+                ],
+                "emphs": [
+                    "AD",
+                    "AB",
+                    "E",
+                    "F",
+                    "E",
+                    "EH",
+                    "AB",
+                    "CD",
+                    "F",
+                    "FK",
+                    "AD",
+                    "BC",
+                    "AK",
+                    "KB",
+                    "AH",
+                    "HD",
+                    "AG",
+                    "GC",
+                    "BG",
+                    "GD"
+                ]
+            },
+            {
+                "text": "Now, since `AD` is equal to `AB`, and `AE` is half of `AD`, and `AF` half of `AB`, > therefore `AE` is equal to `AF`, so that the opposite sides are also equal;\n       > therefore `FG` is equal to `GE`.",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "AB",
+                    "AE",
+                    "AD",
+                    "AF",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that each of the straight lines `GH`, `GK` is equal to each of the straight lines `FG`, `GE`; > therefore the four straight lines `GE`, `GF`, `GH`, `GK` are equal to one another.",
+                "refs": [],
+                "emphs": [
+                    "GH",
+                    "GK",
+                    "FG",
+                    "GE"
+                ]
+            },
+            {
+                "text": "Therefore the circle described with centre `G` and distance one of the straight lines `GE`, `GF`, `GH`, `GK` will pass also through the remaining points.",
+                "refs": [],
+                "emphs": [
+                    "G",
+                    "GE",
+                    "GF",
+                    "GH",
+                    "GK"
+                ]
+            },
+            {
+                "text": "And it will touch the straight lines `AB`, `BC`, `CD`, `DA`, because the angles at `E`, `F`, `H`, `K` are right.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "CD",
+                    "DA",
+                    "E",
+                    "F",
+                    "H",
+                    "K"
+                ]
+            },
+            {
+                "text": "For, if the circle cuts `AB`, `BC`, `CD`, `DA`, the straight line drawn at right angles to the diameter of the circle from its extremity will fall within the circle : which was proved absurd; [elem.3.16] therefore the circle described with centre `G` and distance one of the straight lines `GE`, `GF`, `GH`, `GK` will not cut the straight lines `AB`, `BC`, `CD`, `DA`.",
+                "refs": [
+                    "elem.3.16"
+                ],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "CD",
+                    "DA",
+                    "G",
+                    "GE",
+                    "GF",
+                    "GH",
+                    "GK",
+                    "AB",
+                    "BC",
+                    "CD",
+                    "DA"
+                ]
+            },
+            {
+                "text": "Therefore it will touch them, and will have been inscribed in the square `ABCD`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "Therefore in the given square a circle has been inscribed. Q. E. F.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

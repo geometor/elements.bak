@@ -1,0 +1,27 @@
+{
+    "elem.9.24": {
+        "id": "elem.9.24",
+        "n": 24,
+        "type": "proposition",
+        "enunciation": "> If from an even number an even number be subtracted, the remainder will be even.",
+        "proof": [
+            {
+                "text": "For from the even number > AB let the even number > BC be subtracted: I say that the remainder > CA is even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > AB is even, it has a half part. [elem.7.def.6]",
+                "refs": [
+                    "elem.7.def.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > BC also has a half part; so that the remainder [> CA also has a half part, and] > AC is therefore even. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

@@ -2,10 +2,9 @@
       <head>PROPOSITION 5.</head>
       <p><hi rend="ital">If a straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">and there be added to it a straight line equal to the greater segment</hi>, <hi rend="ital">the whole straight line has been cut in extreme and mean ratio</hi>, <hi rend="ital">and the original straight line is the greater segment.</hi>
       </p>
-      <p>For let the straight line <hi rend="ital">AB</hi> be cut in extreme and mean ratio at the point <hi rend="ital">C</hi>, let <hi rend="ital">AC</hi> be the greater segment, and let <hi rend="ital">AD</hi> be equal to <hi rend="ital">AC</hi>. <figure/>
-      </p>
+      <p>For let the straight line <hi rend="ital">AB</hi> be cut in extreme and mean ratio at the point <hi rend="ital">C</hi>, let <hi rend="ital">AC</hi> be the greater segment, and let <hi rend="ital">AD</hi> be equal to <hi rend="ital">AC</hi>. </p>
       <p>I say that the straight line <hi rend="ital">DB</hi> has been cut in extreme and mean ratio at <hi rend="ital">A</hi>, and the original straight line <hi rend="ital">AB</hi> is the greater segment. </p>
-      <p>For let the square <hi rend="ital">AE</hi> be described on <hi rend="ital">AB</hi>, and let the figure be drawn. <pb n="449"/></p>
+      <p>For let the square <hi rend="ital">AE</hi> be described on <hi rend="ital">AB</hi>, and let the figure be drawn. </p>
       <p>Since <hi rend="ital">AB</hi> has been cut in extreme and mean ratio at <hi rend="ital">C</hi>, therefore the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is equal to the square on <hi rend="ital">AC</hi>. [<ref target="elem.6.def.3 elem.6.17" targOrder="U">VI. Def. 3</ref>, VI. 17] </p>
       <p>And <hi rend="ital">CE</hi> is the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, and <hi rend="ital">CH</hi> the square on <hi rend="ital">AC</hi>; therefore <hi rend="ital">CE</hi> is equal to <hi rend="ital">HC</hi>. </p>
       <p>But <hi rend="ital">HE</hi> is equal to <hi rend="ital">CE</hi>, and <hi rend="ital">DH</hi> is equal to <hi rend="ital">HC</hi>; therefore <hi rend="ital">DH</hi> is also equal to <hi rend="ital">HE</hi>. </p>

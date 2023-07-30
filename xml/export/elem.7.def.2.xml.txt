@@ -1,4 +1,0 @@
-Enunciation:
-A > number is a multitude composed of units.
-
-Proof:

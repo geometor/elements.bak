@@ -1,0 +1,159 @@
+{
+    "elem.1.45": {
+        "id": "elem.1.45",
+        "n": 45,
+        "type": "proposition",
+        "enunciation": "To construct, in a given rectilineal angle, a parallelogram equal to a given rectilineal figure.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be the given rectilineal figure and `E` the given rectilineal angle; thus it is required to construct, in the given angle `E`, a parallelogram equal to the rectilineal figure `ABCD`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "E",
+                    "E",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "Let `DB` be joined, and let the parallelogram `FH` be constructed equal to the triangle `ABD`, in the angle `HKF` which is equal to `E`; [elem.1.42] let the parallelogram `GM` equal to the triangle `DBC` be applied to the straight line `GH`, in the angle `GHM` which is equal to `E`. [elem.1.44]",
+                "refs": [
+                    "elem.1.42",
+                    "elem.1.44"
+                ],
+                "emphs": [
+                    "DB",
+                    "FH",
+                    "ABD",
+                    "HKF",
+                    "E",
+                    "GM",
+                    "DBC",
+                    "GH",
+                    "GHM",
+                    "E"
+                ]
+            },
+            {
+                "text": "Then, since the angle `E` is equal to each of the angles `HKF`, `GHM`, > the angle `HKF` is also equal to the angle `GHM`. [elem.1.c.n.1]",
+                "refs": [],
+                "emphs": [
+                    "E",
+                    "HKF",
+                    "GHM"
+                ]
+            },
+            {
+                "text": "Let the angle `KHG` be added to each; therefore the angles `FKH`, `KHG` are equal to the angles `KHG`, `GHM`.",
+                "refs": [],
+                "emphs": [
+                    "KHG",
+                    "FKH",
+                    "KHG",
+                    "KHG",
+                    "GHM"
+                ]
+            },
+            {
+                "text": "But the angles `FKH`, `KHG` are equal to two right angles; [elem.1.29] therefore the angles `KHG`, `GHM` are also equal to two right angles.",
+                "refs": [
+                    "elem.1.29"
+                ],
+                "emphs": [
+                    "FKH",
+                    "KHG",
+                    "KHG",
+                    "GHM"
+                ]
+            },
+            {
+                "text": "Thus, with a straight line `GH`, and at the point `H` on it, two straight lines `KH`, `HM` not lying on the same side make the adjacent angles equal to two right angles; > therefore `KH` is in a straight line with `HM`. [elem.1.14]",
+                "refs": [],
+                "emphs": [
+                    "GH",
+                    "H",
+                    "KH",
+                    "HM"
+                ]
+            },
+            {
+                "text": "And, since the straight line `HG` falls upon the parallels `KM`, `FG`, the alternate angles `MHG`, `HGF` are equal to one another. [elem.1.29]",
+                "refs": [
+                    "elem.1.29"
+                ],
+                "emphs": [
+                    "HG",
+                    "KM",
+                    "FG",
+                    "MHG",
+                    "HGF"
+                ]
+            },
+            {
+                "text": "Let the angle `HGL` be added to each; therefore the angles `MHG`, `HGL` are equal to the angles `HGF`, `HGL`. [elem.1.c.n.2]",
+                "refs": [
+                    "elem.1.c.n.2"
+                ],
+                "emphs": [
+                    "HGL",
+                    "MHG",
+                    "HGL",
+                    "HGF",
+                    "HGL"
+                ]
+            },
+            {
+                "text": "But the angles `MHG`, `HGL` are equal to two right angles; [elem.1.29] therefore the angles `HGF`, `HGL` are also equal to two right angles. [elem.1.c.n.1] > Therefore `FG` is in a straight line with `GL`. [elem.1.14]",
+                "refs": [
+                    "elem.1.29",
+                    "elem.1.c.n.1"
+                ],
+                "emphs": [
+                    "MHG",
+                    "HGL",
+                    "HGF",
+                    "HGL"
+                ]
+            },
+            {
+                "text": "And, since `FK` is equal and parallel to `HG`, [elem.1.34] > and `HG` to `ML` also,\n        `KF` is also equal and parallel to `ML`; [elem.1.c.n.1;elem.1.30] and the straight lines `KM`, `FL` join them (at their extremities); therefore `KM`, `FL` are also equal and parallel. [elem.1.33] > Therefore `KFLM` is a parallelogram.",
+                "refs": [
+                    "elem.1.34",
+                    "elem.1.c.n.1",
+                    "elem.1.30",
+                    "elem.1.33"
+                ],
+                "emphs": [
+                    "FK",
+                    "HG",
+                    "KF",
+                    "ML",
+                    "KM",
+                    "FL",
+                    "KM",
+                    "FL"
+                ]
+            },
+            {
+                "text": "And, since the triangle `ABD` is equal to the parallelogram `FH`, > and `DBC` to `GM`,\n        the whole rectilineal figure `ABCD` is equal to the whole parallelogram `KFLM`.",
+                "refs": [],
+                "emphs": [
+                    "ABD",
+                    "FH",
+                    "ABCD",
+                    "KFLM"
+                ]
+            },
+            {
+                "text": "Therefore the parallelogram `KFLM` has been constructed equal to the given rectilineal figure `ABCD`, in the angle `FKM` which is equal to the given angle `E`.",
+                "refs": [],
+                "emphs": [
+                    "KFLM",
+                    "ABCD",
+                    "FKM",
+                    "E"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,2461 @@
+{
+    "elem.9.1": {
+        "id": "elem.9.1",
+        "n": 1,
+        "type": "proposition",
+        "enunciation": "> If two similar plane numbers by multiplying one another make some number, the product will be square.",
+        "proof": [
+            {
+                "text": "Let > A, > B be two similar plane numbers, and let > A by multiplying > B make > C; I say that > C is square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A by multiplying itself make > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D is square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > A by multiplying itself has made > D, and by multiplying > B has made > C, therefore, as > A is to > B, so is > D to > C. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A, > B are similar plane numbers, therefore one mean proportional number falls between > A, > B. [elem.8.18]",
+                "refs": [
+                    "elem.8.18"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, if numbers fall between two numbers in continued proportion, as many as fall between them, so many also fall between those which have the same ratio; [elem.8.8] so that one mean proportional number falls between > D, > C also.",
+                "refs": [
+                    "elem.8.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > D is square; therefore > C is also square. [elem.8.22] Q. E. D.",
+                "refs": [
+                    "elem.8.22"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.2": {
+        "id": "elem.9.2",
+        "n": 2,
+        "type": "proposition",
+        "enunciation": "> If two numbers by multiplying one another make a square number, they are similar plane numbers.",
+        "proof": [
+            {
+                "text": "Let > A, > B be two numbers, and let > A by multiplying > B make the square number > C; I say that > A, > B are similar plane numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A by multiplying itself make > D; therefore > D is square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > A by multiplying itself has made > D, and by multiplying > B has made > C, therefore, as > A is to > B, so is > D to > C. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > D is square, and > C is so also, therefore > D, > C are similar plane numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore one mean proportional number falls between > D, > C. [elem.8.18]",
+                "refs": [
+                    "elem.8.18"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as > D is to > C, so is > A to > B; therefore one mean proportional number falls between > A, > B also. [elem.8.18]",
+                "refs": [
+                    "elem.8.18"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, if one mean proportional number fall between two numbers, they are similar plane numbers; [elem.8.20] therefore > A, > B are similar plane numbers. Q. E. D.",
+                "refs": [
+                    "elem.8.20"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.3": {
+        "id": "elem.9.3",
+        "n": 3,
+        "type": "proposition",
+        "enunciation": "> If a cube number by multiplying itself make some number, the product will be cube.",
+        "proof": [
+            {
+                "text": "For let the cube number > A by multiplying itself make > B; I say that > B is cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > C, the side of > A, be taken, and let > C by multiplying itself make > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "It is then manifest that > C by multiplying > D has made > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > C by multiplying itself has made > D, therefore > C measures > D according to the units in itself.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But further the unit also measures > C according to the units in it; therefore, as the unit is to > C, so is > C to > D. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > C by multiplying > D has made > A, therefore > D measures > A according to the units in > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit also measures > C according to the units in it; therefore, as the unit is to > C, so is > D to > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, as the unit is to > C, so is > C to > D; therefore also, as the unit is to > C, so is > C to > D, and > D to > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore between the unit and the number > A two mean proportional numbers > C, > D have fallen in continued proportion.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > A by multiplying itself has made > B, therefore > A measures > B according to the units in itself.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit also measures > A according to the units in it; therefore, as the unit is to > A, so is > A to > B. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But between the unit and > A two mean proportional numbers have fallen; therefore two mean proportional numbers will also fall between > A, > B. [elem.8.8]",
+                "refs": [
+                    "elem.8.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, if two mean proportional numbers fall between two numbers, and the first be cube, the second will also be cube. [elem.8.23]",
+                "refs": [
+                    "elem.8.23"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > A is cube; therefore > B is also cube. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.4": {
+        "id": "elem.9.4",
+        "n": 4,
+        "type": "proposition",
+        "enunciation": "> If a cube number by multiplying a cube number make some number, the product will be cube.",
+        "proof": [
+            {
+                "text": "For let the cube number > A by multiplying the cube number > B make > C; I say that > C is cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A by multiplying itself make > D; therefore > D is cube. [elem.9.3]",
+                "refs": [
+                    "elem.9.3"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A by multiplying itself has made > D, and by multiplying > B has made > C therefore, as > A is to > B, so is > D to > C. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A, > B are cube numbers, > A, > B are similar solid numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore two mean proportional numbers fall between > A, > B; [elem.8.19] so that two mean proportional numbers will fall between > D, > C also. [elem.8.8]",
+                "refs": [
+                    "elem.8.19",
+                    "elem.8.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > D is cube; therefore > C is also cube [elem.8.23] Q. E. D.",
+                "refs": [
+                    "elem.8.23"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.5": {
+        "id": "elem.9.5",
+        "n": 5,
+        "type": "proposition",
+        "enunciation": "> If a cube number by multiplying any number make a cube number, the multiplied number will also be cube.",
+        "proof": [
+            {
+                "text": "For let the cube number > A by multiplying any number > B make the cube number > C; I say that > B is cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A by multiplying itself make > D; therefore > D is cube. [elem.9.3]",
+                "refs": [
+                    "elem.9.3"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > A by multiplying itself has made > D, and by multiplying > B has made > C, therefore, as > A is to > B, so is > D to > C. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And since > D, > C are cube, they are similar solid numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore two mean proportional numbers fall between > D, > C. [elem.8.19]",
+                "refs": [
+                    "elem.8.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as > D is to > C, so is > A to > B; therefore two mean proportional numbers fall between > A, > B also. [elem.8.8]",
+                "refs": [
+                    "elem.8.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > A is cube; therefore > B is also cube. [elem.8.23]",
+                "refs": [
+                    "elem.8.23"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.6": {
+        "id": "elem.9.6",
+        "n": 6,
+        "type": "proposition",
+        "enunciation": "> If a number by multiplying itself make a cube number, it will itself also be cube.",
+        "proof": [
+            {
+                "text": "For let the number > A by multiplying itself make the cube number > B; I say that > A is also cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A by multiplying > B make > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since, then, > A by multiplying itself has made > B, and by multiplying > B has made > C, therefore > C is cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A by multiplying itself has made > B, therefore > A measures > B according to the units in itself.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit also measures > A according to the units in it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as the unit is to > A, so is > A to > B. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A by multiplying > B has made > C, therefore > B measures > C according to the units in > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit also measures > A according to the units in it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as the unit is to > A, so is > B to > C. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, as the unit is to > A, so is > A to > B; therefore also, as > A is to > B, so is > B to > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > B, > C are cube, they are similar solid numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore there are two mean proportional numbers between > B, > C. [elem.8.19]",
+                "refs": [
+                    "elem.8.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as > B is to > C, so is > A to > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore there are two mean proportional numbers between > A, > B also. [elem.8.8]",
+                "refs": [
+                    "elem.8.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > B is cube; therefore > A is also cube. [cf. elem.8.23] Q. E. D.",
+                "refs": [
+                    "elem.8.23"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.7": {
+        "id": "elem.9.7",
+        "n": 7,
+        "type": "proposition",
+        "enunciation": "> If a composite number by multiplying any number make some number, the product will be solid.",
+        "proof": [
+            {
+                "text": "For let the composite number > A by multiplying any number > B make > C; I say that > C is solid.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A is composite, it will be measured by some number. [elem.7.def.13]",
+                "refs": [
+                    "elem.7.def.13"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let it be measured by > D; and, as many times as > D measures > A, so many units let there be in > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > D measures > A according to the units in > E, therefore > E by multiplying > D has made > A. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A by multiplying > B has made > C, and > A is the product of > D, > E, therefore the product of > D, > E by multiplying > B has made > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C is solid, and > D, > E, > B are its sides. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.8": {
+        "id": "elem.9.8",
+        "n": 8,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please beginning from an unit be in continued proportion, the third from the unit will be square, as will also those which successively leave out one; the fourth will be cube, as will also all those which leave out two; and the seventh will be at once cube and square, as will also those which leave out five.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please, > A, > B, > C, > D, > E, > F, beginning from an unit and in continued proportion; I say that > B, the third from the unit, is square, as are also all those which leave out one; > C, the fourth, is cube, as are also all those which leave out two; and > F, the seventh, is at once cube and square, as are also all those which leave out five.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, as the unit is to > A, so is > A to > B, therefore the unit measures the number > A the same number of times that > A measures > B. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the unit measures the number > A according to the units in it; therefore > A also measures > B according to the units in > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A by multiplying itself has made > B; therefore > B is square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > B, > C, > D are in continued proportion, and > B is square, therefore > D is also square. [elem.8.22]",
+                "refs": [
+                    "elem.8.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > F is also square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that all those which leave out one are square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that > C, the fourth from the unit, is cube, as are also all those which leave out two.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, as the unit is to > A, so is > B to > C, therefore the unit measures the number > A the same number of times that > B measures > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit measures the number > A according to the units in > A; therefore > B also measures > C according to the units in > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A by multiplying > B has made > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > A by multiplying itself has made > B, and by multiplying > B has made > C, therefore > C is cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > C, > D, > E, > F are in continued proportion, and > C is cube, therefore > F is also cube. [elem.8.23]",
+                "refs": [
+                    "elem.8.23"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But it was also proved square; therefore the seventh from the unit is both cube and square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that all the numbers which leave out five are also both cube and square. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.9": {
+        "id": "elem.9.9",
+        "n": 9,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be square, all the rest will also be square. And, if the number after the unit be cube, all the rest will also be cube.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please, > A, > B, > C, > D, > E, > F, beginning from an unit and in continued proportion, and let > A, the number after the unit, be square; I say that all the rest will also be square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now it has been proved that > B, the third from the unit, is square, as are also all those which leave out one; [elem.9.8] I say that all the rest are also square.",
+                "refs": [
+                    "elem.9.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A, > B, > C are in continued proportion, and > A is square, therefore > C is also square. [elem.8.22]",
+                "refs": [
+                    "elem.8.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > B, > C, > D are in continued proportion, and > B is square, > D is also square. [elem.8.22]",
+                "refs": [
+                    "elem.8.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that all the rest are also square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A be cube; I say that all the rest are also cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now it has been proved that > C, the fourth from the unit, is cube, as also are all those which leave out two; [elem.9.8] I say that all the rest are also cube.",
+                "refs": [
+                    "elem.9.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For, since, as the unit is to > A, so is > A to > B, therefore the unit measures > A the same number of times as > A measures > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit measures > A according to the units in it; therefore > A also measures > B according to the units in itself; therefore > A by multiplying itself has made > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And > A is cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if a cube number by multiplying itself make some number, the product is cube. [elem.9.3]",
+                "refs": [
+                    "elem.9.3"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > B is also cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since the four numbers > A, > B, > C, > D are in continued proportion, and > A is cube, > D also is cube. [elem.8.23]",
+                "refs": [
+                    "elem.8.23"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > E is also cube, and similarly all the rest are cube. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.10": {
+        "id": "elem.9.10",
+        "n": 10,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be not square, neither will any other be square except the third from the unit and all those which leave out one. And, if the number after the unit be not cube, neither will any other be cube except the fourth from the unit and all those which leave out two.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please, > A, > B, > C, > D, > E, > F, beginning from an unit and in continued proportion, and let > A, the number after the unit, not be square;",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let > C be square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > B is also square; [elem.9.8] [therefore > B, > C have to one another the ratio which a square number has to a square number].",
+                "refs": [
+                    "elem.9.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as > B is to > C, so is > A to > B; therefore > A, > B have to one another the ratio which a square number has to a square number; [so that > A, > B are similar plane numbers]. [elem.8.26, converse]",
+                "refs": [
+                    "elem.8.26"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > B is square; therefore > A is also square: which is contrary to the hypothesis.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C is not square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that neither is any other of the numbers square except the third from the unit and those which leave out one.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A not be cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that neither will any other be cube except the fourth from the unit and those which leave out two.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let > D be cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > C is also cube; for it is fourth from the unit. [elem.9.8]",
+                "refs": [
+                    "elem.9.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as > C is to > D, so is > B to > C; therefore > B also has to > C the ratio which a cube has to a cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And > C is cube; therefore > B is also cube. [elem.8.25]",
+                "refs": [
+                    "elem.8.25"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And since, as the unit is to > A, so is > A to > B, and the unit measures > A according to the units in it, therefore > A also measures > B according to the units in itself; therefore > A by multiplying itself has made the cube number > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if a number by multiplying itself make a cube number, it is also itself cube. [elem.9.6]",
+                "refs": [
+                    "elem.9.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A is also cube: which is contrary to the hypothesis.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D is not cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that neither is any other of the numbers cube except the fourth from the unit and those which leave out two. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.11": {
+        "id": "elem.9.11",
+        "n": 11,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please beginning from an unit be in continued proportion, the less measures the greater according to some one of the numbers which have place among the proportional numbers.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please, > B, > C, > D, > E, beginning from the unit > A and in continued proportion; I say that > B, the least of the numbers > B, > C, > D, > E, measures > E according to some one of the numbers > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, as the unit > A is to > B, so is > D to > E, therefore the unit > A measures the number > B the same number of times as > D measures > E; therefore, alternately, the unit > A measures > D the same number of times as > B measures > E. [elem.7.15]",
+                "refs": [
+                    "elem.7.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > A measures > D according to the units in it; therefore > B also measures > E according to the units in > D; so that > B the less measures > E the greater according to some number of those which have place among the proportional numbers.\u2014",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.12": {
+        "id": "elem.9.12",
+        "n": 12,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please beginning from an unit be in continued proportion, by however many prime numbers the last is measured, the next to the unit will also be measured by the same.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please, > A, > B, > C, > D, beginning from an unit, and in continued proportion; I say that, by however many prime numbers > D is measured, > A will also be measured by the same.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > D be measured by any prime number > E; I say that > E measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For suppose it does not; now > E is prime, and any prime number is prime to any which it does not measure; [elem.7.29] therefore > E, > A are prime to one another.",
+                "refs": [
+                    "elem.7.29"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > E measures > D, let it measure it according to > F, therefore > E by multiplying > F has made > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > A measures > D according to the units in > C, [elem.9.11 elem.9.11.p.1] therefore > A by multiplying > C has made > D.",
+                "refs": [
+                    "elem.9.11 elem.9.11.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > E has also by multiplying > F made > D; therefore the product of > A, > C is equal to the product of > E, > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > E, so is > F to > C. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > E are prime, primes are also least, [elem.7.21] and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore > E measures > C.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let it measure it according to > G; therefore > E by multiplying > G has made > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, further, by the theorem before this, > A has also by multiplying > B made > C. [elem.9.11 elem.9.11.p.1]",
+                "refs": [
+                    "elem.9.11 elem.9.11.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the product of > A, > B is equal to the product of > E, > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > E, so is > G to > B. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > E are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent: [elem.7.20] therefore > E measures > B.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let it measure it according to > H; therefore > E by multiplying > H has made > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But further > A has also by multiplying itself made > B; [elem.9.8] therefore the product of > E, > H is equal to the square on > A.",
+                "refs": [
+                    "elem.9.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > E is to > A, so is > A to > H. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > E are prime, primes are also least, [elem.7.21] and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore > E measures > A, as antecedent antecedent.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, again, it also does not measure it: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E, > A are not prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore they are composite to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But numbers composite to one another are measured by some number. [elem.7.def.14]",
+                "refs": [
+                    "elem.7.def.14"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > E is by hypothesis prime, and the prime is not measured by any number other than itself, therefore > E measures > A, > E, so that > E measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "[But it also measures > D; therefore > E measures > A, > D.]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that, by however many prime numbers > D is measured, > A will also be measured by the same. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.13": {
+        "id": "elem.9.13",
+        "n": 13,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be prime, the greatest will not be measured by any except those which have a place among the proportional numbers.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please, > A, > B, > C, > D, beginning from an unit and in continued proportion, and let > A, the number after the unit, be prime; I say that > D, the greatest of them, will not be measured by any other number except > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let it be measured by > E, and let > E not be the same with any of the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "It is then manifest that > E is not prime.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > E is prime and measures > D, it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
+                "refs": [
+                    "elem.9.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E is not prime.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore it is composite.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But any composite number is measured by some prime number; [elem.7.31] therefore > E is measured by some prime number.",
+                "refs": [
+                    "elem.7.31"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it will not be measured by any other prime except > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > E is measured by another, and > E measures > D, that other will also measure > D; so that it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
+                "refs": [
+                    "elem.9.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A measures > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > E measures > D, let it measure it according to > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that > F is not the same with any of the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > F is the same with one of the numbers > A, > B, > C, and measures > D according to > E, therefore one of the numbers > A, > B, > C also measures > D according to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But one of the numbers > A, > B, > C measures > D according to some one of the numbers > A, > B, > C; [elem.9.11] therefore > E is also the same with one of the numbers > A, > B, > C: which is contrary to the hypothesis.",
+                "refs": [
+                    "elem.9.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > F is not the same as any one of the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that > F is measured by > A, by proving again that > F is not prime.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if it is, and measures > D, it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible; therefore > F is not prime.",
+                "refs": [
+                    "elem.9.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore it is composite.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But any composite number is measured by some prime number; [elem.7.31] therefore > F is measured by some prime number.",
+                "refs": [
+                    "elem.7.31"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it will not be measured by any other prime except > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if any other prime number measures > F, and > F measures > D, that other will also measure > D; so that it will also measure > A [elem.9.12], which is prime, though it is not the same with it: which is impossible.",
+                "refs": [
+                    "elem.9.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A measures > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > E measures > D according to > F, therefore > E by multiplying > F has made > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > A has also by multiplying > C made > D; [elem.9.11] therefore the product of > A, > C is equal to the product of > E, > F.",
+                "refs": [
+                    "elem.9.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, proportionally, as > A is to > E, so is > F to > C. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A measures > E; therefore > F also measures > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let it measure it according to > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly, then, we can prove that > G is not the same with any of the numbers > A, > B, and that it is measured by > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > F measures > C according to > G therefore > F by multiplying > G has made > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > A has also by multiplying > B made > C; [elem.9.11] therefore the product of > A, > B is equal to the product of > F, > G.",
+                "refs": [
+                    "elem.9.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, proportionally, as > A is to > F, so is > G to > B. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A measures > F; therefore > G also measures > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let it measure it according to > H.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly then we can prove that > H is not the same with > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > G measures > B according to > H, therefore > G by multiplying > H has made > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But further > A has also by multiplying itself made > B; [elem.9.8] therefore the product of > H, > G is equal to the square on > A.",
+                "refs": [
+                    "elem.9.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > H is to > A, so is > A to > G. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A measures > G;< therefore > H also measures > A, which is prime, though it is not the same with it: which is absurd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D the greatest will not be measured by any other number except > A, > B, > C. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.14": {
+        "id": "elem.9.14",
+        "n": 14,
+        "type": "proposition",
+        "enunciation": "> If a number be the least that is measured by prime numbers, it will not be measured by any other prime number except those originally measuring it.",
+        "proof": [
+            {
+                "text": "For let the number > A be the least that is measured by the prime numbers > B, > C, > D; > A will not be measured by any other prime number except > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let it be measured by the prime number > E, and let > E not be the same with any one of the numbers > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > E measures > A, let it measure it according to > F; > therefore > E by multiplying > F has made > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And > A is measured by the prime numbers > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers; [elem.7.30] therefore > B, > C, > D will measure one of the numbers > E, > F.",
+                "refs": [
+                    "elem.7.30"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now they will not measure > E; for > E is prime and not the same with any one of the numbers > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore they will measure > F, which is less than > A: which is impossible, for > A is by hypothesis the least number measured by > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no prime number will measure > A except > B, > C, > D. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.15": {
+        "id": "elem.9.15",
+        "n": 15,
+        "type": "proposition",
+        "enunciation": "> If three numbers in continued proportion be the least of those which have the same ratio with them, any two whatever added together will be prime to the remaining number.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C, three numbers in continued proportion, be the least of those which have the same ratio with them; I say that any two of the numbers > A, > B, > C whatever added together are prime to the remaining number, namely > A, > B to > C; > B, > C to > A; and further > A, > C to > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let two numbers > DE, > EF, the least of those which have the same ratio with > A, > B, > C, be taken. [elem.8.2]",
+                "refs": [
+                    "elem.8.2"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "It is then manifest that > DE by multiplying itself has made > A, and by multiplying > EF has made > B, and, further, > EF by multiplying itself has made > C. [elem.8.2]",
+                "refs": [
+                    "elem.8.2"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > DE, > EF are least, they are prime to one another. [elem.7.22]",
+                "refs": [
+                    "elem.7.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, if two numbers be prime to one another, their sum is also prime to each; [elem.7.28] therefore > DF is also prime to each of the numbers > DE, > EF.",
+                "refs": [
+                    "elem.7.28"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But further > DE is also prime to > EF; therefore > DF, > DE are prime to > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if two numbers be prime to any number, their product is also prime to the other; [elem.7.24] so that the product of > FD, > DE is prime to > EF; hence the product of > FD, > DE is also prime to the square on > EF. [elem.7.25]",
+                "refs": [
+                    "elem.7.24",
+                    "elem.7.25"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the product of > FD, > DE is the square on > DE together with the product of > DE, > EF; [elem.2.3] therefore the square on > DE together with the product of > DE, > EF is prime to the square on > EF.",
+                "refs": [
+                    "elem.2.3"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the square on > DE is > A, the product of > DE, > EF is > B, and the square on > EF is > C; therefore > A, > B added together are prime to > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that > B, > C added together are prime to > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that > A, > C added together are also prime to > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > DF is prime to each of the numbers > DE, > EF, the square on > DF is also prime to the product of > DE, > EF. [elem.7.24 elem.7.25]",
+                "refs": [
+                    "elem.7.24 elem.7.25"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the squares on > DE, > EF together with twice the product of > DE, > EF are equal to the square on > DF; [elem.2.4] therefore the squares on > DE, > EF together with twice the product of > DE, > EF are prime to the product of > DE, > EF.",
+                "refs": [
+                    "elem.2.4"
+                ],
+                "emphs": []
+            },
+            {
+                "text": ", the squares on > DE, > EF together with once the product of > DE, > EF are prime to the product of > DE, > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore,  again, the squares on > DE, > EF are prime to the product of > DE, > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And the square on > DE is > A, the product of > DE, > EF is > B, and the square on > EF is > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > C added together are prime to > B. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.16": {
+        "id": "elem.9.16",
+        "n": 16,
+        "type": "proposition",
+        "enunciation": "> If two numbers be prime to one another, the second will not be to any other number as the first is to the second.",
+        "proof": [
+            {
+                "text": "For let the two numbers > A, > B be prime to one another; I say that > B is not to any other number as > A is to > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, as > A is to > B, so let > B be to > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > A, > B are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore > A measures > B as antecedent antecedent.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures itself; therefore > A measures > A, > B which are prime to one another: which is absurd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > B will not be to > C, as > A is to > B. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.17": {
+        "id": "elem.9.17",
+        "n": 17,
+        "type": "proposition",
+        "enunciation": "> If there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, the last will not be to any other number as the first to the second.",
+        "proof": [
+            {
+                "text": "For let there be as many numbers as we please, > A, > B, > C, > D, in continued proportion, and let the extremes of them, > A, > D, be prime to one another; I say that > D is not to any other number as > A is to > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, as > A is to > B, so let > D be to > E; therefore, alternately, as > A is to > D, so is > B to > E. [elem.7.13]",
+                "refs": [
+                    "elem.7.13"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > D are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent. [elem.7.20]",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A measures > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, as > A is to > B, so is > B to > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > B also measures > C; so that > A also measures > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And since, as > B is to > C, so is > C to > D, and > B measures > C, therefore > C also measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > A measured > C; so that > A also measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures itself; therefore > A measures > A, > D which are prime to one another : which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D will not be to any other number as > A is to > B. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.18": {
+        "id": "elem.9.18",
+        "n": 18,
+        "type": "proposition",
+        "enunciation": "> Given two numbers, to investigate whether it is possible to find a third proportional to them.",
+        "proof": [
+            {
+                "text": "Let > A, > B be the given two numbers, and let it be required to investigate whether it is possible to find a third proportional to them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > A, > B are either prime to one another or not.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, if they are prime to one another, it has been proved that it is impossible to find a third proportional to them. [elem.9.16]",
+                "refs": [
+                    "elem.9.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A, > B not be prime to one another, and let > B by multiplying itself make > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then > A either measures > C or does not measure it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let it measure it according to > D; therefore > A by multiplying > D has made > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > B has also by multiplying itself made > C; therefore the product of > A, > D is equal to the square on > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > B, so is > B to > D; [elem.7.19] therefore a third proportional number > D has been found to > A, > B.",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A not measure > C; I say that it is impossible to find a third proportional number to > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let > D, such third proportional, have been found.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the product of > A, > D is equal to the square on > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the square on > B is > C; therefore the product of > A, > D is equal to > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Hence > A by multiplying > D has made > C; therefore > A measures > C according to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, by hypothesis, it also does not measure it: which is absurd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore it is not possible to find a third proportional number to > A, > B when > A does not measure > C. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.19": {
+        "id": "elem.9.19",
+        "n": 19,
+        "type": "proposition",
+        "enunciation": "> Given three numbers, to investigate when it is possible to find a fourth proportional to them.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be the given three numbers, and let it be required to investigate when it is possible to find a fourth proportional to them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now either they are not in continued proportion, and the extremes of them are prime to one another; or they are in continued proportion, and the extremes of them are not prime to one another; or they are not in continued proportion, nor are the extremes of them prime to one another; or they are in continued proportion, and the extremes of them are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "If then > A, > B, > C are in continued proportion, and the extremes of them > A, > C are prime to one another, it has been proved that it is impossible to find a fourth proportional number to them. [elem.9.17]",
+                "refs": [
+                    "elem.9.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "<*>Next, let > A, > B, > C not be in continued proportion, the extremes being again prime to one another; I say that in this case also it is impossible to find a fourth proportional to them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let > D have been found, so that, > as > A is to > B, so is > C to > D, and let it be contrived that, as > B is to > C, so is > D to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since, as > A is to > B, so is > C to > D, and, as > B is to > C, so is > D to > E, therefore, , as > A is to > C, so is > C to > E. [elem.7.14]",
+                "refs": [
+                    "elem.7.14"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > C are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio, the antecedent the antecedent and the consequent the consequent. [elem.7.20]",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A measures > C as antecedent antecedent.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures itself; therefore > A measures > A, > C which are prime to one another: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore it is not possible to find a fourth proportional to > A, > B, > C.<*>",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A, > B, > C be again in continued proportion, but let > A, > C not be prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that it is possible to find a fourth proportional to them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > B by multiplying > C make > D; therefore > A either measures > D or does not measure it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let it measure it according to > E; therefore > A by multiplying > E has made > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > B has also by multiplying > C made > D; therefore the product of > A, > E is equal to the product of > B, > C; therefore, proportionally, as > A is to > B, so is > C to > E; [elem.7.19] therefore > E has been found a fourth proportional to > A, > B, > C.",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A not measure > D; I say that it is impossible to find a fourth proportional number to > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let > E have been found; therefore the product of > A, > E is equal to the product of > B, > C. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the product of > B, > C is > D; therefore the product of > A, > E is also equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A by multiplying > E has made > D; therefore > A measures > D according to > E, so that > A measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also does not measure it: which is absurd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore it is not possible to find a fourth proportional number to > A, > B, > C when > A does not measure > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A, > B, > C not be in continued proportion, nor the extremes prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And let > B by multiplying > C make > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly then it can be proved that, if > A measures > D, it is possible to find a fourth proportional to them, but, if it does not measure it, impossible. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.20": {
+        "id": "elem.9.20",
+        "n": 20,
+        "type": "proposition",
+        "enunciation": "> Prime numbers are more than any assigned multitude of prime numbers.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be the assigned prime numbers; I say that there are more prime numbers than > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let the least number measured by > A, > B, > C be taken, and let it be > DE; let the unit > DF be added to > DE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then > EF is either prime or not.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let it be prime; then the prime numbers > A, > B, > C, > EF have been found which are more than > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > EF not be prime; therefore it is measured by some prime number. [elem.7.31]",
+                "refs": [
+                    "elem.7.31"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let it be measured by the prime number > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that > G is not the same with any of the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let it be so.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > A, > B, > C measure > DE; therefore > G also will measure > DE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > G, being a number, will measure the remainder, the unit > DF: which is absurd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > G is not the same with any one of the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And by hypothesis it is prime.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the prime numbers > A, > B, > C, > G have been found which are more than the assigned multitude of > A, > B, > C. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.21": {
+        "id": "elem.9.21",
+        "n": 21,
+        "type": "proposition",
+        "enunciation": "> If as many even numbers as we please be added together, the whole is even.",
+        "proof": [
+            {
+                "text": "For let as many even numbers as we please, > AB, > BC, > CD, > DE, be added together; I say that the whole > AE is even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since each of the numbers > AB, > BC, > CD, > DE is even, it has a half part; [elem.7.def.6] so that the whole > AE also has a half part.",
+                "refs": [
+                    "elem.7.def.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But an even number is that which is divisible into two equal parts; [> id.] therefore > AE is even. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.22": {
+        "id": "elem.9.22",
+        "n": 22,
+        "type": "proposition",
+        "enunciation": "> If as many odd numbers as we please be added together, and their multitude be even, the whole will be even.",
+        "proof": [
+            {
+                "text": "For let as many odd numbers as we please, > AB, > BC, > CD, > DE, even in multitude, be added together; I say that the whole > AE is even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since each of the numbers > AB, > BC, > CD, > DE is odd, if an unit be subtracted from each, each of the remainders will be even; [elem.7.def.7] so that the sum of them will be even. [elem.9.21]",
+                "refs": [
+                    "elem.7.def.7",
+                    "elem.9.21"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the multitude of the units is also even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the whole > AE is also even. [elem.9.21] Q. E. D.",
+                "refs": [
+                    "elem.9.21"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.23": {
+        "id": "elem.9.23",
+        "n": 23,
+        "type": "proposition",
+        "enunciation": "> If as many odd numbers as we please be added together, and their multitude be odd, the whole will also be odd.",
+        "proof": [
+            {
+                "text": "For let as many odd numbers as we please, > AB, > BC, > CD, the multitude of which is odd, be added together; I say that the whole > AD is also odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let the unit > DE be subtracted from > CD; therefore the remainder > CE is even. [elem.7.def.7]",
+                "refs": [
+                    "elem.7.def.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > CA is also even; [elem.9.22] therefore the whole > AE is also even. [elem.9.21]",
+                "refs": [
+                    "elem.9.22",
+                    "elem.9.21"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > DE is an unit.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > AD is odd. [elem.7.def.7] Q. E. D.",
+                "refs": [
+                    "elem.7.def.7"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.24": {
+        "id": "elem.9.24",
+        "n": 24,
+        "type": "proposition",
+        "enunciation": "> If from an even number an even number be subtracted, the remainder will be even.",
+        "proof": [
+            {
+                "text": "For from the even number > AB let the even number > BC be subtracted: I say that the remainder > CA is even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > AB is even, it has a half part. [elem.7.def.6]",
+                "refs": [
+                    "elem.7.def.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > BC also has a half part; so that the remainder [> CA also has a half part, and] > AC is therefore even. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.25": {
+        "id": "elem.9.25",
+        "n": 25,
+        "type": "proposition",
+        "enunciation": "> If from an even number an odd number be subtracted, the remainder will be odd.",
+        "proof": [
+            {
+                "text": "For from the even number > AB let the odd number > BC be subtracted; I say that the remainder > CA is odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let the unit > CD be subtracted from > BC; therefore > DB is even. [elem.7.def.7]",
+                "refs": [
+                    "elem.7.def.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > AB is also even; therefore the remainder > AD is also even. [elem.9.24]",
+                "refs": [
+                    "elem.9.24"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > CD is an unit; therefore > CA is odd. [elem.7.def.7] Q. E. D.",
+                "refs": [
+                    "elem.7.def.7"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.26": {
+        "id": "elem.9.26",
+        "n": 26,
+        "type": "proposition",
+        "enunciation": "> If from an odd number an odd number be subtracted, the remainder will be even.",
+        "proof": [
+            {
+                "text": "For from the odd number > AB let the odd number > BC be subtracted; I say that the remainder > CA is even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > AB is odd, let the unit > BD be subtracted; therefore the remainder > AD is even. [elem.7.def.7]",
+                "refs": [
+                    "elem.7.def.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > CD is also even; [elem.7.def.7] so that the remainder > CA is also even. [elem.9.24] Q. E. D.",
+                "refs": [
+                    "elem.7.def.7",
+                    "elem.9.24"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.27": {
+        "id": "elem.9.27",
+        "n": 27,
+        "type": "proposition",
+        "enunciation": "> If from an odd number an even number be subtracted, the remainder will be odd.",
+        "proof": [
+            {
+                "text": "For from the odd number > AB let the even number > BC be subtracted; I say that the remainder > CA is odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let the unit > AD be subtracted; therefore > DB is even. [elem.7.def.7]",
+                "refs": [
+                    "elem.7.def.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > BC is also even; therefore the remainder > CD is even. [elem.9.24]",
+                "refs": [
+                    "elem.9.24"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > CA is odd. [elem.7.def.7] Q. E. D.",
+                "refs": [
+                    "elem.7.def.7"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.28": {
+        "id": "elem.9.28",
+        "n": 28,
+        "type": "proposition",
+        "enunciation": "> If an odd number by multiplying an even number make some number, the product will be even.",
+        "proof": [
+            {
+                "text": "For let the odd number > A by multiplying the even number > B make > C; I say that > C is even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A by multiplying > B has made > C, therefore > C is made up of as many numbers equal to > B as there are units in > A. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > B is even; therefore > C is made up of even numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if as many even numbers as we please be added together, the whole is even. [elem.9.21]",
+                "refs": [
+                    "elem.9.21"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C is even. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.29": {
+        "id": "elem.9.29",
+        "n": 29,
+        "type": "proposition",
+        "enunciation": "> If an odd number by multiplying an odd number make some number, the product will be odd.",
+        "proof": [
+            {
+                "text": "For let the odd number > A by multiplying the odd number > B make > C; I say that > C is odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A by multiplying > B has made > C, > C is made up of as many numbers equal to > B as there are units in > A. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And each of the numbers > A, > B is odd; therefore > C is made up of odd numbers the multitude of which is odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus > C is odd. [elem.9.23] Q. E. D.",
+                "refs": [
+                    "elem.9.23"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.30": {
+        "id": "elem.9.30",
+        "n": 30,
+        "type": "proposition",
+        "enunciation": "> If an odd number measure an even number, it will also measure the half of it.",
+        "proof": [
+            {
+                "text": "For let the odd number > A measure the even number > B; I say that it will also measure the half of it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A measures > B, let it measure it according to > C; I say that > C is not odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let it be so.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then, since > A measures > B according to > C, therefore > A by multiplying > C has made > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > B is made up of odd numbers the multitude of which is odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > B is odd: [elem.9.23] which is absurd, for by hypothesis it is even.",
+                "refs": [
+                    "elem.9.23"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C is not odd; therefore > C is even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus > A measures > B an even number of times.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For this reason then it also measures the half of it. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.31": {
+        "id": "elem.9.31",
+        "n": 31,
+        "type": "proposition",
+        "enunciation": "> If an odd number be prime to any number, it will also be prime to the double of it.",
+        "proof": [
+            {
+                "text": "For let the odd number > A be prime to any number > B, and let > C be double of > B; I say that > A is prime to > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if they are not prime to one another, some number will measure them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure them, and let it be > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > A is odd; therefore > D is also odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And since > D which is odd measures > C, and > C is even, therefore [> D] will measure the half of > C also. [elem.9.30]",
+                "refs": [
+                    "elem.9.30"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > B is half of > C; therefore > D measures > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > A; therefore > D measures > A, > B which are prime to one another: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A cannot but be prime to > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > C are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.32": {
+        "id": "elem.9.32",
+        "n": 32,
+        "type": "proposition",
+        "enunciation": "> Each of the numbers which are continually doubled beginning from a dyad is even-times even only.",
+        "proof": [
+            {
+                "text": "For let as many numbers as we please, > B, > C, > D, have been continually doubled beginning from the dyad > A; I say that > B, > C, > D are eventimes even only.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now that each of the numbers > B, > C, > D is even-times even is manifest; for it is doubled from a dyad.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that it is also even-times even only.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let an unit be set out.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then as many numbers as we please beginning from an unit are in continued proportion, and the number > A after the unit is prime, therefore > D, the greatest of the numbers > A, > B, > C, > D, will not be measured by any other number except > A, > B, > C. [elem.9.13]",
+                "refs": [
+                    "elem.9.13"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And each of the numbers > A, > B, > C is even; therefore > D is even-times even only. [elem.7.def.8]",
+                "refs": [
+                    "elem.7.def.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that each of the numbers > B, > C is even-times even only. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.33": {
+        "id": "elem.9.33",
+        "n": 33,
+        "type": "proposition",
+        "enunciation": "> If a number have its half odd, it is even-times odd only.",
+        "proof": [
+            {
+                "text": "For let the number > A have its half odd; I say that > A is even-times odd only.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now that it is even-times odd is manifest; for the half of it, being odd, measures it an even number of times. [elem.7.def.9]",
+                "refs": [
+                    "elem.7.def.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also even-times odd only.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > A is even-times even also, it will be measured by an even number according to an even number; [elem.7.def.8] so that the half of it will also be measured by an even number though it is odd: which is absurd.",
+                "refs": [
+                    "elem.7.def.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A is even-times odd only. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.34": {
+        "id": "elem.9.34",
+        "n": 34,
+        "type": "proposition",
+        "enunciation": "> If a number neither be one of those which are continually doubled from a dyad, nor have its half odd, it is both eventimes even and even-times odd.",
+        "proof": [
+            {
+                "text": "For let the number > A neither be one of those doubled from a dyad, nor have its half odd; I say that > A is both even-times even and even-times odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now that > A is even-times even is manifest; for it has not its half odd. [elem.7.def.8]",
+                "refs": [
+                    "elem.7.def.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also even-times odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if we bisect > A, then bisect its half, and do this continually, we shall come upon some odd number which will measure > A according to an even number.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, we shall come upon a dyad, and > A will be among those which are doubled from a dyad: which is contrary to the hypothesis.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus > A is even-times odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it was also proved even-times even.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A is both even-times even and even-times odd. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.35": {
+        "id": "elem.9.35",
+        "n": 35,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please be in continued proportion, and there be subtracted from the second and the last numbers equal to the first, then, as the excess of the second is to the first, so will the excess of the last be to all those before it.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please in continued proportion, > A, > BC, > D, > EF, beginning from > A as least, and let there be subtracted from > BC and > EF the numbers > BG, > FH, each equal to > A; I say that, as > GC is to > A, so is > EH to > A, > BC, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > FK be made equal to > BC, and > FL equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then, since > FK is equal to > BC, and of these the part > FH is equal to the part > BG, therefore the remainder > HK is equal to the remainder > GC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And since, as > EF is to > D, so is > D to > BC, and > BC to > A, while > D is equal to > FL, > BC to > FK, and > A to > FH, therefore, as > EF is to > FL, so is > LF to > FK, and > FK to > FH.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": ", as > EL is to > LF, so is > LK to > FK, and > KH to > FH. [elem.7.11 elem.7.13]",
+                "refs": [
+                    "elem.7.11 elem.7.13"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.7.12] therefore, as > KH is to > FH, so are > EL, > LK. > KH to > LF, > FK, > HF.",
+                "refs": [
+                    "elem.7.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > KH is equal to > CG, > FH to > A, and > LF, > FK, > HF to > D, > BC, > A; therefore, as > CG is to > A, so is > EH to > D, > BC, > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as the excess of the second is to the first, so is the excess of the last to all those before it. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.9.36": {
+        "id": "elem.9.36",
+        "n": 36,
+        "type": "proposition",
+        "enunciation": "> If as many numbers as we please beginning from an unit be set out continuously in double proportion, until the sum of all becomes prime, and if the sum multiplied into the last make some number, the product will be perfect.",
+        "proof": [
+            {
+                "text": "For let as many numbers as we please, > A, > B, > C, > D, beginning from an unit be set out in double proportion, until the sum of all becomes prime, let > E be equal to the sum, and let > E by multiplying > D make > FG; I say that > FG is perfect.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, however many > A, > B, > C, > D are in multitude, let so many > E, > HK, > L, > M be taken in double proportion beginning from > E; therefore, , as > A is to > D, so is > E to > M. [elem.7.14]",
+                "refs": [
+                    "elem.7.14"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the product of > E, > D is equal to the product of > A, > M. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the product of > E, > D is > FG; therefore the product of > A, > M is also > FG.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A by multiplying > M has made > FG; therefore > M measures > FG according to the units in > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And > A is a dyad; therefore > FG is double of > M.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > M, > L, > HK, > E are continuously double of each other; therefore > E, > HK, > L, > M, > FG are continuously proportional in double proportion.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now let there be subtracted from the second > HK and the last > FG the numbers > HN, > FO, each equal to the first > E; therefore, as the excess of the second is to the first, so is the excess of the last to all those before it. [elem.9.35]",
+                "refs": [
+                    "elem.9.35"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > NK is to > E, so is > OG to > M, > L, > KH, > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And > NK is equal to > E; therefore > OG is also equal to > M, > L, > HK, > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > FO is also equal to > E, and > E is equal to > A, > B, > C, > D and the unit.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the whole > FG is equal to > E, > HK, > L, > M and > A, > B, > C, > D and the unit; and it is measured by them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say also that > FG will not be measured by any other number except > A, > B, > C, > D, > E, > HK, > L, > M and the unit.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let some number > P measure > FG, and let > P not be the same with any of the numbers > A, > B, > C, > D, > E, > HK, > L, > M.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, as many times as > P measures > FG, so many units let there be in > Q; therefore > Q by multiplying > P has made > FG.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > E has also by multiplying > D made > FG; therefore, as > E is to > Q, so is > P to > D. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A, > B, > C, > D are continuously proportional beginning from an unit, therefore > D will not be measured by any other number except > A, > B, > C. [elem.9.13]",
+                "refs": [
+                    "elem.9.13"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, by hypothesis, > P is not the same with any of the numbers > A, > B, > C; therefore > P will not measure > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, as > P is to > D, so is > E to > Q; therefore neither does > E measure > Q. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > E is prime; and any prime number is prime to any number which it does not measure. [elem.7.29]",
+                "refs": [
+                    "elem.7.29"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E, > Q are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [elem.7.20] and, as > E is to > Q, so is > P to > D; therefore > E measures > P the same number of times that > Q measures > D.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > D is not measured by any other number except > A, > B, > C; therefore > Q is the same with one of the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let it be the same with > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, however many > B, > C, > D are in multitude, let so many > E, > HK, > L be taken beginning from > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > E, > HK, > L are in the same ratio with > B, > C, > D; therefore, , as > B is to > D, so is > E to > L. [elem.7.14]",
+                "refs": [
+                    "elem.7.14"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the product of > B, > L is equal to the product of > D, > E. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the product of > D, > E is equal to the product of > Q, > P; therefore the product of > Q, > P is also equal to the product of > B, > L.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > Q is to > B, so is > L to > P. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > Q is the same with > B; therefore > L is also the same with > P; > P is not the same with any of the numbers set out.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure > FG except > A, > B, > C, > D, > E, > HK, > L, > M and the unit.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And > FG was proved equal to > A, > B, > C, > D, > E, > HK, > L, > M and the unit; and a perfect number is that which is equal to its own parts; [elem.7.def.22] therefore > FG is perfect. Q. E. D.",
+                "refs": [
+                    "elem.7.def.22"
+                ],
+                "emphs": []
+            }
+        ]
+    }
+}

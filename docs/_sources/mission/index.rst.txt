@@ -6,6 +6,7 @@ mission
    :backlinks: none
 
 
+
 My research into the golden ratio drew me to Euclid's Elements.
 I only knew it by name prior. It has turned out to be a journey in itself. I
 was surprised to find that there is not one Elements. Like the Bible, there

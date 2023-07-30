@@ -1,4 +1,0 @@
-Enunciation:
-An {obtuse angle} is an angle greater than a right angle.
-
-Proof:

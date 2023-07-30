@@ -1,0 +1,80 @@
+{
+    "elem.4.2": {
+        "id": "elem.4.2",
+        "n": 2,
+        "type": "proposition",
+        "enunciation": "`In a given circle to inscribe a triangle equiangular with a given triangle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be the given circle, and `DEF` the given triangle; thus it is required to inscribe in the circle `ABC` a triangle equiangular with the triangle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Let `GH` be drawn touching the circle `ABC` at `A` [elem.3.16.p.1]; on the straight line `AH`, and at the point `A` on it, let the angle `HAC` be constructed equal to the angle `DEF`, and on the straight line `AG`, and at the point `A` on it, let the angle `GAB` be constructed equal to the angle `DFE`; [elem.1.23] let `BC` be joined.",
+                "refs": [
+                    "elem.3.16.p.1",
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "GH",
+                    "ABC",
+                    "A",
+                    "AH",
+                    "A",
+                    "HAC",
+                    "DEF",
+                    "AG",
+                    "A",
+                    "GAB",
+                    "DFE",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Then, since a straight line `AH` touches the circle `ABC`, and from the point of contact at `A` the straight line `AC` is drawn across in the circle, therefore the angle `HAC` is equal to the angle `ABC` in the alternate segment of the circle. [elem.3.32]",
+                "refs": [
+                    "elem.3.32"
+                ],
+                "emphs": [
+                    "AH",
+                    "ABC",
+                    "A",
+                    "AC",
+                    "HAC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "But the angle `HAC` is equal to the angle `DEF`; therefore the angle `ABC` is also equal to the angle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "HAC",
+                    "DEF",
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "For the same reason > the angle `ACB` is also equal to the angle `DFE`; therefore the remaining angle `BAC` is also equal to the remaining angle `EDF`. [elem.1.32]",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BAC",
+                    "EDF"
+                ]
+            },
+            {
+                "text": "Therefore in the given circle there has been inscribed a triangle equiangular with the given triangle. Q. E. F.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

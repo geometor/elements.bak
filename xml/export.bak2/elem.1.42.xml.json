@@ -1,0 +1,85 @@
+{
+    "elem.1.42": {
+        "id": "elem.1.42",
+        "n": 42,
+        "type": "proposition",
+        "enunciation": "To construct, in a given rectilineal angle, a parallelogram equal to a given triangle.",
+        "proof": [
+            {
+                "text": "Let `ABC` be the given triangle, and `D` the given rectilineal angle; thus it is required to construct in the rectilineal angle `D` a parallelogram equal to the triangle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "D",
+                    "D",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Let `BC` be bisected at `E`, and let `AE` be joined; on the straight line `EC`, and at the point `E` on it, let the angle `CEF` be constructed equal to the angle `D`; [elem.1.23] through `A` let `AG` be drawn parallel to `EC`, and [elem.1.31] through `C` let `CG` be drawn parallel to `EF`.",
+                "refs": [
+                    "elem.1.23",
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "BC",
+                    "E",
+                    "AE",
+                    "EC",
+                    "E",
+                    "CEF",
+                    "D",
+                    "A",
+                    "AG",
+                    "EC",
+                    "C",
+                    "CG",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Then `FECG` is a parallelogram.",
+                "refs": [],
+                "emphs": [
+                    "FECG"
+                ]
+            },
+            {
+                "text": "And, since `BE` is equal to `EC`, > the triangle `ABE` is also equal to the triangle `AEC`, for they are on equal bases `BE`, `EC` and in the same parallels `BC`, `AG`; [elem.1.38] therefore the triangle `ABC` is double of the triangle `AEC`.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "EC"
+                ]
+            },
+            {
+                "text": "But the parallelogram `FECG` is also double of the triangle `AEC`, for it has the same base with it and is in the same parallels with it; [elem.1.41] > therefore the parallelogram `FECG` is equal to the triangle `ABC`.",
+                "refs": [
+                    "elem.1.41"
+                ],
+                "emphs": [
+                    "FECG",
+                    "AEC"
+                ]
+            },
+            {
+                "text": "And it has the angle `CEF` equal to the given angle `D`.",
+                "refs": [],
+                "emphs": [
+                    "CEF",
+                    "D"
+                ]
+            },
+            {
+                "text": "Therefore the parallelogram `FECG` has been constructed equal to the given triangle `ABC`, in the angle `CEF` which is equal to `D`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "FECG",
+                    "ABC",
+                    "CEF",
+                    "D"
+                ]
+            }
+        ]
+    }
+}

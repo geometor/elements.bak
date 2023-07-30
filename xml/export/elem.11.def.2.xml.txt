@@ -1,4 +1,0 @@
-Enunciation:
-An extremity of a solid is a surface.
-
-Proof:

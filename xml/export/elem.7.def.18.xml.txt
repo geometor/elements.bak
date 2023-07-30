@@ -1,4 +1,0 @@
-Enunciation:
-A > square number is equal multiplied by equal, or a number which is contained by two equal numbers.
-
-Proof:

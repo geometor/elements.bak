@@ -1,0 +1,27 @@
+{
+    "elem.8.22": {
+        "id": "elem.8.22",
+        "n": 22,
+        "type": "proposition",
+        "enunciation": "> If three numbers be in continued proportion, and the first be square, the third will also be square.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be three numbers in continued proportion, and let > A the first be square; I say that > C the third is also square.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since between > A, > C there is one mean proportional number, > B, therefore > A, > C are similar plane numbers. [elem.8.20]",
+                "refs": [
+                    "elem.8.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A is square; therefore > C is also square. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

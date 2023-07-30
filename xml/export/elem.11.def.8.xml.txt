@@ -1,4 +1,0 @@
-Enunciation:
-> Parallel planes are those which do not meet.
-
-Proof:

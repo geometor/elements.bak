@@ -1,0 +1,36 @@
+{
+    "elem.7.13": {
+        "id": "elem.7.13",
+        "n": 13,
+        "type": "proposition",
+        "enunciation": "> If four numbers be proportional, they will also be proportional alternately.",
+        "proof": [
+            {
+                "text": "Let the four numbers > A, > B, > C, > D be proportional, so that, > as > A is to > B, so is > C to > D; I say that they will also be proportional alternately, so that, > as > A is to > C, so will > B be to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, as > A is to > B, so is > C to > D, therefore, whatever part or parts > A is of > B, the same part or the same parts is > C of > D also. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, whatever part or parts > A is of > C, the same part or the same parts is > B of > D also. [elem.7.10]",
+                "refs": [
+                    "elem.7.10"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > C, so is > B to > D. [elem.7.def.20] Q. E. D.",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            }
+        ]
+    }
+}

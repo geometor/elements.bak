@@ -1,0 +1,69 @@
+{
+    "elem.11.16": {
+        "id": "elem.11.16",
+        "n": 16,
+        "type": "proposition",
+        "enunciation": "> If two parallel planes be cut by any plane, > their common sections are parallel.",
+        "proof": [
+            {
+                "text": "For let the two parallel planes > AB, > CD be cut by the plane > EFGH, and let > EF, > GH be their common sections; I say that > EF is parallel to > GH.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, > EF, > GH will, when produced, meet either in the direction of > F, > H or of > E, > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let them be produced, as in the direction of > F, > H, and let them, first, meet at > K.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > EFK is in the plane > AB, therefore all the points on > EFK are also in the plane > AB. [elem.11.1]",
+                "refs": [
+                    "elem.11.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > K is one of the points on the straight line > EFK; therefore > K is in the plane > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > K is also in the plane > CD; therefore the planes > AB, > CD will meet when produced.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But they do not meet, because they are, by hypothesis, parallel; therefore the straight lines > EF, > GH will not meet when produced in the direction of > F, > H.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can prove that neither will the straight lines > EF, > GH meet when produced in the direction of > E, > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But straight lines which do not meet in either direction are parallel. [elem.1.def.23]",
+                "refs": [
+                    "elem.1.def.23"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > EF is parallel to > GH.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

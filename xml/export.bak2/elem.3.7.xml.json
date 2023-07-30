@@ -1,0 +1,185 @@
+{
+    "elem.3.7": {
+        "id": "elem.3.7",
+        "n": 7,
+        "type": "proposition",
+        "enunciation": "`If on the diameter of a circle a point be taken which is not the centre of the circle`, `and from the point straight lines fall upon the circle`, `that will be greatest on which the centre is`, `the remainder of the same diameter will be least`, `and of the rest`\n       `the nearer to the straight line through the centre is always greater than the more remote`, `and only two equal straight lines will fall from the point on the circle`, `one on each side of the least straight line`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a circle, and let `AD` be a diameter of it; on `AD` let a point `F` be taken which is not the centre of the circle, let `E` be the centre of the circle, and from `F` let straight lines `FB`, `FC`, `FG` fall upon the circle `ABCD`; I say that `FA` is greatest, `FD` is least, and of the rest `FB` is greater than `FC`, and `FC` than `FG`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AD",
+                    "AD",
+                    "F",
+                    "E",
+                    "F",
+                    "FB",
+                    "FC",
+                    "FG",
+                    "ABCD",
+                    "FA",
+                    "FD",
+                    "FB",
+                    "FC",
+                    "FC",
+                    "FG"
+                ]
+            },
+            {
+                "text": "For let `BE`, `CE`, `GE` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "CE",
+                    "GE"
+                ]
+            },
+            {
+                "text": "Then, since in any triangle two sides are greater than the remaining one, [elem.1.20] > `EB`, `EF` are greater than `BF`.",
+                "refs": [
+                    "elem.1.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But `AE` is equal to `BE`; > therefore `AF` is greater than `BF`.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "BE"
+                ]
+            },
+            {
+                "text": "Again, since `BE` is equal to `CE`, and `FE` is common, the two sides `BE`, `EF` are equal to the two sides `CE`, `EF`.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "CE",
+                    "FE",
+                    "BE",
+                    "EF",
+                    "CE",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But the angle `BEF` is also greater than the angle `CEF`; therefore the base `BF` is greater than the base `CF`. [elem.1.24]",
+                "refs": [
+                    "elem.1.24"
+                ],
+                "emphs": [
+                    "BEF",
+                    "CEF",
+                    "BF",
+                    "CF"
+                ]
+            },
+            {
+                "text": "For the same reason > `CF` is also greater than `FG`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since `GF`, `FE` are greater than `EG`, and `EG` is equal to `ED`, > `GF`, `FE` are greater than `ED`.",
+                "refs": [],
+                "emphs": [
+                    "GF",
+                    "FE",
+                    "EG",
+                    "EG",
+                    "ED"
+                ]
+            },
+            {
+                "text": "Let `EF` be subtracted from each; > therefore the remainder `GF` is greater than the remainder `FD`.",
+                "refs": [],
+                "emphs": [
+                    "EF"
+                ]
+            },
+            {
+                "text": "Therefore `FA` is greatest, `FD` is least, and `FB` is greater than `FC`, and `FC` than `FG`.",
+                "refs": [],
+                "emphs": [
+                    "FA",
+                    "FD",
+                    "FB",
+                    "FC",
+                    "FC",
+                    "FG"
+                ]
+            },
+            {
+                "text": "I say also that from the point `F` only two equal straight lines will fall on the circle `ABCD`, one on each side of the least `FD`.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "ABCD",
+                    "FD"
+                ]
+            },
+            {
+                "text": "For on the straight line `EF`, and at the point `E` on it, let the angle `FEH` be constructed equal to the angle `GEF` [elem.1.23], and let `FH` be joined.",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "EF",
+                    "E",
+                    "FEH",
+                    "GEF",
+                    "FH"
+                ]
+            },
+            {
+                "text": "Then, since `GE` is equal to `EH`, and `EF` is common, > the two sides `GE`, `EF` are equal to the two sides `HE`, `EF`; and the angle `GEF` is equal to the angle `HEF`;\n       > therefore the base `FG` is equal to the base `FH`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "GE",
+                    "EH",
+                    "EF"
+                ]
+            },
+            {
+                "text": "I say again that another straight line equal to `FG` will not fall on the circle from the point `F`.",
+                "refs": [],
+                "emphs": [
+                    "FG",
+                    "F"
+                ]
+            },
+            {
+                "text": "For, if possible, let `FK` so fall.",
+                "refs": [],
+                "emphs": [
+                    "FK"
+                ]
+            },
+            {
+                "text": "Then, since `FK` is equal to `FG`, and `FH` to `FG`, > `FK` is also equal to `FH`, the nearer to the straight line through the centre being thus equal to the more remote: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "FK",
+                    "FG",
+                    "FH",
+                    "FG"
+                ]
+            },
+            {
+                "text": "Therefore another straight line equal to `GF` will not fall from the point `F` upon the circle; > therefore only one straight line will so fall.",
+                "refs": [],
+                "emphs": [
+                    "GF",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "elem.4.16": {
+        "id": "elem.4.16",
+        "n": 16,
+        "type": "proposition",
+        "enunciation": "`In a given circle to inscribe a fifteen-angled figure which shall be both equilateral and equiangular`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be the given circle; thus it is required to inscribe in the circle `ABCD` a fifteenangled figure which shall be both equilateral and equiangular.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "In the circle `ABCD` let there be inscribed a side `AC` of the equilateral triangle inscribed in it, and a side `AB` of an equilateral pentagon; therefore, of the equal segments of which there are fifteen in the circle `ABCD`, there will be five in the circumference `ABC` which is one-third of the circle, and there will be three in the circumference `AB` which is one-fifth of the circle; > therefore in the remainder `BC` there will be two of the equal segments.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AC",
+                    "AB",
+                    "ABCD",
+                    "ABC",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Let `BC` be bisected at `E`; [elem.3.30] therefore each of the circumferences `BE`, `EC` is a fifteenth of the circle `ABCD`.",
+                "refs": [
+                    "elem.3.30"
+                ],
+                "emphs": [
+                    "BC",
+                    "E",
+                    "BE",
+                    "EC",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "If therefore we join `BE`, `EC` and fit into the circle `ABCD` straight lines equal to them and in contiguity, a fifteen-angled figure which is both equilateral and equiangular will have been inscribed in it. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "EC",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "And, in like manner as in the case of the pentagon, if through the points of division on the circle we draw tangents to the circle, there will be circumscribed about the circle a fifteen-angled figure which is equilateral and equiangular.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And further, by proofs similar to those in the case of the pentagon, we can both inscribe a circle in the given fifteenangled figure and circumscribe one about it. Q. E. F.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

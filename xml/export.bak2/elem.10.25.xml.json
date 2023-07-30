@@ -1,0 +1,111 @@
+{
+    "elem.10.25": {
+        "id": "elem.10.25",
+        "n": 25,
+        "type": "propositions i\u201447",
+        "enunciation": "> The rectangle contained by medial straight lines commensurable in square only is either rational or medial.",
+        "proof": [
+            {
+                "text": "For let the rectangle > AC be contained by the medial straight lines > AB, > BC which are commensurable in square only; I say that > AC is either rational or medial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For on > AB, > BC let the squares > AD, > BE be described; therefore each of the squares > AD, > BE is medial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a rational straight line > FG be set out, to > FG let there be applied the rectangular parallelogram > GH equal to > AD, producing > FH as breadth, to > HM let there be applied the rectangular parallelogram > MK equal to > AC, producing > HK as breadth, and further to > KN let there be similarly applied > NL equal to > BE, producing > KL as breadth; therefore > FH, > HK, > KL are in a straight line.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then each of the squares > AD, > BE is medial, and > AD is equal to > GH, and > BE to > NL, therefore each of the rectangles > GH, > NL is also medial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And they are applied to the rational straight line > FG; therefore each of the straight lines > FH, > KL is rational and incommensurable in length with > FG. [elem.10.22]",
+                "refs": [
+                    "elem.10.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > AD is commensurable with > BE, therefore > GH is also commensurable with > NL.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, as > GH is to > NL, so is > FH to > KL; [elem.6.1] therefore > FH is commensurable in length with > KL. [elem.10.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.10.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > FH, > KL are rational straight lines commensurable in length; therefore the rectangle > FH, > KL is rational. [elem.10.19]",
+                "refs": [
+                    "elem.10.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > DB is equal to > BA, and > OB to > BC, therefore, as > DB is to > BC, so is > AB to > BO.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, as > DB is to > BC, so is > DA to > AC, [elem.6.1] and, as > AB is to > BO, so is > AC to > CO; [> id.] therefore, as > DA is to > AC, so is > AC to > CO.",
+                "refs": [
+                    "elem.6.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > AD is equal to > GH, > AC to > MK and > CO to > NL; therefore, as > GH is to > MK, so is > MK to > NL; therefore also, as > FH is to > HK, so is > HK to > KL; [elem.6.1, elem.5.11] therefore the rectangle > FH, > KL is equal to the square on > HK. [elem.6.17]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.5.11",
+                    "elem.6.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the rectangle > FH, > KL is rational; therefore the square on > HK is also rational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > HK is rational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, if it is commensurable in length with > FG, > HN is rational; [elem.10.19] but, if it is incommensurable in length with > FG, > KH, > HM are rational straight lines commensurable in square only, and therefore > HN is medial. [elem.10.21]",
+                "refs": [
+                    "elem.10.19",
+                    "elem.10.21"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > HN is either rational or medial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > HN is equal to > AC; therefore > AC is either rational or medial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

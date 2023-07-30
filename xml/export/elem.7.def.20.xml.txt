@@ -1,4 +1,0 @@
-Enunciation:
-Numbers are > proportional when the first is the same multiple, or the same part, or the same parts, of the second that the third is of the fourth.
-
-Proof:

@@ -1,0 +1,59 @@
+{
+    "elem.7.22": {
+        "id": "elem.7.22",
+        "n": 22,
+        "type": "proposition",
+        "enunciation": "> The least numbers of those which have the same ratio with them are prime to one another.",
+        "proof": [
+            {
+                "text": "Let > A, > B be the least numbers of those which have the same ratio with them; I say that > A, > B are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if they are not prime to one another, some number will measure them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let some number measure them, and let it be > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, as many times as > C measures > A, so many units let there be in > D, and, as many times as > C measures > B, so many units let there be in > E",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > C measures > A according to the units in > D, therefore > C by multiplying > D has made > A. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason also > C by multiplying > E has made > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus the number > C by multiplying the two numbers > D, > E has made > A, > B; therefore, as > D is to > E, so is > A to > B; [elem.7.17] therefore > D, > E are in the same ratio with > A, > B, being less than they: which is impossible.",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure the numbers > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

@@ -6,6 +6,7 @@ import re
 import json
 from rich import print
 
+
 def remove_child_elements(elem):
     for child in elem:
         if child.tag in ['pb', 'lb', 'figure']:
@@ -14,15 +15,22 @@ def remove_child_elements(elem):
             remove_child_elements(child)
 
 
-def create_files_from_xml(xml_file_path):
+def create_files_from_xml(xml_book_path, export_dir="export"):
+    """
+    recieves the xml_file_path for one of the 13 books of Euclid's Elements
+    breaks the file down into separate files
+    then translates the xml to json and text
+    """
     # Parse the XML file
-    tree = etree.parse(xml_file_path)
+    tree = etree.parse(xml_book_path)
 
-    export_dir = 'export'
     os.makedirs(export_dir, exist_ok=True)
 
     # Get the root element
     root = tree.getroot()
+
+    json_merge = {}
+    txt_merge = ""
 
     # Loop through each div2 element
     for div2 in root.xpath('//div2'):
@@ -43,55 +51,41 @@ def create_files_from_xml(xml_file_path):
 
             del div3.attrib['org']
             del div3.attrib['sample']
-            #  remove_child_elements(div3)
+            remove_child_elements(div3)
 
             for div4 in div3.findall('div4'):
                 del div4.attrib['org']
                 del div4.attrib['sample']
 
-            #  for tag in ['pb', 'lb', 'figure']:
-                #  while div3.find(tag) is not None:
-                    #  div3.remove(div3.find(tag))
-
-
             with open(os.path.join(export_dir, subsection_file), 'w') as f:
-                # Write the subsection content to the file
                 f.write(etree.tostring(div3, encoding='unicode', pretty_print=True))
 
+            element_json = translate_xml_to_json(div3)
+            json_file_path = f'{div3_id}.json'
+            with open(json_file_path, "w") as outfile:
+                json.dump(element_json, outfile, indent=4)
+            json_merge.update(element_json)
 
-def parse_xml(xml_string):
-    # Parse the xml string into an ElementTree
-    root = ET.fromstring(xml_string)
+            element_text = extract_text_from_json(element_json)
+            txt_file_path = f'{div3_id}.txt'
+            txt_merge += element_text
+            with open(txt_file_path, "w") as outfile:
+                outfile.write(element_text)
 
-    element = {}
+    json_merge_file = os.path.join(export_dir, xml_book_path + ".json")
 
-    #  elements = []
-    element['id'] = root.get('id')
+    with open(json_merge_file, 'w') as outfile:
+        json.dump(json_merge, outfile, indent=4)
 
-    enunc = root.find(".//div4[@type='Enunc']")
-    if enunc:
-        element['enunc'] = enunc.text
-    proof = root.find(".//div4[@type='Proof']")
-    if proof:
-        element['proof'] = proof.text
-    qed = root.find(".//div4[@type='QED']/p")
-    if qed:
-        element['qed'] = qed.text
+    txt_merge_file = os.path.join(export_dir, xml_book_path + ".txt")
 
-    # Extract the note if present
-    notes = root.findall("note")
-    notes_text = []
-    for note in notes:
-        notes_text.append(note.text)
-    element['notes'] = notes_text
+    with open(txt_merge_file, 'w') as outfile:
+        outfile.write(txt_merge)
 
-    xml_string = ET.tostring(root, encoding='utf-8').decode('utf-8')
 
-    #  return element
-    return xmltodict.parse(xml_string)
-
-def parse_element(xml_text):
-    root = etree.fromstring(xml_text)
+def translate_xml_to_json(element_xml):
+    #  root = etree.fromstring(xml_text)
+    root = element_xml
 
     element = {}
 
@@ -132,7 +126,8 @@ def parse_element(xml_text):
     if elem:
         element['qed'] = elem.text
 
-    return element
+    #  return element
+    return {element["id"]: element}
 
 
 def get_text_with_emph(element):
@@ -150,52 +145,26 @@ def get_text_with_emph(element):
     return "".join(text_parts).strip()
 
 
-def extract_texts(json_file_path, output_file_path):
-    with open(json_file_path, 'r') as json_file:
-        json_data = json.load(json_file)
+def extract_text_from_json(element_json):
+    
+    element_key = next(iter(element_json))
+    json_data = element_json[element_key]
 
-    with open(output_file_path, "w") as f:
-        enunciation = json_data.get("enunciation", "")
-        f.write(f"Enunciation:\n{enunciation}\n\n")
+    text = f"# {element_key}\n\n"
 
-        f.write("Proof:\n")
-        for step in json_data.get("proof", []):
-            f.write(step["text"] + "\n")
+    enunciation = json_data.get("enunciation", "")
+    text += f"{enunciation}\n\n"
 
-def process_json_file(input_file):
-    input_path = Path(input_file)
-    output_path = input_path.with_suffix('.txt')
-    extract_texts(input_path, output_path)
+    for step in json_data.get("proof", []):
+        text += f"- {step['text']}\n"
 
+    text += "\n\n"
 
-def convert_xml_to_json(folder='.'):
-    files = glob.glob(os.path.join(folder, f'*.xml'))
-
-    max = 50
-    i = 1
-
-    for file_path in files:
-        print(file_path)
-
-        with open(file_path, 'r', encoding='utf-8') as file:
-            file_contents = file.read()
-
-        parsed_data = parse_element(file_contents)
-
-        print(parsed_data)
-        #  output_path = input_path.with_suffix('.txt')
-        json_file_path = f'{file_path}.json'
-        with open(json_file_path, "w") as outfile:
-            json.dump(parsed_data, outfile, indent=4)
-
-        txt_file_path = f'{file_path}.txt'
-        extract_texts(json_file_path, txt_file_path)
+    return text
 
 
 if __name__ == "__main__":
     files = glob.glob(os.path.join('.', f'*.xml'))
     for xml_file in files:
         create_files_from_xml(xml_file)
-
-    convert_xml_to_json('export')
 

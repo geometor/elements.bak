@@ -1,0 +1,81 @@
+{
+    "elem.5.2": {
+        "id": "elem.5.2",
+        "n": 2,
+        "type": "proposition",
+        "enunciation": "`If a first magnitude be the same multiple of a second that a third is of a fourth`, `and a fifth also be the same multiple of the second that a sixth is of the fourth`, `the sum of the first and fifth will also be the same multiple of the second that the sum of the third and sixth is of the fourth`.",
+        "proof": [
+            {
+                "text": "Let a first magnitude, `AB`, be the same multiple of a second, `C`, that a third, `DE`, is of a fourth, `F`, and let a fifth, `BG`, also be the same multiple of the second, `C`, that a sixth, `EH`, is of the fourth `F`;  I say that the sum of the first and fifth, `AG`, will be the same multiple of the second, `C`, that the sum of the third and sixth, `DH`, is of the fourth, `F`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "C",
+                    "DE",
+                    "F",
+                    "BG",
+                    "C",
+                    "EH",
+                    "F",
+                    "AG",
+                    "C",
+                    "DH",
+                    "F"
+                ]
+            },
+            {
+                "text": "For, since `AB` is the same multiple of `C` that `DE` is of `F`, therefore, as many magnitudes as there are in `AB` equal to `C`, so many also are there in `DE` equal to `F`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "C",
+                    "DE",
+                    "F",
+                    "AB",
+                    "C",
+                    "DE",
+                    "F"
+                ]
+            },
+            {
+                "text": "For the same reason also, as many as there are in `BG` equal to `C`, so many are there also in `EH` equal to `F`; therefore, as many as there are in the whole `AG` equal to `C`, so many also are there in the whole `DH` equal to `F`.",
+                "refs": [],
+                "emphs": [
+                    "BG",
+                    "C",
+                    "EH",
+                    "F",
+                    "AG",
+                    "C",
+                    "DH",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore, whatever multiple `AG` is of `C`, that multiple also is `DH` of `F`.",
+                "refs": [],
+                "emphs": [
+                    "AG",
+                    "C",
+                    "DH",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore the sum of the first and fifth, `AG`, is the same multiple of the second, `C`, that the sum of the third and sixth, `DH`, is of the fourth, `F`.",
+                "refs": [],
+                "emphs": [
+                    "AG",
+                    "C",
+                    "DH",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q.E.D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

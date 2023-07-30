@@ -1,0 +1,68 @@
+{
+    "elem.10.56": {
+        "id": "elem.10.56",
+        "n": 56,
+        "type": "propositions 48\u201484",
+        "enunciation": "> If an area be contained by a rational straight line and the third binomial, the \n of the area is the irrational straight line called a second bimedial.",
+        "proof": [
+            {
+                "text": "For let the area > ABCD be contained by the rational straight line > AB and the third binomial > AD divided into its terms at > E, of which terms > AE is the greater; I say that the \n of the area > AC is the irrational straight line called a second bimedial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let the same construction be made as before.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > AD is a third binomial straight line, therefore > AE, > ED are rational straight lines commensurable in square only, the square on > AE is greater than the square on > ED by the square on a straight line commensurable with > AE, and neither of the terms > AE, > ED is commensurable in length with > AB. [elem.10.def.2.3]",
+                "refs": [
+                    "elem.10.def.2.3"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Then, in manner similar to the foregoing, we shall prove that > MO is the \n of the area > AC, and > MN, > NO are medial straight lines commensurable in square only; so that > MO is bimedial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "It is next to be proved that it is also a second bimedial straight line.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > DE is incommensurable in length with > AB, that is, with > EK, and > DE is commensurable with > EF, therefore > EF is incommensurable in length with > EK. [elem.10.13]",
+                "refs": [
+                    "elem.10.13"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And they are rational; therefore > FE, > EK are rational straight lines commensurable in square only.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > EL, that is, > MR, is medial. [elem.10.21]",
+                "refs": [
+                    "elem.10.21"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And it is contained by > MN, > NO; therefore the rectangle > MN, > NO is medial.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > MO is a second bimedial straight line. [elem.10.38] Q. E. D.",
+                "refs": [
+                    "elem.10.38"
+                ],
+                "emphs": []
+            }
+        ]
+    }
+}

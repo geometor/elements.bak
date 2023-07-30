@@ -1,0 +1,62 @@
+{
+    "elem.3.24": {
+        "id": "elem.3.24",
+        "n": 24,
+        "type": "proposition",
+        "enunciation": "`Similar segments of circles on equal straight lines are equal to one another`.",
+        "proof": [
+            {
+                "text": "For let `AEB`, `CFD` be similar segments of circles on equal straight lines `AB`, `CD`; I say that the segment `AEB` is equal to the segment `CFD`.",
+                "refs": [],
+                "emphs": [
+                    "AEB",
+                    "CFD",
+                    "AB",
+                    "CD",
+                    "AEB",
+                    "CFD"
+                ]
+            },
+            {
+                "text": "For, if the segment `AEB` be applied to `CFD`, and if the point `A` be placed on `C` and the straight line `AB` on `CD`, > the point `B` will also coincide with the point `D`, because `AB` is equal to `CD`;\n       > and, `AB` coinciding with `CD`, the segment `AEB` will also coincide with `CFD`.",
+                "refs": [],
+                "emphs": [
+                    "AEB",
+                    "CFD",
+                    "A",
+                    "C",
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "For, if the straight line `AB` coincide with `CD` but the segment `AEB` do not coincide with `CFD`, it will either fall with it, or outside it; or it will fall awry, as `CGD`, and a circle cuts a circle at more points than two : which is impossible. [elem.3.10]",
+                "refs": [
+                    "elem.3.10"
+                ],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "AEB",
+                    "CFD",
+                    "CGD"
+                ]
+            },
+            {
+                "text": "Therefore, if the straight line `AB` be applied to `CD`, the segment `AEB` will not fail to coincide with `CFD` also; > therefore it will coincide with it and will be equal to it.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "AEB",
+                    "CFD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

@@ -1,10 +1,8 @@
 <div3 id="elem.4.6" n="6" type="proposition">
-      <pb n="91"/>
       <head>PROPOSITION 6.</head>
       <p><emph>In a given circle to inscribe a square</emph>. </p>
       <p>Let <emph>ABCD</emph> be the given circle; thus it is required to inscribe a square in the circle <emph>ABCD</emph>. </p>
-      <p>Let two diameters <emph>AC</emph>, <emph>BD</emph> of the circle <emph>ABCD</emph> be drawn at right angles to one another, and let <emph>AB</emph>, <emph>BC</emph>, <emph>CD</emph>, <emph>DA</emph> be joined. <figure/>
-      </p>
+      <p>Let two diameters <emph>AC</emph>, <emph>BD</emph> of the circle <emph>ABCD</emph> be drawn at right angles to one another, and let <emph>AB</emph>, <emph>BC</emph>, <emph>CD</emph>, <emph>DA</emph> be joined. </p>
       <p>Then, since <emph>BE</emph> is equal to <emph>ED</emph>, for <emph>E</emph> is the centre, and <emph>EA</emph> is common and at right angles, therefore the base <emph>AB</emph> is equal to the base <emph>AD</emph>. [<ref target="elem.1.4" targOrder="U">I. 4</ref>] </p>
       <p>For the same reason each of the straight lines <emph>BC</emph>, <emph>CD</emph> is also equal to each of the straight lines <emph>AB</emph>, <emph>AD</emph>; <hi rend="center">therefore the quadrilateral <emph>ABCD</emph> is equilateral.</hi>
       </p>

@@ -1,4 +1,0 @@
-Enunciation:
-> Circles are said to > touch one another which, meeting one another, do not cut one another.
-
-Proof:

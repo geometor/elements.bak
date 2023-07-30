@@ -1,0 +1,49 @@
+{
+    "elem.9.4": {
+        "id": "elem.9.4",
+        "n": 4,
+        "type": "proposition",
+        "enunciation": "> If a cube number by multiplying a cube number make some number, the product will be cube.",
+        "proof": [
+            {
+                "text": "For let the cube number > A by multiplying the cube number > B make > C; I say that > C is cube.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A by multiplying itself make > D; therefore > D is cube. [elem.9.3]",
+                "refs": [
+                    "elem.9.3"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A by multiplying itself has made > D, and by multiplying > B has made > C therefore, as > A is to > B, so is > D to > C. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A, > B are cube numbers, > A, > B are similar solid numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore two mean proportional numbers fall between > A, > B; [elem.8.19] so that two mean proportional numbers will fall between > D, > C also. [elem.8.8]",
+                "refs": [
+                    "elem.8.19",
+                    "elem.8.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > D is cube; therefore > C is also cube [elem.8.23] Q. E. D.",
+                "refs": [
+                    "elem.8.23"
+                ],
+                "emphs": []
+            }
+        ]
+    }
+}

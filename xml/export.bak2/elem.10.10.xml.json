@@ -1,0 +1,49 @@
+{
+    "elem.10.10": {
+        "id": "elem.10.10",
+        "n": 10,
+        "type": "propositions i\u201447",
+        "enunciation": "> To find two straight lines incommensurable, the one in length only, and the other in square also, with an assigned straight line.",
+        "proof": [
+            {
+                "text": "Let > A be the assigned straight line; thus it is required to find two straight lines incommensurable, the one in length only, and the other in square also, with > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let two numbers > B, > C be set out which have not to one another the ratio which a square number has to a square number, that is, which are not similar plane numbers; and let it be contrived that, > as > B is to > C, so is the square on > A to the square on > D\n        \u2014for we have learnt how to do this\u2014 [elem.10.6.p.1] therefore the square on > A is commensurable with the square on > D. [elem.10.6]",
+                "refs": [
+                    "elem.10.6.p.1",
+                    "elem.10.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > B has not to > C the ratio which a square number has to a square number, therefore neither has the square on > A to the square on > D the ratio which a square number has to a square number; therefore > A is incommensurable in length with > D. [elem.10.9]",
+                "refs": [
+                    "elem.10.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let > E be taken a mean proportional between > A, > D; therefore, as > A is to > D, so is the square on > A to the square on > E. [elem.5.def.9]",
+                "refs": [
+                    "elem.5.def.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A is incommensurable in length with > D; therefore the square on > A is also incommensurable with the square on > E; [elem.10.11] therefore > A is incommensurable in square with > E.",
+                "refs": [
+                    "elem.10.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore two straight lines > D, > E have been found incommensurable, > D in length only, and > E in square and of course in length also, with the assigned straight line > A.]",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

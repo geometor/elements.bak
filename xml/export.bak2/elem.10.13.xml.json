@@ -1,0 +1,37 @@
+{
+    "elem.10.13": {
+        "id": "elem.10.13",
+        "n": 13,
+        "type": "propositions i\u201447",
+        "enunciation": "> If two magnitudes be commensurable, and the one of them be incommensurable with any magnitude, the remaining one will also be incommensurable with the same.",
+        "proof": [
+            {
+                "text": "Let > A, > B be two commensurable magnitudes, and let one of them, > A, be incommensurable with any other magnitude > C; I say that the remaining one, > B, will also be incommensurable with > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > B is commensurable with > C, while > A is also commensurable with > B, > A is also commensurable with > C. [elem.10.12]",
+                "refs": [
+                    "elem.10.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But it is also incommensurable with it: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > B is not commensurable with > C; therefore it is incommensurable with it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "elem.10.114": {
+        "id": "elem.10.114",
+        "n": 114,
+        "type": "propositions 85\u2014115",
+        "enunciation": "> If an area be contained by an apotome and the binomial straight line the terms of which are commensurable with the terms of the apotome and in the same ratio, the \n of the area is rational.",
+        "proof": [
+            {
+                "text": "For let an area, the rectangle > AB, > CD, be contained by the apotome > AB and the binomial straight line > CD, and let > CE be the greater term of the latter; let the terms > CE, > ED of the binomial straight line be commensurable with the terms > AF, > FB of the apotome and in the same ratio; and let the \n of the rectangle > AB, > CD be > G; I say that > G is rational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let a rational straight line > H be set out, and to > CD let there be applied a rectangle equal to the square on > H and producing > KL as breadth.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > KL is an apotome.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let its terms be > KM, > ML commensurable with the terms > CE, > ED of the binomial straight line and in the same ratio. [elem.10.112]",
+                "refs": [
+                    "elem.10.112"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > CE, > ED are also commensurable with > AF, > FB and in the same ratio; therefore, as > AF is to > FB, so is > KM to > ML.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, as > AF is to > KM, so is > BF to > LM; therefore also the remainder > AB is to the remainder > KL as > AF is to > KM. [elem.5.19]",
+                "refs": [
+                    "elem.5.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > AF is commensurable with > KM; [elem.10.12] therefore > AB is also commensurable with > KL. [elem.10.11]",
+                "refs": [
+                    "elem.10.12",
+                    "elem.10.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as > AB is to > KL, so is the rectangle > CD, > AB to the rectangle > CD, > KL; [elem.6.1] therefore the rectangle > CD, > AB is also commensurable with the rectangle > CD, > KL. [elem.10.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.10.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the rectangle > CD, > KL is equal to the square on > H; therefore the rectangle > CD, > AB is commensurable with the square on > H.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the square on > G is equal to the rectangle > CD, > AB; therefore the square on > G is commensurable with the square on > H.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the square on > H is rational; therefore the square on > G is also rational; therefore > G is rational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it is the \n of the rectangle > CD, > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

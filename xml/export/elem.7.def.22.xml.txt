@@ -1,4 +1,0 @@
-Enunciation:
-A > perfect number is that which is equal to its own parts.
-
-Proof:

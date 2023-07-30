@@ -4,12 +4,11 @@
       <p>Let the two given commensurable magnitudes be <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> of which <hi rend="ital">AB</hi> is the less; thus it is required to find the greatest common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
       <p>Now the magnitude <hi rend="ital">AB</hi> either measures <hi rend="ital">CD</hi> or it does not. </p>
       <p>If then it measures it—and it measures itself also—<hi rend="ital">AB</hi> is a common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>
-      <p>And it is manifest that it is also the greatest; for a greater magnitude than the magnitude <hi rend="ital">AB</hi> will not measure <hi rend="ital">AB</hi>. <figure/>
-      </p>
+      <p>And it is manifest that it is also the greatest; for a greater magnitude than the magnitude <hi rend="ital">AB</hi> will not measure <hi rend="ital">AB</hi>. </p>
       <p>Next, let <hi rend="ital">AB</hi> not measure <hi rend="ital">CD</hi>. </p>
       <p>Then, if the less be continually subtracted in turn from the greater, that which is left over will sometime measure the one before it, because <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi> are not incommensurable; [cf. <ref target="elem.10.2" targOrder="U">X. 2</ref>] let <hi rend="ital">AB</hi>, measuring <hi rend="ital">ED</hi>, leave <hi rend="ital">EC</hi> less than itself, let <hi rend="ital">EC</hi>, measuring <hi rend="ital">FB</hi>, leave <hi rend="ital">AF</hi> less than itself, and let <hi rend="ital">AF</hi> measure <hi rend="ital">CE</hi>. </p>
       <p>Since, then, <hi rend="ital">AF</hi> measures <hi rend="ital">CE</hi>, while <hi rend="ital">CE</hi> measures <hi rend="ital">FB</hi>, therefore <hi rend="ital">AF</hi> will also measure <hi rend="ital">FB</hi>. </p>
-      <p>But it measures itself also; therefore <hi rend="ital">AF</hi> will also measure the whole <hi rend="ital">AB</hi>. <pb n="21"/></p>
+      <p>But it measures itself also; therefore <hi rend="ital">AF</hi> will also measure the whole <hi rend="ital">AB</hi>. </p>
       <p>But <hi rend="ital">AB</hi> measures <hi rend="ital">DE</hi>; therefore <hi rend="ital">AF</hi> will also measure <hi rend="ital">ED</hi>. </p>
       <p>But it measures <hi rend="ital">CE</hi> also; therefore it also measures the whole <hi rend="ital">CD</hi>. </p>
       <p>Therefore <hi rend="ital">AF</hi> is a common measure of <hi rend="ital">AB</hi>, <hi rend="ital">CD</hi>. </p>

@@ -1,0 +1,62 @@
+{
+    "elem.1.30": {
+        "id": "elem.1.30",
+        "n": 30,
+        "type": "proposition",
+        "enunciation": "Straight lines parallel to the same straight line are also parallel to one another.",
+        "proof": [
+            {
+                "text": "Let each of the straight lines `AB`, `CD` be parallel to `EF`; I say that `AB` is also parallel to `CD`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "EF",
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "For let the straight line `GK` fall upon them;",
+                "refs": [],
+                "emphs": [
+                    "GK"
+                ]
+            },
+            {
+                "text": "Then, since the straight line `GK` has fallen on the parallel straight lines `AB`, `EF`, > the angle `AGK` is equal to the angle `GHF`. [elem.1.29]",
+                "refs": [],
+                "emphs": [
+                    "GK",
+                    "AB",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Again, since the straight line `GK` has fallen on the parallel straight lines `EF`, `CD`, > the angle `GHF` is equal to the angle `GKD`. [elem.1.29]",
+                "refs": [],
+                "emphs": [
+                    "GK",
+                    "EF",
+                    "CD"
+                ]
+            },
+            {
+                "text": "But the angle `AGK` was also proved equal to the angle `GHF`; > therefore the angle `AGK` is also equal to the angle `GKD`; [elem.1.c.n.1] and they are alternate.",
+                "refs": [],
+                "emphs": [
+                    "AGK",
+                    "GHF"
+                ]
+            },
+            {
+                "text": "Therefore `AB` is parallel to `CD`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "elem.11.39": {
+        "id": "elem.11.39",
+        "n": 39,
+        "type": "proposition",
+        "enunciation": "> If there be two prisms of equal height, > and one have a parallelogram as base and the other a triangle, > and if the parallelogram be double of the triangle, > the prisms will be equal.",
+        "proof": [
+            {
+                "text": "Let > ABCDEF, > GHKLMN be two prisms of equal height, let one have the parallelogram > AF as base, and the other the triangle > GHK, and let the parallelogram > AF be double of the triangle > GHK; I say that the prism > ABCDEF is equal to the prism > GHKLMN.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let the solids > AO, > GP be completed.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since the parallelogram > AF is double of the triangle > GHK, while the parallelogram > HK is also double of the triangle > GHK, [elem.1.34] therefore the parallelogram > AF is equal to the parallelogram > HK.",
+                "refs": [
+                    "elem.1.34"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But parallelepipedal solids which are on equal bases and of the same height are equal to one another; [elem.11.31] therefore the solid > AO is equal to the solid > GP.",
+                "refs": [
+                    "elem.11.31"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the prism > ABCDEF is half of the solid > AO, and the prism > GHKLMN is half of the solid > GP; [elem.11.28] therefore the prism > ABCDEF is equal to the prism > GHKLMN.",
+                "refs": [
+                    "elem.11.28"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

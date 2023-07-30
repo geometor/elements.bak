@@ -1,0 +1,82 @@
+{
+    "elem.10.89": {
+        "id": "elem.10.89",
+        "n": 89,
+        "type": "propositions 85\u2014115",
+        "enunciation": "> To find the fifth apotome.",
+        "proof": [
+            {
+                "text": "Let a rational straight line > A be set out, and let > CG be commensurable in length with > A; therefore > CG is rational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let two numbers > DF, > FE be set out such that > DE again has not to either of the numbers > DF, > FE the ratio which a square number has to a square number; and let it be contrived that, as > FE is to > ED, so is the square on > CG to the square on > GB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the square on > GB is also rational; [elem.10.6] therefore > BG is also rational.",
+                "refs": [
+                    "elem.10.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now since, as > DE is to > EF, so is the square on > BG to the square on > GC, while > DE has not to > EF the ratio which a square number has to a square number, therefore neither has the square on > BG to the square on > GC the ratio which a square number has to a square number; therefore > BG is incommensurable in length with > GC. [elem.10.9]",
+                "refs": [
+                    "elem.10.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And both are rational; therefore > BG, > GC are rational straight lines commensurable in square only; therefore > BC is an apotome. [elem.10.73]",
+                "refs": [
+                    "elem.10.73"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also a fifth apotome.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let the square on > H be that by which the square on > BG is greater than the square on > GC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then, as the square on > BG is to the square on > GC, so is > DE to > EF, therefore, , as > ED is to > DF, so is the square on > BG to the square on > H. [elem.5.19.p.1]",
+                "refs": [
+                    "elem.5.19.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > ED has not to > DF the ratio which a square number has to a square number; therefore neither has the square on > BG to the square on > H the ratio which a square number has to a square number; therefore > BG is incommensurable in length with > H. [elem.10.9]",
+                "refs": [
+                    "elem.10.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the square on > BG is greater than the square on > GC by the square on > H; therefore the square on > GB is greater than the square on > GC by the square on a straight line incommensurable in length with > GB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And the annex > CG is commensurable in length with the rational straight line > A set out; therefore > BC is a fifth apotome. [elem.10.def.3.5]",
+                "refs": [
+                    "elem.10.def.3.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the fifth apotome > BC has been found. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

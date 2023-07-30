@@ -1,0 +1,34 @@
+{
+    "elem.9.29": {
+        "id": "elem.9.29",
+        "n": 29,
+        "type": "proposition",
+        "enunciation": "> If an odd number by multiplying an odd number make some number, the product will be odd.",
+        "proof": [
+            {
+                "text": "For let the odd number > A by multiplying the odd number > B make > C; I say that > C is odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A by multiplying > B has made > C, therefore > C is made up of as many numbers equal to > B as there are units in > A. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And each of the numbers > A, > B is odd; therefore > C is made up of odd numbers the multitude of which is odd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus > C is odd. [elem.9.23] Q. E. D.",
+                "refs": [
+                    "elem.9.23"
+                ],
+                "emphs": []
+            }
+        ]
+    }
+}

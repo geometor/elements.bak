@@ -1,0 +1,90 @@
+{
+    "elem.2.13": {
+        "id": "elem.2.13",
+        "n": 13,
+        "type": "proposition",
+        "enunciation": "`In acute-angled triangles the square on the side subtending the acute angle is less than the squares on the sides containing the acute angle by twice the rectangle contained by one of the sides about the acute angle`, `namely that on which the perpendicular falls`, `and the straight line cut off within by the perpendicular towards the acutc angle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be an acute-angled triangle having the angle at `B` acute, and let `AD` be drawn from the point `A` perpendicular to `BC`;",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "B",
+                    "AD",
+                    "A",
+                    "BC"
+                ]
+            },
+            {
+                "text": "I say that the square on `AC` is less than the squares on `CB`, `BA` by twice the rectangle contained by `CB`, `BD`.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "CB",
+                    "BA",
+                    "CB",
+                    "BD"
+                ]
+            },
+            {
+                "text": "For, since the straight line `CB` has been cut at random at `D`, > the squares on `CB`, `BD` are equal to twice the rectangle contained by `CB`, `BD` and the square on `DC`. [elem.2.7]",
+                "refs": [],
+                "emphs": [
+                    "CB",
+                    "D"
+                ]
+            },
+            {
+                "text": "Let the square on `DA` be added to each; therefore the squares on `CB`, `BD`, `DA` are equal to twice the rectangle contained by `CB`, `BD` and the squares on `AD`, `DC`.",
+                "refs": [],
+                "emphs": [
+                    "DA",
+                    "CB",
+                    "BD",
+                    "DA",
+                    "CB",
+                    "BD",
+                    "AD",
+                    "DC"
+                ]
+            },
+            {
+                "text": "But the square on `AB` is equal to the squares on `BD`, `DA`, for the angle at `D` is right; [elem.1.47] and the square on `AC` is equal to the squares on `AD`, `DC`; therefore the squares on `CB`, `BA` are equal to the square on `AC` and twice the rectangle `CB`, `BD`,",
+                "refs": [
+                    "elem.1.47"
+                ],
+                "emphs": [
+                    "AB",
+                    "BD",
+                    "DA",
+                    "D",
+                    "AC",
+                    "AD",
+                    "DC",
+                    "CB",
+                    "BA",
+                    "AC",
+                    "CB",
+                    "BD"
+                ]
+            },
+            {
+                "text": "so that the square on `AC` alone is less than the squares on `CB`, `BA` by twice the rectangle contained by `CB`, `BD`.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "CB",
+                    "BA",
+                    "CB",
+                    "BD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

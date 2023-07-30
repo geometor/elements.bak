@@ -1,9 +1,0 @@
-Enunciation:
-> If there be as many numbers as we please, and others equal to them in multitude, which taken two and two are in the same ratio, they will also be in the same ratio ex aequali.
-
-Proof:
-Let there be as many numbers as we please > A, > B, > C, and others equal to them in multitude > D, > E, > F, which taken two and two are in the same ratio, so that, > as > A is to > B, so is > D to > E, and, as > B is to > C, so is > E to > F; I say that, > ex aequali, > as > A is to > C, so also is > D to > F.
-For, since, as > A is to > B, so is > D to > E, therefore, alternately, > as > A is to > D, so is > B to > E. [elem.7.13]
-Again, since, as > B is to > C, so is > E to > F, therefore, alternately, > as > B is to > E, so is > C to > F. [elem.7.13]
-But, as > B is to > E, so is > A to > D; therefore also, as > A is to > D, so is > C to > F.
-Therefore, alternately, > as > A is to > C, so is > D to > F. [> id.]

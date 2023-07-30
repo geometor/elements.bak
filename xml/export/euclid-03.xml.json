@@ -1,0 +1,3788 @@
+{
+    "elem.3.def.1": {
+        "id": "elem.3.def.1",
+        "n": 1,
+        "type": "definition",
+        "enunciation": "> Equal circles are those the diameters of which are equal, or the radii of which are equal."
+    },
+    "elem.3.def.2": {
+        "id": "elem.3.def.2",
+        "n": 2,
+        "type": "definition",
+        "enunciation": "A straight line is said to > touch a circle which, meeting the circle and being produced, does not cut the circle."
+    },
+    "elem.3.def.3": {
+        "id": "elem.3.def.3",
+        "n": 3,
+        "type": "definition",
+        "enunciation": "> Circles are said to > touch one another which, meeting one another, do not cut one another."
+    },
+    "elem.3.def.4": {
+        "id": "elem.3.def.4",
+        "n": 4,
+        "type": "definition",
+        "enunciation": "In a circle straight lines are said > to be equally distant from the centre when the perpendiculars drawn to them from the centre are equal."
+    },
+    "elem.3.def.5": {
+        "id": "elem.3.def.5",
+        "n": 5,
+        "type": "definition",
+        "enunciation": "And that straight line is said to be > at a greater distance on which the greater perpendicular falls."
+    },
+    "elem.3.def.6": {
+        "id": "elem.3.def.6",
+        "n": 6,
+        "type": "definition",
+        "enunciation": "A > segment of a circle is the figure contained by a straight line and a circumference of a circle."
+    },
+    "elem.3.def.7": {
+        "id": "elem.3.def.7",
+        "n": 7,
+        "type": "definition",
+        "enunciation": "An > angle of a segment is that contained by a straight line and a circumference of a circle."
+    },
+    "elem.3.def.8": {
+        "id": "elem.3.def.8",
+        "n": 8,
+        "type": "definition",
+        "enunciation": "An > angle in a segment is the angle which, when a point is taken on the circumference of the segment and straight lines are joined from it to the extremities of the straight line which is the > base of the segment, is contained by the straight lines so joined."
+    },
+    "elem.3.def.9": {
+        "id": "elem.3.def.9",
+        "n": 9,
+        "type": "definition",
+        "enunciation": "And, when the straight lines containing the angle cut off a circumference, the angle is said to > stand upon that circumference."
+    },
+    "elem.3.def.10": {
+        "id": "elem.3.def.10",
+        "n": 10,
+        "type": "definition",
+        "enunciation": "A sector of a circle is the figure which, when an angle is constructed at the centre of the circle, is contained by the straight lines containing the angle and the circumference cut off by them."
+    },
+    "elem.3.def.11": {
+        "id": "elem.3.def.11",
+        "n": 11,
+        "type": "definition",
+        "enunciation": "> Similar segments of circles are those which admit equal angles, or in which the angles are equal to one another."
+    },
+    "elem.3.1": {
+        "id": "elem.3.1",
+        "n": 1,
+        "type": "proposition",
+        "enunciation": "`To find the centre of a given circle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be the given circle; thus it is required to find the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Let a straight line `AB` be drawn `D`; from `D` let `DC` be drawn at right angles to `AB` and let it be drawn through to `E`; let `CE` be bisected at `F`; `F` is the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "D",
+                    "D",
+                    "DC",
+                    "AB",
+                    "E",
+                    "CE",
+                    "F",
+                    "F",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "For suppose it is not, but, if possible, let `G` be the centre, and let `GA`, `GD`, `GB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "G",
+                    "GA",
+                    "GD",
+                    "GB"
+                ]
+            },
+            {
+                "text": "Then, since `AD` is equal to `DB`, and `DG` is common, > the two sides `AD`, `DG` are equal to the two sides `BD`, `DG` respectively; and the base `GA` is equal to the base `GB`, for they are > therefore the angle `ADG` is equal to the angle `GDB`. [elem.1.8]",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "DB",
+                    "DG",
+                    "GA",
+                    "GB"
+                ]
+            },
+            {
+                "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10] > therefore the angle `GDB` is right.",
+                "refs": [
+                    "elem.1.def.10"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the angle `FDB` is also right; therefore the angle `FDB` is equal to the angle `GDB`, the greater to the less: which is impossible. > Therefore `G` is not the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "FDB",
+                    "FDB",
+                    "GDB"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that neither is any other point except `F`. > Therefore the point `F` is the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "F"
+                ]
+            }
+        ]
+    },
+    "elem.3.2": {
+        "id": "elem.3.2",
+        "n": 2,
+        "type": "proposition",
+        "enunciation": "`If on the circumference of a circle two points be taken at random`, `the straight line joining the points will fall within the circle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a circle, and let two points `A`, `B` be taken at random on its circumference; I say that the straight line joined from `A` to `B` will fall within the circle.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "A",
+                    "B",
+                    "A",
+                    "B"
+                ]
+            },
+            {
+                "text": "For suppose it does not, but, if possible, let it fall outside, as `AEB`; let the centre of the circle `ABC` be taken [elem.3.1], and let it be `D`; let `DA`, `DB` be joined, and let `DFE` be drawn through.",
+                "refs": [
+                    "elem.3.1"
+                ],
+                "emphs": [
+                    "AEB",
+                    "ABC",
+                    "D",
+                    "DA",
+                    "DB",
+                    "DFE"
+                ]
+            },
+            {
+                "text": "Then, since `DA` is equal to `DB`, > the angle `DAE` is also equal to the angle `DBE`. [elem.1.5] And, since one side `AEB` of the triangle `DAE` is produced, > the angle `DEB` is greater than the angle `DAE`. [elem.1.16]",
+                "refs": [],
+                "emphs": [
+                    "DA",
+                    "DB",
+                    "AEB",
+                    "DAE"
+                ]
+            },
+            {
+                "text": "But the angle `DAE` is equal to the angle `DBE`; > therefore the angle `DEB` is greater than the angle `DBE`. And the greater angle is subtended by the greater side; [elem.1.19] > therefore `DB` is greater than `DE`. But `DB` is equal to `DF`;\n       > therefore `DF` is greater than `DE`,\n       > the less than the greater : which is impossible.",
+                "refs": [
+                    "elem.1.19"
+                ],
+                "emphs": [
+                    "DAE",
+                    "DBE"
+                ]
+            },
+            {
+                "text": "Therefore the straight line joined from `A` to `B` will not fall outside the circle.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that neither will it fall on the circumference itself; > therefore it will fall within.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.3": {
+        "id": "elem.3.3",
+        "n": 3,
+        "type": "proposition",
+        "enunciation": "`If in a circle a straight line through the centre bisect a straight line not through the centre`, `it also cuts it at right angles; and if it cut it at right angles`, `it also bisects it`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a circle, and in it let a straight line `CD`\n       `AB` not through the centre at the point `F`;",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "CD",
+                    "AB",
+                    "F"
+                ]
+            },
+            {
+                "text": "For let the centre of the circle `ABC`\n       `E`; let `EA`, `EB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "E",
+                    "EA",
+                    "EB"
+                ]
+            },
+            {
+                "text": "Then, since `AF` is equal to `FB`, and `FE` is common, > two sides are equal to two sides;\n       > and the base `EA` is equal to the base `EB`; therefore the angle `AFE` is equal to the angle `BFE`. [elem.1.8]",
+                "refs": [],
+                "emphs": [
+                    "AF",
+                    "FB",
+                    "FE"
+                ]
+            },
+            {
+                "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [elem.1.def.10] > therefore each of the angles `AFE`, `BFE` is right.",
+                "refs": [
+                    "elem.1.def.10"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore `CD`, which is through the centre, and bisects `AB` which is not through the centre, also cuts it at right angles.",
+                "refs": [],
+                "emphs": [
+                    "CD",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Again, let `CD` cut `AB` at right angles; `AF` is equal to `FB`.",
+                "refs": [],
+                "emphs": [
+                    "CD",
+                    "AB",
+                    "AF",
+                    "FB"
+                ]
+            },
+            {
+                "text": "For, with the same construction, > since `EA` is equal to `EB`, the angle `EAF` is also equal to the angle `EBF`. [elem.1.5]",
+                "refs": [
+                    "elem.1.5"
+                ],
+                "emphs": [
+                    "EAF",
+                    "EBF"
+                ]
+            },
+            {
+                "text": "But the right angle `AFE` is equal to the right angle `BFE`, `EAF`, `EBF` are two triangles having two angles equal to two angles and one side equal to one side, namely `EF`, which is common to them, and subtends one of the equal angles; > therefore they will also have the remaining sides equal to elem.1.26] therefore `AF` is equal to `FB`.",
+                "refs": [],
+                "emphs": [
+                    "AFE",
+                    "BFE",
+                    "EAF",
+                    "EBF",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.4": {
+        "id": "elem.3.4",
+        "n": 4,
+        "type": "proposition",
+        "enunciation": "`If in a circle two straight lines cut one another which are not through the centre`, `they do not bisect one another`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a circle, and in it let the two straight lines `AC`, `BD`, which are not through the centre, cut one another at `E`;",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AC",
+                    "BD",
+                    "E"
+                ]
+            },
+            {
+                "text": "For, if possible, let them bisect one another, so that `AE` is equal to `EC`, and `BE` to `ED`; let the centre of the circle `ABCD` be taken [elem.3.1], and let it be `F`; let `FE` be joined.",
+                "refs": [
+                    "elem.3.1"
+                ],
+                "emphs": [
+                    "AE",
+                    "EC",
+                    "BE",
+                    "ED",
+                    "ABCD",
+                    "F",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Then, since a straight line `FE` through the centre bisects a straight line `AC` not through the centre, > it also cuts it at right angles; [elem.3.3] therefore the angle `FEA` is right.",
+                "refs": [],
+                "emphs": [
+                    "FE",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Again, since a straight line `FE` bisects a straight line `BD`, > it also cuts it at right angles; [elem.3.3] therefore the angle `FEB` is right.",
+                "refs": [],
+                "emphs": [
+                    "FE",
+                    "BD"
+                ]
+            },
+            {
+                "text": "But the angle `FEA` was also proved right; > therefore the angle `FEA` is equal to the angle `FEB`, the less to the greater: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "FEA"
+                ]
+            },
+            {
+                "text": "Therefore `AC`, `BD` do not bisect one another.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "BD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.5": {
+        "id": "elem.3.5",
+        "n": 5,
+        "type": "proposition",
+        "enunciation": "`If two circles cut one another`, `they will not have the same centre`.",
+        "proof": [
+            {
+                "text": "For let the circles `ABC`, `CDG` cut one another at the points `B`, `C`; I say that they will not have the same centre.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "CDG",
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "text": "For, if possible, let it be `E`; let `EC` be joined, and let `EFG` be drawn through at random.",
+                "refs": [],
+                "emphs": [
+                    "E",
+                    "EC",
+                    "EFG"
+                ]
+            },
+            {
+                "text": "Then, since the point `E` is the centre of the circle `ABC`, > `EC` is equal to `EF`. [elem.1.def.15]",
+                "refs": [],
+                "emphs": [
+                    "E",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Again, since the point `E` is the centre of the circle `CDG`, > `EC` is equal to `EG`.",
+                "refs": [],
+                "emphs": [
+                    "E",
+                    "CDG"
+                ]
+            },
+            {
+                "text": "But `EC` was proved equal to `EF` also; > therefore `EF` is also equal to `EG`, the less to the greater : which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "EC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Therefore the point `E` is not the centre of the circles `ABC`, `CDG`.",
+                "refs": [],
+                "emphs": [
+                    "E",
+                    "ABC",
+                    "CDG"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.6": {
+        "id": "elem.3.6",
+        "n": 6,
+        "type": "proposition",
+        "enunciation": "`If two circles touch one another`, `they will not have the same centre`.",
+        "proof": [
+            {
+                "text": "For let the two circles `ABC`, `CDE` touch one another at the point `C`; I say that they will not have the same centre.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "CDE",
+                    "C"
+                ]
+            },
+            {
+                "text": "For, if possible, let it be `F`; let `FC` be joined, and let `FEB` be drawn through at random.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "FC",
+                    "FEB"
+                ]
+            },
+            {
+                "text": "Then, since the point `F` is the centre of the circle `ABC`, > `FC` is equal to `FB`.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Again, since the point `F` is the centre of the circle `CDE`, > `FC` is equal to `FE`.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "CDE"
+                ]
+            },
+            {
+                "text": "But `FC` was proved equal to `FB`; > therefore `FE` is also equal to `FB`, the less to the greater: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "FC",
+                    "FB"
+                ]
+            },
+            {
+                "text": "Therefore `F` is not the centre of the circles `ABC`, `CDE`.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "ABC",
+                    "CDE"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.7": {
+        "id": "elem.3.7",
+        "n": 7,
+        "type": "proposition",
+        "enunciation": "`If on the diameter of a circle a point be taken which is not the centre of the circle`, `and from the point straight lines fall upon the circle`, `that will be greatest on which the centre is`, `the remainder of the same diameter will be least`, `and of the rest`\n       `the nearer to the straight line through the centre is always greater than the more remote`, `and only two equal straight lines will fall from the point on the circle`, `one on each side of the least straight line`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a circle, and let `AD` be a diameter of it; `AD` let a point `F` be taken which is not the centre of the circle, let `E` be the centre of the circle, and from `F` let straight lines `FB`, `FC`, `FG` fall upon the circle `ABCD`; I say that `FA` is greatest, `FD` is least, and of the rest `FB` is `FC`, and `FC` than `FG`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AD",
+                    "AD",
+                    "F",
+                    "E",
+                    "F",
+                    "FB",
+                    "FC",
+                    "FG",
+                    "ABCD",
+                    "FA",
+                    "FD",
+                    "FB",
+                    "FC",
+                    "FC",
+                    "FG"
+                ]
+            },
+            {
+                "text": "For let `BE`, `CE`, `GE` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "CE",
+                    "GE"
+                ]
+            },
+            {
+                "text": "Then, since in any triangle two sides are greater than the remaining one, [elem.1.20] > `EB`, `EF` are greater than `BF`.",
+                "refs": [
+                    "elem.1.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But `AE` is equal to `BE`; > therefore `AF` is greater than `BF`.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "BE"
+                ]
+            },
+            {
+                "text": "Again, since `BE` is equal to `CE`, and `FE` is common, `BE`, `EF` are equal to the two sides `CE`, `EF`.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "CE",
+                    "FE",
+                    "BE",
+                    "EF",
+                    "CE",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But the angle `BEF` is also greater than the angle `CEF`; therefore the base `BF` is greater than the base `CF`. [elem.1.24]",
+                "refs": [
+                    "elem.1.24"
+                ],
+                "emphs": [
+                    "BEF",
+                    "CEF",
+                    "BF",
+                    "CF"
+                ]
+            },
+            {
+                "text": "For the same reason > `CF` is also greater than `FG`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since `GF`, `FE` are greater than `EG`, and `EG` is equal to `ED`, > `GF`, `FE` are greater than `ED`.",
+                "refs": [],
+                "emphs": [
+                    "GF",
+                    "FE",
+                    "EG",
+                    "EG",
+                    "ED"
+                ]
+            },
+            {
+                "text": "Let `EF` be subtracted from each; > therefore the remainder `GF` is greater than the remainder `FD`.",
+                "refs": [],
+                "emphs": [
+                    "EF"
+                ]
+            },
+            {
+                "text": "Therefore `FA` is greatest, `FD` is least, and `FB` is greater than `FC`, and `FC` than `FG`.",
+                "refs": [],
+                "emphs": [
+                    "FA",
+                    "FD",
+                    "FB",
+                    "FC",
+                    "FC",
+                    "FG"
+                ]
+            },
+            {
+                "text": "I say also that from the point `F` only two equal straight lines will fall on the circle `ABCD`, one on each side of the `FD`.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "ABCD",
+                    "FD"
+                ]
+            },
+            {
+                "text": "For on the straight line `EF`, and at the point `E` on it, let the angle `FEH` be constructed equal to the angle `GEF` [elem.1.23], and let `FH` be joined.",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "EF",
+                    "E",
+                    "FEH",
+                    "GEF",
+                    "FH"
+                ]
+            },
+            {
+                "text": "Then, since `GE` is equal to `EH`, `EF` is common, > the two sides `GE`, `EF` are equal to the two sides `HE`, `EF`; and the angle `GEF` is equal to the angle `HEF`;\n       > therefore the base `FG` is equal to the base `FH`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "GE",
+                    "EH",
+                    "EF"
+                ]
+            },
+            {
+                "text": "I say again that another straight line equal to `FG` will not `F`.",
+                "refs": [],
+                "emphs": [
+                    "FG",
+                    "F"
+                ]
+            },
+            {
+                "text": "For, if possible, let `FK` so fall.",
+                "refs": [],
+                "emphs": [
+                    "FK"
+                ]
+            },
+            {
+                "text": "Then, since `FK` is equal to `FG`, and `FH` to `FG`, > `FK` is also equal to `FH`, the nearer to the straight line through the centre being",
+                "refs": [],
+                "emphs": [
+                    "FK",
+                    "FG",
+                    "FH",
+                    "FG"
+                ]
+            },
+            {
+                "text": "Therefore another straight line equal to `GF` will not fall from the point `F` upon the circle; > therefore only one straight line will so fall.",
+                "refs": [],
+                "emphs": [
+                    "GF",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.8": {
+        "id": "elem.3.8",
+        "n": 8,
+        "type": "proposition",
+        "enunciation": "`If a point be taken outside a circle and from the point straight lines be drawn through to the circle`, `one of which is through the centre and the others are drawn at random`, `then`, `of the straight lines which fall on the concave circumference`, `that through the centre is greatest`, `while of the rest`\n       `the nearer to that through the centre is always greater than the more remote`, `but`, `of the straight lines falling on the convex circumference`, `that between the point and the diameter is least`, `while of the rest the nearer to the least is always less than the more remote`, `and only two equal straight lines will fall on the circle from the point`, `one on each side of the least`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a circle, and let a point `D` be taken outside `ABC`; let there be drawn through from it straight lines `DA`, `DE`, `DF`, `DC`, and let `DA` be through the centre; I say that, of the straight lines falling on the concave circumference `AEFC`, the straight line `DA` through the centre is greatest, `DE` is greater than `DF` and `DF` than `DC`.; but, of the straight lines falling on the convex circumference `HLKG`, the straight line `DG` between the point and the diameter `AG` is least; and the nearer to the least `DG` is always less than the more remote, namely `DK` than `DL`, and `DL` than `DH`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "D",
+                    "ABC",
+                    "DA",
+                    "DE",
+                    "DF",
+                    "DC",
+                    "DA",
+                    "AEFC",
+                    "DA",
+                    "DE",
+                    "DF",
+                    "DF",
+                    "DC",
+                    "HLKG",
+                    "DG",
+                    "AG",
+                    "DG",
+                    "DK",
+                    "DL",
+                    "DL",
+                    "DH"
+                ]
+            },
+            {
+                "text": "For let the centre of the circle `ABC` be taken [elem.3.1], and let it be `M`; let `ME`, `MF`, `MC`, `MK`, `ML`, `MH` be joined.",
+                "refs": [
+                    "elem.3.1"
+                ],
+                "emphs": [
+                    "ABC",
+                    "M",
+                    "ME",
+                    "MF",
+                    "MC",
+                    "MK",
+                    "ML",
+                    "MH"
+                ]
+            },
+            {
+                "text": "Then, since `AM` is equal to `EM`, let `MD` be added to each; > therefore `AD` is equal to `EM`, `MD`.",
+                "refs": [],
+                "emphs": [
+                    "AM",
+                    "EM",
+                    "MD"
+                ]
+            },
+            {
+                "text": "But `EM`, `MD` are greater than `ED`; [elem.1.20] > therefore `AD` is also greater than `ED`.",
+                "refs": [
+                    "elem.1.20"
+                ],
+                "emphs": [
+                    "EM",
+                    "MD",
+                    "ED"
+                ]
+            },
+            {
+                "text": "Again, since `ME` is equal to `MF`, > and `MD` is common, therefore `EM`, `MD` are equal to `FM`, `MD`; > and the angle `EMD` is greater than the angle `FMD`;\n       > therefore the base `ED` is greater than the base `FD`. [elem.1.24]",
+                "refs": [],
+                "emphs": [
+                    "ME",
+                    "MF",
+                    "EM",
+                    "MD",
+                    "FM",
+                    "MD"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that `FD` is greater than `CD`; therefore `DA` is greatest, while `DE` is greater than `DF`, and `DF` than `DC`.",
+                "refs": [],
+                "emphs": [
+                    "FD",
+                    "CD",
+                    "DA",
+                    "DE",
+                    "DF",
+                    "DF",
+                    "DC"
+                ]
+            },
+            {
+                "text": "Next, since `MK`, `KD` are greater than `MD`, [elem.1.20] and `MG` is equal to `MK`, therefore the remainder `KD` is greater than the remainder `GD`, > so that `GD` is less than `KD`.",
+                "refs": [
+                    "elem.1.20"
+                ],
+                "emphs": [
+                    "MK",
+                    "KD",
+                    "MD",
+                    "MG",
+                    "MK",
+                    "KD",
+                    "GD"
+                ]
+            },
+            {
+                "text": "And, since on `MD`, one of the sides of the triangle `MLD`, two straight lines `MK`, `KD` were constructed meeting within the triangle, therefore `MK`, `KD` are less than `ML`, `LD`; [elem.1.21] and `MK` is equal to `ML`; > therefore the remainder `DK` is less than the remainder `DL`.",
+                "refs": [
+                    "elem.1.21"
+                ],
+                "emphs": [
+                    "MD",
+                    "MLD",
+                    "MK",
+                    "KD",
+                    "MK",
+                    "KD",
+                    "ML",
+                    "LD",
+                    "MK",
+                    "ML"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that `DL` is also less than `DH`; > therefore `DG` is least, while `DK` is less than `DL`, and `DL` than `DH`.",
+                "refs": [],
+                "emphs": [
+                    "DL",
+                    "DH"
+                ]
+            },
+            {
+                "text": "I say also that only two equal straight lines will fall from the point `D` on the circle, one on each side of the least `DG`.",
+                "refs": [],
+                "emphs": [
+                    "D",
+                    "DG"
+                ]
+            },
+            {
+                "text": "On the straight line `MD`, and at the point `M` on it, let the angle `DMB` be constructed equal to the angle `KMD`, and let `DB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "MD",
+                    "M",
+                    "DMB",
+                    "KMD",
+                    "DB"
+                ]
+            },
+            {
+                "text": "Then, since `MK` is equal to `MB`, and `MD` is common, > the two sides `KM`, `MD` are equal to the two sides `BM`, `MD` respectively; and the angle `KMD` is equal to the angle `BMD`; > therefore the base `DK` is equal to the base `DB`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "MK",
+                    "MB",
+                    "MD",
+                    "KMD",
+                    "BMD"
+                ]
+            },
+            {
+                "text": "I say that no other straight line equal to the straight line `DK` will fall on the circle from the point `D`.",
+                "refs": [],
+                "emphs": [
+                    "DK",
+                    "D"
+                ]
+            },
+            {
+                "text": "For, if possible, let a straight line so fall, and let it be `DN`. > Then, since `DK` is equal to `DN`,",
+                "refs": [],
+                "emphs": [
+                    "DN"
+                ]
+            },
+            {
+                "text": "while `DK` is equal to `DB`, > `DB` is also equal to `DN`, that is, the nearer to the least `DG` equal to the more remote: which was proved impossible.",
+                "refs": [],
+                "emphs": [
+                    "DK",
+                    "DB",
+                    "DG"
+                ]
+            },
+            {
+                "text": "Therefore no more than two equal straight lines will fall on the circle `ABC` from the point `D`, one on each side of `DG` the least.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "D",
+                    "DG"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.9": {
+        "id": "elem.3.9",
+        "n": 9,
+        "type": "proposition",
+        "enunciation": "`If a point be taken within a circle`, `and more than two equal straight lines fall from the point on the circle`, `the point taken is the centre of the circle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a circle and `D` a point within it, and from `D` let more than two equal straight lines, namely `DA`, `DB`, `DC`, fall on the circle `ABC`; I say that the point `D` is the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "D",
+                    "D",
+                    "DA",
+                    "DB",
+                    "DC",
+                    "ABC",
+                    "D",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "For let `AB`, `BC` be joined and bisected at the points `E`, `F`, and let `ED`, `FD` be joined and drawn through to the points `G`, `K`, `H`, `L`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "E",
+                    "F",
+                    "ED",
+                    "FD",
+                    "G",
+                    "K",
+                    "H",
+                    "L"
+                ]
+            },
+            {
+                "text": "Then, since `AE` is equal to `EB`, and `ED` is common, > the two sides `AE`, `ED` are equal to the two sides `BE`, `ED`; and the base `DA` is equal to the base `DB`; > therefore the angle `AED` is equal to the angle `BED`. [elem.1.8]",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "EB",
+                    "ED",
+                    "DA",
+                    "DB"
+                ]
+            },
+            {
+                "text": "Therefore each of the angles `AED`, `BED` is right; [elem.1.def.10] therefore `GK` cuts `AB` into two equal parts and at right angles.",
+                "refs": [
+                    "elem.1.def.10"
+                ],
+                "emphs": [
+                    "AED",
+                    "BED",
+                    "GK",
+                    "AB"
+                ]
+            },
+            {
+                "text": "And since, if in a circle a straight line cut a straight line into two equal parts and at right angles, the centre of the circle is on the cutting straight line, [elem.3.1.p.1] > the centre of the circle is on `GK`.",
+                "refs": [
+                    "elem.3.1.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > the centre of the circle `ABC` is also on `HL`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And the straight lines `GK`, `HL` have no other point common but the point `D`; > therefore the point `D` is the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "GK",
+                    "HL",
+                    "D"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.10": {
+        "id": "elem.3.10",
+        "n": 10,
+        "type": "proposition",
+        "enunciation": "`A circle does not cut a circle at more points than two`.",
+        "proof": [
+            {
+                "text": "For, if possible, let the circle `ABC` cut the circle `DEF` at more points than two, namely `B`, `C`, `F`, `H`;",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "B",
+                    "C",
+                    "F",
+                    "H"
+                ]
+            },
+            {
+                "text": "let `BH`, `BG` be joined and bisected at the points `K`, `L`, and from `K`, `L` let `KC`, `LM` be drawn at right angles to `BH`, `BG` and carried through to the points `A`, `E`.",
+                "refs": [],
+                "emphs": [
+                    "BH",
+                    "BG",
+                    "K",
+                    "L",
+                    "K",
+                    "L",
+                    "KC",
+                    "LM",
+                    "BH",
+                    "BG",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "text": "Then, since in the circle `ABC` a straight line `AC` cuts a straight line `BH` into two equal parts and at right angles, > the centre of the circle `ABC` is on `AC`. [elem.3.1.p.1]",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "AC",
+                    "BH"
+                ]
+            },
+            {
+                "text": "Again, since in the same circle `ABC` a straight line `NO` cuts a straight line `BG` into two equal parts and at right angles, > the centre of the circle `ABC` is on `NO`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "NO",
+                    "BG"
+                ]
+            },
+            {
+                "text": "But it was also proved to be on `AC`, and the straight lines `AC`, `NO` meet at no point except at `P`; > therefore the point `P` is the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "AC",
+                    "NO",
+                    "P"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that `P` is also the centre of the circle `DEF`; > therefore the two circles `ABC`, `DEF` which cut one another have the same centre `P`: which is impossible. [elem.3.5]",
+                "refs": [],
+                "emphs": [
+                    "P",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.11": {
+        "id": "elem.3.11",
+        "n": 11,
+        "type": "proposition",
+        "enunciation": "`If two circles touch one another internally`, `and their centres be taken`, `the straight line joining their centres`, `if it be also produced`, `will fall on the point of contact of the circles`.",
+        "proof": [
+            {
+                "text": "For let the two circles `ABC`, `ADE` touch one another internally at the point `A`, and let the centre `F` of the circle `ABC`, and the centre `G` of `ADE`, be taken; I say that the straight line joined from `G` to `F` and produced will fall on `A`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ADE",
+                    "A",
+                    "F",
+                    "ABC",
+                    "G",
+                    "ADE",
+                    "G",
+                    "F",
+                    "A"
+                ]
+            },
+            {
+                "text": "For suppose it does not, but, if possible, let it fall as `FGH`, and let `AF`, `AG` be joined.",
+                "refs": [],
+                "emphs": [
+                    "FGH",
+                    "AF",
+                    "AG"
+                ]
+            },
+            {
+                "text": "Then, since `AG`, `GF` are greater than `FA`, that is, than `FH`,",
+                "refs": [],
+                "emphs": [
+                    "AG",
+                    "GF",
+                    "FA",
+                    "FH"
+                ]
+            },
+            {
+                "text": "let `FG` be subtracted from each; therefore the remainder `AG` is greater than the remainder `GH`.",
+                "refs": [],
+                "emphs": [
+                    "FG",
+                    "AG",
+                    "GH"
+                ]
+            },
+            {
+                "text": "But `AG` is equal to `GD`; > therefore `GD` is also greater than `GH`, the less than the greater: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "AG",
+                    "GD"
+                ]
+            },
+            {
+                "text": "Therefore the straight line joined from `F` to `G` will not fall outside; > therefore it will fall at `A` on the point of contact.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "G"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.12": {
+        "id": "elem.3.12",
+        "n": 12,
+        "type": "proposition",
+        "enunciation": "`If two circles touch one another externally`, `the straight line joining their centres will pass through the point of contact`.",
+        "proof": [
+            {
+                "text": "For let the two circles `ABC`, `ADE` touch one another `A`, and let the centre `F` of `ABC`, and the centre `G` of `ADE`, be taken; `F` to `G` will pass through the point of contact at `A`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ADE",
+                    "A",
+                    "F",
+                    "ABC",
+                    "G",
+                    "ADE",
+                    "F",
+                    "G",
+                    "A"
+                ]
+            },
+            {
+                "text": "For suppose it does not, `FCDG`, and let `AF`, `AG` be joined.",
+                "refs": [],
+                "emphs": [
+                    "FCDG",
+                    "AF",
+                    "AG"
+                ]
+            },
+            {
+                "text": "Then, since the point `F` is the centre of the circle `ABC`, > `FA` is equal to `FC`.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Again, since the point `G` is the centre of the circle `ADE`, > `GA` is equal to `GD`.",
+                "refs": [],
+                "emphs": [
+                    "G",
+                    "ADE"
+                ]
+            },
+            {
+                "text": "But `FA` was also proved equal to `FC`; > therefore `FA`, `AG` are equal to `FC`, `GD`, so that the whole `FG` is greater than `FA`, `AG`; but it is also less [elem.1.20]: which is impossible.",
+                "refs": [
+                    "elem.1.20"
+                ],
+                "emphs": [
+                    "FA",
+                    "FC"
+                ]
+            },
+            {
+                "text": "Therefore the straight line joined from `F` to `G` will not fail to pass through the point of contact at `A`; > therefore it will pass through it.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "G",
+                    "A"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.]",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.13": {
+        "id": "elem.3.13",
+        "n": 13,
+        "type": "proposition",
+        "enunciation": "`A circle does not touch a circle at more points than one`, `whether it touch it internally or externally`.",
+        "proof": [
+            {
+                "text": "For, if possible, let the circle `ABDC` touch the circle `EBFD`, first internally, at more `D`, `B`.",
+                "refs": [],
+                "emphs": [
+                    "ABDC",
+                    "EBFD",
+                    "D",
+                    "B"
+                ]
+            },
+            {
+                "text": "Let the centre `G` of the circle `ABDC`, and the centre `H` of `EBFD`, be taken.",
+                "refs": [],
+                "emphs": [
+                    "G",
+                    "ABDC",
+                    "H",
+                    "EBFD"
+                ]
+            },
+            {
+                "text": "Therefore the straight line `G` to `H` will fall on `B`, `D`. [elem.3.11]",
+                "refs": [
+                    "elem.3.11"
+                ],
+                "emphs": [
+                    "G",
+                    "H",
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "text": "Let it so fall, as `BGHD`.",
+                "refs": [],
+                "emphs": [
+                    "BGHD"
+                ]
+            },
+            {
+                "text": "Then, since the point `G` is the centre of the circle `ABCD`, > `BG` is equal to `GD`;\n       > therefore `BG` is greater than `HD`; therefore `BH` is much greater than `HD`.",
+                "refs": [],
+                "emphs": [
+                    "G",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "Again, since the point `H` is the centre of the circle `EBFD`, > `BH` is equal to `HD`;\n       > but it was also proved much greater than it: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "H",
+                    "EBFD"
+                ]
+            },
+            {
+                "text": "Therefore a circle does not touch a circle internally at more points than one.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say further that neither does it so touch it externally.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let the circle `ACK` touch the circle `ABDC` at more points than one, namely `A`, `C`, and let `AC` be joined.",
+                "refs": [],
+                "emphs": [
+                    "ACK",
+                    "ABDC",
+                    "A",
+                    "C",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Then, since on the circumference of each of the circles `ABDC`, `ACK` two points `A`, `C` have been taken at random, the straight line joining the points will fall within each circle; [elem.3.2] > but it fell within the circle `ABCD` and outside `ACK` [elem.3.def.3]: which is absurd.",
+                "refs": [
+                    "elem.3.2"
+                ],
+                "emphs": [
+                    "ABDC",
+                    "ACK",
+                    "A",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore a circle does not touch a circle externally at more points than one.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it was proved that neither does it so touch it internally.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.14": {
+        "id": "elem.3.14",
+        "n": 14,
+        "type": "proposition",
+        "enunciation": "`In a circle equal straight lines are equally distant from the centre`, `and those which are equally distant from the centre are equal to one another`.",
+        "proof": [
+            {
+                "text": "Let `ABDC` be a circle, and let `AB`, `CD` be equal straight lines in it; I say that `AB`, `CD` are equally distant from the centre.",
+                "refs": [],
+                "emphs": [
+                    "ABDC",
+                    "AB",
+                    "CD",
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "For let the centre of the circle `ABDC` be taken [elem.3.1], `E`; from `E` let `EF`, `EG` be drawn perpendicular to `AB`, `CD`, and let `AE`, `EC` be joined.",
+                "refs": [
+                    "elem.3.1"
+                ],
+                "emphs": [
+                    "ABDC",
+                    "E",
+                    "E",
+                    "EF",
+                    "EG",
+                    "AB",
+                    "CD",
+                    "AE",
+                    "EC"
+                ]
+            },
+            {
+                "text": "Then, since a straight line `EF` through the centre cuts a straight line `AB` not through the centre at right angles, it also bisects it. [elem.3.3] > Therefore `AF` is equal to `FB`; therefore `AB` is double of `AF`.",
+                "refs": [
+                    "elem.3.3"
+                ],
+                "emphs": [
+                    "EF",
+                    "AB"
+                ]
+            },
+            {
+                "text": "For the same reason > `CD` is also double of `CG`; and `AB` is equal to `CD`; > therefore `AF` is also equal to `CG`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "And, since `AE` is equal to `EC`, > the square on `AE` is also equal to the square on `EC`. But the squares on `AF`, `EF` are equal to the square on `AE`, for the angle at `F` is right; and the squares on `EG`, `GC` are equal to the square on `EC`, for the angle at `G` is right; [elem.1.47] > therefore the squares on `AF`, `FE` are equal to the squares on `CG`, `GE`, of which the square on `AF` is equal to the square on `CG`, for `AF` is equal to `CG`; > therefore the square on `FE` which remains is equal to the square on `EG`, therefore `EF` is equal to `EG`.",
+                "refs": [
+                    "elem.1.47"
+                ],
+                "emphs": [
+                    "AE",
+                    "EC",
+                    "AF",
+                    "EF",
+                    "AE",
+                    "F",
+                    "EG",
+                    "GC",
+                    "EC",
+                    "G",
+                    "AF",
+                    "CG",
+                    "AF",
+                    "CG"
+                ]
+            },
+            {
+                "text": "But in a circle straight lines are said to be equally distant from the centre when the perpendiculars drawn to them from the centre are equal; [elem.3.def.4] > therefore `AB`, `CD` are equally distant from the centre.",
+                "refs": [
+                    "elem.3.def.4"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Next, let the straight lines `AB`, `CD` be equally distant from the centre; that is, let `EF` be equal to `EG`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "EF",
+                    "EG"
+                ]
+            },
+            {
+                "text": "I say that `AB` is also equal to `CD`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "For, with the same construction, we can prove, similarly, that `AB` is double of `AF`, and `CD` of `CG`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AF",
+                    "CD",
+                    "CG"
+                ]
+            },
+            {
+                "text": "And, since `AE` is equal to `CE`, > the square on `AE` is equal to the square on `CE`. But the squares on `EF`, `FA` are equal to the square on `AE`, and the squares on `EG`, `GC` equal to the square on `CE`. [elem.1.47]",
+                "refs": [
+                    "elem.1.47"
+                ],
+                "emphs": [
+                    "AE",
+                    "CE",
+                    "EF",
+                    "FA",
+                    "AE",
+                    "EG",
+                    "GC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "Therefore the squares on `EF`, `FA` are equal to the squares on `EG`, `GC`, of which the square on `EF` is equal to the square on `EG`, for `EF` is equal to `EG`; therefore the square on `AF` which remains is equal to the square on `CG`; > therefore `AF` is equal to `CG`. And `AB` is double of `AF`, and `CD` double of `CG`; > therefore `AB` is equal to `CD`.",
+                "refs": [],
+                "emphs": [
+                    "EF",
+                    "FA",
+                    "EG",
+                    "GC",
+                    "EF",
+                    "EG",
+                    "EF",
+                    "EG",
+                    "AF",
+                    "CG",
+                    "AB",
+                    "AF",
+                    "CD",
+                    "CG"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.15": {
+        "id": "elem.3.15",
+        "n": 15,
+        "type": "proposition",
+        "enunciation": "`Of straight lines in a circle the diameter is greatest`, `and of the rest the nearer to the centre is always greater than the more remote`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a circle, let `AD` be its diameter and `E` the centre; and let `BC` be nearer to the diameter `AD`, and `FG` more remote; I say that `AD` is greatest and `BC` greater than `FG`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AD",
+                    "E",
+                    "BC",
+                    "AD",
+                    "FG",
+                    "AD",
+                    "BC",
+                    "FG"
+                ]
+            },
+            {
+                "text": "For from the centre `E` let `EH`, `EK`\n       `BC`, `FG`.",
+                "refs": [],
+                "emphs": [
+                    "E",
+                    "EH",
+                    "EK",
+                    "BC",
+                    "FG"
+                ]
+            },
+            {
+                "text": "Then, since `BC` is nearer to the centre and `FG` more remote, `EK` is greater than `EH`. [elem.3.def.5]",
+                "refs": [
+                    "elem.3.def.5"
+                ],
+                "emphs": [
+                    "BC",
+                    "FG",
+                    "EK",
+                    "EH"
+                ]
+            },
+            {
+                "text": "Let `EL` be made equal to `EH`, through `L` let `LM` be drawn at right angles to `EK` and carried through to `N`, and let `ME`, `EN`, `FE`, `EG` be joined.",
+                "refs": [],
+                "emphs": [
+                    "EL",
+                    "EH",
+                    "L",
+                    "LM",
+                    "EK",
+                    "N",
+                    "ME",
+                    "EN",
+                    "FE",
+                    "EG"
+                ]
+            },
+            {
+                "text": "Then, since `EH` is equal to `EL`, > `BC` is also equal to `MN`. [elem.3.14]",
+                "refs": [],
+                "emphs": [
+                    "EH",
+                    "EL"
+                ]
+            },
+            {
+                "text": "Again, since `AE` is equal to `EM`, and `ED` to `EN`, > `AD` is equal to `ME`, `EN`.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "EM",
+                    "ED",
+                    "EN"
+                ]
+            },
+            {
+                "text": "But `ME`, `EN` are greater than `MN`, [elem.1.20] and `MN` is equal to `BC`; > therefore `AD` is greater than `BC`.",
+                "refs": [
+                    "elem.1.20"
+                ],
+                "emphs": [
+                    "ME",
+                    "EN",
+                    "MN",
+                    "MN",
+                    "BC"
+                ]
+            },
+            {
+                "text": "And, since the two sides `ME`, `EN` are equal to the two sides `FE`, `EG`, and the angle `MEN` greater than the angle `FEG`, therefore the base `MN` is greater than the base `FG`. [elem.1.24]",
+                "refs": [
+                    "elem.1.24"
+                ],
+                "emphs": [
+                    "ME",
+                    "EN",
+                    "FE",
+                    "EG",
+                    "MEN",
+                    "FEG",
+                    "MN",
+                    "FG"
+                ]
+            },
+            {
+                "text": "But `MN` was proved equal to `BC`.",
+                "refs": [],
+                "emphs": [
+                    "MN",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Therefore the diameter `AD` is greatest and `BC` greater than `FG`.",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "BC",
+                    "FG"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.16": {
+        "id": "elem.3.16",
+        "n": 16,
+        "type": "proposition",
+        "enunciation": "`The straight line drawn at right angles to the diameter of a circle from its extremity will fall outside the circle`, `and into the space between the straight line and the circumference another straight line cannot be interposed; further the angle of the semicircle is greater`, `and the remaining angle less`, `than any acute rectilineal angle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a circle about `D` as centre and `AB` as diameter; `A` at right angles to `AB` from its extremity will fall outside the circle.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "D",
+                    "AB",
+                    "A",
+                    "AB"
+                ]
+            },
+            {
+                "text": "For suppose it does not, but, if possible, let it fall within as `CA`, and let `DC` be joined.",
+                "refs": [],
+                "emphs": [
+                    "CA",
+                    "DC"
+                ]
+            },
+            {
+                "text": "Since `DA` is equal to `DC`, > the angle `DAC` is also equal to the angle `ACD`. [elem.1.5]",
+                "refs": [],
+                "emphs": [
+                    "DA",
+                    "DC"
+                ]
+            },
+            {
+                "text": "But the angle `DAC` is right; > therefore the angle `ACD` is also right: thus, in the triangle `ACD`, the two angles `DAC`, `ACD` are equal to two right angles: which is impossible. [elem.1.17]",
+                "refs": [
+                    "elem.1.17"
+                ],
+                "emphs": [
+                    "DAC",
+                    "ACD",
+                    "DAC",
+                    "ACD"
+                ]
+            },
+            {
+                "text": "Therefore the straight line drawn from the point `A` at right angles to `BA` will not fall within the circle.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "BA"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that neither will it fall on the circumference; > therefore it will fall outside.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let it fall as `AE`; I say next that into the space between the straight line `AE` and the circumference `CHA` another straight line cannot be interposed.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "AE",
+                    "CHA"
+                ]
+            },
+            {
+                "text": "For, if possible, let another straight line be so interposed, as `FA`, and let `DG` be drawn from the point `D` perpendicular to `FA`.",
+                "refs": [],
+                "emphs": [
+                    "FA",
+                    "DG",
+                    "D",
+                    "FA"
+                ]
+            },
+            {
+                "text": "Then, since the angle `AGD` is right, > and the angle `DAG` is less than a right angle, `AD` is greater than `DG`. [elem.1.19]",
+                "refs": [],
+                "emphs": [
+                    "AGD"
+                ]
+            },
+            {
+                "text": "But `DA` is equal to `DH`; > therefore `DH` is greater than `DG`, the less than the greater: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "DA",
+                    "DH"
+                ]
+            },
+            {
+                "text": "Therefore another straight line cannot be interposed into the space between the straight line and the circumference.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say further that the angle of the semicircle contained by the straight line `BA` and the circumference `CHA` is greater than any acute rectilineal angle, and the remaining angle contained by the circumference `CHA` and the straight line `AE` is less than any acute rectilineal angle.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "CHA",
+                    "CHA",
+                    "AE"
+                ]
+            },
+            {
+                "text": "For, if there is any rectilineal angle greater than the angle contained by the straight line `BA` and the circumference `CHA`, and any rectilineal angle less than the angle contained by the circumference `CHA` and the straight line `AE`, then into the space between the circumference and the straight line `AE` a straight line will be interposed such as will make an angle contained by straight lines which is greater than the angle contained by the straight line `BA` and the circumference `CHA`, and another angle contained by straight lines which is less than the angle contained by the circumference `CHA` and the straight line `AE`.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "CHA",
+                    "CHA",
+                    "AE",
+                    "AE",
+                    "BA",
+                    "CHA",
+                    "CHA",
+                    "AE"
+                ]
+            },
+            {
+                "text": "But such a straight line cannot be interposed;",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "therefore there will not be any acute angle contained by straight lines which is greater than the angle contained by the straight line `BA` and the circumference `CHA`, nor yet any acute angle contained by straight lines which is less than the angle contained by the circumference `CHA` and the straight line `AE`.\u2014",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "CHA",
+                    "CHA",
+                    "AE"
+                ]
+            }
+        ]
+    },
+    "elem.3.17": {
+        "id": "elem.3.17",
+        "n": 17,
+        "type": "proposition",
+        "enunciation": "`From a given point to draw a straight line touching a given circle`.",
+        "proof": [
+            {
+                "text": "Let `A` be the given point, and `BCD` the given circle; thus it is required to draw from the point `A` a straight line touching the circle `BCD`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "BCD",
+                    "A",
+                    "BCD"
+                ]
+            },
+            {
+                "text": "For let the centre `E` of the circle be taken; [elem.3.1] let `AE` be joined, and with centre `E` and distance `EA` let the circle `AFG` be described; `D` let `DF` be drawn at right angles to `EA`, and let `EF`, `AB` be joined; I say that `AB` has been drawn from the point `A` touching the circle `BCD`.",
+                "refs": [
+                    "elem.3.1"
+                ],
+                "emphs": [
+                    "E",
+                    "AE",
+                    "E",
+                    "EA",
+                    "AFG",
+                    "D",
+                    "DF",
+                    "EA",
+                    "EF",
+                    "AB",
+                    "AB",
+                    "A",
+                    "BCD"
+                ]
+            },
+            {
+                "text": "For, since `E` is the centre of the circles `BCD`, `AFG`, > `EA` is equal to `EF`, and `ED` to `EB`; therefore the two sides `AE`, `EB` are equal to the two sides `FE`, `ED`: and they contain a common angle, the angle at `E`; > therefore the base `DF` is equal to the base `AB`, and the triangle `DEF` is equal to the triangle `BEA`, and the remaining angles to the remaining angles; [elem.1.4] therefore the angle `EDF` is equal to the angle `EBA`.",
+                "refs": [],
+                "emphs": [
+                    "E",
+                    "BCD",
+                    "AFG",
+                    "AE",
+                    "EB",
+                    "FE",
+                    "ED",
+                    "E"
+                ]
+            },
+            {
+                "text": "But the angle `EDF` is right; > therefore the angle `EBA` is also right.",
+                "refs": [],
+                "emphs": [
+                    "EDF"
+                ]
+            },
+            {
+                "text": "Now `EB` is a radius; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [elem.3.16.p.1] > therefore `AB` touches the circle `BCD`.",
+                "refs": [
+                    "elem.3.16.p.1"
+                ],
+                "emphs": [
+                    "EB"
+                ]
+            },
+            {
+                "text": "Therefore from the given point `A` the straight line `AB` has been drawn touching the circle `BCD`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "AB",
+                    "BCD"
+                ]
+            }
+        ]
+    },
+    "elem.3.18": {
+        "id": "elem.3.18",
+        "n": 18,
+        "type": "proposition",
+        "enunciation": "`If a straight line touch a circle`, `and a straight line be joined from the centre to the point of contact`, `the straight line so joined will be perpendicular to the tangent`.",
+        "proof": [
+            {
+                "text": "For let a straight line `DE` touch the circle `ABC` at the point `C`, let the centre `F` of the circle `ABC` be taken, and let `FC` be joined from `F` to `C`; I say that `FC` is perpendicular to `DE`.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "ABC",
+                    "C",
+                    "F",
+                    "ABC",
+                    "FC",
+                    "F",
+                    "C",
+                    "FC",
+                    "DE"
+                ]
+            },
+            {
+                "text": "For, if not, let `FG` be drawn from `F` perpendicular to `DE`.",
+                "refs": [],
+                "emphs": [
+                    "FG",
+                    "F",
+                    "DE"
+                ]
+            },
+            {
+                "text": "Then, since the angle `FGC` is right, > the angle `FCG` is acute; [elem.1.17] and the greater angle is subtended by the greater side; [elem.1.19] > therefore `FC` is greater than `FG`.",
+                "refs": [
+                    "elem.1.19"
+                ],
+                "emphs": [
+                    "FGC"
+                ]
+            },
+            {
+                "text": "But `FC` is equal to `FB`; > therefore `FB` is also greater than `FG`, the less than the greater: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "FC",
+                    "FB"
+                ]
+            },
+            {
+                "text": "Therefore `FG` is not perpendicular to `DE`.",
+                "refs": [],
+                "emphs": [
+                    "FG",
+                    "DE"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that neither is any other straight line except `FC`; > therefore `FC` is perpendicular to `DE`.",
+                "refs": [],
+                "emphs": [
+                    "FC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.19": {
+        "id": "elem.3.19",
+        "n": 19,
+        "type": "proposition",
+        "enunciation": "`If a straight line touch a circle`, `and from the point of contact a straight line be drawn at right angles to the tangent`, `the centre of the circle will be on the straight line so drawn`.",
+        "proof": [
+            {
+                "text": "For let a straight line `DE` touch the circle `ABC` at the point `C`, and from `C` let `CA` be drawn at right angles to `DE`; I say that the centre of the circle is on `AC`.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "ABC",
+                    "C",
+                    "C",
+                    "CA",
+                    "DE",
+                    "AC"
+                ]
+            },
+            {
+                "text": "For suppose it is not, but, if `F` be the centre, and let `CF` be joined.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "CF"
+                ]
+            },
+            {
+                "text": "Since a straight line `DE` touches the circle `ABC`, and `FC` has been joined from the centre to the point of contact, > `FC` is perpendicular to `DE`; [elem.3.18] therefore the angle `FCE` is right.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "ABC",
+                    "FC"
+                ]
+            },
+            {
+                "text": "But the angle `ACE` is also right; > therefore the angle `FCE` is equal to the angle `ACE`, the less to the greater: which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "ACE"
+                ]
+            },
+            {
+                "text": "Therefore `F` is not the centre of the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that neither is any other point except a point on `AC`.",
+                "refs": [],
+                "emphs": [
+                    "AC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.20": {
+        "id": "elem.3.20",
+        "n": 20,
+        "type": "proposition",
+        "enunciation": "`In a circle the angle at the centre is double of the angle at the circumference`, `when the angles have the same circumference as base`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a circle, let the angle `BEC` be an angle `BAC` an angle at the circumference, and let them have the same circumference `BC` as base; I say that the angle `BEC` is double of `BAC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "BEC",
+                    "BAC",
+                    "BC",
+                    "BEC",
+                    "BAC"
+                ]
+            },
+            {
+                "text": "For let `AE` be joined and drawn through to `F`.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "F"
+                ]
+            },
+            {
+                "text": "Then, since `EA` is equal to `EB`, > the angle `EAB` is also equal to the `EBA`; [elem.1.5] therefore the angles `EAB`, `EBA` are double of the angle `EAB`.",
+                "refs": [],
+                "emphs": [
+                    "EA",
+                    "EB",
+                    "EAB",
+                    "EBA",
+                    "EAB"
+                ]
+            },
+            {
+                "text": "But the angle `BEF` is equal to the angles `EAB`, `EBA`; [elem.1.32] therefore the angle `BEF` is also double of the angle `EAB`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BEF",
+                    "EAB",
+                    "EBA",
+                    "BEF",
+                    "EAB"
+                ]
+            },
+            {
+                "text": "For the same reason > the angle `FEC` is also double of the angle `EAC`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the whole angle `BEC` is double of the whole angle `BAC`.",
+                "refs": [],
+                "emphs": [
+                    "BEC",
+                    "BAC"
+                ]
+            },
+            {
+                "text": "Again let another straight line be inflected, and let there be another angle `BDC`; let `DE` be joined and produced to `G`.",
+                "refs": [],
+                "emphs": [
+                    "BDC",
+                    "DE",
+                    "G"
+                ]
+            },
+            {
+                "text": "Similarly then we can prove that the angle `GEC` is double of the angle `EDC`, > of which the angle `GEB` is double of the angle `EDB`; therefore the angle `BEC` which remains is double of the angle `BDC`.",
+                "refs": [],
+                "emphs": [
+                    "GEC",
+                    "EDC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.21": {
+        "id": "elem.3.21",
+        "n": 21,
+        "type": "proposition",
+        "enunciation": "`In a circle the angles in the same segment are equal to one another`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a circle, and let the angles `BAD`, `BED` be angles in the same segment `BAED`; I say that the angles `BAD`, `BED` are equal to one another.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "BAD",
+                    "BED",
+                    "BAED",
+                    "BAD",
+                    "BED"
+                ]
+            },
+            {
+                "text": "For let the centre of the circle `ABCD` be taken, and let it be `F`; let `BF`, `FD` be joined.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "F",
+                    "BF",
+                    "FD"
+                ]
+            },
+            {
+                "text": "Now, since the angle `BFD` is at the centre, > and the angle `BAD` at the circumference, and they have the same circumference `BCD` as base, therefore the angle `BFD` is double of the angle `BAD`. [elem.3.20]",
+                "refs": [],
+                "emphs": [
+                    "BFD"
+                ]
+            },
+            {
+                "text": "For the same reason > the angle `BFD` is also double of the angle `BED`; therefore the angle `BAD` is equal to the angle `BED`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.22": {
+        "id": "elem.3.22",
+        "n": 22,
+        "type": "proposition",
+        "enunciation": "`The opposite angles of quadrilaterals in circles are equal to two right angles`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a circle, and let `ABCD` be a quadrilateral in it; I say that the opposite angles are equal to two right angles.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "Let `AC`, `BD` be joined.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "BD"
+                ]
+            },
+            {
+                "text": "Then, since in any triangle the three angles are equal to two right angles, [elem.1.32] > the three angles `CAB`, `ABC`, `BCA` of the triangle `ABC` are equal to two right angles.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the angle `CAB` is equal to the angle `BDC`, for they are in the same segment `BADC`; [elem.3.21] and the angle `ACB` is equal to the angle `ADB`, for they are in the same segment `ADCB`; therefore the whole angle `ADC` is equal to the angles `BAC`, `ACB`.",
+                "refs": [
+                    "elem.3.21"
+                ],
+                "emphs": [
+                    "CAB",
+                    "BDC",
+                    "BADC",
+                    "ACB",
+                    "ADB",
+                    "ADCB",
+                    "ADC",
+                    "BAC",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "Let the angle `ABC` be added to each; therefore the angles `ABC`, `BAC`, `ACB` are equal to the angles `ABC`, `ADC`. But the angles `ABC`, `BAC`, `ACB` are equal to two right angles; therefore the angles `ABC`, `ADC` are also equal to two right angles.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ABC",
+                    "BAC",
+                    "ACB",
+                    "ABC",
+                    "ADC",
+                    "ABC",
+                    "BAC",
+                    "ACB",
+                    "ABC",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that the angles `BAD`, `DCB` are also equal to two right angles.",
+                "refs": [],
+                "emphs": [
+                    "BAD",
+                    "DCB"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.23": {
+        "id": "elem.3.23",
+        "n": 23,
+        "type": "proposition",
+        "enunciation": "`On the same straight line there cannot be constructed two similar and unequal segments of circles on the same side`.",
+        "proof": [
+            {
+                "text": "For, if possible, on the same straight line `AB` let two similar and unequal segments of circles `ACB`, `ADB` be constructed on the same side; `ACD` be drawn through, and let `CB`, `DB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "ACB",
+                    "ADB",
+                    "ACD",
+                    "CB",
+                    "DB"
+                ]
+            },
+            {
+                "text": "Then, since the segment `ACB` is similar to the segment `ADB`, elem.3.def.11] > the angle `ACB` is equal to the angle `ADB`, the exterior to the interior: which is impossible. [elem.1.16]",
+                "refs": [
+                    "elem.3.def.11"
+                ],
+                "emphs": [
+                    "ACB",
+                    "ADB"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.24": {
+        "id": "elem.3.24",
+        "n": 24,
+        "type": "proposition",
+        "enunciation": "`Similar segments of circles on equal straight lines are equal to one another`.",
+        "proof": [
+            {
+                "text": "For let `AEB`, `CFD` be similar segments of circles on equal straight lines `AB`, `CD`; `AEB` is equal to the segment `CFD`.",
+                "refs": [],
+                "emphs": [
+                    "AEB",
+                    "CFD",
+                    "AB",
+                    "CD",
+                    "AEB",
+                    "CFD"
+                ]
+            },
+            {
+                "text": "For, if the segment `AEB` be applied to `CFD`, and if the point `A` be placed on `C` and the straight line `AB` on `CD`, > the point `B` will also coincide with the point `D`, because `AB` is equal to `CD`;\n       > and, `AB` coinciding with `CD`, the segment `AEB` will also coincide with `CFD`.",
+                "refs": [],
+                "emphs": [
+                    "AEB",
+                    "CFD",
+                    "A",
+                    "C",
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "For, if the straight line `AB` coincide with `CD` but the segment `AEB` do not coincide with `CFD`, it will either fall with it, or outside it; `CGD`, and a circle cuts a circle at more points than two : which is impossible. [elem.3.10]",
+                "refs": [
+                    "elem.3.10"
+                ],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "AEB",
+                    "CFD",
+                    "CGD"
+                ]
+            },
+            {
+                "text": "Therefore, if the straight line `AB` be applied to `CD`, the segment `AEB` will not fail to coincide with `CFD` also; > therefore it will coincide with it and will be equal to it.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "AEB",
+                    "CFD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.25": {
+        "id": "elem.3.25",
+        "n": 25,
+        "type": "proposition",
+        "enunciation": "`Given a segment of a circle`, `to describe the complete circle of which it is a segment`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be the given segment of a circle; thus it is required to describe the complete circle belonging to the segment `ABC`, that is, of which it is a segment.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "For let `AC` be bisected at `D`, let `DB` be drawn from the point `D` at right angles to `AC`, and let `AB`. be joined; > the angle `ABD` is then greater than, equal to, or less than the angle `BAD`.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "D",
+                    "DB",
+                    "D",
+                    "AC",
+                    "AB"
+                ]
+            },
+            {
+                "text": "First let it be greater; and on the straight line `BA`, and at the point `A` on it, let the angle `BAE` be constructed equal to the angle `ABD`; let `DB` be drawn through to `E`, and let `EC` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "A",
+                    "BAE",
+                    "ABD",
+                    "DB",
+                    "E",
+                    "EC"
+                ]
+            },
+            {
+                "text": "Then, since the angle `ABE` is equal to the angle `BAE`, > the straight line `EB` is also equal to `EA`. [elem.1.6]",
+                "refs": [],
+                "emphs": [
+                    "ABE",
+                    "BAE"
+                ]
+            },
+            {
+                "text": "And, since `AD` is equal to `DC`, and `DE` is common, > the two sides `AD`, `DE` are equal to the two sides `CD`, `DE` respectively; and the angle `ADE` is equal to the angle `CDE`, for each is right; > therefore the base `AE` is equal to the base `CE`.",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "DC",
+                    "DE",
+                    "ADE",
+                    "CDE"
+                ]
+            },
+            {
+                "text": "But `AE` was proved equal to `BE`; > therefore `BE` is also equal to `CE`; therefore the three straight lines `AE`, `EB`, `EC` are equal to one another.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "BE",
+                    "AE",
+                    "EB",
+                    "EC"
+                ]
+            },
+            {
+                "text": "Therefore the circle drawn with centre `E` and distance one of the straight lines `AE`, `EB`, `EC` will also pass through the remaining points and will have been completed. [elem.3.9]",
+                "refs": [
+                    "elem.3.9"
+                ],
+                "emphs": [
+                    "E",
+                    "AE",
+                    "EB",
+                    "EC"
+                ]
+            },
+            {
+                "text": "Therefore, given a segment of a circle, the complete circle has been described.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it is manifest that the segment `ABC` is less than a semicircle, because the centre `E` happens to be outside it.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "E"
+                ]
+            },
+            {
+                "text": "Similarly, even if the angle `ABD` be equal to the angle `BAD`, `AD` being equal to each of the two `BD`, `DC`, > the three straight lines `DA`, `DB`, `DC` will be equal to one another, `D` will be the centre of the completed circle, and `ABC` will clearly be a semicircle.",
+                "refs": [],
+                "emphs": [
+                    "ABD",
+                    "BAD",
+                    "AD",
+                    "BD",
+                    "DC"
+                ]
+            },
+            {
+                "text": "But, if the angle `ABD` be less than the angle `BAD`, and if we construct, on the straight line `BA` and at the point `A` on it, an angle equal to the angle `ABD`, the centre will fall on `DB` within the segment `ABC`, and the segment `ABC` will clearly be greater than a semicircle.",
+                "refs": [],
+                "emphs": [
+                    "ABD",
+                    "BAD",
+                    "BA",
+                    "A",
+                    "ABD",
+                    "DB",
+                    "ABC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Therefore, given a segment of a circle, the complete circle has been described. Q. E. F.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.26": {
+        "id": "elem.3.26",
+        "n": 26,
+        "type": "proposition",
+        "enunciation": "`In equal circles equal angles stand on equal circumferences`, `whether they stand at the centres or at the circumferences`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be equal circles, and in them let there be equal angles, namely at the centres the angles `BGC`, `EHF`, and at the circumferences the angles `BAC`, `EDF`; I say that the circumference `BKC` is equal to the circumference `ELF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BGC",
+                    "EHF",
+                    "BAC",
+                    "EDF",
+                    "BKC",
+                    "ELF"
+                ]
+            },
+            {
+                "text": "For let `BC`, `EF` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Now, since the circles `ABC`, `DEF` are equal, > the radii are equal.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Thus the two straight lines `BG`, `GC` are equal to the two straight lines `EH`, `HF`; > and the angle at `G` is equal to the angle at `H`; therefore the base `BC` is equal to the base `EF`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "BG",
+                    "GC",
+                    "EH",
+                    "HF"
+                ]
+            },
+            {
+                "text": "And, since the angle at `A` is equal to the angle at `D`, > the segment `BAC` is similar to the segment `EDF`; [elem.3.def.11] and they are upon equal straight lines.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "text": "But similar segments of circles on equal straight lines are equal to one another; [elem.3.24] > therefore the segment `BAC` is equal to `EDF`. But the whole circle `ABC` is also equal to the whole circle `DEF`; therefore the circumference `BKC` which remains is equal to the circumference `ELF`.",
+                "refs": [
+                    "elem.3.24"
+                ],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BKC",
+                    "ELF"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.27": {
+        "id": "elem.3.27",
+        "n": 27,
+        "type": "proposition",
+        "enunciation": "`In equal circles angles standing on equal circumferences are equal to one another`, `whether they stand at the centres or at the circumferences`.",
+        "proof": [
+            {
+                "text": "For in equal circles `ABC`, `DEF`, on equal circumferences `BC`, `EF`, let the angles `BGC`, `EHF` stand at the centres `G`, `H`, and the angles `BAC`, `EDF` at the circumferences; I say that the angle `BGC` is equal to the angle `EHF`, and the angle `BAC` is equal to the angle `EDF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BC",
+                    "EF",
+                    "BGC",
+                    "EHF",
+                    "G",
+                    "H",
+                    "BAC",
+                    "EDF",
+                    "BGC",
+                    "EHF",
+                    "BAC",
+                    "EDF"
+                ]
+            },
+            {
+                "text": "For, if the angle `BGC` is unequal to the angle `EHF`, > one of them is greater. Let the angle `BGC` be greater : and on the straight line `BG`, and at the point `G` on it, let the angle `BGK` be constructed equal to the angle `EHF`. [elem.1.23]",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "BGC",
+                    "EHF",
+                    "BGC",
+                    "BG",
+                    "G",
+                    "BGK",
+                    "EHF"
+                ]
+            },
+            {
+                "text": "Now equal angles stand on equal circumferences, when they are at the centres; [elem.3.26] > therefore the circumference `BK` is equal to the circumference `EF`.",
+                "refs": [
+                    "elem.3.26"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But `EF` is equal to `BC`; > therefore `BK` is also equal to `BC`, the less to the greater : which is impossible.",
+                "refs": [],
+                "emphs": [
+                    "EF",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Therefore the angle `BGC` is not unequal to the angle `EHF`; > therefore it is equal to it.",
+                "refs": [],
+                "emphs": [
+                    "BGC",
+                    "EHF"
+                ]
+            },
+            {
+                "text": "And the angle at `A` is half of the angle `BGC`, > and the angle at `D` half of the angle `EHF`; [elem.3.20] therefore the angle at `A` is also equal to the angle at `D`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "BGC",
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.28": {
+        "id": "elem.3.28",
+        "n": 28,
+        "type": "proposition",
+        "enunciation": "`In equal circles equal straight lines cut off equal circumferences`, `the greater equal to the greater and the less to the less`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be equal circles, and in the circles let `AB`, `DE` be equal straight lines cutting off `ACB`, `DFE` as greater circumferences and `AGB`, `DHE` as lesser; I say that the greater circumference `ACB` is equal to the greater circumference `DFE`, and the less circumference `AGB` to `DHE`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "AB",
+                    "DE",
+                    "ACB",
+                    "DFE",
+                    "AGB",
+                    "DHE",
+                    "ACB",
+                    "DFE",
+                    "AGB",
+                    "DHE"
+                ]
+            },
+            {
+                "text": "For let the centres `K`, `L` of the circles be taken, and let `AK`, `KB`, `DL`, `LE` be joined.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "L",
+                    "AK",
+                    "KB",
+                    "DL",
+                    "LE"
+                ]
+            },
+            {
+                "text": "Now, since the circles are equal, > the radii are also equal; therefore the two sides `AK`, `KB` are equal to the two sides `DL`, `LE`; and the base `AB` is equal to the base `DE`; > therefore the angle `AKB` is equal to the angle `DLE`. [elem.1.8]",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "DE"
+                ]
+            },
+            {
+                "text": "But equal angles stand on equal circumferences, when they are at the centres; [elem.3.26] > therefore the circumference `AGB` is equal to `DHE`.",
+                "refs": [
+                    "elem.3.26"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the whole circle `ABC` is also equal to the whole circle `DEF`; therefore the circumference `ACB` which remains is also equal to the circumference `DFE` which remains.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "ACB",
+                    "DFE"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.29": {
+        "id": "elem.3.29",
+        "n": 29,
+        "type": "proposition",
+        "enunciation": "`In equal circles equal circumferences are subtended by equal straight lines`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be equal circles, and in them let equal circumferences `BGC`, `EHF` be cut off; and let the straight lines `BC`, `EF` be joined; I say that `BC` is equal to `EF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BGC",
+                    "EHF",
+                    "BC",
+                    "EF",
+                    "BC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "For let the centres of the circles be taken, and let them be `K`, `L`; let `BK`, `KC`, `EL`, `LF` be joined.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "L",
+                    "BK",
+                    "KC",
+                    "EL",
+                    "LF"
+                ]
+            },
+            {
+                "text": "Now, since the circumference `BGC` is equal to the circumference `EHF`, > the angle `BKC` is also equal to the angle `ELF`. [elem.3.27]",
+                "refs": [],
+                "emphs": [
+                    "BGC",
+                    "EHF"
+                ]
+            },
+            {
+                "text": "And, since the circles `ABC`, `DEF` are equal, > the radii are also equal; therefore the two sides `BK`, `KC` are equal to the two sides `EL`, `LF`; and they contain equal angles; therefore the base `BC` is equal to the base `EF`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.30": {
+        "id": "elem.3.30",
+        "n": 30,
+        "type": "proposition",
+        "enunciation": "`To bisect a given circumference`.",
+        "proof": [
+            {
+                "text": "Let `ADB` be the given circumference; thus it is required to bisect the circumference `ADB`.",
+                "refs": [],
+                "emphs": [
+                    "ADB",
+                    "ADB"
+                ]
+            },
+            {
+                "text": "Let `AB` be joined and bisected at `C`; from the point `C` let `CD` be drawn at right angles to the straight line `AB`, `AD`, `DB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "C",
+                    "C",
+                    "CD",
+                    "AB",
+                    "AD",
+                    "DB"
+                ]
+            },
+            {
+                "text": "Then, since `AC` is equal to `CB`, and `CD` is common, > the two sides `AC`, `CD` are equal to the two sides `BC`, `CD`; and the angle `ACD` is equal to the angle `BCD`, for each is right; > therefore the base `AD` is equal to the base `DB`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "CB",
+                    "CD",
+                    "ACD",
+                    "BCD"
+                ]
+            },
+            {
+                "text": "But equal straight lines cut off equal circumferences, the greater equal to the greater, and the less to the less; [elem.3.28] > and each of the circumferences `AD`, `DB` is less than a semicircle; therefore the circumference `AD` is equal to the circumference `DB`.",
+                "refs": [
+                    "elem.3.28"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the given circumference has been bisected at the point `D`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "D"
+                ]
+            }
+        ]
+    },
+    "elem.3.31": {
+        "id": "elem.3.31",
+        "n": 31,
+        "type": "proposition",
+        "enunciation": "`In a circle the angle in the semicircle is right`, `that in a greater segment less than a right angle`, `and that in a less segment greater than a right angle; and further the angle of the greater segment is greater than a right angle`, `and the angle of the less segment less than a right angle`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a circle, let `BC` be its diameter, and `E` its centre, and let `BA`, `AC`, `AD`, `DC` be joined; I say that the angle `BAC` in the semicircle `BAC` is right, the angle `ABC` in the segment `ABC` greater than the semicircle is less `ADC` in the segment `ADC` less than the semicircle is greater than a right angle.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "BC",
+                    "E",
+                    "BA",
+                    "AC",
+                    "AD",
+                    "DC",
+                    "BAC",
+                    "BAC",
+                    "ABC",
+                    "ABC",
+                    "ADC",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "Let `AE` be joined, and let `BA` be carried through to `F`.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "BA",
+                    "F"
+                ]
+            },
+            {
+                "text": "Then, since `BE` is equal to `EA`, > the angle `ABE` is also equal to the angle `BAE`. [elem.1.5]",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "EA"
+                ]
+            },
+            {
+                "text": "Again, since `CE` is equal to `EA`, > the angle `ACE` is also equal to the angle `CAE`. [elem.1.5]",
+                "refs": [],
+                "emphs": [
+                    "CE",
+                    "EA"
+                ]
+            },
+            {
+                "text": "Therefore the whole angle `BAC` is equal to the two angles `ABC`, `ACB`.",
+                "refs": [],
+                "emphs": [
+                    "BAC",
+                    "ABC",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "But the angle `FAC` exterior to the triangle `ABC` is also equal to the two angles `ABC`, `ACB`; [elem.1.32] > therefore the angle `BAC` is also equal to the angle `FAC`; therefore each is right; [elem.1.def.10] therefore the angle `BAC` in the semicircle `BAC` is right.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "FAC",
+                    "ABC",
+                    "ABC",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "Next, since in the triangle `ABC` the two angles `ABC`, `BAC` are less than two right angles, [elem.1.17] and the angle `BAC` is a right angle, > the angle `ABC` is less than a right angle; and it is the angle in the segment `ABC` greater than the semicircle.",
+                "refs": [
+                    "elem.1.17"
+                ],
+                "emphs": [
+                    "ABC",
+                    "ABC",
+                    "BAC",
+                    "BAC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Next, since `ABCD` is a quadrilateral in a circle, and the opposite angles of quadrilaterals in circles are equal to two right angles, [elem.3.22] while the angle `ABC` is less than a right angle, therefore the angle `ADC` which remains is greater than a right angle; and it is the angle in the segment `ADC` less than the semicircle.",
+                "refs": [
+                    "elem.3.22"
+                ],
+                "emphs": [
+                    "ABCD",
+                    "ABC",
+                    "ADC",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "I say further that the angle of the greater segment, namely that contained by the circumference `ABC` and the straight line `AC`, is greater than a right angle; and the angle of the less segment, namely that contained by the circumference `ADC` and the straight line `AC`, is less than a right angle.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "AC",
+                    "ADC",
+                    "AC"
+                ]
+            },
+            {
+                "text": "This is at once manifest. For, since the angle contained by the straight lines `BA`, `AC` is right, > the angle contained by the circumference `ABC` and the straight line `AC` is greater than a right angle.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Again, since the angle contained by the straight lines `AC`, `AF` is right, > the angle contained by the straight line `CA` and the circumference `ADC` is less than a right angle.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "AF"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.32": {
+        "id": "elem.3.32",
+        "n": 32,
+        "type": "proposition",
+        "enunciation": "`If a straight line touch a circle`, `and from the point of contact there be drawn across`, `in the circle`, `a straight line cutting the circle`, `the angles which it makes with the tangent will be equal to the angles in the alternate segments of the circle`.",
+        "proof": [
+            {
+                "text": "For let a straight line `EF` touch the circle `ABCD` at the point `B`, and from the point `B` let there be drawn across, in the circle `ABCD`, a straight line `BD` cutting it; I say that the angles which `BD` makes with the tangent `EF` will be equal to the angles in the alternate segments of the `FBD` is equal to the angle constructed in the segment `BAD`, and the angle `EBD` is equal to the angle constructed in the segment `DCB`.",
+                "refs": [],
+                "emphs": [
+                    "EF",
+                    "ABCD",
+                    "B",
+                    "B",
+                    "ABCD",
+                    "BD",
+                    "BD",
+                    "EF",
+                    "FBD",
+                    "BAD",
+                    "EBD",
+                    "DCB"
+                ]
+            },
+            {
+                "text": "For let `BA` be drawn from `B` at right angles to `EF`, let a point `C` be taken at random on the circumference `BD`, `AD`, `DC`, `CB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "B",
+                    "EF",
+                    "C",
+                    "BD",
+                    "AD",
+                    "DC",
+                    "CB"
+                ]
+            },
+            {
+                "text": "Then, since a straight line `EF` touches the circle `ABCD` at `B`, and `BA` has been drawn from the point of contact at right angles to the tangent, the centre of the circle `ABCD` is on `BA`. [elem.3.19]",
+                "refs": [
+                    "elem.3.19"
+                ],
+                "emphs": [
+                    "EF",
+                    "ABCD",
+                    "B",
+                    "BA",
+                    "ABCD",
+                    "BA"
+                ]
+            },
+            {
+                "text": "Therefore `BA` is a diameter of the circle `ABCD`; > therefore the angle `ADB`, being an angle in a semicircle, is right. [elem.3.31]",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "Therefore the remaining angles `BAD`, `ABD` are equal to one right angle. [elem.1.32]",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BAD",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "But the angle `ABF` is also right; therefore the angle `ABF` is equal to the angles `BAD`, `ABD`.",
+                "refs": [],
+                "emphs": [
+                    "ABF",
+                    "ABF",
+                    "BAD",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "Let the angle `ABD` be subtracted from each; therefore the angle `DBF` which remains is equal to the angle `BAD` in the alternate segment of the circle.",
+                "refs": [],
+                "emphs": [
+                    "ABD",
+                    "DBF",
+                    "BAD"
+                ]
+            },
+            {
+                "text": "Next, since `ABCD` is a quadrilateral in a circle, its opposite angles are equal to two right angles. [elem.3.22]",
+                "refs": [
+                    "elem.3.22"
+                ],
+                "emphs": [
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "But the angles `DBF`, `DBE` are also equal to two right angles; therefore the angles `DBF`, `DBE` are equal to the angles `BAD`, `BCD`, > of which the angle `BAD` was proved equal to the angle `DBF`; therefore the angle `DBE` which remains is equal to the angle `DCB` in the alternate segment `DCB` of the circle.",
+                "refs": [],
+                "emphs": [
+                    "DBF",
+                    "DBE",
+                    "DBF",
+                    "DBE",
+                    "BAD",
+                    "BCD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.33": {
+        "id": "elem.3.33",
+        "n": 33,
+        "type": "proposition",
+        "enunciation": "`On a given straight line to describe a segment of a circle admitting an angle equal to a given rectilineal angle`.",
+        "proof": [
+            {
+                "text": "Let `AB` be the given straight line, and the angle at `C` the given rectilineal angle; thus it is required to describe on the given straight line `AB` a segment of a circle admitting an angle equal to the angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "C",
+                    "AB",
+                    "C"
+                ]
+            },
+            {
+                "text": "The angle at `C` is then acute, or right, or obtuse.",
+                "refs": [],
+                "emphs": [
+                    "C"
+                ]
+            },
+            {
+                "text": "First let it be acute, and, as in the first figure, on the straight line `AB`, and at the point `A`, let the angle `BAD` be constructed equal to the angle at `C`; > therefore the angle `BAD` is also acute.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "A",
+                    "BAD",
+                    "C"
+                ]
+            },
+            {
+                "text": "Let `AE` be drawn at right angles to `DA`, let `AB` be `F`, let `FG` be drawn from the point `F` at right angles to `AB`, and let `GB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "DA",
+                    "AB",
+                    "F",
+                    "FG",
+                    "F",
+                    "AB",
+                    "GB"
+                ]
+            },
+            {
+                "text": "Then, since `AF` is equal to `FB`, and `FG` is common, > the two sides `AF`, `FG` are equal to the two sides `BF`, `FG`; and the angle `AFG` is equal to the angle `BFG`; > therefore the base `AG` is equal to the base `BG`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "AF",
+                    "FB",
+                    "FG",
+                    "AFG",
+                    "BFG"
+                ]
+            },
+            {
+                "text": "Therefore the circle described with centre `G` and distance `GA` will pass through `B` also.",
+                "refs": [],
+                "emphs": [
+                    "G",
+                    "GA",
+                    "B"
+                ]
+            },
+            {
+                "text": "Let it be drawn, and let it be `ABE`; let `EB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "ABE",
+                    "EB"
+                ]
+            },
+            {
+                "text": "Now, since `AD` is drawn from `A`, the extremity of the diameter `AE`, at right angles to `AE`, > therefore `AD` touches the circle `ABE`. [elem.3.16.p.1]",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "A",
+                    "AE",
+                    "AE"
+                ]
+            },
+            {
+                "text": "Since then a straight line `AD` touches the circle `ABE`, and from the point of contact at `A` a straight line `AB` is drawn across in the circle `ABE`, > the angle `DAB` is equal to the angle `AEB` in the alternate segment of the circle. [elem.3.32]",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "ABE",
+                    "A",
+                    "AB",
+                    "ABE"
+                ]
+            },
+            {
+                "text": "But the angle `DAB` is equal to the angle at `C`; therefore the angle at `C` is also equal to the angle `AEB`.",
+                "refs": [],
+                "emphs": [
+                    "DAB",
+                    "C",
+                    "C",
+                    "AEB"
+                ]
+            },
+            {
+                "text": "Therefore on the given straight line `AB` the segment `AEB` of a circle has been described admitting the angle `AEB` equal to the given angle, the angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AEB",
+                    "AEB",
+                    "C"
+                ]
+            },
+            {
+                "text": "Next let the angle at `C` be right; `AB` a segment of a circle admitting an angle equal to the right angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "C",
+                    "AB",
+                    "C"
+                ]
+            },
+            {
+                "text": "Let the angle `BAD` be constructed equal to the right angle at `C`, as is the case in the second figure; `AB` be bisected at `F`, and with centre `F` and distance either `FA` or `FB` let the circle `AEB` be described.",
+                "refs": [],
+                "emphs": [
+                    "BAD",
+                    "C",
+                    "AB",
+                    "F",
+                    "F",
+                    "FA",
+                    "FB",
+                    "AEB"
+                ]
+            },
+            {
+                "text": "Therefore the straight line `AD` touches the circle `ABE`, because the angle at `A` is right. [elem.3.16.p.1]",
+                "refs": [
+                    "elem.3.16.p.1"
+                ],
+                "emphs": [
+                    "AD",
+                    "ABE",
+                    "A"
+                ]
+            },
+            {
+                "text": "And the angle `BAD` is equal to the angle in the segment `AEB`, for the latter too is itself a right angle, being an angle in a semicircle. [elem.3.31]",
+                "refs": [
+                    "elem.3.31"
+                ],
+                "emphs": [
+                    "BAD",
+                    "AEB"
+                ]
+            },
+            {
+                "text": "But the angle `BAD` is also equal to the angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "BAD",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore the angle `AEB` is also equal to the angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "AEB",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore again the segment `AEB` of a circle has been described on `AB` admitting an angle equal to the angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "AEB",
+                    "AB",
+                    "C"
+                ]
+            },
+            {
+                "text": "Next, let the angle at `C` be obtuse; `AB`, and at the point `A`, let the angle `BAD` be constructed equal to it, as is the case in the third figure; let `AE` be drawn at right angles to `AD`, let `AB` be again bisected at `F`, let `FG` be drawn at right angles to `AB`, and let `GB` be joined.",
+                "refs": [],
+                "emphs": [
+                    "C",
+                    "AB",
+                    "A",
+                    "BAD",
+                    "AE",
+                    "AD",
+                    "AB",
+                    "F",
+                    "FG",
+                    "AB",
+                    "GB"
+                ]
+            },
+            {
+                "text": "Then, since `AF` is again equal to `FB`, and `FG` is common, > the two sides `AF`, `FG` are equal to the two sides `BF`, `FG`; and the angle `AFG` is equal to the angle `BFG`; > therefore the base `AG` is equal to the base `BG`. [elem.1.4]",
+                "refs": [],
+                "emphs": [
+                    "AF",
+                    "FB",
+                    "FG",
+                    "AFG",
+                    "BFG"
+                ]
+            },
+            {
+                "text": "Therefore the circle described with centre `G` and distance `GA` will pass through `B` also; let it so pass, as `AEB`.",
+                "refs": [],
+                "emphs": [
+                    "G",
+                    "GA",
+                    "B",
+                    "AEB"
+                ]
+            },
+            {
+                "text": "Now, since `AD` is drawn at right angles to the diameter `AE` from its extremity, > `AD` touches the circle `AEB`. [elem.3.16.p.1]",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "AE"
+                ]
+            },
+            {
+                "text": "And `AB` has been drawn across from the point of contact at `A`; > therefore the angle `BAD` is equal to the angle constructed in the alternate segment `AHB` of the circle. [elem.3.32]",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "A"
+                ]
+            },
+            {
+                "text": "But the angle `BAD` is equal to the angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "BAD",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore the angle in the segment `AHB` is also equal to the angle at `C`.",
+                "refs": [],
+                "emphs": [
+                    "AHB",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore on the given straight line `AB` the segment `AHB` of a circle has been described admitting an angle equal to the angle at `C`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AHB",
+                    "C"
+                ]
+            }
+        ]
+    },
+    "elem.3.34": {
+        "id": "elem.3.34",
+        "n": 34,
+        "type": "proposition",
+        "enunciation": "`From a given circle to cut off a segment admitting an angle equal to a given rectilineal angle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be the given circle, and the angle at `D` the given rectilineal angle; thus it is required to cut off from the circle `ABC` a segment admitting an angle equal to the given rectilineal angle, the angle at `D`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "D",
+                    "ABC",
+                    "D"
+                ]
+            },
+            {
+                "text": "Let `EF` be drawn touching `ABC` at the point `B`, and on the straight line `FB`, and at the point `B` on it, let the angle `FBC` be constructed equal to the angle at `D`. [elem.1.23]",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "EF",
+                    "ABC",
+                    "B",
+                    "FB",
+                    "B",
+                    "FBC",
+                    "D"
+                ]
+            },
+            {
+                "text": "Then, since a straight line `EF` touches the circle `ABC`, > and `BC` has been drawn across from the point of contact at `B`, the angle `FBC` is equal to the angle constructed in the alternate segment `BAC`. [elem.3.32]",
+                "refs": [
+                    "elem.3.32"
+                ],
+                "emphs": [
+                    "EF",
+                    "ABC",
+                    "FBC",
+                    "BAC"
+                ]
+            },
+            {
+                "text": "But the angle `FBC` is equal to the angle at `D`; > therefore the angle in the segment `BAC` is equal to the angle at `D`.",
+                "refs": [],
+                "emphs": [
+                    "FBC",
+                    "D"
+                ]
+            },
+            {
+                "text": "Therefore from the given circle `ABC` the segment `BAC`. has been cut off admitting an angle equal to the given rectilineal angle, the angle at `D`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "BAC",
+                    "D"
+                ]
+            }
+        ]
+    },
+    "elem.3.35": {
+        "id": "elem.3.35",
+        "n": 35,
+        "type": "proposition",
+        "enunciation": "`If in a circle two straight lines cut one another`, `the rectangle contained by the segments of the one is equal to the rectangle contained by the segments of the other`.",
+        "proof": [
+            {
+                "text": "For in the circle `ABCD` let the two straight lines `AC`, `BD` cut one another at the point `E`; I say that the rectangle contained by `AE`, `EC` is equal to the rectangle contained by `DE`, `EB`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AC",
+                    "BD",
+                    "E",
+                    "AE",
+                    "EC",
+                    "DE",
+                    "EB"
+                ]
+            },
+            {
+                "text": "If now `AC`, `BD` are through the centre, so that `E` is the centre of the circle `ABCD`, it is manifest that, `AE`, `EC`, `DE`, `EB` being equal, the rectangle contained by `AE`, `EC` is also equal to the rectangle contained by `DE`, `EB`.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "BD",
+                    "E",
+                    "ABCD",
+                    "AE",
+                    "EC",
+                    "DE",
+                    "EB",
+                    "AE",
+                    "EC",
+                    "DE",
+                    "EB"
+                ]
+            },
+            {
+                "text": "Next let `AC`, `DB` not be through the centre; let the centre of `ABCD` be taken, and let it be `F`; from `F` let `FG`, `FH` be drawn perpendicular to the straight lines `AC`, `DB`, and let `FB`, `FC`, `FE` be joined.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "DB",
+                    "ABCD",
+                    "F",
+                    "F",
+                    "FG",
+                    "FH",
+                    "AC",
+                    "DB",
+                    "FB",
+                    "FC",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Then, since a straight line `GF` through the centre cuts a straight line `AC` not through the centre at right angles, > it also bisects it; [elem.3.3] therefore `AG` is equal to `GC`.",
+                "refs": [],
+                "emphs": [
+                    "GF",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Since, then, the straight line `AC` has been cut into equal parts at `G` and into unequal parts at `E`, the rectangle contained by `AE`, `EC` together with the square on `EG` is equal to the square on `GC`; [elem.2.5]",
+                "refs": [
+                    "elem.2.5"
+                ],
+                "emphs": [
+                    "AC",
+                    "G",
+                    "E",
+                    "AE",
+                    "EC",
+                    "EG",
+                    "GC"
+                ]
+            },
+            {
+                "text": "Let the square on `GF` be added; therefore the rectangle `AE`, `EC` together with the squares on `GE`, `GF` is equal to the squares on `CG`, `GF`.",
+                "refs": [],
+                "emphs": [
+                    "GF",
+                    "AE",
+                    "EC",
+                    "GE",
+                    "GF",
+                    "CG",
+                    "GF"
+                ]
+            },
+            {
+                "text": "But the square on `FE` is equal to the squares on `EG`, `GF`, and the square on `FC` is equal to the squares on `CG`, `GF`; [elem.1.47] > therefore the rectangle `AE`, `EC` together with the square on `FE` is equal to the square on `FC`.",
+                "refs": [
+                    "elem.1.47"
+                ],
+                "emphs": [
+                    "FE",
+                    "EG",
+                    "GF",
+                    "FC",
+                    "CG",
+                    "GF"
+                ]
+            },
+            {
+                "text": "And `FC` is equal to `FB`; therefore the rectangle `AE`, `EC` together with the square on `EF` is equal to the square on `FB`.",
+                "refs": [],
+                "emphs": [
+                    "FC",
+                    "FB",
+                    "AE",
+                    "EC",
+                    "EF",
+                    "FB"
+                ]
+            },
+            {
+                "text": "For the same reason, also, the rectangle `DE`, `EB` together with the square on `FE` is equal to the square on `FB`.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "EB",
+                    "FE",
+                    "FB"
+                ]
+            },
+            {
+                "text": "But the rectangle `AE`, `EC` together with the square on `FE` was also proved equal to the square on `FB`; therefore the rectangle `AE`, `EC` together with the square on `FE` is equal to the rectangle `DE`, `EB` together with the square on `FE`.",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "EC",
+                    "FE",
+                    "FB",
+                    "AE",
+                    "EC",
+                    "FE",
+                    "DE",
+                    "EB",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Let the square on `FE` be subtracted from each; therefore the rectangle contained by `AE`, `EC` which remains is equal to the rectangle contained by `DE`, `EB`.",
+                "refs": [],
+                "emphs": [
+                    "FE",
+                    "AE",
+                    "EC",
+                    "DE",
+                    "EB"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.36": {
+        "id": "elem.3.36",
+        "n": 36,
+        "type": "proposition",
+        "enunciation": "`If a point be taken outside a circle and from it there fall on the circle two straight lines`, `and if one of them cut the circle and the other touch it`, `the rectangle contained by the whole of the straight line which cuts the circle and the straight `.",
+        "proof": [
+            {
+                "text": "For let a point `D` be taken outside the circle `ABC`, and from `D` let the two straight lines `DCA`, `DB` fall on the circle `ABC`; let `DCA` cut the circle `ABC` and let `BD` touch it; I say that the rectangle contained by `AD`, `DC` is equal to the square on `DB`.",
+                "refs": [],
+                "emphs": [
+                    "D",
+                    "ABC",
+                    "D",
+                    "DCA",
+                    "DB",
+                    "ABC",
+                    "DCA",
+                    "ABC",
+                    "BD",
+                    "AD",
+                    "DC",
+                    "DB"
+                ]
+            },
+            {
+                "text": "Then `DCA` is either through the centre or not through the centre.",
+                "refs": [],
+                "emphs": [
+                    "DCA"
+                ]
+            },
+            {
+                "text": "First let it be through the centre, and let `F` be the centre of the circle `ABC`; let `FB` be joined; > therefore the angle `FBD` is right. [elem.3.18]",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "ABC",
+                    "FB"
+                ]
+            },
+            {
+                "text": "And, since `AC` has been bisected at `F`, and `CD` is added to it, the rectangle `AD`, `DC` together with the square on `FC` is equal to the square on `FD`. [elem.2.6]",
+                "refs": [
+                    "elem.2.6"
+                ],
+                "emphs": [
+                    "AC",
+                    "F",
+                    "CD",
+                    "AD",
+                    "DC",
+                    "FC",
+                    "FD"
+                ]
+            },
+            {
+                "text": "But `FC` is equal to `FB`; therefore the rectangle `AD`, `DC` together with the square on `FB` is equal to the square on `FD`.",
+                "refs": [],
+                "emphs": [
+                    "FC",
+                    "FB",
+                    "AD",
+                    "DC",
+                    "FB",
+                    "FD"
+                ]
+            },
+            {
+                "text": "And the squares on `FB`, `BD` are equal to the square on `FD`; [elem.1.47] therefore the rectangle `AD`, `DC` together with the square on `FB` is equal to the squares on `FB`, `BD`.",
+                "refs": [
+                    "elem.1.47"
+                ],
+                "emphs": [
+                    "FB",
+                    "BD",
+                    "FD",
+                    "AD",
+                    "DC",
+                    "FB",
+                    "FB",
+                    "BD"
+                ]
+            },
+            {
+                "text": "Let the square on `FB` be subtracted from each; therefore the rectangle `AD`, `DC` which remains is equal to the square on the tangent `DB`.",
+                "refs": [],
+                "emphs": [
+                    "FB",
+                    "AD",
+                    "DC",
+                    "DB"
+                ]
+            },
+            {
+                "text": "Again, let `DCA` not be through the centre of the circle `ABC`; let the centre `E` be taken, and from `E` let `EF` be drawn perpendicular to `AC`; let `EB`, `EC`, `ED` be joined.",
+                "refs": [],
+                "emphs": [
+                    "DCA",
+                    "ABC",
+                    "E",
+                    "E",
+                    "EF",
+                    "AC",
+                    "EB",
+                    "EC",
+                    "ED"
+                ]
+            },
+            {
+                "text": "Then the angle `EBD` is right. [elem.3.18]",
+                "refs": [
+                    "elem.3.18"
+                ],
+                "emphs": [
+                    "EBD"
+                ]
+            },
+            {
+                "text": "And, since a straight line `EF` through the centre cuts a straight line `AC` not through the centre at right angles, > it also bisects it; [elem.3.3] therefore `AF` is equal to `FC`.",
+                "refs": [],
+                "emphs": [
+                    "EF",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Now, since the straight line `AC` has been bisected at the point `F`, and `CD` is added to it, the rectangle contained by `AD`, `DC` together with the square on `FC` is equal to the square on `FD`. [elem.2.6]",
+                "refs": [
+                    "elem.2.6"
+                ],
+                "emphs": [
+                    "AC",
+                    "F",
+                    "CD",
+                    "AD",
+                    "DC",
+                    "FC",
+                    "FD"
+                ]
+            },
+            {
+                "text": "Let the square on `FE` be added to each; therefore the rectangle `AD`, `DC` together with the squares on `CF`, `FE` is equal to the squares on `FD`, `FE`.",
+                "refs": [],
+                "emphs": [
+                    "FE",
+                    "AD",
+                    "DC",
+                    "CF",
+                    "FE",
+                    "FD",
+                    "FE"
+                ]
+            },
+            {
+                "text": "But the square on `EC` is equal to the squares on `CF`, `FE`, for the angle `EFC` is right; [elem.1.47] and the square on `ED` is equal to the squares on `DF`, `FE`; therefore the rectangle `AD`, `DC` together with the square on `EC` is equal to the square on `ED`.",
+                "refs": [
+                    "elem.1.47"
+                ],
+                "emphs": [
+                    "EC",
+                    "CF",
+                    "FE",
+                    "EFC",
+                    "ED",
+                    "DF",
+                    "FE",
+                    "AD",
+                    "DC",
+                    "EC",
+                    "ED"
+                ]
+            },
+            {
+                "text": "And `EC` is equal to `EB`; therefore the rectangle `AD`, `DC` together with the square on `EB` is equal to the square on `ED`.",
+                "refs": [],
+                "emphs": [
+                    "EC",
+                    "EB",
+                    "AD",
+                    "DC",
+                    "EB",
+                    "ED"
+                ]
+            },
+            {
+                "text": "But the squares on `EB`, `BD` are equal to the square on `ED`, for the angle `EBD` is right; [elem.1.47] therefore the rectangle `AD`, `DC` together with the square on `EB` is equal to the squares on `EB`, `BD`.",
+                "refs": [
+                    "elem.1.47"
+                ],
+                "emphs": [
+                    "EB",
+                    "BD",
+                    "ED",
+                    "EBD",
+                    "AD",
+                    "DC",
+                    "EB",
+                    "EB",
+                    "BD"
+                ]
+            },
+            {
+                "text": "Let the square on `EB` be subtracted from each; therefore the rectangle `AD`, `DC` which remains is equal to the square on `DB`.",
+                "refs": [],
+                "emphs": [
+                    "EB",
+                    "AD",
+                    "DC",
+                    "DB"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.3.37": {
+        "id": "elem.3.37",
+        "n": 37,
+        "type": "proposition",
+        "enunciation": "`If a point be taken outside a circle and from the point there fall on the circle two straight lines`, `if one of them cut the circle`, `and the other fall on it`, `and if further the rectangle contained by the whole of the straight line which cuts `, `the straight line which falls on it will touch the circle`.",
+        "proof": [
+            {
+                "text": "For let a point `D` be taken outside the circle `ABC`; from `D` let the two straight lines `DCA`, `DB` fall on the circle `ACB`; let `DCA` cut the circle and `DB` fall on it; and let the rectangle `AD`, `DC` be equal to the square on `DB`.",
+                "refs": [],
+                "emphs": [
+                    "D",
+                    "ABC",
+                    "D",
+                    "DCA",
+                    "DB",
+                    "ACB",
+                    "DCA",
+                    "DB",
+                    "AD",
+                    "DC",
+                    "DB"
+                ]
+            },
+            {
+                "text": "I say that `DB` touches the circle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "DB",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "For let `DE` be drawn touching `ABC`; let the centre of the circle `ABC` be taken, and let it be `F`; let `FE`, `FB`, `FD` be joined.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "ABC",
+                    "ABC",
+                    "F",
+                    "FE",
+                    "FB",
+                    "FD"
+                ]
+            },
+            {
+                "text": "Thus the angle `FED` is right. [elem.3.18]",
+                "refs": [
+                    "elem.3.18"
+                ],
+                "emphs": [
+                    "FED"
+                ]
+            },
+            {
+                "text": "Now, since `DE` touches the circle `ABC`, and `DCA` cuts it, the rectangle `AD`, `DC` is equal to the square on `DE`. [elem.3.36]",
+                "refs": [
+                    "elem.3.36"
+                ],
+                "emphs": [
+                    "DE",
+                    "ABC",
+                    "DCA",
+                    "AD",
+                    "DC",
+                    "DE"
+                ]
+            },
+            {
+                "text": "But the rectangle `AD`, `DC` was also equal to the square on `DB`; therefore the square on `DE` is equal to the square on `DB`; > therefore `DE` is equal to `DB`.",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "DC",
+                    "DB",
+                    "DE",
+                    "DB"
+                ]
+            },
+            {
+                "text": "And `FE` is equal to `FB`; therefore the two sides `DE`, `EF` are equal to the two sides `DB`, `BF`; and `FD` is the common base of the triangles; > therefore the angle `DEF` is equal to the angle `DBF`. [elem.1.8]",
+                "refs": [],
+                "emphs": [
+                    "FE",
+                    "FB",
+                    "DE",
+                    "EF",
+                    "DB",
+                    "BF",
+                    "FD"
+                ]
+            },
+            {
+                "text": "But the angle `DEF` is right; > therefore the angle `DBF` is also right.",
+                "refs": [],
+                "emphs": [
+                    "DEF"
+                ]
+            },
+            {
+                "text": "And `FB` produced is a diameter; and the straight line drawn at right angles to the diameter of a circle, from its extremity, touches the circle; [elem.3.16.p.1] > therefore `DB` touches the circle.",
+                "refs": [
+                    "elem.3.16.p.1"
+                ],
+                "emphs": [
+                    "FB"
+                ]
+            },
+            {
+                "text": "Similarly this can be proved to be the case even if the centre be on `AC`.",
+                "refs": [],
+                "emphs": [
+                    "AC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

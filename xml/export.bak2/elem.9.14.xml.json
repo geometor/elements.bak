@@ -1,0 +1,52 @@
+{
+    "elem.9.14": {
+        "id": "elem.9.14",
+        "n": 14,
+        "type": "proposition",
+        "enunciation": "> If a number be the least that is measured by prime numbers, it will not be measured by any other prime number except those originally measuring it.",
+        "proof": [
+            {
+                "text": "For let the number > A be the least that is measured by the prime numbers > B, > C, > D; I say that > A will not be measured by any other prime number except > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let it be measured by the prime number > E, and let > E not be the same with any one of the numbers > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > E measures > A, let it measure it according to > F; > therefore > E by multiplying > F has made > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And > A is measured by the prime numbers > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers; [elem.7.30] therefore > B, > C, > D will measure one of the numbers > E, > F.",
+                "refs": [
+                    "elem.7.30"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now they will not measure > E; for > E is prime and not the same with any one of the numbers > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore they will measure > F, which is less than > A: which is impossible, for > A is by hypothesis the least number measured by > B, > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no prime number will measure > A except > B, > C, > D. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

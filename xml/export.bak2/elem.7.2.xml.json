@@ -1,0 +1,122 @@
+{
+    "elem.7.2": {
+        "id": "elem.7.2",
+        "n": 2,
+        "type": "proposition",
+        "enunciation": "> Given two numbers not prime to one another, to find their greatest common measure.",
+        "proof": [
+            {
+                "text": "Let > AB, > CD be the two given numbers not prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus it is required to find the greatest common measure of > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "If now > CD measures > AB\u2014and it also measures itself\u2014> CD is a common measure of > CD, > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it is manifest that it is also the greatest; for no greater number than > CD will measure > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if > CD does not measure > AB, then, the less of the numbers > AB, > CD being continually subtracted from the greater, some number will be left which will measure the one before it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For an unit will not be left; otherwise > AB, > CD will be prime to one another [elem.7.1], which is contrary to the hypothesis.",
+                "refs": [
+                    "elem.7.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore some number will be left which will measure the one before it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now let > CD, measuring > BE, leave > EA less than itself, let > EA, measuring > DF, leave > FC less than itself, and let > CF measure > AE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then, > CF measures > AE, and > AE measures > DF, therefore > CF will also measure > DF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures itself; therefore it will also measure the whole > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > CD measures > BE; therefore > CF also measures > BE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > EA; therefore it will also measure the whole > BA.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > CD; therefore > CF measures > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > CF is a common measure of > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the greatest.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > CF is not the greatest common measure of > AB, > CD, some number which is greater than > CF will measure the numbers > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let such a number measure them, and let it be > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > G measures > CD, while > CD measures > BE, > G also measures > BE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures the whole > BA; therefore it will also measure the remainder > AE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > AE measures > DF; therefore > G will also measure > DF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures the whole > DC; therefore it will also measure the remainder > CF, that is, the greater will measure the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number which is greater than > CF will measure the numbers > AB, > CD; > therefore > CF is the greatest common measure of > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

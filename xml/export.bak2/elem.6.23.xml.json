@@ -1,0 +1,145 @@
+{
+    "elem.6.23": {
+        "id": "elem.6.23",
+        "n": 23,
+        "type": "proposition",
+        "enunciation": "`Equiangular parallelograms have to one another the ratio compounded of the ratios of their sides`.",
+        "proof": [
+            {
+                "text": "Let `AC`, `CF` be equiangular parallelograms having the angle `BCD` equal to the angle `ECG`; I say that the parallelogram `AC` has to the parallelogram `CF` the ratio compounded of the ratios of the sides.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "CF",
+                    "BCD",
+                    "ECG",
+                    "AC",
+                    "CF"
+                ]
+            },
+            {
+                "text": "For let them be placed so that `BC` is in a straight line with `CG`; > therefore `DC` is also in a straight line with `CE`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "CG"
+                ]
+            },
+            {
+                "text": "Let the parallelogram `DG` be completed; let a straight line `K` be set out, and let it be contrived that, > as `BC` is to `CG`, so is `K` to `L`, and, as `DC` is to `CE`, so is `L` to `M`. [elem.6.12]",
+                "refs": [
+                    "elem.6.12"
+                ],
+                "emphs": [
+                    "DG",
+                    "K",
+                    "DC",
+                    "CE",
+                    "L",
+                    "M"
+                ]
+            },
+            {
+                "text": "Then the ratios of `K` to `L` and of `L` to `M` are the same as the ratios of the sides, namely of `BC` to `CG` and of `DC` to `CE`.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "L",
+                    "L",
+                    "M",
+                    "BC",
+                    "CG",
+                    "DC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "But the ratio of `K` to `M` is compounded of the ratio of `K` to `L` and of that of `L` to `M`; so that `K` has also to `M` the ratio compounded of the ratios of the sides.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "M",
+                    "K",
+                    "L",
+                    "L",
+                    "M",
+                    "K",
+                    "M"
+                ]
+            },
+            {
+                "text": "Now since, as `BC` is to `CG`, so is the parallelogram `AC` to the parallelogram `CH`, [elem.6.1] while, as `BC` is to `CG`, so is `K` to `L`, therefore also, as `K` is to `L`, so is `AC` to `CH`. [elem.5.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BC",
+                    "CG",
+                    "AC",
+                    "CH",
+                    "BC",
+                    "CG",
+                    "K",
+                    "L",
+                    "K",
+                    "L",
+                    "AC",
+                    "CH"
+                ]
+            },
+            {
+                "text": "Again, since, as `DC` is to `CE`, so is the parallelogram `CH` to `CF`, [elem.6.1] while, as `DC` is to `CE`, so is `L` to `M`, therefore also, as `L` is to `M`, so is the parallelogram `CH` to the parallelogram `CF`. [elem.5.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "DC",
+                    "CE",
+                    "CH",
+                    "CF",
+                    "DC",
+                    "CE",
+                    "L",
+                    "M",
+                    "L",
+                    "M",
+                    "CH",
+                    "CF"
+                ]
+            },
+            {
+                "text": "Since then it was proved that, as `K` is to `L`, so is the parallelogram `AC` to the parallelogram `CH`, and, as `L` is to `M`, so is the parallelogram `CH` to the parallelogram `CF`, therefore, , as `K` is to `M`, so is `AC` to the parallelogram\n       `CF`.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "L",
+                    "AC",
+                    "CH",
+                    "L",
+                    "M",
+                    "CH",
+                    "CF",
+                    "K",
+                    "M",
+                    "AC",
+                    "CF"
+                ]
+            },
+            {
+                "text": "But `K` has to `M` the ratio compounded of the ratios of the sides; > therefore `AC` also has to `CF` the ratio compounded of the ratios of the sides.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "M"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

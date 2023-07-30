@@ -1,9 +1,8 @@
 <div3 id="elem.13.3" n="3" type="proposition">
       <head>PROPOSITION 3.</head>
       <p><hi rend="ital">If a straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">the square on the lesser segment added to the half of the greater segment is five times the square on the half of the greater segment.</hi>
-       <pb n="446"/></p>
-      <p>For let any straight line <hi rend="ital">AB</hi> be cut in extreme and mean ratio at the point <hi rend="ital">C</hi>, let <hi rend="ital">AC</hi> be the greater segment, and let <hi rend="ital">AC</hi> be bisected at <hi rend="ital">D</hi>; I say that the square on <hi rend="ital">BD</hi> is five times the square on <hi rend="ital">DC</hi>. <figure/>
-      </p>
+       </p>
+      <p>For let any straight line <hi rend="ital">AB</hi> be cut in extreme and mean ratio at the point <hi rend="ital">C</hi>, let <hi rend="ital">AC</hi> be the greater segment, and let <hi rend="ital">AC</hi> be bisected at <hi rend="ital">D</hi>; I say that the square on <hi rend="ital">BD</hi> is five times the square on <hi rend="ital">DC</hi>. </p>
       <p>For let the square <hi rend="ital">AE</hi> be described on <hi rend="ital">AB</hi>, and let the figure be drawn double. </p>
       <p>Since <hi rend="ital">AC</hi> is double of <hi rend="ital">DC</hi>, therefore the square on <hi rend="ital">AC</hi> is quadruple of the square on <hi rend="ital">DC</hi>, that is, <hi rend="ital">RS</hi> is quadruple of <hi rend="ital">FG</hi>. </p>
       <p>And, since the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi> is equal to the square on <hi rend="ital">AC</hi>, and <hi rend="ital">CE</hi> is the rectangle <hi rend="ital">AB</hi>, <hi rend="ital">BC</hi>, therefore <hi rend="ital">CE</hi> is equal to <hi rend="ital">RS</hi>. </p>
@@ -17,6 +16,6 @@
       <p>Therefore the gnomon <hi rend="ital">OPQ</hi> and the square <hi rend="ital">FG</hi> are five times <hi rend="ital">FG</hi>. </p>
       <p>But the gnomon <hi rend="ital">OPQ</hi> and the square <hi rend="ital">FG</hi> are the square <hi rend="ital">DN</hi>. </p>
       <p>And <hi rend="ital">DN</hi> is the square on <hi rend="ital">DB</hi>, and <hi rend="ital">GF</hi> the square on <hi rend="ital">DC</hi>. </p>
-      <p>Therefore the square on <hi rend="ital">DB</hi> is five times the square on <hi rend="ital">DC</hi>. Q. E. D.<pb n="447"/></p>
+      <p>Therefore the square on <hi rend="ital">DB</hi> is five times the square on <hi rend="ital">DC</hi>. Q. E. D.</p>
      </div3>
      

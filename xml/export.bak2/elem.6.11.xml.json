@@ -1,0 +1,72 @@
+{
+    "elem.6.11": {
+        "id": "elem.6.11",
+        "n": 11,
+        "type": "proposition",
+        "enunciation": "`To two given straight lines to find a third proportional`.",
+        "proof": [
+            {
+                "text": "Let `BA`, `AC` be the two given straight lines, and let them be placed so as to contain any angle; thus it is required to find a third proportional to `BA`, `AC`.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "AC",
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "For let them be produced to the points `D`, `E`, and let `BD` be made equal to `AC`; [elem.1.3] let `BC` be joined, and through `D` let `DE` be drawn parallel to it. [elem.1.31]",
+                "refs": [
+                    "elem.1.3",
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "D",
+                    "E",
+                    "BD",
+                    "AC",
+                    "BC",
+                    "D",
+                    "DE"
+                ]
+            },
+            {
+                "text": "Since, then, `BC` has been drawn parallel to `DE`, one of the sides of the triangle `ADE`, proportionally, as `AB` is to `BD`, so is `AC` to `CE`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "BC",
+                    "DE",
+                    "ADE",
+                    "AB",
+                    "BD",
+                    "AC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "But `BD` is equal to `AC`; therefore, as `AB` is to `AC`, so is `AC` to `CE`.",
+                "refs": [],
+                "emphs": [
+                    "BD",
+                    "AC",
+                    "AB",
+                    "AC",
+                    "AC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "Therefore to two given straight lines `AB`, `AC` a third proportional to them, `CE`, has been found. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AC",
+                    "CE"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "elem.1.29": {
+        "id": "elem.1.29",
+        "n": 29,
+        "type": "proposition",
+        "enunciation": "A straight line falling on parallel straight lines makes the alternate angles equal to one another, the exterior angle equal to the interior and opposite angle, and the interior angles on the same side equal to two right angles.",
+        "proof": [
+            {
+                "text": "For let the straight line `EF` fall on the parallel straight lines `AB`, `CD`;",
+                "refs": [],
+                "emphs": [
+                    "EF",
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "I say that it makes the alternate angles `AGH`, `GHD` equal, the exterior angle `EGB` equal to the interior and opposite angle `GHD`, and the interior angles on the same side, namely `BGH`, `GHD`, equal to two right angles.",
+                "refs": [],
+                "emphs": [
+                    "AGH",
+                    "GHD",
+                    "EGB",
+                    "GHD",
+                    "BGH",
+                    "GHD"
+                ]
+            },
+            {
+                "text": "For, if the angle `AGH` is unequal to the angle `GHD`, one of them is greater.",
+                "refs": [],
+                "emphs": [
+                    "AGH",
+                    "GHD"
+                ]
+            },
+            {
+                "text": "Let the angle `AGH` be greater.",
+                "refs": [],
+                "emphs": [
+                    "AGH"
+                ]
+            },
+            {
+                "text": "Let the angle `BGH` be added to each; therefore the angles `AGH`, `BGH` are greater than the angles `BGH`, `GHD`.",
+                "refs": [],
+                "emphs": [
+                    "BGH",
+                    "AGH",
+                    "BGH",
+                    "BGH",
+                    "GHD"
+                ]
+            },
+            {
+                "text": "But the angles `AGH`, `BGH` are equal to two right angles; [elem.1.13] > therefore the angles `BGH`, `GHD` are less than two right angles.",
+                "refs": [
+                    "elem.1.13"
+                ],
+                "emphs": [
+                    "AGH",
+                    "BGH"
+                ]
+            },
+            {
+                "text": "But straight lines produced indefinitely from angles less than two right angles meet; [elem.1.post.5] > therefore `AB`, `CD`, if produced indefinitely, will meet; but they do not meet, because they are by hypothesis parallel.",
+                "refs": [
+                    "elem.1.post.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the angle `AGH` is not unequal to the angle `GHD`, > and is therefore equal to it.",
+                "refs": [],
+                "emphs": [
+                    "AGH",
+                    "GHD"
+                ]
+            },
+            {
+                "text": "Again, the angle `AGH` is equal to the angle `EGB`; [elem.1.15] > therefore the angle `EGB` is also equal to the angle `GHD`. [elem.1.c.n.1]",
+                "refs": [
+                    "elem.1.15"
+                ],
+                "emphs": [
+                    "AGH",
+                    "EGB"
+                ]
+            },
+            {
+                "text": "Let the angle `BGH` be added to each; > therefore the angles `EGB`, `BGH` are equal to the angles `BGH`, `GHD`. [elem.1.c.n.2]",
+                "refs": [],
+                "emphs": [
+                    "BGH"
+                ]
+            },
+            {
+                "text": "But the angles `EGB`, `BGH` are equal to two right angles; [elem.1.13] > therefore the angles `BGH`, `GHD` are also equal to two right angles.",
+                "refs": [
+                    "elem.1.13"
+                ],
+                "emphs": [
+                    "EGB",
+                    "BGH"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

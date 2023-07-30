@@ -5,10 +5,9 @@
       </p>
       <p>On <emph>AB</emph> let the square <emph>BC</emph> be described; and let there be applied to <emph>AC</emph> the parallelogram <emph>CD</emph> equal to <emph>BC</emph> and exceeding by the figure <emph>AD</emph> similar to <emph>BC</emph>. [<ref target="elem.6.29" targOrder="U">VI. 29</ref>] </p>
       <p>Now <emph>BC</emph> is a square; <hi rend="center">therefore <emph>AD</emph> is also a square.</hi>
-       <figure/>
-      </p>
+       </p>
       <p>And, since <emph>BC</emph> is equal to <emph>CD</emph>, let <emph>CE</emph> be subtracted from each; <hi rend="center">therefore the remainder <emph>BF</emph> is equal to the remainder <emph>AD</emph>.</hi>
-       <pb n="268"/></p>
+       </p>
       <p>But it is also equiangular with it; therefore in <emph>BF</emph>, <emph>AD</emph> the sides about the equal angles are reciprocally proportional; [<ref target="elem.6.14" targOrder="U">VI. 14</ref>] <hi rend="center">therefore, as <emph>FE</emph> is to <emph>ED</emph>, so is <emph>AE</emph> to <emph>EB</emph>.</hi>
       </p>
       <p>But <emph>FE</emph> is equal to <emph>AB</emph>, and <emph>ED</emph> to <emph>AE</emph>. </p>

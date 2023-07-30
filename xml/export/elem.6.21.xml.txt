@@ -1,8 +1,0 @@
-Enunciation:
-`Figures which are similar to the same rectilineal figure are also similar to one another`.
-
-Proof:
-For let each of the rectilineal figures `A`, `B` be similar to `C`; I say that `A` is also similar to `B`.
-For, since `A` is similar to `C`, it is equiangular with it and has the sides about the equal angles proportional. [elem.6.def.1]
-Again, since `B` is similar to `C`, it is equiangular with it and has the sides about the equal angles proportional.
-Therefore each of the figures `A`, `B` is equiangular with `C` and with `C` has the sides about the equal angles proportional; > therefore `A` is similar to `B`. Q. E. D.

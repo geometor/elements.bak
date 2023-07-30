@@ -1,0 +1,37 @@
+{
+    "elem.10.70": {
+        "id": "elem.10.70",
+        "n": 70,
+        "type": "propositions 48\u201484",
+        "enunciation": "> A straight line commensurable with the side of the sum of two medial areas is the side of the sum of two medial areas.",
+        "proof": [
+            {
+                "text": "Let > AB be the side of the sum of two medial areas, and > CD commensurable with > AB; it is to be proved that > CD is also the side of the sum of two medial areas.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > AB is the side of the sum of two medial areas,  let it be divided into its straight lines at > E; therefore > AE, > EB are straight lines incommensurable in square which make the sum of the squares on them medial, the rectangle contained by them medial, and furthermore the sum of the squares on > AE, > EB incommensurable with the rectangle > AE, > EB. [elem.10.41]",
+                "refs": [
+                    "elem.10.41"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let the same construction be made as before.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "We can then prove similarly that > CF, > FD are also incommensurable in square, the sum of the squares on > AE, > EB is commensurable with the sum of the squares on > CF, > FD, and the rectangle > AE, > EB with the rectangle > CF, > FD; so that the sum of the squares on > CF, > FD is also medial, the rectangle > CF, > FD is medial, and moreover the sum of the squares on > CF, > FD is incommensurable with the rectangle > CF, > FD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > CD is the side of the sum of two medial areas. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

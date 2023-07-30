@@ -1,7 +1,0 @@
-Enunciation:
-> If as many numbers as we please beginning from an unit be in continued proportion, the less measures the greater according to some one of the numbers which have place among the proportional numbers.
-
-Proof:
-Let there be as many numbers as we please, > B, > C, > D, > E, beginning from the unit > A and in continued proportion; I say that > B, the least of the numbers > B, > C, > D, > E, measures > E according to some one of the numbers > C, > D.
-For since, as the unit > A is to > B, so is > D to > E, therefore the unit > A measures the number > B the same number of times as > D measures > E; therefore, alternately, the unit > A measures > D the same number of times as > B measures > E. [elem.7.15]
-But the unit > A measures > D according to the units in it; therefore > B also measures > E according to the units in > D; so that > B the less measures > E the greater according to some number of those which have place among the proportional numbers.—

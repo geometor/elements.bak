@@ -1,0 +1,89 @@
+{
+    "elem.10.18": {
+        "id": "elem.10.18",
+        "n": 18,
+        "type": "propositions i\u201447",
+        "enunciation": "> If there be two unequal straight lines, and to the greater there be applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divide it into parts which are incommensurable, the square on the greater will be greater than the square on the less by the square on a straight line incommensurable with the greater.",
+        "proof": [
+            {
+                "text": "> And, if the square on the greater be greater than the square on the less by the square on a straight line incommensurable with the greater, and if there be applied to the greater a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, it divides it into parts which are incommensurable.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > A, > BC be two unequal straight lines, of which > BC is the greater, and to > BC let there be applied a parallelogram equal to the fourth part of the square on the less, > A, and deficient by a square figure. Let this be the rectangle > BD, > DC, [cf. elem.10.16.l.1]  and let > BD be incommensurable in length with > DC; I say that the square on > BC is greater than the square on > A by the square on a straight line incommensurable with > BC.",
+                "refs": [
+                    "elem.10.16.l.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For, with the same construction as before, we can prove similarly that the square on > BC is greater than the square on > A by the square on > FD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "It is to be proved that > BC is incommensurable in length with > DF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > BD is incommensurable in length with > DC, therefore > BC is also incommensurable in length with > CD. [elem.10.16]",
+                "refs": [
+                    "elem.10.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > DC is commensurable with the sum of > BF, > DC; [elem.10.6] therefore > BC is also incommensurable with the sum of > BF, > DC; [elem.10.13] so that > BC is also incommensurable in length with the remainder > FD. [elem.10.16]",
+                "refs": [
+                    "elem.10.6",
+                    "elem.10.13",
+                    "elem.10.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the square on > BC is greater than the square on > A by the square on > FD; therefore the square on > BC is greater than the square on > A by the square on a straight line incommensurable with > BC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, let the square on > BC be greater than the square on > A by the square on a straight line incommensurable with > BC, and let there be applied to > BC a parallelogram equal to the fourth part of the square on > A and deficient by a square figure. Let this be the rectangle > BD, > DC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "It is to be proved that > BD is incommensurable in length with > DC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, with the same construction, we can prove similarly that the square on > BC is greater than the square on > A by the square on > FD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the square on > BC is greater than the square on > A by the square on a straight line incommensurable with > BC; therefore > BC is incommensurable in length with > FD. so that > BC is also incommensurable with the remainder, the sum of > BF, > DC. [elem.10.16]",
+                "refs": [
+                    "elem.10.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the sum of > BF, > DC is commensurable in length with > DC; [elem.10.6] therefore > BC is also incommensurable in length with > DC, [elem.10.13] so that, , > BD is also incommensurable in length with > DC. [elem.10.16]",
+                "refs": [
+                    "elem.10.6",
+                    "elem.10.13",
+                    "elem.10.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

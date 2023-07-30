@@ -1,0 +1,4558 @@
+{
+    "elem.6.def.1": {
+        "id": "elem.6.def.1",
+        "n": 1,
+        "type": "definition",
+        "enunciation": "> Similar rectilineal figures are such as have their angles severally equal and the sides about the equal angles proportional."
+    },
+    "elem.6.def.2": {
+        "id": "elem.6.def.2",
+        "n": 2,
+        "type": "definition",
+        "enunciation": "[> Reciprocally related figures. `See note`.]"
+    },
+    "elem.6.def.3": {
+        "id": "elem.6.def.3",
+        "n": 3,
+        "type": "definition",
+        "enunciation": "A straight line is said to have been > cut in extreme and mean ratio when, as the whole line is to the greater segment, so is the greater to the less."
+    },
+    "elem.6.def.4": {
+        "id": "elem.6.def.4",
+        "n": 4,
+        "type": "definition",
+        "enunciation": "The > height of any figure is the perpendicular drawn from the vertex to the base."
+    },
+    "elem.6.def.5": {
+        "id": "elem.6.def.5",
+        "n": 5,
+        "type": "definition"
+    },
+    "elem.6.1": {
+        "id": "elem.6.1",
+        "n": 1,
+        "type": "proposition",
+        "enunciation": "`Triangles and parallelograms which are under the same height are to one another as their bases`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `ACD` be triangles and `EC`, `CF` parallelograms under the same height; `BC` is to the base `CD`, so is the triangle `ABC` to the triangle `ACD`, and the parallelogram `EC` to the parallelogram `CF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ACD",
+                    "EC",
+                    "CF",
+                    "BC",
+                    "CD",
+                    "ABC",
+                    "ACD",
+                    "EC",
+                    "CF"
+                ]
+            },
+            {
+                "text": "For let `BD` be produced in both directions to the points `H`, `L` and let [any number of straight lines] `BG`, `GH` be `BC`, and any number of straight lines `DK`, `KL` equal to the base `CD`; let `AG`, `AH`, `AK`, `AL` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BD",
+                    "H",
+                    "L",
+                    "BG",
+                    "GH",
+                    "BC",
+                    "DK",
+                    "KL",
+                    "CD",
+                    "AG",
+                    "AH",
+                    "AK",
+                    "AL"
+                ]
+            },
+            {
+                "text": "Then, since `CB`, `BG`, `GH` are equal to one another, > the triangles `ABC`, `AGB`, `AHG` are also equal to one elem.1.38]",
+                "refs": [],
+                "emphs": [
+                    "CB",
+                    "BG",
+                    "GH"
+                ]
+            },
+            {
+                "text": "Therefore, whatever multiple the base `HC` is of the base `BC`, that multiple also is the triangle `AHC` of the triangle `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "HC",
+                    "BC",
+                    "AHC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "For the same reason, `LC` is of the base `CD`, that multiple also is the triangle `ALC` of the triangle `ACD`; and, if the base `HC` is equal to the base `CL`, the triangle `AHC` is also equal to the triangle `ACL`, [elem.1.38] `HC` is in excess of the base `CL`, the triangle `AHC`\n       `ACL`, and, if less, less.",
+                "refs": [
+                    "elem.1.38"
+                ],
+                "emphs": [
+                    "LC",
+                    "CD",
+                    "ALC",
+                    "ACD",
+                    "HC",
+                    "CL",
+                    "AHC",
+                    "ACL",
+                    "HC",
+                    "CL",
+                    "AHC",
+                    "ACL"
+                ]
+            },
+            {
+                "text": "Thus, there being four magnitudes, two bases `BC`, `CD` and two triangles `ABC`, `ACD`, equimultiples have been taken of the base `BC` and the `ABC`, namely the base `HC` and the triangle `AHC`, and of the base `CD` and the triangle `ADC` other, chance, equimultiples, namely the base `LC` and the triangle `ALC`; > and it has been proved that, if the base `HC` is in excess of the base `CL`, the triangle `AHC`\n       `ALC`; if equal, equal; and, if less, less.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "CD",
+                    "ABC",
+                    "ACD",
+                    "BC",
+                    "ABC",
+                    "HC",
+                    "AHC",
+                    "CD",
+                    "ADC",
+                    "LC",
+                    "ALC",
+                    "HC",
+                    "CL",
+                    "AHC",
+                    "ALC"
+                ]
+            },
+            {
+                "text": "Therefore, as the base `BC` is to the base `CD`, so is the triangle `ABC` to the triangle `ACD`. [elem.5.def.5]",
+                "refs": [
+                    "elem.5.def.5"
+                ],
+                "emphs": [
+                    "BC",
+                    "CD",
+                    "ABC",
+                    "ACD"
+                ]
+            },
+            {
+                "text": "Next, since the parallelogram `EC` is double of the triangle `ABC`, [elem.1.41] and the parallelogram `FC` is double of the triangle `ACD`, while parts have the same ratio as the same multiples of them, [elem.5.15] therefore, as the triangle `ABC` is to the triangle `ACD`, so is `EC` to the parallelogram `FC`.",
+                "refs": [
+                    "elem.1.41",
+                    "elem.5.15"
+                ],
+                "emphs": [
+                    "EC",
+                    "ABC",
+                    "FC",
+                    "ACD",
+                    "ABC",
+                    "ACD",
+                    "EC",
+                    "FC"
+                ]
+            },
+            {
+                "text": "Since, then, it was proved that, as the base `BC` is to `CD`, so is the triangle `ABC` to the triangle `ACD`, and, as the triangle `ABC` is to the triangle `ACD`, so is the parallelogram `EC` to the parallelogram `CF`, `BC` is to the base `CD`, so is the parallelogram `EC` to the parallelogram `FC`. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BC",
+                    "CD",
+                    "ABC",
+                    "ACD",
+                    "ABC",
+                    "ACD",
+                    "EC",
+                    "CF",
+                    "BC",
+                    "CD",
+                    "EC",
+                    "FC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.2": {
+        "id": "elem.6.2",
+        "n": 2,
+        "type": "proposition",
+        "enunciation": "`If a straight line be drawn parallel to one of the sides of a triangle`, `it will cut the sides of the triangle proportionally; and`, `if the sides of the triangle be cut proportionally`, `the line joining the points of section will be parallel to the remaining side of the triangle`.",
+        "proof": [
+            {
+                "text": "For let `DE` be drawn parallel to `BC`, one of the sides of the triangle `ABC`; I say that, as `BD` is to `DA`, so is `CE` to `EA`.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "BC",
+                    "ABC",
+                    "BD",
+                    "DA",
+                    "CE",
+                    "EA"
+                ]
+            },
+            {
+                "text": "For let `BE`, `CD` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "CD"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `BDE` is equal to `CDE`; for they are on the same base `DE` and in the same parallels `DE`, `BC`. [elem.1.38]",
+                "refs": [
+                    "elem.1.38"
+                ],
+                "emphs": [
+                    "BDE",
+                    "CDE",
+                    "DE",
+                    "DE",
+                    "BC"
+                ]
+            },
+            {
+                "text": "And the triangle `ADE` is another area.",
+                "refs": [],
+                "emphs": [
+                    "ADE"
+                ]
+            },
+            {
+                "text": "But equals have the same ratio to the same; [elem.5.7] therefore, as the triangle `BDE` is to the triangle `ADE`, so is the triangle `CDE` to the triangle `ADE`.",
+                "refs": [
+                    "elem.5.7"
+                ],
+                "emphs": [
+                    "BDE",
+                    "ADE",
+                    "CDE",
+                    "ADE"
+                ]
+            },
+            {
+                "text": "But, as the triangle `BDE` is to `ADE`, so is `BD` to `DA`; for, being under the same height, the perpendicular drawn from `E` to `AB`, they are to one another as their bases. [elem.6.1]",
+                "refs": [
+                    "elem.6.1"
+                ],
+                "emphs": [
+                    "BDE",
+                    "ADE",
+                    "BD",
+                    "DA",
+                    "E",
+                    "AB"
+                ]
+            },
+            {
+                "text": "For the same reason also, as the triangle `CDE` is to `ADE`, so is `CE` to `EA`.",
+                "refs": [],
+                "emphs": [
+                    "CDE",
+                    "ADE",
+                    "CE",
+                    "EA"
+                ]
+            },
+            {
+                "text": "Therefore also, as `BD` is to `DA`, so is `CE` to `EA`. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BD",
+                    "DA",
+                    "CE",
+                    "EA"
+                ]
+            },
+            {
+                "text": "Again, let the sides `AB`, `AC` of the triangle `ABC` be cut proportionally, so that, as `BD` is to `DA`, so is `CE` to `EA`; and let `DE` be joined.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AC",
+                    "ABC",
+                    "BD",
+                    "DA",
+                    "CE",
+                    "EA",
+                    "DE"
+                ]
+            },
+            {
+                "text": "I say that `DE` is parallel to `BC`.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "BC"
+                ]
+            },
+            {
+                "text": "For, with the same construction, since, as `BD` is to `DA`, so is `CE` to `EA`, but, as `BD` is to `DA`, so is the triangle `BDE` to the triangle `ADE`, and, as `CE` is to `EA`, so is the triangle `CDE` to the triangle `ADE`, [elem.6.1] therefore also, > as the triangle `BDE` is to the triangle `ADE`, so is the triangle `CDE` to the triangle `ADE`. [elem.5.11]",
+                "refs": [
+                    "elem.6.1"
+                ],
+                "emphs": [
+                    "BD",
+                    "DA",
+                    "CE",
+                    "EA",
+                    "BD",
+                    "DA",
+                    "BDE",
+                    "ADE",
+                    "CE",
+                    "EA",
+                    "CDE",
+                    "ADE"
+                ]
+            },
+            {
+                "text": "Therefore each of the triangles `BDE`, `CDE` has the same ratio to `ADE`.",
+                "refs": [],
+                "emphs": [
+                    "BDE",
+                    "CDE",
+                    "ADE"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `BDE` is equal to the triangle `CDE`; [elem.5.9] and they are on the same base `DE`.",
+                "refs": [
+                    "elem.5.9"
+                ],
+                "emphs": [
+                    "BDE",
+                    "CDE",
+                    "DE"
+                ]
+            },
+            {
+                "text": "But equal triangles which are on the same base are also in the same parallels. [elem.1.39]",
+                "refs": [
+                    "elem.1.39"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore `DE` is parallel to `BC`.",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.3": {
+        "id": "elem.6.3",
+        "n": 3,
+        "type": "proposition",
+        "enunciation": "`If an angle of a triangle be bisected and the straight line cutting the angle cut the base also`, `the segments of the base will have the same ratio as the remaining sides of the triangle; and`, `if the segments of the base have the same ratio as the `, `the straight line joined from the vertex to the point of section will bisect the angle of the triangle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a triangle, and let the angle `BAC` be bisected by the straight line `AD`; I say that, as `BD` is to `CD`, so is `BA` to `AC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "BAC",
+                    "AD",
+                    "BD",
+                    "CD",
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "For let `CE` be drawn through `C` parallel to `DA`, and let `BA`\n       `E`.",
+                "refs": [],
+                "emphs": [
+                    "CE",
+                    "C",
+                    "DA",
+                    "BA",
+                    "E"
+                ]
+            },
+            {
+                "text": "Then, since the straight line `AC` falls upon the parallels `AD`, `EC`, > the angle `ACE` is equal to the angle `CAD`. [elem.1.29]",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "AD",
+                    "EC"
+                ]
+            },
+            {
+                "text": "But the angle `CAD` is by hypothesis equal to the angle `BAD`; therefore the angle `BAD` is also equal to the angle `ACE`.",
+                "refs": [],
+                "emphs": [
+                    "CAD",
+                    "BAD",
+                    "BAD",
+                    "ACE"
+                ]
+            },
+            {
+                "text": "Again, since the straight line `BAE` falls upon the parallels `AD`, `EC`, > the exterior angle `BAD` is equal to the interior angle `AEC`. [elem.1.29]",
+                "refs": [],
+                "emphs": [
+                    "BAE",
+                    "AD",
+                    "EC"
+                ]
+            },
+            {
+                "text": "But the angle `ACE` was also proved equal to the angle `BAD`; > therefore the angle `ACE` is also equal to the angle `AEC`, so that the side `AE` is also equal to the side `AC`. [elem.1.6]",
+                "refs": [],
+                "emphs": [
+                    "ACE",
+                    "BAD"
+                ]
+            },
+            {
+                "text": "And, since `AD` has been drawn parallel to `EC`, one of the sides of the triangle `BCE`, therefore, proportionally, as `BD` is to `DC`, so is `BA` to `AE`.",
+                "refs": [],
+                "emphs": [
+                    "AD",
+                    "EC",
+                    "BCE",
+                    "BD",
+                    "DC",
+                    "BA",
+                    "AE"
+                ]
+            },
+            {
+                "text": "But `AE` is equal to `AC`; [elem.6.2] therefore, as `BD` is to `DC`, so is `BA` to `AC`.",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "AE",
+                    "AC",
+                    "BD",
+                    "DC",
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Again, let `BA` be to `AC` as `BD` to `DC`, and let `AD` be joined; I say that the angle `BAC` has been bisected by the straight line .",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "AC",
+                    "BD",
+                    "DC",
+                    "AD",
+                    "BAC"
+                ]
+            },
+            {
+                "text": "For, with the same construction, since, as `BD` is to `DC`, so is `BA` to `AC`, `BD` is to `DC`, so is `BA` to `AE` : for `AD` has been drawn parallel to `EC`, one of the sides of the triangle `BCE`: [elem.6.2] therefore also, as `BA` is to `AC`, so is `BA` to `AE`. [elem.5.11]",
+                "refs": [
+                    "elem.6.2",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BD",
+                    "DC",
+                    "BA",
+                    "AC",
+                    "BD",
+                    "DC",
+                    "BA",
+                    "AE",
+                    "AD",
+                    "EC",
+                    "BCE",
+                    "BA",
+                    "AC",
+                    "BA",
+                    "AE"
+                ]
+            },
+            {
+                "text": "Therefore `AC` is equal to `AE`, [elem.5.9] so that the angle `AEC` is also equal to the angle `ACE`. [elem.1.5]",
+                "refs": [
+                    "elem.5.9",
+                    "elem.1.5"
+                ],
+                "emphs": [
+                    "AC",
+                    "AE",
+                    "AEC",
+                    "ACE"
+                ]
+            },
+            {
+                "text": "But the angle `AEC` is equal to the exterior angle `BAD`, [elem.1.29] and the angle `ACE` is equal to the alternate angle `CAD`; [`id`.] > therefore the angle `BAD` is also equal to the angle `CAD`.",
+                "refs": [
+                    "elem.1.29"
+                ],
+                "emphs": [
+                    "AEC",
+                    "BAD",
+                    "ACE",
+                    "CAD",
+                    "id"
+                ]
+            },
+            {
+                "text": "Therefore the angle `BAC` has been bisected by the straight line `AD`.",
+                "refs": [],
+                "emphs": [
+                    "BAC",
+                    "AD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.4": {
+        "id": "elem.6.4",
+        "n": 4,
+        "type": "proposition",
+        "enunciation": "`In equiangular triangles the sides about the equal angles are proportional`, `and those are corresponding sides which subtend the equal angles`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DCE` be equiangular triangles having the angle `ABC` equal to the angle `DCE`, the angle `BAC` to the angle `CDE`, and further the angle `ACB` to the angle `CED`; I say that in the triangles `ABC`, `DCE` the sides about the equal angles are proportional, and those are corresponding sides which subtend the equal angles.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DCE",
+                    "ABC",
+                    "DCE",
+                    "BAC",
+                    "CDE",
+                    "ACB",
+                    "CED",
+                    "ABC",
+                    "DCE"
+                ]
+            },
+            {
+                "text": "For let `BC` be placed in a straight line with `CE`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "Then, since the angles `ABC`, `ACB` are less than two right angles, [elem.1.17] and the angle `ACB` is equal to the angle `DEC`, therefore the angles `ABC`, `DEC` are less than two right angles; therefore `BA`, `ED`, when produced, will meet. [elem.1.post.5]",
+                "refs": [
+                    "elem.1.17",
+                    "elem.1.post.5"
+                ],
+                "emphs": [
+                    "ABC",
+                    "ACB",
+                    "ACB",
+                    "DEC",
+                    "ABC",
+                    "DEC",
+                    "BA",
+                    "ED"
+                ]
+            },
+            {
+                "text": "Let them be produced and meet at `F`.",
+                "refs": [],
+                "emphs": [
+                    "F"
+                ]
+            },
+            {
+                "text": "Now, since the angle `DCE` is equal to the angle `ABC`, > `BF` is parallel to `CD`. [elem.1.28]",
+                "refs": [],
+                "emphs": [
+                    "DCE",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Again, since the angle `ACB` is equal to the angle `DEC`, > `AC` is parallel to `FE`. [elem.1.28]",
+                "refs": [],
+                "emphs": [
+                    "ACB",
+                    "DEC"
+                ]
+            },
+            {
+                "text": "Therefore `FACD` is a parallelogram; therefore `FA` is equal to `DC`, and `AC` to `FD`. [elem.1.34]",
+                "refs": [
+                    "elem.1.34"
+                ],
+                "emphs": [
+                    "FACD",
+                    "FA",
+                    "DC",
+                    "AC",
+                    "FD"
+                ]
+            },
+            {
+                "text": "And, since `AC` has been drawn parallel to `FE`, one side of the triangle `FBE`, therefore, as `BA` is to `AF`, so is `BC` to `CE`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "AC",
+                    "FE",
+                    "FBE",
+                    "BA",
+                    "AF",
+                    "BC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "But `AF` is equal to `CD`; > therefore, as `BA` is to `CD`, so is `BC` to `CE`, and alternately, as `AB` is to `BC`, so is `DC` to `CE`. [elem.5.16]",
+                "refs": [
+                    "elem.5.16"
+                ],
+                "emphs": [
+                    "AF",
+                    "CD",
+                    "AB",
+                    "BC",
+                    "DC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "Again, since `CD` is parallel to `BF`, therefore, as `BC` is to `CE`, so is `FD` to `DE`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "CD",
+                    "BF",
+                    "BC",
+                    "CE",
+                    "FD",
+                    "DE"
+                ]
+            },
+            {
+                "text": "But `FD` is equal to `AC`; > therefore, as `BC` is to `CE`, so is `AC` to `DE`, and alternately, as `BC` is to `CA`, so is `CE` to `ED`. [elem.5.16]",
+                "refs": [
+                    "elem.5.16"
+                ],
+                "emphs": [
+                    "FD",
+                    "AC",
+                    "BC",
+                    "CA",
+                    "CE",
+                    "ED"
+                ]
+            },
+            {
+                "text": "Since then it was proved that, > as `AB` is to `BC`, so is `DC` to `CE`, and, as `BC` is to `CA`, so is `CE` to `ED`; therefore, `ex aequali`, as `BA` is to `AC`, so is `CD` to `DE`. [elem.5.22]",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": [
+                    "BC",
+                    "CA",
+                    "CE",
+                    "ED",
+                    "ex aequali",
+                    "BA",
+                    "AC",
+                    "CD",
+                    "DE"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.5": {
+        "id": "elem.6.5",
+        "n": 5,
+        "type": "proposition",
+        "enunciation": "`If two triangles have their sides proportional`, `the triangles will be equiangular and will have those angles equal which the corresponding sides subtend`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be two triangles having their sides proportional, so that, > as `AB` is to `BC`, so is `DE` to `EF`, as `BC` is to `CA`, so is `EF` to `FD`, and further, as `BA` is to `AC`, so is `ED` to `DF`; I say that the triangle `ABC` is equiangular with the triangle `DEF`, and they will have those angles equal which the corresponding sides subtend, namely the angle `ABC` to the angle `DEF`, the angle `BCA` to the angle `EFD`, and further the angle `BAC` to the angle `EDF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BA",
+                    "AC",
+                    "ED",
+                    "DF",
+                    "ABC",
+                    "DEF",
+                    "ABC",
+                    "DEF",
+                    "BCA",
+                    "EFD",
+                    "BAC",
+                    "EDF"
+                ]
+            },
+            {
+                "text": "For on the straight line `EF`, and at the points `E`, `F` on it, let there be constructed the angle `FEG` equal to the angle `ABC`, and the angle `EFG` equal to the angle `ACB`; [elem.1.23] > therefore the remaining angle at `A` is equal to the remaining angle at `G`. [elem.1.32]",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "EF",
+                    "E",
+                    "F",
+                    "FEG",
+                    "ABC",
+                    "EFG",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is equiangular with the triangle `GEF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "GEF"
+                ]
+            },
+            {
+                "text": "Therefore in the triangles `ABC`, `GEF` the sides about the equal angles are proportional, and those are corresponding sides which subtend the equal angles; [elem.6.4] > therefore, as `AB` is to `BC`, so is `GE` to `EF`.",
+                "refs": [
+                    "elem.6.4"
+                ],
+                "emphs": [
+                    "ABC",
+                    "GEF"
+                ]
+            },
+            {
+                "text": "But, as `AB` is to `BC`, so by hypothesis is `DE` to `EF`; > therefore, as `DE` is to `EF`, so is `GE` to `EF`. [elem.5.11]",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "DE",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Therefore each of the straight lines `DE`, `GE` has the same ratio to `EF`; > therefore `DE` is equal to `GE`. [elem.5.9]",
+                "refs": [],
+                "emphs": [
+                    "DE",
+                    "GE",
+                    "EF"
+                ]
+            },
+            {
+                "text": "For the same reason > `DF` is also equal to `GF`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then `DE` is equal to `EG`, and `EF` is common, > the two sides `DE`, `EF` are equal to the two sides `GE`, `EF`; and the base `DF` is equal to the base `FG`; therefore the angle `DEF` is equal to the angle `GEF`, [elem.1.8] and the triangle `DEF` is equal to the triangle `GEF`, and the remaining angles are equal to the remaining angles, namely those which the equal sides subtend. [elem.1.4]",
+                "refs": [
+                    "elem.1.8",
+                    "elem.1.4"
+                ],
+                "emphs": [
+                    "DE",
+                    "EG",
+                    "EF",
+                    "DEF",
+                    "GEF",
+                    "DEF",
+                    "GEF"
+                ]
+            },
+            {
+                "text": "Therefore the angle `DFE` is also equal to the angle `GFE`, > and the angle `EDF` to the angle `EGF`.",
+                "refs": [],
+                "emphs": [
+                    "DFE",
+                    "GFE"
+                ]
+            },
+            {
+                "text": "And, since the angle `FED` is equal to the angle `GEF`, while the angle `GEF` is equal to the angle `ABC`, therefore the angle `ABC` is also equal to the angle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "FED",
+                    "GEF",
+                    "GEF",
+                    "ABC",
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "For the same reason > the angle `ACB` is also equal to the angle `DFE`, and further, the angle at `A` to the angle at `D`; > therefore the triangle `ABC` is equiangular with the triangle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.6": {
+        "id": "elem.6.6",
+        "n": 6,
+        "type": "proposition",
+        "enunciation": "`If two triangles have one angle equal to one angle and the sides about the equal angles proportional`, `the triangles will be equiangular and will have those angles equal which the corresponding sides subtend`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be two triangles having one angle `BAC` equal to one angle `EDF` and the sides about the equal angles proportional, so that, > as `BA` is to `AC`, so is `ED` to `DF`; I say that the triangle `ABC` is equiangular with the triangle `DEF`, and will have the angle `ABC` equal to the angle `DEF`, and the angle `ACB` to the angle `DFE`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BAC",
+                    "EDF",
+                    "ABC",
+                    "DEF",
+                    "ABC",
+                    "DEF",
+                    "ACB",
+                    "DFE"
+                ]
+            },
+            {
+                "text": "For on the straight line `DF`, and at the points `D`, `F` on it, let there be constructed the angle `FDG` equal to either of the angles `BAC`, `EDF`, and the angle `DFG` equal to the angle `ACB`; [elem.1.23] > therefore the remaining angle at `B` is equal to the remaining angle at `G`. [elem.1.32]",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "DF",
+                    "D",
+                    "F",
+                    "FDG",
+                    "BAC",
+                    "EDF",
+                    "DFG",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is equiangular with the triangle `DGF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DGF"
+                ]
+            },
+            {
+                "text": "Therefore, proportionally, as `BA` is to `AC`, so is `GD` to `DF`. [elem.6.4]",
+                "refs": [
+                    "elem.6.4"
+                ],
+                "emphs": [
+                    "BA",
+                    "AC",
+                    "GD",
+                    "DF"
+                ]
+            },
+            {
+                "text": "But, by hypothesis, as `BA` is to `AC`, so also is `ED` to `DF`; therefore also, as `ED` is to `DF`, so is `GD` to `DF`. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BA",
+                    "AC",
+                    "ED",
+                    "DF",
+                    "ED",
+                    "DF",
+                    "GD",
+                    "DF"
+                ]
+            },
+            {
+                "text": "Therefore `ED` is equal to `DG`; [elem.5.9] and `DF` is common; > therefore the two sides `ED`, `DF` are equal to the two sides `GD`, `DF`; and the angle `EDF` is equal to the angle `GDF`; therefore the base `EF` is equal to the base `GF`, and the triangle `DEF` is equal to the triangle `DGF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend. [elem.1.4]",
+                "refs": [
+                    "elem.5.9",
+                    "elem.1.4"
+                ],
+                "emphs": [
+                    "ED",
+                    "DG",
+                    "DF"
+                ]
+            },
+            {
+                "text": "Therefore the angle `DFG` is equal to the angle `DFE`, > and the angle `DGF` to the angle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "DFG",
+                    "DFE"
+                ]
+            },
+            {
+                "text": "But the angle `DFG` is equal to the angle `ACB`; therefore the angle `ACB` is also equal to the angle `DFE`.",
+                "refs": [],
+                "emphs": [
+                    "DFG",
+                    "ACB",
+                    "ACB",
+                    "DFE"
+                ]
+            },
+            {
+                "text": "And, by hypothesis, the angle `BAC` is also equal to the angle `EDF`; therefore the remaining angle at `B` is also equal to the remaining angle at `E`; [elem.1.32] > therefore the triangle `ABC` is equiangular with the triangle `DEF`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BAC",
+                    "EDF",
+                    "B",
+                    "E"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.7": {
+        "id": "elem.6.7",
+        "n": 7,
+        "type": "proposition",
+        "enunciation": "`If two triangles have one angle equal to one angle`, `the sides about other angles proportional`, `and the remaining angles either both less or both not less than a right angle`, `the triangles will be equiangular and will have those angles equal`, `the sides about which are proportional`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be two triangles having one angle equal to one angle, the angle `BAC` to the angle `EDF`, the sides about other angles `ABC`, `DEF` proportional, so that, as `AB` is to `BC`, so is `DE` to `EF`, and, first, each of the remaining angles at `C`, `F` less than a right angle; `ABC` is equiangular with the triangle `DEF`, the angle `ABC` will be equal to the angle `DEF`, and the remaining angle, namely the angle at `C`, equal to the remaining angle, the angle at `F`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BAC",
+                    "EDF",
+                    "ABC",
+                    "DEF",
+                    "AB",
+                    "BC",
+                    "DE",
+                    "EF",
+                    "C",
+                    "F",
+                    "ABC",
+                    "DEF",
+                    "ABC",
+                    "DEF",
+                    "C",
+                    "F"
+                ]
+            },
+            {
+                "text": "For, if the angle `ABC` is unequal to the angle `DEF`, one of them is greater.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Let the angle `ABC` be greater; and on the straight line `AB`, and at the point `B` on it, let the angle `ABG` be constructed equal to the angle `DEF`. [elem.1.23]",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "ABC",
+                    "AB",
+                    "B",
+                    "ABG",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Then, since the angle `A` is equal to `D`, and the angle `ABG` to the angle `DEF`, therefore the remaining angle `AGB` is equal to the remaining angle `DFE`. [elem.1.32]",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "A",
+                    "D",
+                    "ABG",
+                    "DEF",
+                    "AGB",
+                    "DFE"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABG` is equiangular with the triangle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "ABG",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Therefore, as `AB` is to `BG`, so is `DE` to `EF` [elem.6.4]",
+                "refs": [
+                    "elem.6.4"
+                ],
+                "emphs": [
+                    "AB",
+                    "BG",
+                    "DE",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But, as `DE` is to `EF`, so by hypothesis is `AB` to `BC`; therefore `AB` has the same ratio to each of the straight lines `BC`, `BG`; [elem.5.11] > therefore `BC` is equal to `BG`, [elem.5.9] so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]",
+                "refs": [
+                    "elem.5.11",
+                    "elem.1.5"
+                ],
+                "emphs": [
+                    "DE",
+                    "EF",
+                    "AB",
+                    "BC",
+                    "AB",
+                    "BC",
+                    "BG",
+                    "C",
+                    "BGC"
+                ]
+            },
+            {
+                "text": "But, by hypothesis, the angle at `C` is less than a right angle; therefore the angle `BGC` is also less than a right angle; so that the angle `AGB` adjacent to it is greater than a right angle. [elem.1.13]",
+                "refs": [
+                    "elem.1.13"
+                ],
+                "emphs": [
+                    "C",
+                    "BGC",
+                    "AGB"
+                ]
+            },
+            {
+                "text": "And it was proved equal to the angle at `F`; therefore the angle at `F` is also greater than a right angle.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "F"
+                ]
+            },
+            {
+                "text": "But it is by hypothesis less than a right angle : which is absurd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the angle `ABC` is not unequal to the angle `DEF`; therefore it is equal to it.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "But the angle at `A` is also equal to the angle at `D`; therefore the remaining angle at `C` is equal to the remaining angle at `F`. [elem.1.32]",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "A",
+                    "D",
+                    "C",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is equiangular with the triangle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "But, again, let each of the angles at `C`, `F` be supposed not less than a right angle; I say again that, in this case too, the triangle `ABC` is equiangular with the triangle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "C",
+                    "F",
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "For, with the same construction, we can prove similarly that > `BC` is equal to `BG`; so that the angle at `C` is also equal to the angle `BGC`. [elem.1.5]",
+                "refs": [
+                    "elem.1.5"
+                ],
+                "emphs": [
+                    "C",
+                    "BGC"
+                ]
+            },
+            {
+                "text": "But the angle at `C` is not less than a right angle; therefore neither is the angle `BGC` less than a right angle.",
+                "refs": [],
+                "emphs": [
+                    "C",
+                    "BGC"
+                ]
+            },
+            {
+                "text": "Thus in the triangle `BGC` the two angles are not less than two right angles: which is impossible. [elem.1.17]",
+                "refs": [
+                    "elem.1.17"
+                ],
+                "emphs": [
+                    "BGC"
+                ]
+            },
+            {
+                "text": "Therefore, once more, the angle `ABC` is not unequal to the angle `DEF`; therefore it is equal to it.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "But the angle at `A` is also equal to the angle at `D`; therefore the remaining angle at `C` is equal to the remaining angle at `F`. [elem.1.32]",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "A",
+                    "D",
+                    "C",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is equiangular with the triangle `DEF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.8": {
+        "id": "elem.6.8",
+        "n": 8,
+        "type": "proposition",
+        "enunciation": "`If in a right-angled triangle a perpendicular be drawn from the right angle to the base`, `the triangles adjoining the perpendicular are similar both to the whole and to one another`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a right-angled triangle having the angle `BAC` right, and let `AD` be drawn from `A` perpendicular to `BC`; I say that each of the triangles `ABD`, `ADC` is similar to the whole `ABC` and, further, they are similar to one another.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "BAC",
+                    "AD",
+                    "A",
+                    "BC",
+                    "ABD",
+                    "ADC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "For, since the angle `BAC` is equal to the angle `ADB`, for each is right, and the angle at `B` is common to the two triangles `ABC` and `ABD`, therefore the remaining angle `ACB` is equal to the remaining angle `BAD`; [elem.1.32] `ABC` is equiangular with the triangle `ABD`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BAC",
+                    "ADB",
+                    "B",
+                    "ABC",
+                    "ABD",
+                    "ACB",
+                    "BAD",
+                    "ABC",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "Therefore, as `BC` which subtends the right angle in the triangle `ABC` is to `BA` which subtends the right angle in the triangle `ABD`, so is `AB` itself which subtends the angle at `C` in the triangle `ABC` to `BD` which subtends the equal angle `BAD` in the triangle `ABD`, and so also is `AC` to `AD` which subtends the angle at `B` common to the two triangles. [elem.6.4]",
+                "refs": [
+                    "elem.6.4"
+                ],
+                "emphs": [
+                    "BC",
+                    "ABC",
+                    "BA",
+                    "ABD",
+                    "AB",
+                    "C",
+                    "ABC",
+                    "BD",
+                    "BAD",
+                    "ABD",
+                    "AC",
+                    "AD",
+                    "B"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is both equiangular to the triangle `ABD` and has the sides about the equal angles proportional.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is similar to the triangle `ABD`. [elem.6.def.1]",
+                "refs": [
+                    "elem.6.def.1"
+                ],
+                "emphs": [
+                    "ABC",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that the triangle `ABC` is also similar to the triangle `ADC`; therefore each of the triangles `ABD`, `ADC` is similar to the whole `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ADC",
+                    "ABD",
+                    "ADC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "I say next that the triangles `ABD`, `ADC` are also similar to one another.",
+                "refs": [],
+                "emphs": [
+                    "ABD",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "For, since the right angle `BDA` is equal to the right angle `ADC`, and moreover the angle `BAD` was also proved equal to the angle at `C`, therefore the remaining angle at `B` is also equal to the remaining angle `DAC`; [elem.1.32] therefore the triangle `ABD` is equiangular with the triangle `ADC`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BDA",
+                    "ADC",
+                    "BAD",
+                    "C",
+                    "B",
+                    "DAC",
+                    "ABD",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "Therefore, as `BD` which subtends the angle `BAD` in the triangle `ABD` is to `DA` which subtends the angle at `C` in the triangle `ADC` equal to the angle `BAD`, so is `AD` itself which subtends the angle at `B` in the triangle `ABD` to `DC` which subtends the angle `DAC` in the triangle `ADC` equal `B`, and so also is `BA` to `AC`, these sides subtending the right angles; [elem.6.4] therefore the triangle `ABD` is similar to the triangle `ADC`. [elem.6.def.1]",
+                "refs": [
+                    "elem.6.4",
+                    "elem.6.def.1"
+                ],
+                "emphs": [
+                    "BD",
+                    "BAD",
+                    "ABD",
+                    "DA",
+                    "C",
+                    "ADC",
+                    "BAD",
+                    "AD",
+                    "B",
+                    "ABD",
+                    "DC",
+                    "DAC",
+                    "ADC",
+                    "B",
+                    "BA",
+                    "AC",
+                    "ABD",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.9": {
+        "id": "elem.6.9",
+        "n": 9,
+        "type": "proposition",
+        "enunciation": "`From a given straight line to cut off a prescribed part`.",
+        "proof": [
+            {
+                "text": "Let `AB` be the given straight line; thus it is required to cut off from `AB` a prescribed part.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Let the third part be that prescribed.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a straight line `AC` be drawn through from `A` containing with `AB` any angle; let a point `D` be taken at random on `AC`, and let `DE`, `EC` be made equal to `AD`. [elem.1.3]",
+                "refs": [
+                    "elem.1.3"
+                ],
+                "emphs": [
+                    "AC",
+                    "A",
+                    "AB",
+                    "D",
+                    "AC",
+                    "DE",
+                    "EC",
+                    "AD"
+                ]
+            },
+            {
+                "text": "Let `BC` be joined, and through `D` let `DF` be drawn parallel to it. [elem.1.31]",
+                "refs": [
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "BC",
+                    "D",
+                    "DF"
+                ]
+            },
+            {
+                "text": "Then, since `FD` has been drawn parallel to `BC`, one of the sides of the triangle `ABC`, therefore, proportionally, as `CD` is to `DA`, so is `BF` to `FA`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "FD",
+                    "BC",
+                    "ABC",
+                    "CD",
+                    "DA",
+                    "BF",
+                    "FA"
+                ]
+            },
+            {
+                "text": "But `CD` is double of `DA`; > therefore `BF` is also double of `FA`; therefore `BA` is triple of `AF`.",
+                "refs": [],
+                "emphs": [
+                    "CD",
+                    "DA"
+                ]
+            },
+            {
+                "text": "Therefore from the given straight line `AB` the prescribed third part `AF` has been cut off. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AF"
+                ]
+            }
+        ]
+    },
+    "elem.6.10": {
+        "id": "elem.6.10",
+        "n": 10,
+        "type": "proposition",
+        "enunciation": "`To cut a given uncut straight line similarly to a given cut straight line`.",
+        "proof": [
+            {
+                "text": "Let `AB` be the given uncut straight line, and `AC` the straight line cut at the points `D`, `E`; and let them be so placed as to contain any angle; let `CB` be joined, and through `D`, `E` let `DF`, `EG` be drawn parallel to `BC`, and through `D` let `DHK` be drawn parallel to `AB`. [elem.1.31]",
+                "refs": [
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "AB",
+                    "AC",
+                    "D",
+                    "E",
+                    "CB",
+                    "D",
+                    "E",
+                    "DF",
+                    "EG",
+                    "BC",
+                    "D",
+                    "DHK",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Therefore each of the figures `FH`, `HB` is a parallelogram; therefore `DH` is equal to `FG` and `HK` to `GB`. [elem.1.34]",
+                "refs": [
+                    "elem.1.34"
+                ],
+                "emphs": [
+                    "FH",
+                    "HB",
+                    "DH",
+                    "FG",
+                    "HK",
+                    "GB"
+                ]
+            },
+            {
+                "text": "Now, since the straight line `HE` has been drawn parallel to `KC`, one of the sides of the triangle `DKC`, therefore, proportionally, as `CE` is to `ED`, so is `KH` to `HD`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "HE",
+                    "KC",
+                    "DKC",
+                    "CE",
+                    "ED",
+                    "KH",
+                    "HD"
+                ]
+            },
+            {
+                "text": "But `KH` is equal to `BG`, and `HD` to `GF`; therefore, as `CE` is to `ED`, so is `BG` to `GF`.",
+                "refs": [],
+                "emphs": [
+                    "KH",
+                    "BG",
+                    "HD",
+                    "GF",
+                    "CE",
+                    "ED",
+                    "BG",
+                    "GF"
+                ]
+            },
+            {
+                "text": "Again, since `FD` has been drawn parallel to `GE`, one of the sides of the triangle `AGE`, therefore, proportionally, as `ED` is to `DA`, so is `GF` to `FA`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "FD",
+                    "GE",
+                    "AGE",
+                    "ED",
+                    "DA",
+                    "GF",
+                    "FA"
+                ]
+            },
+            {
+                "text": "But it was also proved that, > as `CE` is to `ED`, so is `BG` to `GF`; therefore, as `CE` is to `ED`, so is `BG` to `GF`, and, as `ED` is to `DA`, so is `GF` to `FA`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the given uncut straight line `AB` has been cut similarly to the given cut straight line `AC`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AC"
+                ]
+            }
+        ]
+    },
+    "elem.6.11": {
+        "id": "elem.6.11",
+        "n": 11,
+        "type": "proposition",
+        "enunciation": "`To two given straight lines to find a third proportional`.",
+        "proof": [
+            {
+                "text": "Let `BA`, `AC` be the two given straight lines, and let them be placed so as to contain any angle; thus it is required to find a third proportional to `BA`, `AC`.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "AC",
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "For let them be produced to the points `D`, `E`, and let `BD` be made equal to `AC`; [elem.1.3] let `BC` be joined, and through `D` let `DE` be drawn parallel to it. [elem.1.31]",
+                "refs": [
+                    "elem.1.3",
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "D",
+                    "E",
+                    "BD",
+                    "AC",
+                    "BC",
+                    "D",
+                    "DE"
+                ]
+            },
+            {
+                "text": "Since, then, `BC` has been drawn parallel to `DE`, one of the sides of the triangle `ADE`, proportionally, as `AB` is to `BD`, so is `AC` to `CE`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "BC",
+                    "DE",
+                    "ADE",
+                    "AB",
+                    "BD",
+                    "AC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "But `BD` is equal to `AC`; therefore, as `AB` is to `AC`, so is `AC` to `CE`.",
+                "refs": [],
+                "emphs": [
+                    "BD",
+                    "AC",
+                    "AB",
+                    "AC",
+                    "AC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "Therefore to two given straight lines `AB`, `AC` a third proportional to them, `CE`, has been found. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AC",
+                    "CE"
+                ]
+            }
+        ]
+    },
+    "elem.6.12": {
+        "id": "elem.6.12",
+        "n": 12,
+        "type": "proposition",
+        "enunciation": "`To three given straight lines to find a fourth proportional`.",
+        "proof": [
+            {
+                "text": "Let `A`, `B`, `C` be the three given straight lines; thus it is required to find a fourth proportional to `A`, `B`, `C`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B",
+                    "C",
+                    "A",
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "text": "Let two straight lines `DE`, `DF` be set out containing any angle `EDF`; let `DG` be made equal to `A`, `GE` equal to `B`, and further `DH` equal to `C`; let `GH` be joined, and let `EF` be drawn through `E` parallel to it. [elem.1.31]",
+                "refs": [
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "DE",
+                    "DF",
+                    "EDF",
+                    "DG",
+                    "A",
+                    "GE",
+                    "B",
+                    "DH",
+                    "C",
+                    "GH",
+                    "EF",
+                    "E"
+                ]
+            },
+            {
+                "text": "Since, then, `GH` has been drawn parallel to `EF`, one of the sides of the triangle `DEF`, therefore, as `DG` is to `GE`, so is `DH` to `HF`. [elem.6.2]",
+                "refs": [
+                    "elem.6.2"
+                ],
+                "emphs": [
+                    "GH",
+                    "EF",
+                    "DEF",
+                    "DG",
+                    "GE",
+                    "DH",
+                    "HF"
+                ]
+            },
+            {
+                "text": "But `DG` is equal to `A`, `GE` to `B`, and `DH` to `C`; therefore, as `A` is to `B`, so is `C` to `HF`.",
+                "refs": [],
+                "emphs": [
+                    "DG",
+                    "A",
+                    "GE",
+                    "B",
+                    "DH",
+                    "C",
+                    "A",
+                    "B",
+                    "C",
+                    "HF"
+                ]
+            },
+            {
+                "text": "Therefore to the three given straight lines `A`, `B`, `C` a fourth proportional `HF` has been found. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B",
+                    "C",
+                    "HF"
+                ]
+            }
+        ]
+    },
+    "elem.6.13": {
+        "id": "elem.6.13",
+        "n": 13,
+        "type": "proposition",
+        "enunciation": "`To two given straight lines to find a mean proportional`.",
+        "proof": [
+            {
+                "text": "Let `AB`, `BC` be the two given straight lines; thus it is required to find a mean proportional to `AB`, `BC`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "AB",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Let them be placed in a straight line, and let the semicircle `ADC` be described on `AC`; `BD` be drawn from the point `B` at right angles to the straight line `AC`, and let `AD`, `DC` be joined.",
+                "refs": [],
+                "emphs": [
+                    "ADC",
+                    "AC",
+                    "BD",
+                    "B",
+                    "AC",
+                    "AD",
+                    "DC"
+                ]
+            },
+            {
+                "text": "Since the angle `ADC` is an angle in a semicircle, it is right. [elem.3.31]",
+                "refs": [
+                    "elem.3.31"
+                ],
+                "emphs": [
+                    "ADC"
+                ]
+            },
+            {
+                "text": "And, since, in the right-angled triangle `ADC`, `DB` has been drawn from the right angle perpendicular to the base, therefore `DB` is a mean proportional between the segments of the base, `AB`, `BC`. [elem.6.8.p.1]",
+                "refs": [
+                    "elem.6.8.p.1"
+                ],
+                "emphs": [
+                    "ADC",
+                    "DB",
+                    "DB",
+                    "AB",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Therefore to the two given straight lines `AB`, `BC` a mean proportional `DB` has been found. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "DB"
+                ]
+            }
+        ]
+    },
+    "elem.6.14": {
+        "id": "elem.6.14",
+        "n": 14,
+        "type": "proposition",
+        "enunciation": "`In equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional; and equiangular parallelograms in which the sides about the equal angles are reciprocally proportional are equal`.",
+        "proof": [
+            {
+                "text": "Let `AB`, `BC` be equal and equiangular parallelograms having the angles at `B` equal, and let `DB`, `BE` be placed in a straight line; > therefore `FB`, `BG` are also in a straight line. [elem.1.14]",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "B",
+                    "DB",
+                    "BE"
+                ]
+            },
+            {
+                "text": "I say that, in `AB`, `BC`, the sides about the equal angles are reciprocally proportional, that is to say, that, as `DB` is to `BE`, so is `GB` to `BF`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "DB",
+                    "BE",
+                    "GB",
+                    "BF"
+                ]
+            },
+            {
+                "text": "For let the parallelogram `FE` be completed.",
+                "refs": [],
+                "emphs": [
+                    "FE"
+                ]
+            },
+            {
+                "text": "Since, then, the parallelogram `AB` is equal to the parallelogram `BC`, > and `FE` is another area, therefore, as `AB` is to `FE`, so is `BC` to `FE`. [elem.5.7]",
+                "refs": [
+                    "elem.5.7"
+                ],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "AB",
+                    "FE",
+                    "BC",
+                    "FE"
+                ]
+            },
+            {
+                "text": "But, as `AB` is to `FE`, so is `DB` to `BE`, [elem.6.1] and, as `BC` is to `FE`, so is `GB` to `BF`. [`id`.] therefore also, as `DB` is to `BE`, so is `GB` to `BF`. [elem.5.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "AB",
+                    "FE",
+                    "DB",
+                    "BE",
+                    "BC",
+                    "FE",
+                    "GB",
+                    "BF",
+                    "id",
+                    "DB",
+                    "BE",
+                    "GB",
+                    "BF"
+                ]
+            },
+            {
+                "text": "Therefore in the parallelograms `AB`, `BC` the sides about the equal angles are reciprocally proportional.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Next, let `GB` be to `BF` as `DB` to `BE`; I say that the parallelogram `AB` is equal to the parallelogram `BC`.",
+                "refs": [],
+                "emphs": [
+                    "GB",
+                    "BF",
+                    "DB",
+                    "BE",
+                    "AB",
+                    "BC"
+                ]
+            },
+            {
+                "text": "For since, as `DB` is to `BE`, so is `GB` to `BF`, while, as `DB` is to `BE`, so is the parallelogram `AB` to the parallelogram `FE`, [elem.6.1] and, as `GB` is to `BF`, so is the parallelogram `BC` to the parallelogram `FE`, [elem.6.1] therefore also, as `AB` is to `FE`, so is `BC` to `FE`; [elem.5.11] therefore the parallelogram `AB` is equal to the parallelogram `BC`. [elem.5.9]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.6.1",
+                    "elem.5.11",
+                    "elem.5.9"
+                ],
+                "emphs": [
+                    "DB",
+                    "BE",
+                    "GB",
+                    "BF",
+                    "DB",
+                    "BE",
+                    "AB",
+                    "FE",
+                    "GB",
+                    "BF",
+                    "BC",
+                    "FE",
+                    "AB",
+                    "FE",
+                    "BC",
+                    "FE",
+                    "AB",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.15": {
+        "id": "elem.6.15",
+        "n": 15,
+        "type": "proposition",
+        "enunciation": "`In equal triangles which have one angle equal to one angle the sides about the equal angles are reciprocally proportional; and those triangles which have one angle equal to one angle`, `and in which the sides about the equal angles are reciprocally proportional`, `are equal`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `ADE` be equal triangles having one angle equal to one angle, namely the angle `BAC` to the angle `DAE`; I say that in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional, that is to say, that, > as `CA` is to `AD`, so is `EA` to `AB`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ADE",
+                    "BAC",
+                    "DAE",
+                    "ABC",
+                    "ADE"
+                ]
+            },
+            {
+                "text": "For let them be placed so that `CA` is in a straight line with `AD`; therefore `EA` is also in a straight line with `AB`. [elem.1.14]",
+                "refs": [
+                    "elem.1.14"
+                ],
+                "emphs": [
+                    "CA",
+                    "AD",
+                    "EA",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Let `BD` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BD"
+                ]
+            },
+            {
+                "text": "Since then the triangle `ABC` is equal to the triangle `ADE`, and `BAD` is another area, therefore, as the triangle `CAB` is to the triangle `BAD`, so is the triangle `EAD` to the triangle `BAD`. [elem.5.7]",
+                "refs": [
+                    "elem.5.7"
+                ],
+                "emphs": [
+                    "ABC",
+                    "ADE",
+                    "BAD",
+                    "CAB",
+                    "BAD",
+                    "EAD",
+                    "BAD"
+                ]
+            },
+            {
+                "text": "But, as `CAB` is to `BAD`, so is `CA` to `AD`, [elem.6.1] and, as `EAD` is to `BAD`, so is `EA` to `AB`. [`id`.]",
+                "refs": [
+                    "elem.6.1"
+                ],
+                "emphs": [
+                    "CAB",
+                    "BAD",
+                    "CA",
+                    "AD",
+                    "EAD",
+                    "BAD",
+                    "EA",
+                    "AB",
+                    "id"
+                ]
+            },
+            {
+                "text": "Therefore also, as `CA` is to `AD`, so is `EA` to `AB`. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "CA",
+                    "AD",
+                    "EA",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Therefore in the triangles `ABC`, `ADE` the sides about the equal angles are reciprocally proportional.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ADE"
+                ]
+            },
+            {
+                "text": "Next, let the sides of the triangles `ABC`, `ADE` be reciprocally proportional, that is to say, let `EA` be to `AB` as `CA` to `AD`; I say that the triangle `ABC` is equal to the triangle `ADE`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ADE",
+                    "EA",
+                    "AB",
+                    "CA",
+                    "AD",
+                    "ABC",
+                    "ADE"
+                ]
+            },
+            {
+                "text": "For, if `BD` be again joined, since, as `CA` is to `AD`, so is `EA` to `AB`, while, as `CA` is to `AD`, so is the triangle `ABC` to the triangle `BAD`, and, as `EA` is to `AB`, so is the triangle `EAD` to the triangle `BAD`, [elem.6.1] therefore, as the triangle `ABC` is to the triangle `BAD`, so is the triangle `EAD` to the triangle `BAD`. [elem.5.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BD",
+                    "CA",
+                    "AD",
+                    "EA",
+                    "AB",
+                    "CA",
+                    "AD",
+                    "ABC",
+                    "BAD",
+                    "EA",
+                    "AB",
+                    "EAD",
+                    "BAD",
+                    "ABC",
+                    "BAD",
+                    "EAD",
+                    "BAD"
+                ]
+            },
+            {
+                "text": "Therefore each of the triangles `ABC`, `EAD` has the same ratio to `BAD`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "EAD",
+                    "BAD"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is equal to the triangle `EAD`. [elem.5.9]",
+                "refs": [
+                    "elem.5.9"
+                ],
+                "emphs": [
+                    "ABC",
+                    "EAD"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.16": {
+        "id": "elem.6.16",
+        "n": 16,
+        "type": "proposition",
+        "enunciation": "`If four straight lines be proportional`, `the rectangle contained by the extremes is equal to the rectangle contained by the means; and`, `if the rectangle contained by the extremes be equal to the rectangle contained by the means`, `the four straight lines will be proportional`.",
+        "proof": [
+            {
+                "text": "Let the four straight lines `AB`, `CD`, `E`, `F` be proportional, so that, as `AB` is to `CD`, so is `E` to `F`; I say that the rectangle contained by `AB`, `F` is equal to the rectangle contained by `CD`, `E`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "E",
+                    "F",
+                    "AB",
+                    "CD",
+                    "E",
+                    "F",
+                    "AB",
+                    "F",
+                    "CD",
+                    "E"
+                ]
+            },
+            {
+                "text": "Let `AG`, `CH` be drawn from the points `A`, `C` at right angles to the straight lines `AB`, `CD`, and let `AG` be made equal to `F`, and `CH` equal to `E`.",
+                "refs": [],
+                "emphs": [
+                    "AG",
+                    "CH",
+                    "A",
+                    "C",
+                    "AB",
+                    "CD",
+                    "AG",
+                    "F",
+                    "CH",
+                    "E"
+                ]
+            },
+            {
+                "text": "Let the parallelograms `BG`, `DH` be completed.",
+                "refs": [],
+                "emphs": [
+                    "BG",
+                    "DH"
+                ]
+            },
+            {
+                "text": "Then since, as `AB` is to `CD`, so is `E` to `F`, while `E` is equal to `CH`, and `F` to `AG`, therefore, as `AB` is to `CD`, so is `CH` to `AG`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "E",
+                    "F",
+                    "E",
+                    "CH",
+                    "F",
+                    "AG",
+                    "AB",
+                    "CD",
+                    "CH",
+                    "AG"
+                ]
+            },
+            {
+                "text": "Therefore in the parallelograms `BG`, `DH` the sides about the equal angles are reciprocally proportional.",
+                "refs": [],
+                "emphs": [
+                    "BG",
+                    "DH"
+                ]
+            },
+            {
+                "text": "But those equiangular parallelograms in which the sides about the equal angles are reciprocally proportional are equal; [elem.6.14] therefore the parallelogram `BG` is equal to the parallelogram `DH`.",
+                "refs": [
+                    "elem.6.14"
+                ],
+                "emphs": [
+                    "BG",
+                    "DH"
+                ]
+            },
+            {
+                "text": "And `BG` is the rectangle `AB`, `F`, for `AG` is equal to `F`; and `DH` is the rectangle `CD`, `E`, for `E` is equal to `CH`; therefore the rectangle contained by `AB`, `F` is equal to the rectangle contained by `CD`, `E`.",
+                "refs": [],
+                "emphs": [
+                    "BG",
+                    "AB",
+                    "F",
+                    "AG",
+                    "F",
+                    "DH",
+                    "CD",
+                    "E",
+                    "E",
+                    "CH",
+                    "AB",
+                    "F",
+                    "CD",
+                    "E"
+                ]
+            },
+            {
+                "text": "Next, let the rectangle contained by `AB`, `F` be equal to the rectangle contained by `CD`, `E`; I say that the four straight lines will be proportional, so that, as `AB` is to `CD`, so is `E` to `F`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "F",
+                    "CD",
+                    "E",
+                    "AB",
+                    "CD",
+                    "E",
+                    "F"
+                ]
+            },
+            {
+                "text": "For, with the same construction, since the rectangle `AB`, `F` is equal to the rectangle `CD`, `E`, and the rectangle `AB`, `F` is `BG`, for `AG` is equal to `F`, and the rectangle `CD`, `E` is `DH`, for `CH` is equal to `E`, > therefore `BG` is equal to `DH`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "F",
+                    "CD",
+                    "E",
+                    "AB",
+                    "F",
+                    "BG",
+                    "AG",
+                    "F",
+                    "CD",
+                    "E",
+                    "DH",
+                    "CH",
+                    "E"
+                ]
+            },
+            {
+                "text": "And they are equiangular",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But in equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional. [elem.6.14]",
+                "refs": [
+                    "elem.6.14"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as `AB` is to `CD`, so is `CH` to `AG`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "CH",
+                    "AG"
+                ]
+            },
+            {
+                "text": "But `CH` is equal to `E`, and `AG` to `F`; therefore, as `AB` is to `CD`, so is `E` to `F`.",
+                "refs": [],
+                "emphs": [
+                    "CH",
+                    "E",
+                    "AG",
+                    "F",
+                    "AB",
+                    "CD",
+                    "E",
+                    "F"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.17": {
+        "id": "elem.6.17",
+        "n": 17,
+        "type": "proposition",
+        "enunciation": "`If three straight lines be proportional`, `the rectangle contained by the extremes is equal to the square on the mean`; `and`, `if the rectangle contained by the extremes be equal to the square on the mean`, `the three straight lines will be proportional`.",
+        "proof": [
+            {
+                "text": "Let the three straight lines `A`, `B`, `C` be proportional, so that, as `A` is to `B`, so is `B` to `C`; I say that the rectangle contained by `A`, `C` is equal to the square on `B`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B",
+                    "C",
+                    "A",
+                    "B",
+                    "B",
+                    "C",
+                    "A",
+                    "C",
+                    "B"
+                ]
+            },
+            {
+                "text": "Let `D` be made equal to `B`.",
+                "refs": [],
+                "emphs": [
+                    "D",
+                    "B"
+                ]
+            },
+            {
+                "text": "Then, since, as `A` is to `B`, so is `B` to `C`, and `B` is equal to `D`, therefore, as `A` is to `B`, so is `D` to `C`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B",
+                    "B",
+                    "C",
+                    "B",
+                    "D",
+                    "A",
+                    "B",
+                    "D",
+                    "C"
+                ]
+            },
+            {
+                "text": "But, if four straight lines be proportional, the rectangle contained by the extremes is equal to the rectangle contained by the means. [elem.6.16]",
+                "refs": [
+                    "elem.6.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the rectangle `A`, `C` is equal to the rectangle `B`, `D`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "C",
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "text": "But the rectangle `B`, `D` is the square on `B`, for `B` is equal to `D`; therefore the rectangle contained by `A`, `C` is equal to the square on `B`.",
+                "refs": [],
+                "emphs": [
+                    "B",
+                    "D",
+                    "B",
+                    "B",
+                    "D",
+                    "A",
+                    "C",
+                    "B"
+                ]
+            },
+            {
+                "text": "Next, let the rectangle `A`, `C` be equal to the square on `B`; I say that, as `A` is to `B`, so is `B` to `C`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "C",
+                    "B",
+                    "A",
+                    "B",
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "text": "For, with the same construction, since the rectangle `A`, `C` is equal to the square on `B`, while the square on `B` is the rectangle `B`, `D`, for `B` is equal to `D`, therefore the rectangle `A`, `C` is equal to the rectangle `B`, `D`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "C",
+                    "B",
+                    "B",
+                    "B",
+                    "D",
+                    "B",
+                    "D",
+                    "A",
+                    "C",
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "text": "But, if the rectangle contained by the extremes be equal to that contained by the means, the four straight lines are proportional. [elem.6.16]",
+                "refs": [
+                    "elem.6.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as `A` is to `B`, so is `D` to `C`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B",
+                    "D",
+                    "C"
+                ]
+            },
+            {
+                "text": "But `B` is equal to `D`; > therefore, as `A` is to `B`, so is `B` to `C`.",
+                "refs": [],
+                "emphs": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.18": {
+        "id": "elem.6.18",
+        "n": 18,
+        "type": "proposition",
+        "enunciation": "`On a given straight line to describe a rectilineal figure similar and similarly situated to a given rectilineal figure`.",
+        "proof": [
+            {
+                "text": "Let `AB` be the given straight line and `CE` the given rectilineal figure; thus it is required to describe on the straight line `AB` a rectilineal figure similar and similarly situated to the rectilineal figure `CE`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CE",
+                    "AB",
+                    "CE"
+                ]
+            },
+            {
+                "text": "Let `DF` be joined, and on the straight line `AB`, and at the points `A`, `B` on it, let the angle `GAB` be constructed equal to the angle at `C`, and the angle `ABG` equal to the angle `CDF`. [elem.1.23]",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "DF",
+                    "AB",
+                    "A",
+                    "B",
+                    "GAB",
+                    "C",
+                    "ABG",
+                    "CDF"
+                ]
+            },
+            {
+                "text": "Therefore the remaining angle `CFD` is equal to the angle `AGB`; [elem.1.32] > therefore the triangle `FCD` is equiangular with the triangle `GAB`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "CFD",
+                    "AGB"
+                ]
+            },
+            {
+                "text": "Therefore, proportionally, as `FD` is to `GB`, so is `FC` to `GA`, and `CD` to `AB`.",
+                "refs": [],
+                "emphs": [
+                    "FD",
+                    "GB",
+                    "FC",
+                    "GA",
+                    "CD",
+                    "AB"
+                ]
+            },
+            {
+                "text": "Again, on the straight line `BG`, and at the points `B`, `G` on it, let the angle `BGH` be constructed equal to the angle `DFE`, and the angle `GBH` equal to the angle `FDE`. [elem.1.23]",
+                "refs": [
+                    "elem.1.23"
+                ],
+                "emphs": [
+                    "BG",
+                    "B",
+                    "G",
+                    "BGH",
+                    "DFE",
+                    "GBH",
+                    "FDE"
+                ]
+            },
+            {
+                "text": "Therefore the remaining angle at `E` is equal to the remaining angle at `H`; [elem.1.32] > therefore the triangle `FDE` is equiangular with the triangle `GBH`; therefore, proportionally, as `FD` is to `GB`, so is `FE` to `GH`, and `ED` to `HB`. [elem.6.4]",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "E",
+                    "H"
+                ]
+            },
+            {
+                "text": "But it was also proved that, as `FD` is to `GB`, so is `FC` to `GA`, and `CD` to `AB`; > therefore also, as `FC` is to `AG`, so is `CD` to `AB`, and `FE` to `GH`, and further `ED` to `HB`.",
+                "refs": [],
+                "emphs": [
+                    "FD",
+                    "GB",
+                    "FC",
+                    "GA",
+                    "CD",
+                    "AB"
+                ]
+            },
+            {
+                "text": "And, since the angle `CFD` is equal to the angle `AGB`, and the angle `DFE` to the angle `BGH`, therefore the whole angle `CFE` is equal to the whole angle `AGH`.",
+                "refs": [],
+                "emphs": [
+                    "CFD",
+                    "AGB",
+                    "DFE",
+                    "BGH",
+                    "CFE",
+                    "AGH"
+                ]
+            },
+            {
+                "text": "For the same reason > the angle `CDE` is also equal to the angle `ABH`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And the angle at `C` is also equal to the angle at `A`, > and the angle at `E` to the angle at `H`.",
+                "refs": [],
+                "emphs": [
+                    "C",
+                    "A"
+                ]
+            },
+            {
+                "text": "Therefore `AH` is equiangular with `CE`; and they have the sides about their equal angles proportional; > therefore the rectilineal figure `AH` is similar to the rectilineal figure `CE`. [elem.6.def.1]",
+                "refs": [],
+                "emphs": [
+                    "AH",
+                    "CE"
+                ]
+            },
+            {
+                "text": "Therefore on the given straight line `AB` the rectilineal figure `AH` has been described similar and similarly situated to the given rectilineal figure `CE`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AH",
+                    "CE"
+                ]
+            }
+        ]
+    },
+    "elem.6.19": {
+        "id": "elem.6.19",
+        "n": 19,
+        "type": "proposition",
+        "enunciation": "`Similar triangles are to one another in the duplicate ratio of the corresponding sides`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be similar triangles having the angle at `B` equal to the angle at `E`, and such that, as `AB` is to `BC`, so `DE` to `EF`, so that `BC` corresponds to `EF`; [elem.5.def.11] I say that the triangle `ABC` has to the triangle `DEF` a ratio duplicate of that which `BC` has to `EF`.",
+                "refs": [
+                    "elem.5.def.11"
+                ],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "B",
+                    "E",
+                    "AB",
+                    "BC",
+                    "DE",
+                    "EF",
+                    "BC",
+                    "EF",
+                    "ABC",
+                    "DEF",
+                    "BC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "For let a third proportional `BG` be taken to `BC`, `EF`, so that, as `BC` is to `EF`, so is `EF` to `BG`; [elem.6.11] `AG` be joined.",
+                "refs": [
+                    "elem.6.11"
+                ],
+                "emphs": [
+                    "BG",
+                    "BC",
+                    "EF",
+                    "BC",
+                    "EF",
+                    "EF",
+                    "BG",
+                    "AG"
+                ]
+            },
+            {
+                "text": "Since then, as `AB` is to `BC`, so is `DE` to `EF`, therefore, alternately, as `AB` is to `DE`, so is `BC` to `EF`. [elem.5.16]",
+                "refs": [
+                    "elem.5.16"
+                ],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "DE",
+                    "EF",
+                    "AB",
+                    "DE",
+                    "BC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But, as `BC` is to `EF`, so is `EF` to `BG`; therefore also, as `AB` is to `DE`, so is `EF` to `BG`. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BC",
+                    "EF",
+                    "EF",
+                    "BG",
+                    "AB",
+                    "DE",
+                    "EF",
+                    "BG"
+                ]
+            },
+            {
+                "text": "Therefore in the triangles `ABG`, `DEF` the sides about the equal angles are reciprocally proportional.",
+                "refs": [],
+                "emphs": [
+                    "ABG",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "But those triangles which have one angle equal to one angle, and in which the sides about the equal angles are reciprocally proportional, are equal; [elem.6.15] `ABG` is equal to the triangle `DEF`.",
+                "refs": [
+                    "elem.6.15"
+                ],
+                "emphs": [
+                    "ABG",
+                    "DEF"
+                ]
+            },
+            {
+                "text": "Now since, as `BC` is to `EF`, so is `EF` to `BG`, and, if three straight lines be proportional, the first has to the third a ratio duplicate of that which it has to the second, [elem.5.def.9] therefore `BC` has to `BG` a ratio duplicate of that which `CB`\n       `EF`.",
+                "refs": [
+                    "elem.5.def.9"
+                ],
+                "emphs": [
+                    "BC",
+                    "EF",
+                    "EF",
+                    "BG",
+                    "BC",
+                    "BG",
+                    "CB",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But, as `CB` is to `BG`, so is the triangle `ABC` to the triangle `ABG`; [elem.6.1] therefore the triangle `ABC` also has to the triangle `ABG` a ratio duplicate of that which `BC` has to `EF`.",
+                "refs": [
+                    "elem.6.1"
+                ],
+                "emphs": [
+                    "CB",
+                    "BG",
+                    "ABC",
+                    "ABG",
+                    "ABC",
+                    "ABG",
+                    "BC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But the triangle `ABG` is equal to the triangle `DEF`; therefore the triangle `ABC` also has to the triangle `DEF` a ratio duplicate of that which `BC` has to `EF`.",
+                "refs": [],
+                "emphs": [
+                    "ABG",
+                    "DEF",
+                    "ABC",
+                    "DEF",
+                    "BC",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.20": {
+        "id": "elem.6.20",
+        "n": 20,
+        "type": "proposition",
+        "enunciation": "`Similar polygons are divided into similar triangles`, `and into triangles equal in multitude and in the same ratio as the wholes`, `and the polygon has to the polygon a ratio duplicate of that which the corresponding side has to the corresponding`\n       `side`.",
+        "proof": [
+            {
+                "text": "Let `ABCDE`, `FGHKL` be similar polygons, and let `AB` correspond to `FG`; I say that the polygons `ABCDE`, `FGHKL` are divided into similar triangles, and into triangles equal in multitude and in `ABCDE` has to the polygon `FGHKL` a ratio duplicate of that which `AB` has to `FG`.",
+                "refs": [],
+                "emphs": [
+                    "ABCDE",
+                    "FGHKL",
+                    "AB",
+                    "FG",
+                    "ABCDE",
+                    "FGHKL",
+                    "ABCDE",
+                    "FGHKL",
+                    "AB",
+                    "FG"
+                ]
+            },
+            {
+                "text": "Let `BE`, `EC`, `GL`, `LH` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BE",
+                    "EC",
+                    "GL",
+                    "LH"
+                ]
+            },
+            {
+                "text": "Now, since the polygon `ABCDE` is similar to the polygon `FGHKL`, the angle `BAE` is equal to the angle `GFL`; > and, as `BA` is to `AE`, so is `GF` to `FL`. [elem.6.def.1]",
+                "refs": [],
+                "emphs": [
+                    "ABCDE",
+                    "FGHKL",
+                    "BAE",
+                    "GFL"
+                ]
+            },
+            {
+                "text": "Since then `ABE`, `FGL` are two triangles having one angle equal to one angle and the sides about the equal angles `ABE` is equiangular with the triangle `FGL`; [elem.6.6] > so that it is also similar; [elem.6.4 elem.6.def.1] therefore the angle `ABE` is equal to the angle `FGL`.",
+                "refs": [
+                    "elem.6.6"
+                ],
+                "emphs": [
+                    "ABE",
+                    "FGL",
+                    "ABE",
+                    "FGL",
+                    "ABE",
+                    "FGL"
+                ]
+            },
+            {
+                "text": "But the whole angle `ABC` is also equal to the whole angle `FGH` because of the similarity of the polygons; therefore the remaining angle `EBC` is equal to the angle `LGH`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "FGH",
+                    "EBC",
+                    "LGH"
+                ]
+            },
+            {
+                "text": "And, since, because of the similarity of the triangles `ABE`, `FGL`, > as `EB` is to `BA`, so is `LG` to `GF`, and moreover also, because of the similarity of the polygons, > as `AB` is to `BC`, so is `FG` to `GH`, therefore, , as `EB` is to `BC`, so is `LG` to `GH`; [elem.5.22] `EBC`, `LGH` are proportional; therefore the triangle `EBC` is equiangular with the triangle `LGH`, [elem.6.6] > so that the triangle `EBC` is also similar to the triangle `LGH`. [elem.6.4 elem.6.def.1]",
+                "refs": [
+                    "elem.5.22",
+                    "elem.6.6"
+                ],
+                "emphs": [
+                    "ABE",
+                    "FGL",
+                    "EB",
+                    "BC",
+                    "LG",
+                    "GH",
+                    "EBC",
+                    "LGH",
+                    "EBC",
+                    "LGH"
+                ]
+            },
+            {
+                "text": "For the same reason the triangle `ECD` is also similar to the triangle `LHK`.",
+                "refs": [],
+                "emphs": [
+                    "ECD",
+                    "LHK"
+                ]
+            },
+            {
+                "text": "Therefore the similar polygons `ABCDE`, `FGHKL` have been divided into similar triangles, and into triangles equal in",
+                "refs": [],
+                "emphs": [
+                    "ABCDE",
+                    "FGHKL"
+                ]
+            },
+            {
+                "text": "I say that they are also in the same ratio as the wholes, that is, in such manner that the triangles are proportional, and `ABE`, `EBC`, `ECD` are antecedents, while `FGL`, `LGH`, `LHK` are their consequents, and that the polygon `ABCDE`\n       `FGHKL` a ratio duplicate of that which the corresponding side has to the corresponding side, that is `AB` to `FG`.",
+                "refs": [],
+                "emphs": [
+                    "ABE",
+                    "EBC",
+                    "ECD",
+                    "FGL",
+                    "LGH",
+                    "LHK",
+                    "ABCDE",
+                    "FGHKL",
+                    "AB",
+                    "FG"
+                ]
+            },
+            {
+                "text": "For let `AC`, `FH` be joined.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "FH"
+                ]
+            },
+            {
+                "text": "Then since, because of the similarity of the polygons, `ABC` is equal to the angle `FGH`, and, as `AB` is to `BC`, so is `FG` to `GH`, > the triangle `ABC` is equiangular with the triangle `FGH`; [elem.6.6] therefore the angle `BAC` is equal to the angle `GFH`, and the angle `BCA` to the angle `GHF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "FGH",
+                    "AB",
+                    "BC",
+                    "FG",
+                    "GH"
+                ]
+            },
+            {
+                "text": "And, since the angle `BAM` is equal to the angle `GFN`, and the angle `ABM` is also equal to the angle `FGN`, `AMB` is also equal to the remaining angle `FNG`; [elem.1.32] therefore the triangle `ABM` is equiangular with the triangle `FGN`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BAM",
+                    "GFN",
+                    "ABM",
+                    "FGN",
+                    "AMB",
+                    "FNG",
+                    "ABM",
+                    "FGN"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that the triangle `BMC` is also equiangular with the triangle `GNH`.",
+                "refs": [],
+                "emphs": [
+                    "BMC",
+                    "GNH"
+                ]
+            },
+            {
+                "text": "Therefore, proportionally, as `AM` is to `MB`, so is `FN` to `NG`, `BM` is to `MC`, so is `GN` to `NH`; so that, in addition, , > as `AM` is to `MC`, so is `FN` to `NH`.",
+                "refs": [],
+                "emphs": [
+                    "AM",
+                    "MB",
+                    "FN",
+                    "NG",
+                    "BM",
+                    "MC",
+                    "GN",
+                    "NH"
+                ]
+            },
+            {
+                "text": "But, as `AM` is to `MC`, so is the triangle `ABM` to `MBC`, and `AME` to `EMC`; for they are to one another as their elem.6.1]",
+                "refs": [
+                    "elem.6.1"
+                ],
+                "emphs": [
+                    "AM",
+                    "MC",
+                    "ABM",
+                    "MBC",
+                    "AME",
+                    "EMC"
+                ]
+            },
+            {
+                "text": "Therefore also, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [elem.5.12] therefore, as the triangle `AMB` is to `BMC`, so is `ABE` to `CBE`.",
+                "refs": [
+                    "elem.5.12"
+                ],
+                "emphs": [
+                    "AMB",
+                    "BMC",
+                    "ABE",
+                    "CBE"
+                ]
+            },
+            {
+                "text": "But, as `AMB` is to `BMC`, so is `AM` to `MC`; therefore also, as `AM` is to `MC`, so is the triangle `ABE` to the triangle `EBC`.",
+                "refs": [],
+                "emphs": [
+                    "AMB",
+                    "BMC",
+                    "AM",
+                    "MC",
+                    "AM",
+                    "MC",
+                    "ABE",
+                    "EBC"
+                ]
+            },
+            {
+                "text": "For the same reason also, as `FN` is to `NH`, so is the triangle `FGL` to the triangle `GLH`.",
+                "refs": [],
+                "emphs": [
+                    "FN",
+                    "NH",
+                    "FGL",
+                    "GLH"
+                ]
+            },
+            {
+                "text": "And, as `AM` is to `MC`, so is `FN` to `NH`; therefore also, as the triangle `ABE` is to the triangle `BEC`, so is the triangle `FGL` to the triangle `GLH`; and, alternately, as the triangle `ABE` is to the triangle `FGL`, `BEC` to the triangle `GLH`.",
+                "refs": [],
+                "emphs": [
+                    "AM",
+                    "MC",
+                    "FN",
+                    "NH",
+                    "ABE",
+                    "BEC",
+                    "FGL",
+                    "GLH",
+                    "ABE",
+                    "FGL",
+                    "BEC",
+                    "GLH"
+                ]
+            },
+            {
+                "text": "Similarly we can prove, if `BD`, `GK` be joined, that, as the triangle `BEC` is to the triangle `LGH`, so also is the triangle `ECD` to the triangle `LHK`.",
+                "refs": [],
+                "emphs": [
+                    "BD",
+                    "GK",
+                    "BEC",
+                    "LGH",
+                    "ECD",
+                    "LHK"
+                ]
+            },
+            {
+                "text": "And since, as the triangle `ABE` is to the triangle `FGL`, `EBC` to `LGH`, and further `ECD` to `LHK`, therefore also, as one of the antecedents is to one of the consequents so are all the antecedents to all the consequents; [elem.5.12 therefore, as the triangle `ABE` is to the triangle `FGL`, so is the polygon `ABCDE` to the polygon `FGHKL`.",
+                "refs": [
+                    "elem.5.12"
+                ],
+                "emphs": [
+                    "ABE",
+                    "FGL",
+                    "EBC",
+                    "LGH",
+                    "ECD",
+                    "LHK",
+                    "ABE",
+                    "FGL",
+                    "ABCDE",
+                    "FGHKL"
+                ]
+            },
+            {
+                "text": "But the triangle `ABE` has to the triangle `FGL` a ratio duplicate of that which the corresponding side `AB` has to the corresponding side `FG`; for similar triangles are in the duplicate ratio of the corresponding sides. [elem.6.19]",
+                "refs": [
+                    "elem.6.19"
+                ],
+                "emphs": [
+                    "ABE",
+                    "FGL",
+                    "AB",
+                    "FG"
+                ]
+            },
+            {
+                "text": "Therefore the polygon `ABCDE` also has to the polygon `FGHKL` a ratio duplicate of that which the corresponding side `AB` has to the corresponding side `FG`.",
+                "refs": [],
+                "emphs": [
+                    "ABCDE",
+                    "FGHKL",
+                    "AB",
+                    "FG"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.21": {
+        "id": "elem.6.21",
+        "n": 21,
+        "type": "proposition",
+        "enunciation": "`Figures which are similar to the same rectilineal figure are also similar to one another`.",
+        "proof": [
+            {
+                "text": "For let each of the rectilineal figures `A`, `B` be similar to `C`; I say that `A` is also similar to `B`.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B",
+                    "C",
+                    "A",
+                    "B"
+                ]
+            },
+            {
+                "text": "For, since `A` is similar to `C`, it is equiangular with it and has the sides about the equal angles proportional. [elem.6.def.1]",
+                "refs": [
+                    "elem.6.def.1"
+                ],
+                "emphs": [
+                    "A",
+                    "C"
+                ]
+            },
+            {
+                "text": "Again, since `B` is similar to `C`, it is equiangular with it and has the sides about the equal angles proportional.",
+                "refs": [],
+                "emphs": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore each of the figures `A`, `B` is equiangular with `C` and with `C` has the sides about the equal angles proportional; > therefore `A` is similar to `B`. Q. E. D.",
+                "refs": [],
+                "emphs": [
+                    "A",
+                    "B",
+                    "C",
+                    "C"
+                ]
+            }
+        ]
+    },
+    "elem.6.22": {
+        "id": "elem.6.22",
+        "n": 22,
+        "type": "proposition",
+        "enunciation": "`If four straight lines be proportional`, `the rectilineal figures similar and similarly described upon them will also be proportional`; `and`, `if the rectilineal figures similar and similarly described upon them be proportional`, `the straight lines will themselves also be proportional`.",
+        "proof": [
+            {
+                "text": "Let the four straight lines `AB`, `CD`, `EF`, `GH` be proportional, so that, as `AB` is to `CD`, so is `EF` to `GH`, and let there be described on `AB`, `CD` the similar and similarly situated rectilineal figures `KAB`, `LCD`, and on `EF`, `GH` the similar and similarly situated rectilineal figures `MF`, `NH`; I say that, as `KAB` is to `LCD`, so is `MF` to `NH`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "EF",
+                    "GH",
+                    "AB",
+                    "CD",
+                    "EF",
+                    "GH",
+                    "AB",
+                    "CD",
+                    "KAB",
+                    "LCD",
+                    "EF",
+                    "GH",
+                    "MF",
+                    "NH",
+                    "KAB",
+                    "LCD",
+                    "MF",
+                    "NH"
+                ]
+            },
+            {
+                "text": "For let there be taken a third proportional `O` to `AB`, `CD`, and a third proportional `P` to `EF`, `GH`. [elem.6.11]",
+                "refs": [
+                    "elem.6.11"
+                ],
+                "emphs": [
+                    "O",
+                    "AB",
+                    "CD",
+                    "P",
+                    "EF",
+                    "GH"
+                ]
+            },
+            {
+                "text": "Then since, as `AB` is to `CD`, so is `EF` to `GH`, > and, as `CD` is to `O`, so is `GH` to `P`, therefore, `ex aequali`, as `AB` is to `O`, so is `EF` to `P`. [elem.5.22]",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "EF",
+                    "GH",
+                    "ex aequali",
+                    "AB",
+                    "O",
+                    "EF",
+                    "P"
+                ]
+            },
+            {
+                "text": "But, as `AB` is to `O`, so is `KAB` to `LCD`, [elem.6.19.p.1] > and, as `EF` is to `P`, so is `MF` to `NH`; therefore also, as `KAB` is to `LCD`, so is `MF` to `NH`. [elem.5.11]",
+                "refs": [
+                    "elem.6.19.p.1",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "AB",
+                    "O",
+                    "KAB",
+                    "LCD",
+                    "KAB",
+                    "LCD",
+                    "MF",
+                    "NH"
+                ]
+            },
+            {
+                "text": "Next, let `MF` be to `NH` as `KAB` is to `LCD`; I say also that, as `AB` is to `CD`, so is `EF` to `GH`.",
+                "refs": [],
+                "emphs": [
+                    "MF",
+                    "NH",
+                    "KAB",
+                    "LCD",
+                    "AB",
+                    "CD",
+                    "EF",
+                    "GH"
+                ]
+            },
+            {
+                "text": "For, if `EF` is not to `GH` as `AB` to `CD`, > let `EF` be to `QR` as `AB` to `CD`, [elem.6.12] and on `QR` let the rectilineal figure `SR` be described similar and similarly situated to either of the two `MF`, `NH`. [elem.6.18]",
+                "refs": [
+                    "elem.6.18"
+                ],
+                "emphs": [
+                    "EF",
+                    "GH",
+                    "AB",
+                    "CD",
+                    "QR",
+                    "SR",
+                    "MF",
+                    "NH"
+                ]
+            },
+            {
+                "text": "Since then, as `AB` is to `CD`, so is `EF` to `QR`, and there have been described on `AB`, `CD` the similar and similarly situated figures `KAB`, `LCD`, and on `EF`, `QR` the similar and similarly situated figures `MF`, `SR`, therefore, as `KAB` is to `LCD`, so is `MF` to `SR`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "EF",
+                    "QR",
+                    "AB",
+                    "CD",
+                    "KAB",
+                    "LCD",
+                    "EF",
+                    "QR",
+                    "MF",
+                    "SR",
+                    "KAB",
+                    "LCD",
+                    "MF",
+                    "SR"
+                ]
+            },
+            {
+                "text": "But also, by hypothesis, > as `KAB` is to `LCD`, so is `MF` to `NH`; therefore also, as `MF` is to `SR`, so is `MF` to `NH`. [elem.5.11]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore `MF` has the same ratio to each of the figures `NH`, `SR`; > therefore `NH` is equal to `SR`. [elem.5.9]",
+                "refs": [],
+                "emphs": [
+                    "MF",
+                    "NH",
+                    "SR"
+                ]
+            },
+            {
+                "text": "But it is also similar and similarly situated to it; > therefore `GH` is equal to `QR`.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since, as `AB` is to `CD`, so is `EF` to `QR`, while `QR` is equal to `GH`, therefore, as `AB` is to `CD`, so is `EF` to `GH`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "EF",
+                    "QR",
+                    "QR",
+                    "GH",
+                    "AB",
+                    "CD",
+                    "EF",
+                    "GH"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.23": {
+        "id": "elem.6.23",
+        "n": 23,
+        "type": "proposition",
+        "enunciation": "`Equiangular parallelograms have to one another the ratio compounded of the ratios of their sides`.",
+        "proof": [
+            {
+                "text": "Let `AC`, `CF` be equiangular parallelograms having the angle `BCD` equal to the angle `ECG`; `AC` has to the parallelogram `CF` the ratio compounded of the ratios of the sides.",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "CF",
+                    "BCD",
+                    "ECG",
+                    "AC",
+                    "CF"
+                ]
+            },
+            {
+                "text": "For let them be placed so that `BC` is in a straight line with `CG`; > therefore `DC` is also in a straight line with `CE`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "CG"
+                ]
+            },
+            {
+                "text": "Let the parallelogram `DG` be completed; let a straight line `K` be set out, and let it be contrived that, > as `BC` is to `CG`, so is `K` to `L`, and, as `DC` is to `CE`, so is `L` to `M`. [elem.6.12]",
+                "refs": [
+                    "elem.6.12"
+                ],
+                "emphs": [
+                    "DG",
+                    "K",
+                    "DC",
+                    "CE",
+                    "L",
+                    "M"
+                ]
+            },
+            {
+                "text": "Then the ratios of `K` to `L` and of `L` to `M` are the same `BC` to `CG` and of `DC` to `CE`.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "L",
+                    "L",
+                    "M",
+                    "BC",
+                    "CG",
+                    "DC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "But the ratio of `K` to `M` is compounded of the ratio of `K` to `L` and of that of `L` to `M`; so that `K` has also to `M` the ratio compounded of the ratios",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "M",
+                    "K",
+                    "L",
+                    "L",
+                    "M",
+                    "K",
+                    "M"
+                ]
+            },
+            {
+                "text": "Now since, as `BC` is to `CG`, so is the parallelogram `AC` to the parallelogram `CH`, [elem.6.1] while, as `BC` is to `CG`, so is `K` to `L`, therefore also, as `K` is to `L`, so is `AC` to `CH`. [elem.5.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "BC",
+                    "CG",
+                    "AC",
+                    "CH",
+                    "BC",
+                    "CG",
+                    "K",
+                    "L",
+                    "K",
+                    "L",
+                    "AC",
+                    "CH"
+                ]
+            },
+            {
+                "text": "Again, since, as `DC` is to `CE`, so is the parallelogram `CH` to `CF`, [elem.6.1] while, as `DC` is to `CE`, so is `L` to `M`, therefore also, as `L` is to `M`, so is the parallelogram `CH` to the parallelogram `CF`. [elem.5.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "DC",
+                    "CE",
+                    "CH",
+                    "CF",
+                    "DC",
+                    "CE",
+                    "L",
+                    "M",
+                    "L",
+                    "M",
+                    "CH",
+                    "CF"
+                ]
+            },
+            {
+                "text": "Since then it was proved that, as `K` is to `L`, so is the parallelogram `AC` to the parallelogram `CH`, and, as `L` is to `M`, so is the parallelogram `CH` to the parallelogram `CF`, therefore, , as `K` is to `M`, so is `AC` to the parallelogram`CF`.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "L",
+                    "AC",
+                    "CH",
+                    "L",
+                    "M",
+                    "CH",
+                    "CF",
+                    "K",
+                    "M",
+                    "AC",
+                    "CF"
+                ]
+            },
+            {
+                "text": "But `K` has to `M` the ratio compounded of the ratios of the sides; > therefore `AC` also has to `CF` the ratio compounded of the ratios of the sides.",
+                "refs": [],
+                "emphs": [
+                    "K",
+                    "M"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.24": {
+        "id": "elem.6.24",
+        "n": 24,
+        "type": "proposition",
+        "enunciation": "`In any parallelogram the parallelograms about the diameter are similar both to the whole and to one another`.",
+        "proof": [
+            {
+                "text": "Let `ABCD` be a parallelogram, and `AC` its diameter, and let `EG`, `HK` be parallelograms about `AC`; I say that each of the parallelograms `EG`, `HK` is similar both to the whole `ABCD` and to the other.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AC",
+                    "EG",
+                    "HK",
+                    "AC",
+                    "EG",
+                    "HK",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "For, since `EF` has been drawn parallel to `BC`, one of the sides of the triangle `ABC`, > proportionally, as `BE` is to `EA`, so is `CF` to `FA`. [elem.6.2]",
+                "refs": [],
+                "emphs": [
+                    "EF",
+                    "BC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Again, since `FG` has been drawn parallel to `CD`, one of the sides of the triangle `ACD`, > proportionally, as `CF` is to `FA`, so is `DG` to `GA`. [elem.6.2]",
+                "refs": [],
+                "emphs": [
+                    "FG",
+                    "CD",
+                    "ACD"
+                ]
+            },
+            {
+                "text": "But it was proved that, > as `CF` is to `FA`, so also is `BE` to `EA`; therefore also, as `BE` is to `EA`, so is `DG` to `GA`, and therefore, `componendo`, > as `BA` is to `AE`, so is `DA` to `AG`, [elem.5.18] and, alternately, > as `BA` is to `AD`, so is `EA` to `AG`. [elem.5.16]",
+                "refs": [],
+                "emphs": [
+                    "componendo"
+                ]
+            },
+            {
+                "text": "Therefore in the parallelograms `ABCD`, `EG`, the sides about the common angle `BAD` are proportional.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "EG",
+                    "BAD"
+                ]
+            },
+            {
+                "text": "And, since `GF` is parallel to `DC`, > the angle `AFG` is equal to the angle `DCA`; and the angle `DAC` is common to the two triangles `ADC`, `AGF`; > therefore the triangle `ADC` is equiangular with the triangle `AGF`.",
+                "refs": [],
+                "emphs": [
+                    "GF",
+                    "DC",
+                    "DAC",
+                    "ADC",
+                    "AGF"
+                ]
+            },
+            {
+                "text": "For the same reason > the triangle `ACB` is also equiangular with the triangle `AFE`, and the whole parallelogram `ABCD` is equiangular with the parallelogram `EG`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "EG"
+                ]
+            },
+            {
+                "text": "Therefore, proportionally, > as `AD` is to `DC`, so is `AG` to `GF`, as `DC` is to `CA`, so is `GF` to `FA`, as `AC` is to `CB`, so is `AF` to `FE`, and further, as `CB` is to `BA`, so is `FE` to `EA`.",
+                "refs": [],
+                "emphs": [
+                    "CB",
+                    "BA",
+                    "FE",
+                    "EA"
+                ]
+            },
+            {
+                "text": "And, since it was proved that, > as `DC` is to `CA`, so is `GF` to `FA`, and, as `AC` is to `CB`, so is `AF` to `FE`, therefore, , as `DC` is to `CB`, so is `GF` to `FE`. [elem.5.22]",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": [
+                    "AC",
+                    "CB",
+                    "AF",
+                    "FE",
+                    "DC",
+                    "CB",
+                    "GF",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Therefore in the parallelograms `ABCD`, `EG` the sides about the equal angles are proportional; therefore the parallelogram `ABCD` is similar to the parallelogram `EG`. [elem.6.def.1]",
+                "refs": [
+                    "elem.6.def.1"
+                ],
+                "emphs": [
+                    "ABCD",
+                    "EG",
+                    "ABCD",
+                    "EG"
+                ]
+            },
+            {
+                "text": "For the same reason the parallelogram `ABCD` is also similar to the parallelogram `KH`; therefore each of the parallelograms `EG`, `HK` is similar to `ABCD`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "KH",
+                    "EG",
+                    "HK",
+                    "ABCD"
+                ]
+            },
+            {
+                "text": "But figures similar to the same rectilineal figure are also similar to one another; [elem.6.21] therefore the parallelogram `EG` is also similar to the parallelogram `HK`.",
+                "refs": [
+                    "elem.6.21"
+                ],
+                "emphs": [
+                    "EG",
+                    "HK"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.25": {
+        "id": "elem.6.25",
+        "n": 25,
+        "type": "proposition",
+        "enunciation": "`To construct one and the same figure similar to a given rectilineal figure and equal to another given rectilineal figure`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be the given rectilineal figure to which the figure to be constructed must be similar, and `D` that to which it must be equal; thus it is required to construct one and the same figure similar to `ABC` and equal to `D`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "D",
+                    "ABC",
+                    "D"
+                ]
+            },
+            {
+                "text": "Let there be applied to `BC` the parallelogram `BE` equal to the triangle `ABC` [elem.1.44], and to `CE` the parallelogram `CM` equal to `D` in the angle `FCE` which is equal to the angle `CBL`. [elem.1.45]",
+                "refs": [
+                    "elem.1.44",
+                    "elem.1.45"
+                ],
+                "emphs": [
+                    "BC",
+                    "BE",
+                    "ABC",
+                    "CE",
+                    "CM",
+                    "D",
+                    "FCE",
+                    "CBL"
+                ]
+            },
+            {
+                "text": "Therefore `BC` is in a straight line with `CF`, and `LE` with `EM`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "CF",
+                    "LE",
+                    "EM"
+                ]
+            },
+            {
+                "text": "Now let `GH` be taken a mean proportional to `BC`, `CF` [elem.6.13], and on `GH` let `KGH` be described similar and similarly situated to `ABC`. [elem.6.18]",
+                "refs": [
+                    "elem.6.13",
+                    "elem.6.18"
+                ],
+                "emphs": [
+                    "GH",
+                    "BC",
+                    "CF",
+                    "GH",
+                    "KGH",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Then, since, as `BC` is to `GH`, so is `GH` to `CF`, and, if three straight lines be proportional, as the first is to the third, so is the figure on the first to the similar and similarly situated figure described on the second, [elem.6.19.p.1] therefore, as `BC` is to `CF`, so is the triangle `ABC` to the triangle `KGH`.",
+                "refs": [
+                    "elem.6.19.p.1"
+                ],
+                "emphs": [
+                    "BC",
+                    "GH",
+                    "GH",
+                    "CF",
+                    "BC",
+                    "CF",
+                    "ABC",
+                    "KGH"
+                ]
+            },
+            {
+                "text": "But, as `BC` is to `CF`, so also is the parallelogram `BE` to the parallelogram `EF`. [elem.6.1]",
+                "refs": [
+                    "elem.6.1"
+                ],
+                "emphs": [
+                    "BC",
+                    "CF",
+                    "BE",
+                    "EF"
+                ]
+            },
+            {
+                "text": "Therefore also, as the triangle `ABC` is to the triangle `KGH`, so is the parallelogram `BE` to the parallelogram `EF`; therefore, alternately, as the triangle `ABC` is to the parallelogram `BE`, so is the triangle `KGH` to the parallelogram `EF`. [elem.5.16]",
+                "refs": [
+                    "elem.5.16"
+                ],
+                "emphs": [
+                    "ABC",
+                    "KGH",
+                    "BE",
+                    "EF",
+                    "ABC",
+                    "BE",
+                    "KGH",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But the triangle `ABC` is equal to the parallelogram `BE`; therefore the triangle `KGH` is also equal to the parallelogram `EF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "BE",
+                    "KGH",
+                    "EF"
+                ]
+            },
+            {
+                "text": "But the parallelogram `EF` is equal to `D`; therefore `KGH` is also equal to `D`.",
+                "refs": [],
+                "emphs": [
+                    "EF",
+                    "D",
+                    "KGH",
+                    "D"
+                ]
+            },
+            {
+                "text": "And `KGH` is also similar to `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "KGH",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "Therefore one and the same figure `KGH` has been constructed similar to the given rectilineal figure `ABC` and equal to the other given figure `D`. Q. E. D.",
+                "refs": [],
+                "emphs": [
+                    "KGH",
+                    "ABC",
+                    "D"
+                ]
+            }
+        ]
+    },
+    "elem.6.26": {
+        "id": "elem.6.26",
+        "n": 26,
+        "type": "proposition",
+        "enunciation": "`If from a parallelogram there be taken away a parallelogram similar and similarly situated to the whole and having a common angle with it`, `it is about the same diameter with the whole`",
+        "proof": [
+            {
+                "text": "For from the parallelogram `ABCD` let there be taken away the parallelogram `AF` similar and similarly situated to `ABCD`, and having the angle `DAB` common with it; `ABCD` is about the same diameter with `AF`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AF",
+                    "ABCD",
+                    "DAB",
+                    "ABCD",
+                    "AF"
+                ]
+            },
+            {
+                "text": "For suppose it is not, but, if possible, let `AHC` be the diameter < of `ABCD` >, let `GF` be produced and carried through to `H`, and let `HK` be drawn through `H` parallel to either of the straight lines `AD`, `BC`. [elem.1.31]",
+                "refs": [
+                    "elem.1.31"
+                ],
+                "emphs": [
+                    "AHC",
+                    "ABCD",
+                    "GF",
+                    "H",
+                    "HK",
+                    "H",
+                    "AD",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Since, then, `ABCD` is about the same diameter with `KG`, therefore, as `DA` is to `AB`, so is `GA` to `AK`. [elem.6.24]",
+                "refs": [
+                    "elem.6.24"
+                ],
+                "emphs": [
+                    "ABCD",
+                    "KG",
+                    "DA",
+                    "AB",
+                    "GA",
+                    "AK"
+                ]
+            },
+            {
+                "text": "But also, because of the similarity of `ABCD`, `EG`, > as `DA` is to `AB`, so is `GA` to `AE`; therefore also, as `GA` is to `AK`, so is `GA` to `AE`. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": [
+                    "ABCD",
+                    "EG",
+                    "GA",
+                    "AK",
+                    "GA",
+                    "AE"
+                ]
+            },
+            {
+                "text": "Therefore `GA` has the same ratio to each of the straight lines `AK`, `AE`.",
+                "refs": [],
+                "emphs": [
+                    "GA",
+                    "AK",
+                    "AE"
+                ]
+            },
+            {
+                "text": "Therefore `AE` is equal to `AK` [elem.5.9], the less to the greater : which is impossible.",
+                "refs": [
+                    "elem.5.9"
+                ],
+                "emphs": [
+                    "AE",
+                    "AK"
+                ]
+            },
+            {
+                "text": "Therefore `ABCD` cannot but be about the same diameter with `AF`; therefore the parallelogram `ABCD` is about the same diameter with the parallelogram `AF`.",
+                "refs": [],
+                "emphs": [
+                    "ABCD",
+                    "AF",
+                    "ABCD",
+                    "AF"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.27": {
+        "id": "elem.6.27",
+        "n": 27,
+        "type": "proposition",
+        "enunciation": "`Of all the parallelograms applied to the same straight line and deficient by parallelogrammic figures similar and similarly situated to that described on the half of the straight line`, `that parallelogram is greatest which is applied to the half of the straight line and is similar to the defect`.",
+        "proof": [
+            {
+                "text": "Let `AB` be a straight line and let it be bisected at `C`; let there be applied to the straight line `AB` the parallelogram `AD` deficient by the parallelogrammic figure `DB` described on the half of `AB`, that is, `CB`; `AB` and deficient by parallelogrammic figures similar and similarly situated to `DB`, `AD` is greatest.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "C",
+                    "AB",
+                    "AD",
+                    "DB",
+                    "AB",
+                    "CB",
+                    "AB",
+                    "DB",
+                    "AD"
+                ]
+            },
+            {
+                "text": "For let there be applied to the straight line `AB` the parallelogram `AF` deficient by the parallelogrammic figure `FB` similar and similarly situated to `DB`; I say that `AD` is greater than `AF`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AF",
+                    "FB",
+                    "DB",
+                    "AD",
+                    "AF"
+                ]
+            },
+            {
+                "text": "For, since the parallelogram `DB` is similar to the parallelogram `FB`, > they are about the same diameter. [elem.6.26]",
+                "refs": [],
+                "emphs": [
+                    "DB",
+                    "FB"
+                ]
+            },
+            {
+                "text": "Let their diameter `DB` be drawn, and let the figure be described.",
+                "refs": [],
+                "emphs": [
+                    "DB"
+                ]
+            },
+            {
+                "text": "Then, since `CF` is equal to `FE`, [elem.1.43] and `FB` is common, therefore the whole `CH` is equal to the whole `KE`.",
+                "refs": [
+                    "elem.1.43"
+                ],
+                "emphs": [
+                    "CF",
+                    "FE",
+                    "FB",
+                    "CH",
+                    "KE"
+                ]
+            },
+            {
+                "text": "But `CH` is equal to `CG`, since `AC` is also equal to `CB`. [elem.1.36]",
+                "refs": [
+                    "elem.1.36"
+                ],
+                "emphs": [
+                    "CH",
+                    "CG",
+                    "AC",
+                    "CB"
+                ]
+            },
+            {
+                "text": "Therefore `GC` is also equal to `EK`.",
+                "refs": [],
+                "emphs": [
+                    "GC",
+                    "EK"
+                ]
+            },
+            {
+                "text": "Let `CF` be added to each; > therefore the whole `AF` is equal to the gnomon `LMN`; so that the parallelogram `DB`, that is, `AD`, is greater than the parallelogram `AF`.",
+                "refs": [],
+                "emphs": [
+                    "CF",
+                    "DB",
+                    "AD",
+                    "AF"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.28": {
+        "id": "elem.6.28",
+        "n": 28,
+        "type": "proposition",
+        "enunciation": "`To a given straight line to apply a parallelogram equal to a given rectilineal figure and deficient by a parallelogrammic figure similar to a given one : thus the given rectilineal figure must not be greater than the parallelogram described on the half of the straight line and similar to the defect`.",
+        "proof": [
+            {
+                "text": "Let `AB` be the given straight line, `C` the given rectilineal figure to which the figure to be applied to `AB` is required to be equal, not being greater than the parallelogram described on the half of `AB` and similar to the defect, and `D` the parallelogram to which the defect is required to be similar; `AB` a parallelogram equal to the given rectilineal figure `C` and deficient by a parallelogrammic figure which is similar to `D`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "C",
+                    "AB",
+                    "AB",
+                    "D",
+                    "AB",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "text": "Let `AB` be bisected at the point `E`, and on `EB` let `EBFG` be described similar and similarly situated to `D`; [elem.6.18] let the parallelogram `AG` be completed.",
+                "refs": [
+                    "elem.6.18"
+                ],
+                "emphs": [
+                    "AB",
+                    "E",
+                    "EB",
+                    "EBFG",
+                    "D",
+                    "AG"
+                ]
+            },
+            {
+                "text": "If then `AG` is equal to `C`, that which was enjoined will have been done; > for there has been applied to the given straight line `AB` the parallelogram `AG` equal to the given rectilineal figure `C` and deficient by a parallelogrammic figure `GB` which is similar to `D`.",
+                "refs": [],
+                "emphs": [
+                    "AG",
+                    "C"
+                ]
+            },
+            {
+                "text": "But, if not, let `HE` be greater than `C`.",
+                "refs": [],
+                "emphs": [
+                    "HE",
+                    "C"
+                ]
+            },
+            {
+                "text": "Now `HE` is equal to `GB`; > therefore `GB` is also greater than `C`.",
+                "refs": [],
+                "emphs": [
+                    "HE",
+                    "GB"
+                ]
+            },
+            {
+                "text": "Let `KLMN` be constructed at once equal to the excess by which `GB` is greater than `C` and similar and similarly situated to `D`. [elem.6.25]",
+                "refs": [
+                    "elem.6.25"
+                ],
+                "emphs": [
+                    "KLMN",
+                    "GB",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "text": "But `D` is similar to `GB`; > therefore `KM` is also similar to `GB`. [elem.6.21]",
+                "refs": [],
+                "emphs": [
+                    "D",
+                    "GB"
+                ]
+            },
+            {
+                "text": "Let, then, `KL` correspond to `GE`, and `LM` to `GF`.",
+                "refs": [],
+                "emphs": [
+                    "KL",
+                    "GE",
+                    "LM",
+                    "GF"
+                ]
+            },
+            {
+                "text": "Now, since `GB` is equal to `C`, `KM`, > therefore `GB` is greater than `KM`; therefore also `GE` is greater than `KL`, and `GF` than `LM`.",
+                "refs": [],
+                "emphs": [
+                    "GB",
+                    "C",
+                    "KM"
+                ]
+            },
+            {
+                "text": "Let `GO` be made equal to `KL`, and `GP` equal to `LM`; and let the parallelogram `OGPQ` be completed; > therefore it is equal and similar to `KM`.",
+                "refs": [],
+                "emphs": [
+                    "GO",
+                    "KL",
+                    "GP",
+                    "LM",
+                    "OGPQ"
+                ]
+            },
+            {
+                "text": "Therefore `GQ` is also similar to `GB`; [elem.6.21] therefore `GQ` is about the same diameter with `GB`. [elem.6.26]",
+                "refs": [
+                    "elem.6.21",
+                    "elem.6.26"
+                ],
+                "emphs": [
+                    "GQ",
+                    "GB",
+                    "GQ",
+                    "GB"
+                ]
+            },
+            {
+                "text": "Let `GQB` be their diameter, and let the figure be described.",
+                "refs": [],
+                "emphs": [
+                    "GQB"
+                ]
+            },
+            {
+                "text": "Then, since `BG` is equal to `C`, `KM`, and in them `GQ` is equal to `KM`, therefore the remainder, the gnomon `UWV`, is equal to the remainder `C`.",
+                "refs": [],
+                "emphs": [
+                    "BG",
+                    "C",
+                    "KM",
+                    "GQ",
+                    "KM",
+                    "UWV",
+                    "C"
+                ]
+            },
+            {
+                "text": "And, since `PR` is equal to `OS`, > let `QB` be added to each; therefore the whole `PB` is equal to the whole `OB`.",
+                "refs": [],
+                "emphs": [
+                    "PR",
+                    "OS",
+                    "PB",
+                    "OB"
+                ]
+            },
+            {
+                "text": "But `OB` is equal to `TE`, since the side `AE` is also equal to the side `EB`; [elem.1.36] > therefore `TE` is also equal to `PB`.",
+                "refs": [
+                    "elem.1.36"
+                ],
+                "emphs": [
+                    "OB",
+                    "TE",
+                    "AE",
+                    "EB"
+                ]
+            },
+            {
+                "text": "Let `OS` be added to each; > therefore the whole `TS` is equal to the whole, the gnomon `VWU`.",
+                "refs": [],
+                "emphs": [
+                    "OS"
+                ]
+            },
+            {
+                "text": "But the gnomon `VWU` was proved equal to `C`; > therefore `TS` is also equal to `C`.",
+                "refs": [],
+                "emphs": [
+                    "VWU",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore to the given straight line `AB` there has been applied the parallelogram `ST` equal to the given rectilineal figure `C` and deficient by a parallelogrammic figure `QB` which is similar to `D`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "ST",
+                    "C",
+                    "QB",
+                    "D"
+                ]
+            }
+        ]
+    },
+    "elem.6.29": {
+        "id": "elem.6.29",
+        "n": 29,
+        "type": "proposition",
+        "enunciation": "`To a given straight line to apply a parallelogram equal to a given rectilineal figure and exceeding by a parallelogrammic figure similar to a given one`.",
+        "proof": [
+            {
+                "text": "Let `AB` be the given straight line, `C` the given rectilineal figure to which the figure to be applied to `AB` is required to be equal, and `D` that to which the excess is required to be similar; thus it is required to apply to the straight line `AB` a parallelogram equal to the rectilineal figure `C` and exceeding by a parallelogrammic figure similar to `D`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "C",
+                    "AB",
+                    "D",
+                    "AB",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "text": "Let `AB` be bisected at `E`; let there be described on `EB` the parallelogram `BF` similar and similarly situated to `D`; and let `GH` be constructed at once equal to the sum of `BF`, `C` and similar and similarly situated to `D`. [elem.6.25]",
+                "refs": [
+                    "elem.6.25"
+                ],
+                "emphs": [
+                    "AB",
+                    "E",
+                    "EB",
+                    "BF",
+                    "D",
+                    "GH",
+                    "BF",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "text": "Let `KH` correspond to `FL` and `KG` to `FE`.",
+                "refs": [],
+                "emphs": [
+                    "KH",
+                    "FL",
+                    "KG",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Now, since `GH` is greater than `FB`, therefore `KH` is also greater than `FL`, and `KG` than `FE`.",
+                "refs": [],
+                "emphs": [
+                    "GH",
+                    "FB",
+                    "KH",
+                    "FL",
+                    "KG",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Let `FL`, `FE` be produced, let `FLM` be equal to `KH`, and `FEN` to `KG`, and let `MN` be completed; > therefore `MN` is both equal and similar to `GH`.",
+                "refs": [],
+                "emphs": [
+                    "FL",
+                    "FE",
+                    "FLM",
+                    "KH",
+                    "FEN",
+                    "KG",
+                    "MN"
+                ]
+            },
+            {
+                "text": "But `GH` is similar to `EL`; > therefore `MN` is also similar to `EL`; [elem.6.21] therefore `EL` is about the same diameter with `MN`. [elem.6.26]",
+                "refs": [
+                    "elem.6.26"
+                ],
+                "emphs": [
+                    "GH",
+                    "EL",
+                    "EL",
+                    "MN"
+                ]
+            },
+            {
+                "text": "Let their diameter `FO` be drawn, and let the figure be described.",
+                "refs": [],
+                "emphs": [
+                    "FO"
+                ]
+            },
+            {
+                "text": "Since `GH` is equal to `EL`, `C`, while `GH` is equal to `MN`, therefore `MN` is also equal to `EL`, `C`.",
+                "refs": [],
+                "emphs": [
+                    "GH",
+                    "EL",
+                    "C",
+                    "GH",
+                    "MN",
+                    "MN",
+                    "EL",
+                    "C"
+                ]
+            },
+            {
+                "text": "Let `EL` be subtracted from each; > therefore the remainder, the gnomon `XWV`, is equal to `C`.",
+                "refs": [],
+                "emphs": [
+                    "EL"
+                ]
+            },
+            {
+                "text": "Now, since `AE` is equal to `EB`, > `AN` is also equal to `NB` [elem.1.36], that is, to `LP` [elem.1.43].",
+                "refs": [],
+                "emphs": [
+                    "AE",
+                    "EB"
+                ]
+            },
+            {
+                "text": "Let `EO` be added to each; > therefore the whole `AO` is equal to the gnomon `VWX`.",
+                "refs": [],
+                "emphs": [
+                    "EO"
+                ]
+            },
+            {
+                "text": "But the gnomon `VWX` is equal to `C`; > therefore `AO` is also equal to `C`.",
+                "refs": [],
+                "emphs": [
+                    "VWX",
+                    "C"
+                ]
+            },
+            {
+                "text": "Therefore to the given straight line `AB` there has been applied the parallelogram `AO` equal to the given rectilineal figure `C` and exceeding by a parallelogrammic figure `QP` which is similar to `D`, since `PQ` is also similar to `EL` [elem.6.24]. Q. E. F.",
+                "refs": [
+                    "elem.6.24"
+                ],
+                "emphs": [
+                    "AB",
+                    "AO",
+                    "C",
+                    "QP",
+                    "D",
+                    "PQ",
+                    "EL"
+                ]
+            }
+        ]
+    },
+    "elem.6.30": {
+        "id": "elem.6.30",
+        "n": 30,
+        "type": "proposition",
+        "enunciation": "`To cut a given finite straight line in extreme and mean ratio`.",
+        "proof": [
+            {
+                "text": "Let `AB` be the given finite straight line; > thus it is required to cut `AB` in extreme and mean ratio.",
+                "refs": [],
+                "emphs": [
+                    "AB"
+                ]
+            },
+            {
+                "text": "On `AB` let the square `BC` be described; and let there be applied to `AC` the parallelogram `CD` equal to `BC` and exceeding by the figure `AD` similar to `BC`. [elem.6.29]",
+                "refs": [
+                    "elem.6.29"
+                ],
+                "emphs": [
+                    "AB",
+                    "BC",
+                    "AC",
+                    "CD",
+                    "BC",
+                    "AD",
+                    "BC"
+                ]
+            },
+            {
+                "text": "Now `BC` is a square; > therefore `AD` is also a square.",
+                "refs": [],
+                "emphs": [
+                    "BC"
+                ]
+            },
+            {
+                "text": "And, since `BC` is equal to `CD`, let `CE` be subtracted from each; > therefore the remainder `BF` is equal to the remainder `AD`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "CD",
+                    "CE"
+                ]
+            },
+            {
+                "text": "But it is also equiangular with it; therefore in `BF`, `AD` the sides about the equal angles are reciprocally proportional; [elem.6.14] > therefore, as `FE` is to `ED`, so is `AE` to `EB`.",
+                "refs": [
+                    "elem.6.14"
+                ],
+                "emphs": [
+                    "BF",
+                    "AD"
+                ]
+            },
+            {
+                "text": "But `FE` is equal to `AB`, and `ED` to `AE`.",
+                "refs": [],
+                "emphs": [
+                    "FE",
+                    "AB",
+                    "ED",
+                    "AE"
+                ]
+            },
+            {
+                "text": "Therefore, as `BA` is to `AE`, so is `AE` to `EB`.",
+                "refs": [],
+                "emphs": [
+                    "BA",
+                    "AE",
+                    "AE",
+                    "EB"
+                ]
+            },
+            {
+                "text": "And `AB` is greater than `AE`; > therefore `AE` is also greater than `EB`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "AE"
+                ]
+            },
+            {
+                "text": "Therefore the straight line `AB` has been cut in extreme and mean ratio at `E`, and the greater segment of it is `AE`. Q. E. F.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "E",
+                    "AE"
+                ]
+            }
+        ]
+    },
+    "elem.6.31": {
+        "id": "elem.6.31",
+        "n": 31,
+        "type": "proposition",
+        "enunciation": "`In right`-`angled triangles the figure on the side subtending the right angle is equal to the similar and similarly described figures on the sides containing the right angle`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a right-angled triangle having the angle `BAC` right; I say that the figure on `BC` is equal to the similar and similarly described figures on `BA`, `AC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "BAC",
+                    "BC",
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Let `AD` be drawn perpendicular.",
+                "refs": [],
+                "emphs": [
+                    "AD"
+                ]
+            },
+            {
+                "text": "Then since, in the right-angled triangle `ABC`, `AD` has `A` perpendicular to the base `BC`, the triangles `ABD`, `ADC` adjoining the perpendicular are similar both to the whole `ABC` and to one another. [elem.6.8]",
+                "refs": [
+                    "elem.6.8"
+                ],
+                "emphs": [
+                    "ABC",
+                    "AD",
+                    "A",
+                    "BC",
+                    "ABD",
+                    "ADC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "And, since `ABC` is similar to `ABD`, therefore, as `CB` is to `BA`, so is `AB` to `BD`. [elem.6.def.1]",
+                "refs": [
+                    "elem.6.def.1"
+                ],
+                "emphs": [
+                    "ABC",
+                    "ABD",
+                    "CB",
+                    "BA",
+                    "AB",
+                    "BD"
+                ]
+            },
+            {
+                "text": "And, since three straight lines are proportional, as the first is to the third, so is the figure on the first to the similar and similarly described figure on the second. [elem.6.19.p.1]",
+                "refs": [
+                    "elem.6.19.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as `CB` is to `BD`, so is the figure on `CB` to the similar and similarly described figure on `BA`.",
+                "refs": [],
+                "emphs": [
+                    "CB",
+                    "BD",
+                    "CB",
+                    "BA"
+                ]
+            },
+            {
+                "text": "For the same reason also, as `BC` is to `CD`, so is the figure on `BC` to that on `CA`; so that, in addition, as `BC` is to `BD`, `DC`, so is the figure on `BC` to the similar and similarly described figures on `BA`, `AC`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "CD",
+                    "BC",
+                    "CA",
+                    "BC",
+                    "BD",
+                    "DC",
+                    "BC",
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "But `BC` is equal to `BD`, `DC`; therefore the figure on `BC` is also equal to the similar and similarly described figures on `BA`, `AC`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "BD",
+                    "DC",
+                    "BC",
+                    "BA",
+                    "AC"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.32": {
+        "id": "elem.6.32",
+        "n": 32,
+        "type": "proposition",
+        "enunciation": "`If two triangles having two sides proportional to two sides be placed together at one angle so that their corresponding sides are also parallel, the remaining sides of the triangles will be in a straight line`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DCE` be two triangles having the two sides `BA`, `AC` proportional to the two sides `DC`, `DE`, so that, as `AB` is to `AC`, so is `DC` to `DE`, and `AB` parallel to `DC`, and `AC` to `DE`; I say that `BC` is in a straight line with `CE`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DCE",
+                    "BA",
+                    "AC",
+                    "DC",
+                    "DE",
+                    "AB",
+                    "AC",
+                    "DC",
+                    "DE",
+                    "AB",
+                    "DC",
+                    "AC",
+                    "DE",
+                    "BC",
+                    "CE"
+                ]
+            },
+            {
+                "text": "For, since `AB` is parallel to `DC`, and the straight line `AC` has fallen upon them, the alternate angles `BAC`, `ACD` are equal to one another. [elem.1.29]",
+                "refs": [
+                    "elem.1.29"
+                ],
+                "emphs": [
+                    "AB",
+                    "DC",
+                    "AC",
+                    "BAC",
+                    "ACD"
+                ]
+            },
+            {
+                "text": "For the same reason > the angle `CDE` is also equal to the angle `ACD`; so that the angle `BAC` is equal to the angle `CDE`.",
+                "refs": [],
+                "emphs": [
+                    "BAC",
+                    "CDE"
+                ]
+            },
+            {
+                "text": "And, since `ABC`, `DCE` are two triangles having one angle, the angle at `A`, equal to one angle, the angle at `D`, > and the sides about the equal angles proportional, so that, as `BA` is to `AC`, so is `CD` to `DE`, > therefore the triangle `ABC` is equiangular with the triangle `DCE`; [elem.6.6] therefore the angle `ABC` is equal to the angle `DCE`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DCE",
+                    "A",
+                    "D",
+                    "BA",
+                    "AC",
+                    "CD",
+                    "DE"
+                ]
+            },
+            {
+                "text": "But the angle `ACD` was also proved equal to the angle `BAC`; > therefore the whole angle `ACE` is equal to the two angles `ABC`, `BAC`.",
+                "refs": [],
+                "emphs": [
+                    "ACD",
+                    "BAC"
+                ]
+            },
+            {
+                "text": "Let the angle `ACB` be added to each; therefore the angles `ACE`, `ACB` are equal to the angles `BAC`, `ACB`, `CBA`.",
+                "refs": [],
+                "emphs": [
+                    "ACB",
+                    "ACE",
+                    "ACB",
+                    "BAC",
+                    "ACB",
+                    "CBA"
+                ]
+            },
+            {
+                "text": "But the angles `BAC`, `ABC`, `ACB` are equal to two right angles; [elem.1.32] > therefore the angles `ACE`, `ACB` are also equal to two right angles.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BAC",
+                    "ABC",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "Therefore with a straight line `AC`, and at the point `C` on it, the two straight lines `BC`, `CE` not lying on the same side make the adjacent angles `ACE`, `ACB` equal to two right angles; > therefore `BC` is in a straight line with `CE`. [elem.1.14]",
+                "refs": [],
+                "emphs": [
+                    "AC",
+                    "C",
+                    "BC",
+                    "CE",
+                    "ACE",
+                    "ACB"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.6.33": {
+        "id": "elem.6.33",
+        "n": 33,
+        "type": "proposition",
+        "enunciation": "`In equal circles angles have the same ratio as the circumferences on which they stand`, `whether they stand at the centres or at the circumferences`.",
+        "proof": [
+            {
+                "text": "Let `ABC`, `DEF` be equal circles, and let the angles `BGC`, `EHF` be angles at their centres `G`, `H`, and the angles `BAC`, `EDF` angles at the circumferences; I say that, as the circumference `BC` is to the circumference `EF`, so is the angle `BGC` to the angle `EHF`, and the angle `BAC` to the angle `EDF`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "DEF",
+                    "BGC",
+                    "EHF",
+                    "G",
+                    "H",
+                    "BAC",
+                    "EDF",
+                    "BC",
+                    "EF",
+                    "BGC",
+                    "EHF",
+                    "BAC",
+                    "EDF"
+                ]
+            },
+            {
+                "text": "For let any number of consecutive circumferences `CK`, `KL` be made equal to the circumference `BC`, and any number of consecutive circumferences `FM`, `MN` equal to the circumference `EF`; and let `GK`, `GL`, `HM`, `HN` be joined.",
+                "refs": [],
+                "emphs": [
+                    "CK",
+                    "KL",
+                    "BC",
+                    "FM",
+                    "MN",
+                    "EF",
+                    "GK",
+                    "GL",
+                    "HM",
+                    "HN"
+                ]
+            },
+            {
+                "text": "Then, since the circumferences `BC`, `CK`, `KL` are equal to one another, the angles `BGC`, `CGK`, `KGL` are also equal to one another; [elem.3.27] `BL` is of `BC`, that multiple also is the angle `BGL` of the angle `BGC`.",
+                "refs": [
+                    "elem.3.27"
+                ],
+                "emphs": [
+                    "BC",
+                    "CK",
+                    "KL",
+                    "BGC",
+                    "CGK",
+                    "KGL",
+                    "BL",
+                    "BC",
+                    "BGL",
+                    "BGC"
+                ]
+            },
+            {
+                "text": "For the same reason also, whatever multiple the circumference `NE` is of `EF`, that multiple also is the angle `NHE` of the angle `EHF`.",
+                "refs": [],
+                "emphs": [
+                    "NE",
+                    "EF",
+                    "NHE",
+                    "EHF"
+                ]
+            },
+            {
+                "text": "If then the circumference `BL` is equal to the circumference `EN`, the angle `BGL` is also equal to the angle `EHN`; [elem.3.27] if the circumference `BL` is greater than the circumference `EN`, the angle `BGL` is also greater than the angle `EHN`; and, if less, less.",
+                "refs": [
+                    "elem.3.27"
+                ],
+                "emphs": [
+                    "BL",
+                    "EN",
+                    "BGL",
+                    "EHN",
+                    "BL",
+                    "EN",
+                    "BGL",
+                    "EHN"
+                ]
+            },
+            {
+                "text": "There being then four magnitudes, two circumferences `BC`, `EF`, and two angles `BGC`, `EHF`, there have been taken, of the circumference `BC` and the angle `BGC` equimultiples, namely the circumference `BL` and the angle `BGL`, and of the circumference `EF` and the angle `EHF` equimultiples, namely the circumference `EN` and the angle `EHN`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "EF",
+                    "BGC",
+                    "EHF",
+                    "BC",
+                    "BGC",
+                    "BL",
+                    "BGL",
+                    "EF",
+                    "EHF",
+                    "EN",
+                    "EHN"
+                ]
+            },
+            {
+                "text": "And it has been proved that, if the circumference `BL` is in excess of the circumference `EN`, the angle `BGL` is also in excess of the angle `EHN`; if equal, equal; and if less, less.",
+                "refs": [],
+                "emphs": [
+                    "BL",
+                    "EN",
+                    "BGL",
+                    "EHN"
+                ]
+            },
+            {
+                "text": "Therefore, as the circumference `BC` is to `EF`, so is the angle `BGC` to the angle `EHF`. [elem.5.def.5]",
+                "refs": [
+                    "elem.5.def.5"
+                ],
+                "emphs": [
+                    "BC",
+                    "EF",
+                    "BGC",
+                    "EHF"
+                ]
+            },
+            {
+                "text": "But, as the angle `BGC` is to the angle `EHF`, so is the angle `BAC` to the angle `EDF`; for they are doubles respectively.",
+                "refs": [],
+                "emphs": [
+                    "BGC",
+                    "EHF",
+                    "BAC",
+                    "EDF"
+                ]
+            },
+            {
+                "text": "Therefore also, as the circumference `BC` is to the circumference `EF`, so is the angle `BGC` to the angle `EHF`, and the angle `BAC` to the angle `EDF`.",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "EF",
+                    "BGC",
+                    "EHF",
+                    "BAC",
+                    "EDF"
+                ]
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "elem.1.33": {
+        "id": "elem.1.33",
+        "n": 33,
+        "type": "proposition",
+        "enunciation": "The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are themselves also equal and parallel.",
+        "proof": [
+            {
+                "text": "Let `AB`, `CD` be equal and parallel, and let the straight  lines `AC`, `BD` join them (at the extremities which are) in the same directions (respectively); I say that `AC`, `BD` are also equal and parallel.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "AC",
+                    "BD",
+                    "AC",
+                    "BD"
+                ]
+            },
+            {
+                "text": "Let `BC` be joined.",
+                "refs": [],
+                "emphs": [
+                    "BC"
+                ]
+            },
+            {
+                "text": "Then, since `AB` is parallel to `CD`,  and `BC` has fallen upon them, > the alternate angles `ABC`, `BCD` are equal to one another. [elem.1.29]",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD",
+                    "BC"
+                ]
+            },
+            {
+                "text": "And, since `AB` is equal to `CD`, > and `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB`; and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is equal to the base `BD`, and the griangle `ABC` is equal to the triangle `DCB`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend; [elem.1.4] therefore the angle `ACB` is equal to the angle `CBD`.",
+                "refs": [],
+                "emphs": [
+                    "AB",
+                    "CD"
+                ]
+            },
+            {
+                "text": "And, since the straight line `BC` falling on the two straight lines `AC`, `BD` has made the alternate angles equal to one another, > `AC` is parallel to `BD`. [elem.1.27]",
+                "refs": [],
+                "emphs": [
+                    "BC",
+                    "AC",
+                    "BD"
+                ]
+            },
+            {
+                "text": "And it was also proved equal to it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

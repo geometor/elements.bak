@@ -1,0 +1,141 @@
+{
+    "elem.9.19": {
+        "id": "elem.9.19",
+        "n": 19,
+        "type": "proposition",
+        "enunciation": "> Given three numbers, to investigate when it is possible to find a fourth proportional to them.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be the given three numbers, and let it be required to investigate when it is possible to find a fourth proportional to them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now either they are not in continued proportion, and the extremes of them are prime to one another; or they are in continued proportion, and the extremes of them are not prime to one another; or they are not in continued proportion, nor are the extremes of them prime to one another; or they are in continued proportion, and the extremes of them are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "If then > A, > B, > C are in continued proportion, and the extremes of them > A, > C are prime to one another, it has been proved that it is impossible to find a fourth proportional number to them. [elem.9.17]",
+                "refs": [
+                    "elem.9.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "<*>Next, let > A, > B, > C not be in continued proportion, the extremes being again prime to one another; I say that in this case also it is impossible to find a fourth proportional to them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let > D have been found, so that, > as > A is to > B, so is > C to > D, and let it be contrived that, as > B is to > C, so is > D to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since, as > A is to > B, so is > C to > D, and, as > B is to > C, so is > D to > E, therefore, , as > A is to > C, so is > C to > E. [elem.7.14]",
+                "refs": [
+                    "elem.7.14"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > C are prime, primes are also least, [elem.7.21] and the least numbers measure those which have the same ratio, the antecedent the antecedent and the consequent the consequent. [elem.7.20]",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A measures > C as antecedent antecedent.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures itself; therefore > A measures > A, > C which are prime to one another: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore it is not possible to find a fourth proportional to > A, > B, > C.<*>",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A, > B, > C be again in continued proportion, but let > A, > C not be prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that it is possible to find a fourth proportional to them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > B by multiplying > C make > D; therefore > A either measures > D or does not measure it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let it measure it according to > E; therefore > A by multiplying > E has made > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > B has also by multiplying > C made > D; therefore the product of > A, > E is equal to the product of > B, > C; therefore, proportionally, as > A is to > B, so is > C to > E; [elem.7.19] therefore > E has been found a fourth proportional to > A, > B, > C.",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A not measure > D; I say that it is impossible to find a fourth proportional number to > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let > E have been found; therefore the product of > A, > E is equal to the product of > B, > C. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the product of > B, > C is > D; therefore the product of > A, > E is also equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A by multiplying > E has made > D; therefore > A measures > D according to > E, so that > A measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also does not measure it: which is absurd.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore it is not possible to find a fourth proportional number to > A, > B, > C when > A does not measure > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A, > B, > C not be in continued proportion, nor the extremes prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And let > B by multiplying > C make > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Similarly then it can be proved that, if > A measures > D, it is possible to find a fourth proportional to them, but, if it does not measure it, impossible. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

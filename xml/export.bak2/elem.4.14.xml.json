@@ -1,0 +1,101 @@
+{
+    "elem.4.14": {
+        "id": "elem.4.14",
+        "n": 14,
+        "type": "proposition",
+        "enunciation": "`About a given pentagon`, `which is equilateral and equiangular`, `to circumscribe a circle`.",
+        "proof": [
+            {
+                "text": "Let `ABCDE` be the given pentagon, which is equilateral and equiangular; thus it is required to circumscribe a circle about the pentagon `ABCDE`.",
+                "refs": [],
+                "emphs": [
+                    "ABCDE",
+                    "ABCDE"
+                ]
+            },
+            {
+                "text": "Let the angles `BCD`, `CDE` be bisected by the straight lines `CF`, `DF` respectively, and from the point `F`, at which the straight lines meet, let the straight lines `FB`, `FA`, `FE` be joined to the points `B`, `A`, `E`.",
+                "refs": [],
+                "emphs": [
+                    "BCD",
+                    "CDE",
+                    "CF",
+                    "DF",
+                    "F",
+                    "FB",
+                    "FA",
+                    "FE",
+                    "B",
+                    "A",
+                    "E"
+                ]
+            },
+            {
+                "text": "Then in manner similar to the preceding it can be proved that the angles `CBA`, `BAE`, `AED` have also been bisected by the straight lines `FB`, `FA`, `FE` respectively.",
+                "refs": [],
+                "emphs": [
+                    "CBA",
+                    "BAE",
+                    "AED",
+                    "FB",
+                    "FA",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Now, since the angle `BCD` is equal to the angle `CDE`, and the angle `FCD` is half of the angle `BCD`, and the angle `CDF` half of the angle `CDE`, therefore the angle `FCD` is also equal to the angle `CDF`, > so that the side `FC` is also equal to the side `FD`. [elem.1.6]",
+                "refs": [],
+                "emphs": [
+                    "BCD",
+                    "CDE",
+                    "FCD",
+                    "BCD",
+                    "CDF",
+                    "CDE",
+                    "FCD",
+                    "CDF"
+                ]
+            },
+            {
+                "text": "Similarly it can be proved that each of the straight lines `FB`, `FA`, `FE` is also equal to each of the straight lines `FC`, `FD`; therefore the five straight lines `FA`, `FB`, `FC`, `FD`, `FE` are equal to one another.",
+                "refs": [],
+                "emphs": [
+                    "FB",
+                    "FA",
+                    "FE",
+                    "FC",
+                    "FD",
+                    "FA",
+                    "FB",
+                    "FC",
+                    "FD",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Therefore the circle described with centre `F` and distance one of the straight lines `FA`, `FB`, `FC`, `FD`, `FE` will pass also through the remaining points, and will have been circumscribed.",
+                "refs": [],
+                "emphs": [
+                    "F",
+                    "FA",
+                    "FB",
+                    "FC",
+                    "FD",
+                    "FE"
+                ]
+            },
+            {
+                "text": "Let it be circumscribed, and let it be `ABCDE`.",
+                "refs": [],
+                "emphs": [
+                    "ABCDE"
+                ]
+            },
+            {
+                "text": "Therefore about the given pentagon, which is equilateral and equiangular, a circle has been circumscribed. Q. E. F.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

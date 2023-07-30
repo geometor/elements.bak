@@ -1,0 +1,2555 @@
+{
+    "elem.7.def.1": {
+        "id": "elem.7.def.1",
+        "n": 1,
+        "type": "definition",
+        "enunciation": "An > unit is that by virtue of which each of the things that exist is called one."
+    },
+    "elem.7.def.2": {
+        "id": "elem.7.def.2",
+        "n": 2,
+        "type": "definition",
+        "enunciation": "A > number is a multitude composed of units."
+    },
+    "elem.7.def.3": {
+        "id": "elem.7.def.3",
+        "n": 3,
+        "type": "definition",
+        "enunciation": "A number is > a part of a number, the less of the greater, when it measures the greater;"
+    },
+    "elem.7.def.4": {
+        "id": "elem.7.def.4",
+        "n": 4,
+        "type": "definition",
+        "enunciation": "but > parts when it does not measure it."
+    },
+    "elem.7.def.5": {
+        "id": "elem.7.def.5",
+        "n": 5,
+        "type": "definition",
+        "enunciation": "The greater number is a > multiple of the less when it is measured by the less."
+    },
+    "elem.7.def.6": {
+        "id": "elem.7.def.6",
+        "n": 6,
+        "type": "definition",
+        "enunciation": "An > even number is that which is divisible into two equal parts."
+    },
+    "elem.7.def.7": {
+        "id": "elem.7.def.7",
+        "n": 7,
+        "type": "definition",
+        "enunciation": "An > odd number is that which is not divisible into two equal parts, or that which differs by an unit from an even number."
+    },
+    "elem.7.def.8": {
+        "id": "elem.7.def.8",
+        "n": 8,
+        "type": "definition",
+        "enunciation": "An > even-times even number is that which is measured by an even number according to an even number."
+    },
+    "elem.7.def.9": {
+        "id": "elem.7.def.9",
+        "n": 9,
+        "type": "definition",
+        "enunciation": "An > even-times odd number is that which is measured by an even number according to an odd number."
+    },
+    "elem.7.def.10": {
+        "id": "elem.7.def.10",
+        "n": 10,
+        "type": "definition",
+        "enunciation": "An > odd-times odd number is that which is measured by an odd number according to an odd number."
+    },
+    "elem.7.def.11": {
+        "id": "elem.7.def.11",
+        "n": 11,
+        "type": "definition",
+        "enunciation": "A > prime number is that which is measured by an unit alone."
+    },
+    "elem.7.def.12": {
+        "id": "elem.7.def.12",
+        "n": 12,
+        "type": "definition",
+        "enunciation": "Numbers > prime to one another are those which are measured by an unit alone as a common measure."
+    },
+    "elem.7.def.13": {
+        "id": "elem.7.def.13",
+        "n": 13,
+        "type": "definition",
+        "enunciation": "A > composite number is that which is measured by some number."
+    },
+    "elem.7.def.14": {
+        "id": "elem.7.def.14",
+        "n": 14,
+        "type": "definition",
+        "enunciation": "Numbers > composite to one another are those which are measured by some number as a common measure."
+    },
+    "elem.7.def.15": {
+        "id": "elem.7.def.15",
+        "n": 15,
+        "type": "definition",
+        "enunciation": "A number is said to > multiply a number when that which is multiplied is added to itself as many times as there are units in the other, and thus some number is produced."
+    },
+    "elem.7.def.16": {
+        "id": "elem.7.def.16",
+        "n": 16,
+        "type": "definition",
+        "enunciation": "And, when two numbers having multiplied one another make some number, the number so produced is called > plane, and its > sides are the numbers which have multiplied one another."
+    },
+    "elem.7.def.17": {
+        "id": "elem.7.def.17",
+        "n": 17,
+        "type": "definition",
+        "enunciation": "And, when three numbers having multiplied one another make some number, the number so produced is > solid, and its > sides are the numbers which have multiplied one another."
+    },
+    "elem.7.def.18": {
+        "id": "elem.7.def.18",
+        "n": 18,
+        "type": "definition",
+        "enunciation": "A > square number is equal multiplied by equal, or a number which is contained by two equal numbers."
+    },
+    "elem.7.def.19": {
+        "id": "elem.7.def.19",
+        "n": 19,
+        "type": "definition",
+        "enunciation": "And a > cube is equal multiplied by equal and again by equal, or a number which is contained by three equal numbers."
+    },
+    "elem.7.def.20": {
+        "id": "elem.7.def.20",
+        "n": 20,
+        "type": "definition",
+        "enunciation": "Numbers are > proportional when the first is the same multiple, or the same part, or the same parts, of the second that the third is of the fourth."
+    },
+    "elem.7.def.21": {
+        "id": "elem.7.def.21",
+        "n": 21,
+        "type": "definition",
+        "enunciation": "> Similar plane and > solid numbers are those which have their sides proportional."
+    },
+    "elem.7.def.22": {
+        "id": "elem.7.def.22",
+        "n": 22,
+        "type": "definition",
+        "enunciation": "A > perfect number is that which is equal to its own parts."
+    },
+    "elem.7.1": {
+        "id": "elem.7.1",
+        "n": 1,
+        "type": "proposition",
+        "enunciation": "> Two unequal numbers being set out, and the less being continually subtracted in turn from the greater, if the number which is left never measures the one before it until an unit is left, the original numbers will be prime to one another.",
+        "proof": [
+            {
+                "text": "For, the less of two unequal numbers > AB, > CD being continually subtracted from the greater, let the number which is left never measure the one before it until an unit is left; I say that > AB, > CD are prime to one another, that is, that an unit alone measures > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > AB, > CD are not prime to one another, some number will measure them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure them, and let it be > E; let > CD, measuring > BF, leave > FA less than itself, let > AF, measuring > DG, leave > GC less than itself, and let > GC, measuring > FH, leave an unit > HA.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since, then, > E measures > CD, and > CD measures > BF, therefore > E also measures > BF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures the whole > BA; therefore it will also measure the remainder > AF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > AF measures > DG; therefore > E also measures > DG.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures the whole > DC therefore it will also measure the remainder > CG.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > CG measures > FH; therefore > E also measures > FH.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures the whole > FA; therefore it will also measure the remainder, the unit > AH, though it is a number: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure the numbers > AB, > CD; therefore > AB, > CD are prime to one another. [elem.7.def.12] Q. E. D.",
+                "refs": [
+                    "elem.7.def.12"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.2": {
+        "id": "elem.7.2",
+        "n": 2,
+        "type": "proposition",
+        "enunciation": "> Given two numbers not prime to one another, to find their greatest common measure.",
+        "proof": [
+            {
+                "text": "Let > AB, > CD be the two given numbers not prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus it is required to find the greatest common measure of > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "If now > CD measures > AB\u2014and it also measures itself\u2014> CD is a common measure of > CD, > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it is manifest that it is also the greatest; for no greater number than > CD will measure > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if > CD does not measure > AB, then, the less of the numbers > AB, > CD being continually subtracted from the greater, some number will be left which will measure the one before it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For an unit will not be left; otherwise > AB, > CD will be prime to one another [elem.7.1], which is contrary to the hypothesis.",
+                "refs": [
+                    "elem.7.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore some number will be left which will measure the one before it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now let > CD, measuring > BE, leave > EA less than itself, let > EA, measuring > DF, leave > FC less than itself, and let > CF measure > AE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then, > CF measures > AE, and > AE measures > DF, therefore > CF will also measure > DF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures itself; therefore it will also measure the whole > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > CD measures > BE; therefore > CF also measures > BE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > EA; therefore it will also measure the whole > BA.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > CD; therefore > CF measures > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > CF is a common measure of > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the greatest.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > CF is not the greatest common measure of > AB, > CD, some number which is greater than > CF will measure the numbers > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let such a number measure them, and let it be > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > G measures > CD, while > CD measures > BE, > G also measures > BE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures the whole > BA; therefore it will also measure the remainder > AE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > AE measures > DF; therefore > G will also measure > DF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures the whole > DC; therefore it will also measure the remainder > CF, that is, the greater will measure the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number which is greater than > CF will measure the numbers > AB, > CD; > therefore > CF is the greatest common measure of > AB, > CD.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.3": {
+        "id": "elem.7.3",
+        "n": 3,
+        "type": "proposition",
+        "enunciation": "> Given three numbers not prime to one another, to find their greatest common measure.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be the three given numbers not prime to one another; thus it is required to find the greatest common measure of > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let the greatest common measure, > D, of the two numbers > A, > B be taken; [elem.7.2] then > D either measures, or does not measure, > C.",
+                "refs": [
+                    "elem.7.2"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "First, let it measure it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it measures > A, > B also; therefore > D measures > A, > B, > C; therefore > D is a common measure of > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that it is also the greatest.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > D is not the greatest common measure of > A, > B, > C, some number which is greater than > D will measure the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let such a number measure them, and let it be > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > E measures > A, > B, > C, it will also measure > A, > B; therefore it will also measure the greatest common measure of > A, > B. [elem.7.2.p.1]",
+                "refs": [
+                    "elem.7.2.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the greatest common measure of > A, > B is > D; therefore > E measures > D, the greater the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number which is greater than > D will measure the numbers > A, > B, > C; > therefore > D is the greatest common measure of > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > D not measure > C; I say first that > C, > D are not prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A, > B, > C are not prime to one another, some number will measure them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now that which measures > A, > B, > C will also measure > A, > B, and will measure > D, the greatest common measure of > A, > B. [elem.7.2.p.1]",
+                "refs": [
+                    "elem.7.2.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But it measures > C also; therefore some number will measure the numbers > D, > C; therefore > D, > C are not prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let then their greatest common measure > E be taken. [elem.7.2]",
+                "refs": [
+                    "elem.7.2"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Then, since > E measures > D, and > D measures > A, > B, therefore > E also measures > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it measures > C also; therefore > E measures > A, > B, > C; therefore > E is a common measure of > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the greatest.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > E is not the greatest common measure of > A, > B, > C, some number which is greater than > E will measure the numbers > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let such a number measure them, and let it be > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > F measures > A, > B, > C, it also measures > A, > B; therefore it will also measure the greatest common measure of > A, > B. [elem.7.2.p.1]",
+                "refs": [
+                    "elem.7.2.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the greatest common measure of > A, > B is > D; therefore > F measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it measures > C also; therefore > F measures > D, > C; therefore it will also measure the greatest common measure of > D, > C. [elem.7.2.p.1]",
+                "refs": [
+                    "elem.7.2.p.1"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the greatest common measure of > D, > C is > E; therefore > F measures > E, the greater the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number which is greater than > E will measure the numbers > A, > B, > C; therefore > E is the greatest common measure of > A, > B, > C. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.4": {
+        "id": "elem.7.4",
+        "n": 4,
+        "type": "proposition",
+        "enunciation": "> Any number is either a part or parts of any number, the less of the greater.",
+        "proof": [
+            {
+                "text": "Let > A, > BC be two numbers, and let > BC be the less; I say that > BC is either a part, or parts, of > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For > A, > BC are either prime to one another or not.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let > A, > BC be prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then, if > BC be divided into the units in it, each unit of those in > BC will be some part of > A; so that > BC is parts of > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next let > A, > BC not be prime to one another; then > BC either measures, or does not measure, > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "If now > BC measures > A, > BC is a part of > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if not, let the greatest common measure > D of > A, > BC be taken; [elem.7.2] and let > BC be divided into the numbers equal to > D, namely > BE, > EF, > FC.",
+                "refs": [
+                    "elem.7.2"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > D measures > A, > D is a part of > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > D is equal to each of the numbers > BE, > EF, > FC; therefore each of the numbers > BE, > EF, > FC is also a part of > A; so that > BC is parts of > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.5": {
+        "id": "elem.7.5",
+        "n": 5,
+        "type": "proposition",
+        "enunciation": "> If a number be a part of a number, and another be the same part of another, the sum will also be the same part of the sum that the one is of the one.",
+        "proof": [
+            {
+                "text": "For let the number > A be a part of > BC, and another, > D, the same part of another > EF that > A is of > BC; I say that the sum of > A, > D is also the same part of the sum of > BC, > EF that > A is of > BC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, whatever part > A is of > BC, > D is also the same part of > EF, therefore, as many numbers as there are in > BC equal to > A, so many numbers are there also in > EF equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > BC be divided into the numbers equal to > A, namely > BG, > GC, and > EF into the numbers equal to > D, namely > EH, > HF; then the multitude of > BG, > GC will be equal to the multitude of > EH, > HF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > BG is equal to > A, and > EH to > D, therefore > BG, > EH are also equal to > A, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > GC, > HF are also equal to > A, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as many numbers as there are in > BC equal to > A, so many are there also in > BC, > EF equal to > A, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, whatever multiple > BC is of > A, the same multiple also is the sum of > BC, > EF of the sum of > A, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, whatever part > A is of > BC, the same part also is the sum of > A, > D of the sum of > BC, > EF. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.6": {
+        "id": "elem.7.6",
+        "n": 6,
+        "type": "proposition",
+        "enunciation": "> If a number be parts of a number, and another be the same parts of another, the sum will also be the same parts of the sum that the one is of the one.",
+        "proof": [
+            {
+                "text": "For let the number > AB be parts of the number > C, and another, > DE, the same parts of another, > F, that > AB is of > C; I say that the sum of > AB, > DE is also the same parts of the sum of > C, > F that > AB is of > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, whatever parts > AB is of > C, > DE is also the same parts of > F, therefore, as many parts of > C as there are in > AB, so many parts of > F are there also in > DE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > AB be divided into the parts of > C, namely > AG, > GB, and > DE into the parts of > F, namely > DH, > HE; thus the multitude of > AG, > GB will be equal to the multitude of > DH, > HE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And since, whatever part > AG is of > C, the same part is > DH of > F also, therefore, whatever part > AG is of > C, the same part also is the sum of > AG, > DH of the sum of > C, > F. [elem.7.5]",
+                "refs": [
+                    "elem.7.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason, whatever part > GB is of > C, the same part also is the sum of > GB, > HE of the sum of > C, > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, whatever parts > AB is of > C, the same parts also is the sum of > AB, > DE of the sum of > C, > F. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.7": {
+        "id": "elem.7.7",
+        "n": 7,
+        "type": "proposition",
+        "enunciation": "> If a number be that part of a number, which a number subtracted is of a number subtracted, the remainder will also be the same part of the remainder that the whole is of the whole.",
+        "proof": [
+            {
+                "text": "For let the number > AB be that part of the number > CD which > AE subtracted is of > CF subtracted; I say that the remainder > EB is also the same part of the remainder > FD that the whole > AB is of the whole > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, whatever part > AE is of > CF, the same part also let > EB be of > CG.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now since, whatever part > AE is of > CF, the same part also is > EB of > CG, therefore, whatever part > AE is of > CF, the same part also is > AB of > GF. [elem.7.5]",
+                "refs": [
+                    "elem.7.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, whatever part > AE is of > CF, the same part also, by hypothesis, is > AB of > CD; therefore, whatever part > AB is of > GF, the same part is it of > CD also; therefore > GF is equal to > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > CF be subtracted from each; therefore the remainder > GC is equal to the remainder > FD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now since, whatever part > AE is of > CF, the same part also is > EB of > GC, while > GC is equal to > FD, therefore, whatever part > AE is of > CF, the same part also is > EB of > FD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, whatever part > AE is of > CF, the same part also is > AB of > CD; > EB is the same part of the remainder > FD that the whole > AB is of the whole > CD. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.8": {
+        "id": "elem.7.8",
+        "n": 8,
+        "type": "proposition",
+        "enunciation": "> If a number be the same parts of a number that a number subtracted is of a number subtracted, the remainder will also be the same parts of the remainder that the whole is of the whole.",
+        "proof": [
+            {
+                "text": "For let the number > AB be the same parts of the number > CD that > AE subtracted is of > CF subtracted; I say that the remainder > EB is also the same parts of the remainder > FD that the whole > AB is of the whole > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > GH be made equal to > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, whatever parts > GH is of > CD, the same parts also is > AE of > CF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > GH be divided into the parts of > CD, namely > GK, > KH, and > AE into the parts of > CF, namely > AL, > LE; thus the multitude of > GK, > KH will be equal to the multitude of > AL, > LE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now since, whatever part > GK is of > CD, the same part also is > AL of > CF, while. > CD is greater than > CF, therefore > GK is also greater than > AL.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > GM be made equal to > AL.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, whatever part > GK is of > CD, the same part also is > GM of > CF; therefore also the remainder > MK is the same part of the remainder > FD that the whole > GK is of the whole > CD. [elem.7.7]",
+                "refs": [
+                    "elem.7.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since, whatever part > KH is of > CD, the same part also is > EL of > CF, while > CD is greater than > CF, therefore > HK is also greater than > EL.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > KN be made equal to > EL.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, whatever part > KH is of > CD, the same part also is > KN of > CF; therefore also the remainder > NH is the same part of the remainder > FD that the whole > KH is of the whole > CD. [elem.7.7]",
+                "refs": [
+                    "elem.7.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the remainder > MK was also proved to be the same part of the remainder > FD that the whole > GK is of the whole > CD; therefore also the sum of > MK, > NH is the same parts of > DF that the whole > HG is of the whole > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the sum of > MK, > NH is equal to > EB, and > HG is equal to > BA; therefore the remainder > EB is the same parts of the remainder > FD that the whole > AB is of the whole > CD. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.9": {
+        "id": "elem.7.9",
+        "n": 9,
+        "type": "proposition",
+        "enunciation": "> If a number be a part of a number, and another be the same part of another, alternately also, whatever part or parts the first is of the third, the same part, or the same parts, will the second also be of the fourth.",
+        "proof": [
+            {
+                "text": "For let the number > A be a part of the number > BC, and another, > D, the same part of another, > EF, that > A is of > BC; I say that, alternately also, whatever part or parts > A is of > D, the same part or parts is > BC of > EF also.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, whatever part > A is of > BC, the same part also is > D of > EF, therefore, as many numbers as there are in > BC equal to > A, so many also are there in > EF equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > BC be divided into the numbers equal to > A, namely > BG, > GC, and > EF into those equal to > D, namely > EH, > HF; thus the multitude of > BG, > GC will be equal to the multitude of > EH, > HF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since the numbers > BG, > GC are equal to one another, and the numbers > EH, > HF are also equal to one another, while the multitude of > BG, > GC is equal to the multitude of > EH, > HF, therefore, whatever part or parts > BG is of > EH, the same part or the same parts is > GC of > HF also; so that, in addition, whatever part or parts > BG is of > EH, the same part also, or the same parts, is the sum > BC of the sum > EF. [elem.7.5 elem.7.6]",
+                "refs": [
+                    "elem.7.5 elem.7.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > BG is equal to > A, and > EH to > D; therefore, whatever part or parts > A is of > D, the same part or the same parts is > BC of > EF also. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.10": {
+        "id": "elem.7.10",
+        "n": 10,
+        "type": "proposition",
+        "enunciation": "> If a number be parts of a number, and another be the same parts of another, alternately also, whatever parts or part the first is of the third, the same parts or the same part will the second also be of the fourth.",
+        "proof": [
+            {
+                "text": "For let the number > AB be parts of the number > C, and another, > DE, the same parts of another, > F; I say that, alternately also, whatever parts or part > AB is of > DE, the same parts or the same part is > C of > F also.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, whatever parts > AB is of > C, the same parts also is > DE of > F, therefore, as many parts of > C as there are in > AB, so many parts also of > F are there in > DE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > AB be divided into the parts of > C, namely > AG, > GB, and > DE into the parts of > F, namely > DH, > HE; thus the multitude of > AG, > GB will be equal to the multitude of > DH, > HE.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now since, whatever part > AG is of > C, the same part also is > DH of > F, alternately also, whatever part or parts > AG is of > DH, the same part or the same parts is > C of > F also. [elem.7.9]",
+                "refs": [
+                    "elem.7.9"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason also, whatever part or parts > GB is of > HE, the same part or the same parts is > C of > F also; > AB is of > DE, the same parts also, or the same part, is > C of > F. [elem.7.5 elem.7.6] Q. E. D.",
+                "refs": [
+                    "elem.7.5 elem.7.6"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.11": {
+        "id": "elem.7.11",
+        "n": 11,
+        "type": "proposition",
+        "enunciation": "> If, as whole is to whole, so is a number subtracted to a number subtracted, the remainder will also be to the remainder as whole to whole.",
+        "proof": [
+            {
+                "text": "As the whole > AB is to the whole > CD, so let > AE subtracted be to > CF subtracted; I say that the remainder > EB is also to the remainder > FD as the whole > AB to the whole > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since, as > AB is to > CD, so is > AE to > CF, whatever part or parts > AB is of > CD, the same part or the same parts is > AE of > CF also; [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also the remainder > EB is the same part or parts of > FD that > AB is of > CD. [elem.7.7 elem.7.8]",
+                "refs": [
+                    "elem.7.7 elem.7.8"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > EB is to > FD, so is > AB to > CD. [elem.7.def.20] Q. E. D.",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.12": {
+        "id": "elem.7.12",
+        "n": 12,
+        "type": "proposition",
+        "enunciation": "> If there be as many numbers as we please in proportion, then, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C, > D be as many numbers as we please in proportion, so that, > as > A is to > B, so is > C to > D; I say that, as > A is to > B, so are > A, > C to > B, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, as > A is to > B, so is > C to > D, whatever part or parts > A is of > B, the same part or parts is > C of > D also. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also the sum of > A, > C is the same part or the same parts of the sum of > B, > D that > A is of > B. [elem.7.5 elem.7.6]",
+                "refs": [
+                    "elem.7.5 elem.7.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > B, so are > A, > C to > B, > D. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.13": {
+        "id": "elem.7.13",
+        "n": 13,
+        "type": "proposition",
+        "enunciation": "> If four numbers be proportional, they will also be proportional alternately.",
+        "proof": [
+            {
+                "text": "Let the four numbers > A, > B, > C, > D be proportional, so that, > as > A is to > B, so is > C to > D; I say that they will also be proportional alternately, so that, > as > A is to > C, so will > B be to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For since, as > A is to > B, so is > C to > D, therefore, whatever part or parts > A is of > B, the same part or the same parts is > C of > D also. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, whatever part or parts > A is of > C, the same part or the same parts is > B of > D also. [elem.7.10]",
+                "refs": [
+                    "elem.7.10"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > C, so is > B to > D. [elem.7.def.20] Q. E. D.",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.14": {
+        "id": "elem.7.14",
+        "n": 14,
+        "type": "proposition",
+        "enunciation": "> If there be as many numbers as we please, and others equal to them in multitude, which taken two and two are in the same ratio, they will also be in the same ratio ex aequali.",
+        "proof": [
+            {
+                "text": "Let there be as many numbers as we please > A, > B, > C, and others equal to them in multitude > D, > E, > F, which taken two and two are in the same ratio, so that, > as > A is to > B, so is > D to > E, and, as > B is to > C, so is > E to > F; I say that, > ex aequali, > as > A is to > C, so also is > D to > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since, as > A is to > B, so is > D to > E, therefore, alternately, > as > A is to > D, so is > B to > E. [elem.7.13]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since, as > B is to > C, so is > E to > F, therefore, alternately, > as > B is to > E, so is > C to > F. [elem.7.13]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, as > B is to > E, so is > A to > D; therefore also, as > A is to > D, so is > C to > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, > as > A is to > C, so is > D to > F. [> id.]",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.15": {
+        "id": "elem.7.15",
+        "n": 15,
+        "type": "proposition",
+        "enunciation": "> If an unit measure any number, and another number measure any other number the same number of times, alternately also, the unit will measure the third number the same number of times that the second measures the fourth.",
+        "proof": [
+            {
+                "text": "For let the unit > A measure any number > BC, and let another number > D measure any other number > EF the same number of times; I say that, alternately also, the unit > A measures the number > D the same number of times that > BC measures > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since the unit > A measures the number > BC the same number of times that > D measures > EF, therefore, as many units as there are in > BC, so many numbers equal to > D are there in > EF also.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > BC be divided into the units in it, > BG, > GH, > HC, and > EF into the numbers > EK, > KL, > LF equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus the multitude of > BG, > GH, > HC will be equal to the multitude of > EK, > KL, > LF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since the units > BG, > GH, > HC are equal to one another, and the numbers > EK, > KL, > LF are also equal to one another, while the multitude of the units > BG, > GH, > HC is equal to the multitude of the numbers > EK, > KL, > LF, therefore, as the unit > BG is to the number > EK, so will the unit > GH be to the number > KL, and the unit > HC to the number > LF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents; [elem.7.12] therefore, as the unit > BG is to the number > EK, so is > BC to > EF.",
+                "refs": [
+                    "elem.7.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > BG is equal to the unit > A, and the number > EK to the number > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as the unit > A is to the number > D, so is > BC to > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the unit > A measures the number > D the same number of times that > BC measures > EF. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.16": {
+        "id": "elem.7.16",
+        "n": 16,
+        "type": "proposition",
+        "enunciation": "> If two numbers by multiplying one another make certain numbers, the numbers so produced will be equal to one another.",
+        "proof": [
+            {
+                "text": "Let > A, > B be two numbers, and let > A by multiplying > B make > C, and > B by multiplying > A make > D; I say that > C is equal to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A by multiplying > B has made > C, therefore > B measures > C according to the units in > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > E also measures the number > A according to the units in it; > therefore the unit > E measures > A the same number of times that > B measures > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, the unit > E measures the number > B the same number of times that > A measures > C. [elem.7.15]",
+                "refs": [
+                    "elem.7.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > B by multiplying > A has made > D, therefore > A measures > D according to the units in > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > E also measures > B according to the units in it; > therefore the unit > E measures the number > B the same number of times that > A measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > E measured the number > B the same number of times that > A measures > C; > therefore > A measures each of the numbers > C, > D the same number of times.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C is equal to > D. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.17": {
+        "id": "elem.7.17",
+        "n": 17,
+        "type": "proposition",
+        "enunciation": "> If a number by multiplying two numbers make certain numbers, the numbers so produced will have the same ratio as the numbers multiplied.",
+        "proof": [
+            {
+                "text": "For let the number > A by multiplying the two numbers > B, > C make > D, > E; I say that, as > B is to > C, so is > D to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A by multiplying > B has made > D, therefore > B measures > D according to the units in > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > F also measures the number > A according to the units in it; therefore the unit > F measures the number > A the same number of times that > B measures > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as the unit > F is to the number > A, so is > B to > D. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason, as the unit > F is to the number > A, so also is > C to > E; therefore also, as > B is to > D, so is > C to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, as > B is to > C, so is > D to > E. [elem.7.13] Q. E. D.",
+                "refs": [
+                    "elem.7.13"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.18": {
+        "id": "elem.7.18",
+        "n": 18,
+        "type": "proposition",
+        "enunciation": "> If two numbers by multiplying any number make certain numbers, the numbers so produced will have the same ratio as the multipliers.",
+        "proof": [
+            {
+                "text": "For let two numbers > A, > B by multiplying any number > C make > D, > E; I say that, as > A is to > B, so is > D to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A by multiplying > C has made > D, therefore also > C by multiplying > A has made > D. [elem.7.16] For the same reason also > C by multiplying > B has made > E.",
+                "refs": [
+                    "elem.7.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the number > C by multiplying the two numbers > A, > B has made > D, > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > B, so is > D to > E. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.19": {
+        "id": "elem.7.19",
+        "n": 19,
+        "type": "proposition",
+        "enunciation": "> If four numbers be proportional, the number produced from the first and fourth will be equal to the number produced from the second and third; and, if the number produced from the first and fourth be equal to that produced from the second and third, the four numbers will be proportional.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C, > D be four numbers in proportion, so that, > as > A is to > B, so is > C to > D; and let > A by multiplying > D make > E, and let > B by multiplying > C make > F; I say that > E is equal to > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > A by multiplying > C make > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since, then, > A by multiplying > C has made > G, and by multiplying > D has made > E, the number > A by multiplying the two numbers > C, > D has made > G, > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > C is to > D, so is > G to > E. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, as > C is to > D, so is > A to > B; therefore also, as > A is to > B, so is > G to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > A by multiplying > C has made > G, but, further, > B has also by multiplying > C made > F, the two numbers > A, > B by multiplying a certain number > C have made > G, > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > B, so is > G to > F. [elem.7.18]",
+                "refs": [
+                    "elem.7.18"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But further, as > A is to > B, so is > G to > E also; therefore also, as > G is to > E, so is > G to > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > G has to each of the numbers > E, > F the same ratio; > therefore > E is equal to > F. [cf. elem.5.9]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, let > E be equal to > F; I say that, as > A is to > B, so is > C to > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, with the same construction, since > E is equal to > F, therefore, as > G is to > E, so is > G to > F. [cf. elem.5.7]",
+                "refs": [
+                    "elem.5.7"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, as > G is to > E, so is > C to > D, [elem.7.17] > and, as > G is to > F, so is > A to > B. [elem.7.18]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also, as > A is to > B, so is > C to > D. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.20": {
+        "id": "elem.7.20",
+        "n": 20,
+        "type": "proposition",
+        "enunciation": "> The least numbers of those which have the same ratio with them measure those which have the same ratio the same number of times, the greater the greater and the less the less.",
+        "proof": [
+            {
+                "text": "For let > CD, > EF be the least numbers of those which have the same ratio with > A, > B; I say that > CD measures > A the same number of times that > EF measures > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > CD is not parts of > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if possible, let it be so; therefore > EF is also the same parts of > B that > CD is of > A. [elem.7.13 and elem.7.def.20]",
+                "refs": [
+                    "elem.7.13",
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as many parts of > A as there are in > CD, so many parts of > B are there also in > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > CD be divided into the parts of > A, namely > CG, > GD, and > EF into the parts of > B, namely > EH, > HF; thus the multitude of > CG, > GD will be equal to the multitude of > EH, > HF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since the numbers > CG, > GD are equal to one another, and the numbers > EH, > HF are also equal to one another, while the multitude of > CG, > GD is equal to the multitude of > EH, > HF, therefore, as > CG is to > EH, so is > GD to > HF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also, as one of the antecedents is to one of the consequents, so will all the antecedents be to all the consequents. [elem.7.12]",
+                "refs": [
+                    "elem.7.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > CG is to > EH, so is > CD to > EF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > CG, > EH are in the same ratio with > CD, > EF, being less than they: which is impossible, for by hypothesis > CD, > EF are the least numbers of those which have the same ratio with them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > CD is not parts of > A; therefore it is a part of it. [elem.7.4]",
+                "refs": [
+                    "elem.7.4"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And > EF is the same part of > B that > CD is of > A; [elem.7.13 and elem.7.def.20] therefore > CD measures > A the same number of times that > EF measures > B. Q. E. D.",
+                "refs": [
+                    "elem.7.13",
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.21": {
+        "id": "elem.7.21",
+        "n": 21,
+        "type": "proposition",
+        "enunciation": "> Numbers prime to one another are the least of those which have the same ratio with them.",
+        "proof": [
+            {
+                "text": "Let > A, > B be numbers prime to one another; I say that > A, > B are the least of those which have the same ratio with them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, there will be some numbers less than > A, > B which are in the same ratio with > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let them be > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since, then, the least numbers of those which have the same ratio measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent, [elem.7.20] therefore > C measures > A the same number of times that > D measures > B.",
+                "refs": [
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Now, as many times as > C measures > A, so many units let there be in > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D also measures > B according to the units in > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > C measures > A according to the units in > E, therefore > E also measures > A according to the units in > C. [elem.7.16]",
+                "refs": [
+                    "elem.7.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > E also measures > B according to the units in > D. [elem.7.16]",
+                "refs": [
+                    "elem.7.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E measures > A, > B which are prime to one another: which is impossible. [elem.7.def.12]",
+                "refs": [
+                    "elem.7.def.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore there will be no numbers less than > A, > B which are in the same ratio with > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B are the least of those which have the same ratio with them. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.22": {
+        "id": "elem.7.22",
+        "n": 22,
+        "type": "proposition",
+        "enunciation": "> The least numbers of those which have the same ratio with them are prime to one another.",
+        "proof": [
+            {
+                "text": "Let > A, > B be the least numbers of those which have the same ratio with them; I say that > A, > B are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if they are not prime to one another, some number will measure them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let some number measure them, and let it be > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, as many times as > C measures > A, so many units let there be in > D, and, as many times as > C measures > B, so many units let there be in > E",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > C measures > A according to the units in > D, therefore > C by multiplying > D has made > A. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason also > C by multiplying > E has made > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus the number > C by multiplying the two numbers > D, > E has made > A, > B; therefore, as > D is to > E, so is > A to > B; [elem.7.17] therefore > D, > E are in the same ratio with > A, > B, being less than they: which is impossible.",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure the numbers > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.23": {
+        "id": "elem.7.23",
+        "n": 23,
+        "type": "proposition",
+        "enunciation": "> If two number be prime to one another, the number which measures the one of them will be prime to the remaining number.",
+        "proof": [
+            {
+                "text": "Let > A, > B be two numbers prime to one another, and let any number > C measure > A; I say that > C, > B are also prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > C, > B are not prime to one another, some number will measure > C, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure them, and let it be > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > D measures > C, and > C measures > A, therefore > D also measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > B; > D measures > A, > B which are prime to one another: which is impossible. [elem.7.def.12]",
+                "refs": [
+                    "elem.7.def.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure the numbers > C, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C, > B are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.24": {
+        "id": "elem.7.24",
+        "n": 24,
+        "type": "proposition",
+        "enunciation": "> If two numbers be prime to any number, their product also will be prime to the same.",
+        "proof": [
+            {
+                "text": "For let the two numbers > A, > B be prime to any number > C, and let > A by multiplying > B make > D; I say that > C, > D are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > C, > D are not prime to one another, some number will measure > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure them, and let it be > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > C, > A are prime to one another, and a certain number > E measures > C, therefore > A, > E are prime to one another. [elem.7.23]",
+                "refs": [
+                    "elem.7.23"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "As many times, then, as > E measures > D, so many units let there be in > F; therefore > F also measures > D according to the units in > E. [elem.7.16]",
+                "refs": [
+                    "elem.7.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E by multiplying > F has made > D. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, further, > A by multiplying > B has also made > D; therefore the product of > E, > F is equal to the product of > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, if the product of the extremes be equal to that of the means, the four numbers are proportional; [elem.7.19] therefore, as > E is to > A, so is > B to > F.",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > E are prime to one another, numbers which are prime to one another are also the least of those which have the same ratio, [elem.7.21] and the least numbers of those which have the same ratio with them measure those which have the same ratio the same elem.7.20] therefore > E measures > B.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > C; therefore > E measures > B, > C which are prime to one another: which is impossible. [elem.7.def.12]",
+                "refs": [
+                    "elem.7.def.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure the numbers > C, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C, > D are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.25": {
+        "id": "elem.7.25",
+        "n": 25,
+        "type": "proposition",
+        "enunciation": "> If two numbers be prime to one another, the product of one of them into itself will be prime to the remaining one.",
+        "proof": [
+            {
+                "text": "Let > A, > B be two numbers prime to one another, and let > A by multiplying itself make > C: I say that > B, > C are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > D be made equal to > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > A, > B are prime to one another, and > A is equal to > D, therefore > D, > B are also prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore each of the two numbers > D, > A is prime to > B; therefore the product of > D, > A will also be prime to > B. [elem.7.24]",
+                "refs": [
+                    "elem.7.24"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the number which is the product of > D, > A is > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C, > B are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.26": {
+        "id": "elem.7.26",
+        "n": 26,
+        "type": "proposition",
+        "enunciation": "> If two numbers be prime to two numbers, both to each, their products also will be prime to one another.",
+        "proof": [
+            {
+                "text": "For let the two numbers > A, > B be prime to the two numbers > C, > D; both to each, and let > A by multiplying > B make > E, and let > C by multiplying > D make > F; I say that > E, > F are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since each of the numbers > A, > B is prime to > C, therefore the product of > A, > B will also be prime to > C. [elem.7.24]",
+                "refs": [
+                    "elem.7.24"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the product of > A, > B is > E; therefore > E, > C are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > E, > D are also prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore each of the numbers > C, > D is prime to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the product of > C, > D will also be prime to > E. [elem.7.24]",
+                "refs": [
+                    "elem.7.24"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the product of > C, > D is > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E, > F are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.27": {
+        "id": "elem.7.27",
+        "n": 27,
+        "type": "proposition",
+        "enunciation": "> If two numbers be prime to one another, and each by multiplying itself make a certain number, the products will be prime to one another; and, if the original numbers by multiplying the products make certain numbers, the latter will also be prime to one another [> and this is always the case with the extremes].",
+        "proof": [
+            {
+                "text": "Let > A, > B be two numbers prime to one another, let > A by multiplying itself make > C, and by multiplying > C make > D, and let > B by multiplying itself make > E, and by multiplying > E make > F; I say that both > C, > E and > D, > F are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A, > B are prime to one another, and > A by multiplying itself has made > C, therefore > C, > B are prime to one another. [elem.7.25]",
+                "refs": [
+                    "elem.7.25"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Since then > C, > B are prime to one another, and > B by multiplying itself has made > E, therefore > C, > E are prime to one another. [> id.]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > A, > B are prime to one another, and > B by multiplying itself has made > E, therefore > A, > E are prime to one another. [> id.]",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then the two numbers > A, > C are prime to the two numbers > B, > E, both to each, therefore also the product of > A, > C is prime to the product of > B, > E. [elem.7.26]",
+                "refs": [
+                    "elem.7.26"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And the product of > A, > C is > D, and the product of > B, > E is > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D, > F are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.28": {
+        "id": "elem.7.28",
+        "n": 28,
+        "type": "proposition",
+        "enunciation": "> If two numbers be prime to one another, the sum will also be prime to each of them; and, if the sum of two numbers be prime to any one of them, the original numbers will also be prime to one another.",
+        "proof": [
+            {
+                "text": "For let two numbers > AB, > BC prime to one another be added; I say that the sum > AC is also prime to each of the numbers > AB, > BC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > CA, > AB are not prime to one another, some number will measure > CA, > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure them, and let it be > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > D measures > CA, > AB, therefore it will also measure the remainder > BC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > BA; therefore > D measures > AB, > BC which are prime to one another: which is impossible. [elem.7.def.12]",
+                "refs": [
+                    "elem.7.def.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure the numbers > CA, > AB; therefore > CA, > AB are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > AC, > CB are also prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > CA is prime to each of the numbers > AB, > BC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, let > CA, > AB be prime to one another; I say that > AB, > BC are also prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > AB, > BC are not prime to one another, some number will measure > AB, > BC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure them, and let it be > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > D measures each of the numbers > AB, > BC, it will also measure the whole > CA.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But it also measures > AB; therefore > D measures > CA, > AB which are prime to one another: which is impossible. [elem.7.def.12]",
+                "refs": [
+                    "elem.7.def.12"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure the numbers > AB, > BC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > AB, > BC are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.29": {
+        "id": "elem.7.29",
+        "n": 29,
+        "type": "proposition",
+        "enunciation": "> Any prime number is prime to any number which it does not measure.",
+        "proof": [
+            {
+                "text": "Let > A be a prime number, and let it not measure > B; I say that > B, > A are prime to one another.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > B, > A are not prime to one another, some number will measure them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > C measure them.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > C measures > B, and > A does not measure > B, therefore > C is not the same with > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > C measures > B, > A, therefore it also measures > A which is prime, though it is not the same with it: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore no number will measure > B, > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B are prime to one another. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.30": {
+        "id": "elem.7.30",
+        "n": 30,
+        "type": "proposition",
+        "enunciation": "> If two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers.",
+        "proof": [
+            {
+                "text": "For let the two numbers > A, > B by multiplying one another make > C, and let any prime number > D measure > C; I say that > D measures one of the numbers > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let it not measure > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > D is prime; therefore > A, > D are prime to one another. [elem.7.29]",
+                "refs": [
+                    "elem.7.29"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, as many times as > D measures > C, so many units let there be in > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > D measures > C according to the units in > E, therefore > D by multiplying > E has made > C. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Further, > A by multiplying > B has also made > C; therefore the product of > D, > E is equal to the product of > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > D is to > A, so is > B to > E. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > D, > A are prime to one another, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [elem.7.20] therefore > D measures > B.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Similarly we can also show that, if > D do not measure > B, it will measure > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > D measures one of the numbers > A, > B. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.31": {
+        "id": "elem.7.31",
+        "n": 31,
+        "type": "proposition",
+        "enunciation": "> Any composite number is measured by some prime number.",
+        "proof": [
+            {
+                "text": "Let > A be a composite number; I say that > A is measured by some prime number.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A is composite,",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure it, and let it be > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, if > B is prime, what was enjoined will have been done.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But if it is composite, some number will measure it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let a number measure it, and let it be > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then, since > C measures > B, and > B measures > A, therefore > C also measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, if > C is prime, what was enjoined will have been done.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But if it is composite, some number will measure it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Thus, if the investigation be continued in this way, some prime number will be found which will measure the number > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if it is not found, an infinite series of numbers will measure the number > A, each of which is less than the other: which is impossible in numbers.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore some prime number will be found which will > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore any composite number is measured by some prime number.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.32": {
+        "id": "elem.7.32",
+        "n": 32,
+        "type": "proposition",
+        "enunciation": "> Any number either is prime or is measured by some prime number.",
+        "proof": [
+            {
+                "text": "Let > A be a number; I say that > A either is prime or is measured by some prime number.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "If now > A is prime, that which was enjoined will have been done.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But if it is composite, some prime number will measure it. [elem.7.31]",
+                "refs": [
+                    "elem.7.31"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore any number either is prime or is measured by some prime number. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.33": {
+        "id": "elem.7.33",
+        "n": 33,
+        "type": "proposition",
+        "enunciation": "> Given as many numbers as we please, to find the least of those which have the same ratio with them.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be the given numbers, as many as we please; thus it is required to find the least of > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "> A, > B, > C are either prime to one another or not.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, if > A, > B, > C are prime to one elem.7.21]",
+                "refs": [
+                    "elem.7.21"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, if not, let > D the greatest common measure of > A, > B, > C be taken, [elem.7.3] > D measures the numbers > A, > B, > C\n       > E, > F, > G respectively.",
+                "refs": [
+                    "elem.7.3"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the numbers > E, > F, > G measure the numbers > A, > B, > C respectively according to the units in > D. [elem.7.16]",
+                "refs": [
+                    "elem.7.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E, > F, > G measure > A, > B, > C the same number of > E, > F, > G are in the same ratio with > A, > B, > C. [elem.7.def.20]",
+                "refs": [
+                    "elem.7.def.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "I say next that they are the least that are in that ratio.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > E, > F, > G are not the least of those which have the same ratio with > A, > B, > C, > E, > F, > G which are in the same ratio with > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let them be > H, > K, > L; therefore > H measures > A the same number of times that the numbers > K, > L measure the numbers > B, > C respectively.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, as many times as > H measures > A, so many units let there be in > M; therefore the numbers > K, > L also measure the numbers > B, > C respectively according to the units in > M.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > H measures > A according to the units in > M, > M also measures > A according to the units in > H. [elem.7.16]",
+                "refs": [
+                    "elem.7.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason > M also measures the numbers > B, > C according to the units in the numbers > K, > L respectively;",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > M measures > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > H measures > A according to the units in > M, therefore > H by multiplying > M has made > A. [elem.7.def.15]",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "For the same reason also > E by multiplying > D has made > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the product of > E, > D is equal to the product of > H, > M.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > E is to > H, so is > M to > D. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > E is greater than > H; therefore > M is also greater than > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it measures > A, > B, > C: > D is the greatest common measure of > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore there cannot be any numbers less than > E, > F, > G which are in the same ratio with > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E, > F, > G are the least of those which have the > A, > B, > C. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.34": {
+        "id": "elem.7.34",
+        "n": 34,
+        "type": "proposition",
+        "enunciation": "> Given two numbers, to find the least number which they measure.",
+        "proof": [
+            {
+                "text": "Let > A, > B be the two given numbers; thus it is required to find the least number which they measure.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now > A, > B are either prime to one another or not.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let > A, > B be prime to one another, and let > A by multiplying > B make > C; therefore also > B by multiplying > A has made > C. [elem.7.16]",
+                "refs": [
+                    "elem.7.16"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B measure > C",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the least number they measure.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, > A, > B will measure some number which is less than > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let them measure > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Then, as many times as > A measures > D, so many units let there be in > E, and, as many times as > B measures > D, so many units let there be in > F; therefore > A by multiplying > E has made > D, and > B by multiplying > F has made > D; [elem.7.def.15] therefore the product of > A, > E is equal to the product of > B, > F.",
+                "refs": [
+                    "elem.7.def.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, as > A is to > B, so is > F\n       > E. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > B are prime, primes are also least, [elem.7.21] and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore > B measures > E, as consequent consequent.",
+                "refs": [
+                    "elem.7.21",
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A by multiplying > B, > E has made > C, > D, therefore, as > B is to > E, so is > C to > D. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > B measures > E; therefore > C also measures > D, the greater the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B do not measure any number less than > C; therefore > C is the least that is measured by > A, > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Next, let > A, > B not be prime to one another, and let > F, > E, the least numbers of those which have the same ratio with > A, > B, be taken; [elem.7.33] therefore the product of > A, > E is equal to the product of > B, > F. [elem.7.19]",
+                "refs": [
+                    "elem.7.33",
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And let > A by multiplying > E make > C; therefore also > B by multiplying > F has made > C; therefore > A, > B measure > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the least number that they measure.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, > A, > B will measure some number which is less than > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let them measure > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, as many times as > A measures > D, so many units let there be in > G, and, as many times as > B measures > D, so many units let there be in > H.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A by multiplying > G has made > D, and > B by multiplying > H has made > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the product of > A, > G is equal to the product of > B, > H; therefore, as > A is to > B, so is > H to > G. [elem.7.19]",
+                "refs": [
+                    "elem.7.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, as > A is to > B, so is > F to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also, as > F is to > E, so is > H to > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > F, > E are least, and the least measure the numbers which have the same ratio the same number of times, the greater the greater and the less the less; [elem.7.20] therefore > E measures > G.",
+                "refs": [
+                    "elem.7.20"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, since > A by multiplying > E, > G has made > C, > D, therefore, as > E is to > G, so is > C to > D. [elem.7.17]",
+                "refs": [
+                    "elem.7.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > E measures > G; therefore > C also measures > D, the greater the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B will not measure any number which is less than > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C is the least that is measured by > A, > B. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.35": {
+        "id": "elem.7.35",
+        "n": 35,
+        "type": "proposition",
+        "enunciation": "> If two numbers measure any number, the least number measured by them will also measure the same.",
+        "proof": [
+            {
+                "text": "For let the two numbers > A, > B measure any number > CD, and let > E be the least that they measure; I say that > E also measures > CD.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if > E does not measure > CD, let > E, measuring > DF, leave > CF less than itself.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Now, since > A, > B measure > E, and > E measures > DF, therefore > A, > B will also measure > DF.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But they also measure the whole > CD; therefore they will also measure the remainder > CF which is less than > E: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E cannot fail to measure > CD; therefore it measures it. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.36": {
+        "id": "elem.7.36",
+        "n": 36,
+        "type": "proposition",
+        "enunciation": "> Given three numbers, to find the least number which they measure.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be the three given numbers; thus it is required to find the least number which they measure.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > D, the least number measured by the two numbers > A, > B, be taken. [elem.7.34]",
+                "refs": [
+                    "elem.7.34"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Then > C either measures, or does not measure, > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "First, let it measure it.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > B also measure > D; therefore > A, > B, > C measure > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the least that they measure.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, > A, > B, > C will measure some number which is less than > D.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let them measure > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > A, > B, > C measure > E, therefore also > A, > B measure > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the least number measured by > A, > B will also measure > E. [elem.7.35]",
+                "refs": [
+                    "elem.7.35"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > D is the least number measured by > A, > B; therefore > D will measure > E, the greater the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B, > C will not measure any number which is less than > D; > therefore > D is the least that > A, > B, > C measure.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, let > C not measure > D, and let > E, the least number measured by > C, > D, be taken. [elem.7.34]",
+                "refs": [
+                    "elem.7.34"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Since > A, > B measure > D, and > D measures > E, therefore also > A, > B measure > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > C also measures > E; therefore also > A, > B, > C measure > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the least that they measure.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, > A, > B, > C will measure some number which is less than > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let them measure > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > A, > B, > C measure > F, therefore also > A, > B measure > F; therefore the least number measured by > A, > B will also measure > F. [elem.7.35]",
+                "refs": [
+                    "elem.7.35"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > D is the least number measured by > A, > B; therefore > D measures > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > C also measures > F; therefore > D, > C measure > F, so that the least number measured by > D, > C will also measure > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > E is the least number measured by > C, > D; therefore > E measures > F, the greater the less: which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A, > B, > C will not measure any number which is less than > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > E is the least that is measured by > A, > B, > C. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.37": {
+        "id": "elem.7.37",
+        "n": 37,
+        "type": "proposition",
+        "enunciation": "> If a number be measured by any number, the number which is measured will have a part called by the same name as the measuring number.",
+        "proof": [
+            {
+                "text": "For let the number > A be measured by any number > B; I say that > A has a part called by the same name as > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, as many times as > B measures > A, so many units let there be in > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > B measures > A according to the units in > C, and the unit > D also measures the number > C according to the units in it, > D measures the number > C the same number of times as > B measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, the unit > D measures the number > B the same number of times as > C measures > A; [elem.7.15] therefore, whatever part the unit > D is of the number > B, the same part is > C of > A also.",
+                "refs": [
+                    "elem.7.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But the unit > D is a part of the number > B called by the same name as it; therefore > C is also a part of > A called by the same name as > B, so that > A has a part > C which is called by the same name as > B. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.38": {
+        "id": "elem.7.38",
+        "n": 38,
+        "type": "proposition",
+        "enunciation": "> If a number have any part whatever, it will be measured by a number called by the same name as the part.",
+        "proof": [
+            {
+                "text": "For let the number > A have any part whatever, > B, and let > C be a number called by the same name as the part > B; I say that > C measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > B is a part of > A called by the same name as > C, and the unit > D is also a part of > C called by the same name as it, therefore, whatever part the unit > D is of the number > C, the same part is > B of > A also; therefore the unit > D measures the number > C the same number of times that > B measures > A.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, alternately, the unit > D measures the number > B the same number of times that > C measures > A. [elem.7.15]",
+                "refs": [
+                    "elem.7.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > C measures > A. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    },
+    "elem.7.39": {
+        "id": "elem.7.39",
+        "n": 39,
+        "type": "proposition",
+        "enunciation": "> To find the number which is the least that will have given parts.",
+        "proof": [
+            {
+                "text": "Let > A, > B, > C be the given parts; thus it is required to find the number which is the least that will have the parts > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let > D, > E, > F be numbers called by the same name as the parts > A, > B, > C, and let > G, the least number measured by > D, > E, > F, be taken. [elem.7.36]",
+                "refs": [
+                    "elem.7.36"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > G has parts called by the same name as > D, > E, > F. [elem.7.37]",
+                "refs": [
+                    "elem.7.37"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > A, > B, > C are parts called by the same name as > D, > E, > F; therefore > G has the parts > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say next that it is also the least number that has.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, if not, there will be some number less than > G which will have the parts > A, > B, > C.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Let it be > H.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since > H has the parts > A, > B, > C, therefore > H will be measured by numbers called by the same name as the parts > A, > B, > C. [elem.7.38]",
+                "refs": [
+                    "elem.7.38"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > D, > E, > F are numbers called by the same name as the parts > A, > B, > C; therefore > H is measured by > D, > E, > F.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And it is less than > G : which is impossible.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore there will be no number less than > G that will have the parts > A, > B, > C. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

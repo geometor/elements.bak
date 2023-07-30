@@ -1,0 +1,147 @@
+{
+    "elem.6.8": {
+        "id": "elem.6.8",
+        "n": 8,
+        "type": "proposition",
+        "enunciation": "`If in a right-angled triangle a perpendicular be drawn from the right angle to the base`, `the triangles adjoining the perpendicular are similar both to the whole and to one another`.",
+        "proof": [
+            {
+                "text": "Let `ABC` be a right-angled triangle having the angle `BAC` right, and let `AD` be drawn from `A` perpendicular to `BC`; I say that each of the triangles `ABD`, `ADC` is similar to the whole `ABC` and, further, they are similar to one another.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "BAC",
+                    "AD",
+                    "A",
+                    "BC",
+                    "ABD",
+                    "ADC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "For, since the angle `BAC` is equal to the angle `ADB`, for each is right, and the angle at `B` is common to the two triangles `ABC` and `ABD`, therefore the remaining angle `ACB` is equal to the remaining angle `BAD`; [elem.1.32]  therefore the triangle `ABC` is equiangular with the triangle `ABD`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BAC",
+                    "ADB",
+                    "B",
+                    "ABC",
+                    "ABD",
+                    "ACB",
+                    "BAD",
+                    "ABC",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "Therefore, as `BC` which subtends the right angle in the triangle `ABC` is to `BA` which subtends the right angle in the triangle `ABD`, so is `AB` itself which subtends the angle at `C` in the triangle `ABC` to `BD` which subtends the equal angle `BAD` in the triangle `ABD`, and so also is `AC` to `AD` which subtends the angle at `B` common to the two triangles. [elem.6.4]",
+                "refs": [
+                    "elem.6.4"
+                ],
+                "emphs": [
+                    "BC",
+                    "ABC",
+                    "BA",
+                    "ABD",
+                    "AB",
+                    "C",
+                    "ABC",
+                    "BD",
+                    "BAD",
+                    "ABD",
+                    "AC",
+                    "AD",
+                    "B"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is both equiangular to the triangle `ABD` and has the sides about the equal angles proportional.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "Therefore the triangle `ABC` is similar to the triangle `ABD`. [elem.6.def.1]",
+                "refs": [
+                    "elem.6.def.1"
+                ],
+                "emphs": [
+                    "ABC",
+                    "ABD"
+                ]
+            },
+            {
+                "text": "Similarly we can prove that the triangle `ABC` is also similar to the triangle `ADC`; therefore each of the triangles `ABD`, `ADC` is similar to the whole `ABC`.",
+                "refs": [],
+                "emphs": [
+                    "ABC",
+                    "ADC",
+                    "ABD",
+                    "ADC",
+                    "ABC"
+                ]
+            },
+            {
+                "text": "I say next that the triangles `ABD`, `ADC` are also similar to one another.",
+                "refs": [],
+                "emphs": [
+                    "ABD",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "For, since the right angle `BDA` is equal to the right angle `ADC`, and moreover the angle `BAD` was also proved equal to the angle at `C`, therefore the remaining angle at `B` is also equal to the remaining angle `DAC`; [elem.1.32] therefore the triangle `ABD` is equiangular with the triangle `ADC`.",
+                "refs": [
+                    "elem.1.32"
+                ],
+                "emphs": [
+                    "BDA",
+                    "ADC",
+                    "BAD",
+                    "C",
+                    "B",
+                    "DAC",
+                    "ABD",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "Therefore, as `BD` which subtends the angle `BAD` in the triangle `ABD` is to `DA` which subtends the angle at `C` in the triangle `ADC` equal to the angle `BAD`, so is `AD` itself which subtends the angle at `B` in the triangle `ABD` to `DC` which subtends the angle `DAC` in the triangle `ADC` equal to the angle at `B`, and so also is `BA` to `AC`, these sides subtending the right angles; [elem.6.4] therefore the triangle `ABD` is similar to the triangle `ADC`. [elem.6.def.1]",
+                "refs": [
+                    "elem.6.4",
+                    "elem.6.def.1"
+                ],
+                "emphs": [
+                    "BD",
+                    "BAD",
+                    "ABD",
+                    "DA",
+                    "C",
+                    "ADC",
+                    "BAD",
+                    "AD",
+                    "B",
+                    "ABD",
+                    "DC",
+                    "DAC",
+                    "ADC",
+                    "B",
+                    "BA",
+                    "AC",
+                    "ABD",
+                    "ADC"
+                ]
+            },
+            {
+                "text": "Therefore etc.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

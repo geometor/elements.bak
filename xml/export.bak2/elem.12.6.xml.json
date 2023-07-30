@@ -1,0 +1,91 @@
+{
+    "elem.12.6": {
+        "id": "elem.12.6",
+        "n": 6,
+        "type": "proposition",
+        "enunciation": "> Pyramids which are of the same height and have polygonal bases are to one another as the bases.",
+        "proof": [
+            {
+                "text": "Let there be pyramids of the same height of which the polygons > ABCDE, > FGHKL are the bases and the points > M, > N the vertices; I say that, as the base > ABCDE is to the base > FGHKL, so is the pyramid > ABCDEM to the pyramid > FGHKLN.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > AC, > AD, > FH, > FK be joined.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > ABCM, > ACDM are two pyramids which have triangular bases and equal height, they are to one another as the bases; [elem.12.5] therefore, as the base > ABC is to the base > ACD, so is the pyramid > ABCM to the pyramid > ACDM.",
+                "refs": [
+                    "elem.12.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And, , as the base > ABCD is to the base > ACD, so is the pyramid > ABCDM to the pyramid > ACDM. [elem.5.18]",
+                "refs": [
+                    "elem.5.18"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But also, as the base > ACD is to the base > ADE, so is the pyramid > ACDM to the pyramid > ADEM. [elem.12.5]",
+                "refs": [
+                    "elem.12.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore, , as the base > ABCD is to the base > ADE, so is the pyramid > ABCDM to the pyramid > ADEM. [elem.5.22]",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And again , as the base > ABCDE is to the base > ADE, so is the pyramid > ABCDEM to the pyramid > ADEM. [elem.5.18]",
+                "refs": [
+                    "elem.5.18"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Similarly also it can be proved that, as the base > FGHKL is to the base > FGH, so is the pyramid > FGHKLN to the pyramid > FGHN.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since > ADEM, > FGHN are two pyramids which have triangular bases and equal height, therefore, as the base > ADE is to the base > FGH, so is the pyramid > ADEM to the pyramid > FGHN. [elem.12.5]",
+                "refs": [
+                    "elem.12.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But, as the base > ADE is to the base > ABCDE, so was the pyramid > ADEM to the pyramid > ABCDEM.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also, , as the base > ABCDE is to the base > FGH, so is the pyramid > ABCDEM to the pyramid > FGHN. [elem.5.22]",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But further, as the base > FGH is to the base > FGHKL, so also was the pyramid > FGHN to the pyramid > FGHKLN.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore also, > ex aequali, as the base > ABCDE is to the base > FGHKL, so is the pyramid > ABCDEM to the pyramid > FGHKLN. [elem.5.22] Q. E. D.",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": []
+            }
+        ]
+    }
+}

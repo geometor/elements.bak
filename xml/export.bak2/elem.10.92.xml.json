@@ -1,0 +1,155 @@
+{
+    "elem.10.92": {
+        "id": "elem.10.92",
+        "n": 92,
+        "type": "propositions 85\u2014115",
+        "enunciation": "> If an area be contained by a rational straight line and a second apotome, the \n of the area is a first apotome of a medial straight line.",
+        "proof": [
+            {
+                "text": "For let the area > AB be contained by the rational straight line > AC and the second apotome > AD; I say that the \n of the area > AB is a first apotome of a medial straight line.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For let > DG be the annex to > AD; therefore > AG, > GD are rational straight lines commensurable in square only, [elem.10.73] and the annex > DG is commensurable with the rational straight line > AC set out, while the square on the whole > AG is greater than the square on the annex > GD by the square on a straight line commensurable in length with > AG. [elem.10.def.3.2]",
+                "refs": [
+                    "elem.10.73",
+                    "elem.10.def.3.2"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Since then the square on > AG is greater than the square on > GD by the square on a straight line commensurable with > AG, therefore, if there be applied to > AG a parallelogram equal to the fourth part of the square on > GD and deficient by a square figure, it divides it into commensurable parts. [elem.10.17]",
+                "refs": [
+                    "elem.10.17"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let then > DG be bisected at > E, let there be applied to > AG a parallelogram equal to the square on > EG and deficient by a square figure, and let it be the rectangle > AF, > FG; therefore > AF is commensurable in length with > FG.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > AG is also commensurable in length with each of the straight lines > AF, > FG. [elem.10.15]",
+                "refs": [
+                    "elem.10.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > AG is rational and incommensurable in length with > AC; therefore each of the straight lines > AF, > FG is also rational and incommensurable in length with > AC; [elem.10.13] therefore each of the rectangles > AI, > FK is medial. [elem.10.21]",
+                "refs": [
+                    "elem.10.13",
+                    "elem.10.21"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > DE is commensurable with > EG, therefore > DG is also commensurable with each of the straight lines > DE, > EG. [elem.10.15]",
+                "refs": [
+                    "elem.10.15"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > DG is commensurable in length with > AC.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore each of the rectangles > DH, > EK is rational. [elem.10.19]",
+                "refs": [
+                    "elem.10.19"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let then the square > LM be constructed equal to > AI, and let there be subtracted > NO equal to > FK and being about the same angle with > LM, namely the angle > LPM; therefore the squares > LM, > NO are about the same diameter. [elem.6.26]",
+                "refs": [
+                    "elem.6.26"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let > PR be their diameter, and let the figure be drawn.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then > AI, > FK are medial and are equal to the squares on > LP, > PN, the squares on > LP, > PN are also medial; therefore > LP, > PN are also medial straight lines commensurable in square only.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, since the rectangle > AF, > FG is equal to the square on > EG, therefore, as > AF is to > EG, so is > EG to > FG, [elem.6.17] while, as > AF is to > EG, so is > AI to > EK, and, as > EG is to > FG, so is > EK to > FK; [elem.6.1] therefore > EK is a mean proportional between > AI, > FK. [elem.5.11]",
+                "refs": [
+                    "elem.6.17",
+                    "elem.6.1",
+                    "elem.5.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But > MN is also a mean proportional between the squares > LM, > NO, and > AI is equal to > LM, and > FK to > NO; therefore > MN is also equal to > EK.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > DH is equal to > EK, and > LO equal to > MN; therefore the whole > DK is equal to the gnomon > UVW and > NO.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Since then the whole > AK is equal to > LM, > NO, and, in these, > DK is equal to the gnomon > UVW and > NO, therefore the remainder > AB is equal to > TS.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > TS is the square on > LN; therefore the square on > LN is equal to the area > AB; therefore > LN is the \n of the area > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "I say that > LN is a first apotome of a medial straight line.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > EK is rational and is equal to > LO, therefore > LO, that is, the rectangle > LP, > PN, is rational.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But > NO was proved medial; therefore > LO is incommensurable with > NO.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "But, as > LO is to > NO, so is > LP to > PN; [elem.6.1] therefore > LP, > PN are incommensurable in length. [elem.10.11]",
+                "refs": [
+                    "elem.6.1",
+                    "elem.10.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > LP, > PN are medial straight lines commensurable in square only which contain a rational rectangle; therefore > LN is a first apotome of a medial straight line. [elem.10.74]",
+                "refs": [
+                    "elem.10.74"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "And it is the \n of the area > AB.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Therefore the \n of the area > AB is a first apotome of a medial straight line. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

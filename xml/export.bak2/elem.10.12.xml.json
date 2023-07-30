@@ -1,0 +1,79 @@
+{
+    "elem.10.12": {
+        "id": "elem.10.12",
+        "n": 12,
+        "type": "propositions i\u201447",
+        "enunciation": "> Magnitudes commensurable with the same magnitude are commensurable with one another also.",
+        "proof": [
+            {
+                "text": "For let each of the magnitudes > A, > B be commensurable with > C; I say that > A is also commensurable with > B.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "For, since > A is commensurable with > C, therefore > A has to > C the ratio which a number has to a number. [elem.10.5]",
+                "refs": [
+                    "elem.10.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let it have the ratio which > D has to > E.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "Again, since > C is commensurable with > B, therefore > C has to > B the ratio which a number has to a number. [elem.10.5]",
+                "refs": [
+                    "elem.10.5"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Let it have the ratio which > F has to > G.",
+                "refs": [],
+                "emphs": []
+            },
+            {
+                "text": "And, given any number of ratios we please, namely the ratio which > D has to > E and that which > F has to > G, let the numbers > H, > K, > L be taken continuously in the given ratios; [cf. elem.8.4] so that, as > D is to > E, so is > H to > K, > and, as > F is to > G, so is > K to > L.",
+                "refs": [
+                    "elem.8.4"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Since, then, as > A is to > C, so is > D to > E, while, as > D is to > E, so is > H to > K, therefore also, as > A is to > C, so is > H to > K. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Again, since, as > C is to > B, so is > F to > G, while, as > F is to > G, so is > K to > L, therefore also, as > C is to > B, so is > K to > L. [elem.5.11]",
+                "refs": [
+                    "elem.5.11"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "But also, as > A is to > C, so is > H to > K; therefore, , as > A is to > B, so is > H to > L. [elem.5.22]",
+                "refs": [
+                    "elem.5.22"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore > A has to > B the ratio which a number has to a number; therefore > A is commensurable with > B. [elem.10.6]",
+                "refs": [
+                    "elem.10.6"
+                ],
+                "emphs": []
+            },
+            {
+                "text": "Therefore etc. Q. E. D.",
+                "refs": [],
+                "emphs": []
+            }
+        ]
+    }
+}

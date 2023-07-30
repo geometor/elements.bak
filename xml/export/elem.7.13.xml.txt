@@ -1,8 +1,0 @@
-Enunciation:
-> If four numbers be proportional, they will also be proportional alternately.
-
-Proof:
-Let the four numbers > A, > B, > C, > D be proportional, so that, > as > A is to > B, so is > C to > D; I say that they will also be proportional alternately, so that, > as > A is to > C, so will > B be to > D.
-For since, as > A is to > B, so is > C to > D, therefore, whatever part or parts > A is of > B, the same part or the same parts is > C of > D also. [elem.7.def.20]
-Therefore, alternately, whatever part or parts > A is of > C, the same part or the same parts is > B of > D also. [elem.7.10]
-Therefore, as > A is to > C, so is > B to > D. [elem.7.def.20] Q. E. D.
