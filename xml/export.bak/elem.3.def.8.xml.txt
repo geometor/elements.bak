@@ -1,4 +1,0 @@
-Enunciation:
-An  is the angle which, when a point is taken on the circumference of the segment and straight lines are joined from it to the extremities of the straight line which is the , is contained by the straight lines so joined.
-
-Proof:

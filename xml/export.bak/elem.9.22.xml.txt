@@ -1,8 +1,0 @@
-Enunciation:
-
-
-Proof:
-For let as many odd numbers as we please, , , , , even in multitude, be added together; I say that the whole  is even.
-For, since each of the numbers , , ,  is odd, if an unit be subtracted from each, each of the remainders will be even; [elem.7.def.7] so that the sum of them will be even. [elem.9.21]
-But the multitude of the units is also even.
-Therefore the whole  is also even. [elem.9.21] Q. E. D.

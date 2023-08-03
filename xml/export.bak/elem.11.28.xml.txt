@@ -1,7 +1,0 @@
-Enunciation:
-,
-
-Proof:
-For let the parallelepipedal solid  be cut by the plane  through the diagonals ,  of opposite planes; I say that the solid  will be bisected by the plane .
-For, since the triangle  is equal to the triangle , [elem.1.34] and  to , while the parallelogram  is also equal to the parallelogram , for they are opposite, and  to , therefore the prism contained by the two triangles ,  and the three parallelograms , ,  is also equal to the prism contained by the two triangles ,  and the three parallelograms , , ; for they are contained by planes equal both in multitude and in magnitude. [elem.11.def.10]
-Hence the whole solid  is bisected by the plane . Q. E. D.

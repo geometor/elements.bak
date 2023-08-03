@@ -1,5 +1,0 @@
-Enunciation:
-A  is the inclination constituted by more than two lines which meet one another and are not in the same surface, towards all the lines.
-
-Proof:
-Otherwise: A  is that which is contained by more than two plane angles which are not in the same plane and are constructed to one point.

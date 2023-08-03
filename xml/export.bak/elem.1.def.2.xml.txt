@@ -1,4 +1,0 @@
-Enunciation:
-A  is breadthless length.
-
-Proof:

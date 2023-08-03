@@ -1,4 +1,0 @@
-Enunciation:
-A  is a solid figure, contained by planes, which is constructed from one plane to one point.
-
-Proof:

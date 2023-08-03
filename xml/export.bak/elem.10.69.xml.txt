@@ -1,9 +1,0 @@
-Enunciation:
-.
-
-Proof:
-Let  be the side of a rational plus a medial area, and let  be commensurable with ; it is to be proved that  is also the side of a rational plus a medial area.
-Let  be divided into its straight lines at ; therefore ,  are straight lines incommensurable in square which make the sum of the squares on them medial, but the rectangle contained by them rational. [elem.10.40]
-Let the same construction be made as before.
-We can then prove similarly that ,  are incommensurable in square, and the sum of the squares on ,  is commensurable with the sum of the squares on , , and the rectangle ,  with the rectangle , ; so that the sum of the squares on ,  is also medial, and the rectangle ,  rational.
-Therefore  is the side of a rational plus a medial area. Q. E. D.

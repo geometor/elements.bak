@@ -1,7 +1,0 @@
-Enunciation:
-
-
-Proof:
-Let , , ,  be four numbers in continued proportion, and let  be cube; I say that  is also cube.
-For, since between ,  there are two mean proportional numbers , , therefore ,  are similar solid numbers. [elem.8.21]
-But  is cube; therefore  is also cube. Q. E. D.

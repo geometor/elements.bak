@@ -1,8 +1,0 @@
-Enunciation:
-.
-
-Proof:
-Let ,  be incommensurable magnitudes; I say that  has not to  the ratio which a number has to a number.
-For, if  has to  the ratio which a number has to a number,  will be commensurable with . [elem.10.6]
-But it is not; therefore  has not to  the ratio which a number has to a number.
-Therefore etc.

@@ -1,4 +1,0 @@
-Enunciation:
-A straight line is said to be  when its extremities are on the circumference of the circle.
-
-Proof:

@@ -1,9 +1,0 @@
-Enunciation:
-
-
-Proof:
-For let the odd number  by multiplying the even number  make ; I say that  is even.
-For, since  by multiplying  has made , therefore  is made up of as many numbers equal to  as there are units in . [elem.7.def.15]
-And  is even; therefore  is made up of even numbers.
-But, if as many even numbers as we please be added together, the whole is even. [elem.9.21]
-Therefore  is even. Q. E. D.

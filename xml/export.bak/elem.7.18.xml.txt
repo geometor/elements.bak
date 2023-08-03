@@ -1,8 +1,0 @@
-Enunciation:
-
-
-Proof:
-For let two numbers ,  by multiplying any number  make , ; I say that, as  is to , so is  to .
-For, since  by multiplying  has made , therefore also  by multiplying  has made . [elem.7.16] For the same reason also  by multiplying  has made .
-Therefore the number  by multiplying the two numbers ,  has made , .
-Therefore, as  is to , so is  to . [elem.7.17]

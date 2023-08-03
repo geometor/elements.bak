@@ -1,9 +1,0 @@
-Enunciation:
-
-
-Proof:
-For let the two numbers ,  measure any number , and let  be the least that they measure; I say that  also measures .
-For, if  does not measure , let , measuring , leave  less than itself.
-Now, since ,  measure , and  measures , therefore ,  will also measure .
-But they also measure the whole ; therefore they will also measure the remainder  which is less than : which is impossible.
-Therefore  cannot fail to measure ; therefore it measures it. Q. E. D.

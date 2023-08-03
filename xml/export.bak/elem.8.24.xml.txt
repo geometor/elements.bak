@@ -1,9 +1,0 @@
-Enunciation:
-
-
-Proof:
-For let the two numbers ,  have to one another the ratio which the square number  has to the square number , and let  be square; I say that  is also square.
-For, since ,  are square, ,  are similar plane numbers.
-Therefore one mean proportional number falls between , . [elem.8.18]
-And, as  is to , so is  to ; therefore one mean proportional number falls between ,  also. [elem.8.8]
-And  is square; therefore  is also square. [elem.8.22] Q. E. D.

@@ -1,4 +1,0 @@
-Enunciation:
-A proportion in three terms is the least possible.
-
-Proof:

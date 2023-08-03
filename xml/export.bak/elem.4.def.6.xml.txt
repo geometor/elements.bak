@@ -1,4 +1,0 @@
-Enunciation:
-A circle is said to be  when the circumference of the circle passes through each angle of the figure about which it is circumscribed.
-
-Proof:

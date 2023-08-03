@@ -1,4 +1,0 @@
-Enunciation:
-A  is a sort of relation in respect of size between two magnitudes of the same kind.
-
-Proof:

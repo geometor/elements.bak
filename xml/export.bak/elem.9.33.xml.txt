@@ -1,9 +1,0 @@
-Enunciation:
-
-
-Proof:
-For let the number  have its half odd; I say that  is even-times odd only.
-Now that it is even-times odd is manifest; for the half of it, being odd, measures it an even number of times. [elem.7.def.9]
-I say next that it is also even-times odd only.
-For, if  is even-times even also, it will be measured by an even number according to an even number; [elem.7.def.8] so that the half of it will also be measured by an even number though it is odd: which is absurd.
-Therefore  is even-times odd only. Q. E. D.

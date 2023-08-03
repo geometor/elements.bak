@@ -1,8 +1,0 @@
-Enunciation:
-Given two unequal straight lines, to cut off from the greater a straight line equal to the less.
-
-Proof:
-Let `AB`, `C` be the-two given unequal straight lines, and let `AB` be the greater of them.
-Thus it is required to cut off from `AB` the greater a straight line equal to `C` the less.
-At the point `A` let `AD` be placed equal to the straight line `C`; [elem.1.2] and with centre `A` and distance `AD` let the circle `DEF` be described. [elem.1.post.3]
-Therefore, given the two straight lines `AB`, `C`, from `AB` the greater `AE` has been cut off equal to `C` the less.

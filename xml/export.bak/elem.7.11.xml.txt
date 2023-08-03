@@ -1,8 +1,0 @@
-Enunciation:
-
-
-Proof:
-As the whole  is to the whole , so let  subtracted be to  subtracted; I say that the remainder  is also to the remainder  as the whole  to the whole .
-Since, as  is to , so is  to , whatever part or parts  is of , the same part or the same parts is  of  also; [elem.7.def.20]
-Therefore also the remainder  is the same part or parts of  that  is of . [elem.7.7 elem.7.8]
-Therefore, as  is to , so is  to . [elem.7.def.20] Q. E. D.

@@ -1,4 +1,0 @@
-Enunciation:
-A  is a surface which lies evenly with the straight lines on itself.
-
-Proof:

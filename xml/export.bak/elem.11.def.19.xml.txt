@@ -1,4 +1,0 @@
-Enunciation:
-The  is the straight line which remains fixed and about which the triangle is turned.
-
-Proof:

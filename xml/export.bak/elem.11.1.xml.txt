@@ -1,8 +1,0 @@
-Enunciation:
-
-
-Proof:
-For, if possible, let a part  of the straight line  be in the plane of reference, and a part  in a plane more elevated.
-There will then be in the plane of reference some straight line continuous with  in a straight line.
-Let it be ; therefore  is a common segment of the two straight lines , : which is impossible, inasmuch as, if we describe a circle with centre  and distance , the diameters will cut off unequal circumferences of the circle.
-Therefore a part of a straight line cannot be in the plane of reference, and a part in a plane more elevated. Q. E. D.

@@ -1,9 +1,0 @@
-Enunciation:
-`Magnitudes which have the same ratio to the same are equal to one another`; `and magnitudes to which the same has the same ratio are equal`.
-
-Proof:
-For let each of the magnitudes `A`, `B` have the same ratio to `C`; I say that `A` is equal to `B`.
-For, otherwise, each of the magnitudes `A`, `B` would not have had the same ratio to `C`; [elem.5.8] but it has;
-Again, let `C` have the same ratio to each of the magnitudes `A`, `B`; I say that `A` is equal to `B`.
-For, otherwise, `C` would not have had the same ratio to each of the magnitudes `A`, `B`; [elem.5.8] but it has;
-Therefore etc. Q. E. D.
